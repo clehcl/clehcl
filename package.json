@@ -1,0 +1,11 @@
+{
+  "name": "sikjaejae-clipping",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "F&B·식자재 시장 뉴스 클리핑 보드",
+  "scripts": {
+    "collect": "node collector/fetch.mjs",
+    "serve": "python3 -m http.server 8080"
+  }
+}
