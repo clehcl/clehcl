@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:22:55.639Z",
+  "generatedAt": "2026-08-06T23:23:46.488Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,9 +19,24 @@
       "total": 25,
       "items": [
         {
+          "title": "가맹점주 10% 뭉치면 \"본사는 협의해라\"…프랜차이즈업계, 대표성 결여 등 \"부작용 우려\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRGN1emZhTnNYUklMT3JMQXdMMWlSSEc1X2F0WXpoMWZiOWlQVDIxWm9IZF81cE9oTC1zTjAxM0pWTnRJRmJXT2pEOGpjX1pDZ1R1YWRzc1RNVklUN21yWGp6RVBvWGc?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-06T23:00:04.000Z",
+          "tags": [
+            "프랜차이즈",
+            "가맹"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "버거·커피·치킨까지 줄줄이 매물…외식 프랜차이즈 M&A 활기",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UYlBTSTVVQVRnVXZ4cEk5QTJVSERNelQweDM3dTVqMWZOMnFLWmpkR2doZ0ZIUm1KWU5kemN2VXJKZnlQV00zbEtGdHNMLWREbXE5YVNrQmnSAVhBVV95cUxOVGJQU0k1VUFUZ1V2eHBJOUEyVUhETXpUMHgzN3U1ajFmTjJxS1pqZEdnaGdGSFJtSllOZHpjdlVySmZ5UFdNM2xLRnRzTC1kRG1xOWFTa0Jp?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91UGdUbEZzeTM0c2lTRjM1MzFMSnB6al9fUThfMHRZSE5aLXdSY2JHTFA2TllkMmM4anlJX2ZCZ1lHYkU5allIWklEQ3BycTdRUWxqcDlZZ0RXQdIBWEFVX3lxTE5UYlBTSTVVQVRnVXZ4cEk5QTJVSERNelQweDM3dTVqMWZOMnFLWmpkR2doZ0ZIUm1KWU5kemN2VXJKZnlQV00zbEtGdHNMLWREbXE5YVNrQmk?oc=5",
           "source": "아주경제",
           "sourceInitial": "아주",
           "sourceColor": "#1a4d8f",
@@ -31,7 +46,22 @@
             "외식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "‘1세대 외식 프랜차이즈’ 놀부, 기업회생 신청",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIRkljRXZaNEpZWjlvLW4taWwxaWxqS1RoRDhPdW4tb3F4NUpSQTdWSkxGNVMxc2RwaERueml3MDc4ZG1KRHNnaTVzajRPdDdWZkR30gFTQVVfeXFMUEhGSWNFdlo0SllaOW8tbi1pbDFpbGpLVGhEOE91bi1vcXg1SlJBN1ZKTEY1UzFzZHBoRG56aXcwNzhkbUpEc2dpNXNqNE90N1ZmRHc?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-06T07:23:03.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "골목 사장님 50명, 프랜차이즈 가맹본부 CEO로 첫발… 광주대에서 수료식 열려",
@@ -49,28 +79,13 @@
           "feat": false
         },
         {
-          "title": "\"대표 단체만 최대 10곳\"…가맹사업법, 통과에 토종 프랜차이즈 교섭 비상",
+          "title": "뚜레쥬르, 美 테크노믹 프랜차이즈서 154위…1년 새 41계단 '껑충'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRTWI1NG5HTXlIcTJRN3ZfbnpzNXlydFMySG5hUzhubllxMmtWWHNlb3o0M0doMGk3ZnlDa2ZsWkJpdFlSQ2ZlM0J6U1FHN0RNdWVSS3d4WV9pZw?oc=5",
-          "source": "파이낸셜뉴스",
-          "sourceInitial": "파",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-06T06:30:58.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 6일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTNBalJUMVkzeEN6V3BNZ3hPYTlZMVNkNURyYy1ONmtDcXBteGNnMmJpcmRPNWlZZWhOQWR0X0dBVzRIeTRfQ083azFIVG1oOXNvUTFyTFdscmdOMFVYODNsOFJDb0laRVN1UG9TUnkzTVN3cWgtTDd4Z3lPRHhIZkVGRXAtdkdMUFBkX1NR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-06T12:40:37.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHRkNNQWhtTFBhczRsaDJvUUVjRk9fWF9vUWNDZzkzbi1zMWp0NEI1OU1CNXh0ZkNVSkp1SmlHMFZnR1hTUFlyNV9wTnpvcGsyNUVCQnNpYmVHclpZcVlHMzVuU0UyUQ?oc=5",
+          "source": "더구루",
+          "sourceInitial": "더구",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-06T23:03:26.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -78,57 +93,43 @@
           "feat": false
         },
         {
-          "title": "1세대 외식 브랜드 '놀부', 법원에 회생절차 요청",
+          "title": "'1억 인구' 잡아라…K-프랜차이즈, 필리핀 진출 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96UE1WZS1ia1lDRE93TUdHNUtVVG9kVHFUcm5xMk83U2k4bHdMYTRmT0U0YVpCbG9jYmhtUEdoa3ZBd2VCaEZ6WW9SQVU5eWRWZjNRTURhWTlRVy1mejJLV2NlV1FYVmR4TkE?oc=5",
-          "source": "서울파이낸스",
-          "sourceInitial": "서울",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOXzRPWGxXSFhIUGJ4eHQ1UHRuYlJ1WXNaODJjMDlMM253S3hrTE0yaVVrTk53VmE4eU8yTFFfZ3hqTEY1X1BZWjNneEY0VU1JaVZleV9sV3pBWTFSbFBEMXBxTEpUaTNfZHc?oc=5",
+          "source": "cstimes.com",
+          "sourceInitial": "cs",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-06T22:52:26.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 8월 7일(금) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnUxQUR4T0MtRkJWaFJDVUdaaHlnRnZrM29WQ2xxa0lPMjMtU2otRDI4SG8wSGtIVXJ1Wkp4OGE3cmtwaWlJTDZHbUFRLUFYVThUNkZGeEVleTEyeDl1clJYYVVIZkxSUUM4cXNRa0l3c0xNUWwxTGZZWjk2U0VDbUdyZlZOMXliWmtKZlV3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-06T08:06:59.000Z",
+          "publishedAt": "2026-08-06T21:11:36.000Z",
           "tags": [
-            "외식"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "외식업체 놀부 회생 신청…지난해 영업손실 86억원",
+          "title": "이백장돈가스, 여름 신메뉴 4종 출시…메뉴 경쟁력 강화 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VRHRTN0VRZUpuV3VWbS1qZlF0T0FSWlBXbXYwbElVMDR4NExoNWw5cHppdUlJRkZlVFQ2LVhQLTVFTHYwelhka1h5WURYNDZSUHVMVUpERllCbktsZUY1MnhMWjJIOXpFaGRsaFNrWdIBc0FVX3lxTE9GM2paTXRsTVZFNktnMzN5dndXV01kemI2b1BuQV9yYUpXYzRxX3JuRzJtcGdTbmt5QTQ5WEZoRGo0VU5yc2tUNjVRcE5sMWlFWlpJaXFnQ2tfN09hdWkzVjVkVGNrdmNhQVpaSmt2UmZvWHc?oc=5",
-          "source": "sisajournal.com",
-          "sourceInitial": "si",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjhxSERkRDF2WGlQazdiZ3lqNlNxOXo1MERwUVZOS2tRM05sMjZmSVMxS2hFcl9EbkVpdWVhYVJBTk9hVl9VUHRwS2JaUGQxWXBuVEp5bTd0OWpRMnhCVjB0TGhlNVdlOXFXRnZxQkNrdlNQc3NKUThSQzZZY05Dd20zclNxR2J2REczWER3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-06T08:05:26.000Z",
+          "publishedAt": "2026-08-06T15:12:14.000Z",
           "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "외식업체 놀부, 경영난에 회생 신청…영업손실 15배 급증",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRUtkQTlrT0lqMmtwckcwZEJ0d1paay1yeFEtOElhTnVyVHlhcW84TGhRYWRQd1AyNU9EUGdIcnpLWVhoWDZxMjlxcE83Wm9KVGRfeVhObk1yZEhHVC0wbkNPblpmM1ktOUR4VU9lT3jSAXRBVV95cUxOTzczTVdkLTJBdFU1amUwUHhudl9RbEdoNE9vMnlSRGtsbDN4SDZQQldNc1hqcFJWSEhNWTJiVVFHVDVabWZkYTlVMmxNRnd6ak1XVzJPUEhtQU52alpYaUtrdzZJanFjM3FYaFcxd2lvV1A3OQ?oc=5",
-          "source": "산경투데이",
-          "sourceInitial": "산경",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-06T07:47:58.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "외식업체 놀부 회생 신청…영업손실 1년 새 15배로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14OEcyUGdiZ05HWnFCTG15NmdNWjNyNTJhUEIwOGNVcGNjS3gydVVDU25OUGlXRmY4bWdLT0VlT0tCdXExdFdHbUo4UXFCcFFrYnJXQ2NoR05jcGNrN3pCeVdwV1U0bzg?oc=5",
-          "source": "강원도민일보",
-          "sourceInitial": "강원",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-06T07:32:34.000Z",
-          "tags": [
-            "외식"
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -144,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "가격 인상 한계 다다랐다… AI와 로봇으로 원가 파고 넘는 식품·유통가",
@@ -165,9 +166,9 @@
           "title": "[뉴스워커_IB탈탈털기] CJ제일제당 전분당 3000억 매각…가격 재결정 뒤 EBITDA 300억 유지될까",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iT0VNanp2b29fNVB4aENKLWFEaDlsdXlQcGlFLXNYekdhWDM2cVlKTGdDR0tTdk9kcVk4VjJ5YVMyenlsLUZsWWZZOTRweGtUQUJJbk0yekJfQ0ZMcU9IX2k2LThnaUlYU0xiYUNyRjdMYU3SAXNBVV95cUxOYk9FTWp6dm9vXzVQeGhDSi1hRGg5bHV5UHBpRS1zWHpHYVgzNnFZSkxnQ0dLU3ZPZHFZOFYyeWFTMnp5bC1GbFlmWTk0cHhrVEFCSW5NMnpCX0NGTHFPSF9pNi04Z2lJWFNMYmFDckY3TGFN?oc=5",
-          "source": "뉴스워커",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c15a37",
+          "source": "newsworker.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-06T09:48:28.000Z",
           "tags": [
             "가격"
@@ -185,20 +186,6 @@
           "publishedAt": "2026-08-06T04:14:45.000Z",
           "tags": [
             "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "교통·식품 가격 하락에…베트남 7월 소비자물가 전월비 0.12% 둔화, 전년비 4.45% 상승 [VietNam Insight]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qWjdZRnVUQ2QyY2hVSUQ3cDJ5dXY5QzFDZGJYYTdYbTI4R1J5VmlPXzdJX296cm9sb0hpSEc0dzY1WlI2aHgtUHZqMW9xTG1FTS1WUGh5WktuTUdnUzRlWEhZUFl1NUQwNnFZWTRn0gFyQVVfeXFMTXRSUFYtNF9IUUdBdEdRcFVfdVVCY2lDM1NXSUNsT0N0QmJ6ajhqeTctVjIyZVN5c3lMdXJLVG84QlVINWtLZFJNTk9SREZUVWFvLWlZb21VV0JESm9weS1aUy1pV09QQnJBcFI1SmZDMTl3?oc=5",
-          "source": "citytimes.co.kr",
-          "sourceInitial": "ci",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-05T09:15:28.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -228,13 +215,13 @@
           "feat": false
         },
         {
-          "title": "말복 앞두고 건강식품 사볼까…11번가 슈팅배송 '건강 챙기기' 기획전",
+          "title": "[유통갤러리] 11번가 ‘슈팅배송’, 가성비 ‘건강식품’ 할인 外",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETkdPQ3RyaTNqbEZqZzZKNGlhU3dfLW9OWHNOVGZyQkpRU3lNLUlmZE1MVUxnaHA2aXZqRl92UUZ4OHBmSXBlazNmX1hDXzB5bU1xRGQxM1lYNHpuanE4VdIBeEFVX3lxTE9nQmZjU1pxWFlvOHpmOUE2UmprTEFHVDkxZlhGWW4teGx2SjB3VWVkb2hxNFR2dkppcFJHbTNmQ1o3M2J5R1AwREQtcmJLOGctVUtraW9qdGpZUVI2XzUwMUU5R2M5WUpZcmNkUW93QkJ4SVkzblBfNQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-06T00:14:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zOGVOUHl0akFjVU01ZG0zVERvWnZFekxscldBUzFqV2hmVEwwMjN1cmhyVVVqdVY2R2d4cVBYUEdiUlExRUMweTllOTYtTkR4aGNyWUFHZG0?oc=5",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-06T00:24:20.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -243,10 +230,22 @@
           "title": "'비효율 덜어라' CJ제일제당, 전분당 매각 나선 까닭은",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xWTcyQUVCbkJDRGlYeVVtbmdYY0gxVEpSUkQ0V09HYWVtNVVPa2hDanpGeGxMb3UySWUxSUpmQ0JmaUhuUHBKclpINzJqQTZ5VzJUTk5BUEk5SXdLNHVlVl92aWxzYlZIdnNV?oc=5",
-          "source": "news.bizwatch.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#2f7d4f",
+          "source": "비즈워치",
+          "sourceInitial": "비즈",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-05T22:20:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농산물값 2.2% 내리며 물가 안정 견인…축산물은 상승세 둔화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FQTFNYk1UWUx2akh5dzBzWmZ3c2JYUWhFVU1CaW1NM0d1V3o3NkNJNmZtT1hSblZILWRXblkyZEdRRFBzYThXWWNVejF6SlBqYmdvLXBCbVBmRzJGZThWQUVNOFAyWDVuVzVobGFB0gFuQVVfeXFMT0VBMU1iTVRZTHZqSHl3MHNaZndzYlhRaEVVTUJpbU0zR3VXejc2Q0k2Zm1PWFJuVkgtZFduWTJkR1FEUHNhOFdZY1V6MXpKUGpiZ28tcEJtUGZHMkZlOFZBRU04UDJYNW5XNWhsYUE?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-05T12:07:34.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -262,8 +261,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
+        {
+          "title": "CJ프레시웨이 2분기 매출 9232억 전년比 4.5% ↑…식자재 유통·급식 성장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82NzMyWTN6YkVjUWtKSGVZUTEzZTRULWZYOFJFUWFLQVBsWGtDWTI0UUVtelg0T0xQTDhrNWJHeUxsdGpqNTM0YnFnTV9STkMtMnRiTVRlVUhWZXhGbU5QT2dlSER2OV9ydVNaTFFfOGlucjjSAXNBVV95cUxPNjczMlkzemJFY1FrSkhlWVExM2U0VC1mWDhSRVFhS0FQbFhrQ1kyNFFFbXpYNE9MUEw4azViR3lMbHRqajUzNGJxZ01fUk5DLTJ0Yk1UZVVIVmV4Rm1OUE9nZUhEdjlfcnVTWkxRXzhpbnI4?oc=5",
+          "source": "뉴스퀘스트",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-06T12:47:48.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "인천 부평 삼산동 식자재 유통업체서 불…21분 만에 진화",
           "summary": "",
@@ -276,7 +289,7 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "CJ프레시웨이, 2분기 영업익 14.2% ↓…\"유통·급식 경쟁력 강화\"(상보)",
@@ -321,9 +334,9 @@
         {
           "title": "온라인 키우고 급식 넓힌 CJ프레시웨이…2분기 매출 4.5%↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FdUl3X1RCV2JHdGVaX0lEUU1TdG5hdW1LWUpqV2NhQzBxNTJyS3BOQmpzNkdnbUh2cE91NDM3ZkpjUjhZTkhwc09WaW0tQjVFZk5yNjBYeUxtRl9kbENoTnJpVk40QUYycldleDdvUmItUQ?oc=5",
-          "source": "newsprime.co.kr",
-          "sourceInitial": "ne",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jbUhtdWdUazBvUmhGcmk4dTA5Zi15SkxOeDZKMkhLc09XaWlxSDNrNFlYYVhkZFpyMmxFOXQzejltb1pCWjNiZXNnampzdHJ4Tjd2RDZKQnhWT3VfTXpYci05QQ?oc=5",
+          "source": "프라임경제",
+          "sourceInitial": "프라",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-06T07:20:55.000Z",
           "tags": [],
@@ -353,7 +366,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "리더경제 【정책 브리핑】 7월 소비자물가 상승세 둔화에도 체감물가는 여전…품목별 가격 흐름이 말하는 경제 신호 2부",
@@ -373,14 +386,29 @@
         {
           "title": "리더경제【정책 브리핑｜2026년 7월 소비자물가1부】 7월 소비자물가 2.8% 상승…물가 안정세 시작됐나, 국민 체감은 아직 ‘진행형’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMmZJTkRPU1JPV282SGZaa0JoLVR4RkVWRXVSamlOLTRiNDhHeXQxUWcxSFJCTWpBWDZUNlBlU1d1VjBoR3JHd3Fyb2gyM1lLaGc?oc=5",
-          "source": "유스연합",
-          "sourceInitial": "유스",
-          "sourceColor": "#333333",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yaTFldnVnM0xfVDNqOHVxRGxfMEd4WEpRMHl3YkwwUk85UnJqUW53VXkwU25ZeUdnbVZzbUdfQ3diYnM?oc=5",
+          "source": "kcemedia.com",
+          "sourceInitial": "kc",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-06T10:44:59.000Z",
           "tags": [
             "물가",
             "정책"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "7월 물가 2%대... 정부 \"석유 최고가격제, 상승률 0.3%p 낮춰\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91YTVGbnNxU1pTYURpMzhDdHg3dVB0Ri1FbXJKZkdEM3hoTmpYTjJmVl9fekY4VzJmU2szaGlDenM2TUticEhBYkJtSTh0enFGOVp3?oc=5",
+          "source": "insight.co.kr",
+          "sourceInitial": "in",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-05T01:21:17.000Z",
+          "tags": [
+            "물가",
+            "정부"
           ],
           "price": null,
           "feat": false
@@ -414,18 +442,6 @@
           "feat": false
         },
         {
-          "title": "[국제] 日 다카이치 내각, 식품 소비세율 2년간 1%로 인하...재정 손실·엔저 우려 확산-Xinhua",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPSTZUUVp3d3Rqd1R5bzE1M1o1MVBYZlotck1NZ2h3eWNZMDk5ZFFLX3plM01oMGlKN1BqRmV2MlJsOWJhNDNpMk5MaTNPOW5iQUdpdzRpMHBjNVlsMkhvT21mTmVtYzVuU3JGVC16VWFXVFl6T3c?oc=5",
-          "source": "신화망",
-          "sourceInitial": "신화",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-06T10:18:16.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "日식품소비세 8%→1% 확정…내년 4월부터 2년간 '첫 감세'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HaWVBb3Uxd0F3RnpZY3l3a2R6VFdjNTN4cUMteGs3d0xRVFdRSkhxcHlGY2dyanZTRlBxSlVYVk1hTzR6SnhvTG5oRWxvZENNRXZN?oc=5",
@@ -433,18 +449,6 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-06T01:38:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'실온 보관' 이라길래 식품 뒀는데 '49도'···요즘 날씨에 베란다, 실온 아닙니다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxZ29TUE02RXpXZjRUOERhc1pxQlVJdzJxZ0tXRDNrWnE3M09ORHVxclBmSXZnZnNVdWl3bEdvcmZncTk4cHAtdjQ4NUpOQXotYkFURE00S1R4ZkJIV3dLMVl2cF9nWGVocEY5RnlB?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-05T01:14:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -472,7 +476,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "\"트렌드 포착부터 신제품 기획까지\" CJ제일제당, 식품 AI 플랫폼 론칭",
@@ -550,9 +554,9 @@
           "title": "AI가 ‘말차 햇반’ 아이디어 냈다…CJ제일제당, 식품 개발 플랫폼 미국 도입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdFVpQ2lraDd4UzBoYUJfckZRbV9Tc1dYSjQ2M1lHWWJPdmR3SkM1bGNKVFZUQ0hyVWdHX2dRdi1SbGpXTXRkcnpmUHRSeF80dDVXQkdR?oc=5",
-          "source": "지디넷코리아",
-          "sourceInitial": "지디",
-          "sourceColor": "#3a6ea5",
+          "source": "zdnet.co.kr",
+          "sourceInitial": "zd",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-06T07:23:38.000Z",
           "tags": [],
           "price": null,
