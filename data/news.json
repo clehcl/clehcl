@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T04:15:32.170Z",
+  "generatedAt": "2026-08-07T08:33:59.895Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 30,
+      "total": 27,
       "items": [
         {
           "title": "가맹점주 10% 뭉치면 \"본사는 협의해라\"…프랜차이즈업계, 대표성 결여 등 \"부작용 우려\"",
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "BBQ, 美 테크노믹 프랜차이즈서 180위…‘Top 200’ 첫 진입",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XckJaYVRPUmJ3Y3N3dVJzWld5eXE2YTVFN3Y1OWpJOW9NOTRHQ25WLXFlTjdDLUItcTB4dGpCalVBT243QlFTaWt2aXdtb1JRZFUtQ0hGbnRESGROQ3FIZHJzTQ?oc=5",
+          "source": "더구루",
+          "sourceInitial": "더구",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-07T04:59:09.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "부산 프랜차이즈 사관학교 11기 개강…12주 실무교육 돌입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00TnJyd211bDE0TmVvUjB2d19GX1FXS3F4TEZMQ0x0aDg3RmMtYjNTdlhURkx6Um5uOV9VdHFkSWhTR2hWTFp2RFk2U1FRZEFoZzRhWHZkMlc3XzNlYWltNmdHdE1PYmpXRWFHUHJOdXQtOFdy?oc=5",
@@ -119,20 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "뚜레쥬르, 美 테크노믹 프랜차이즈서 154위…1년 새 41계단 '껑충'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHRkNNQWhtTFBhczRsaDJvUUVjRk9fWF9vUWNDZzkzbi1zMWp0NEI1OU1CNXh0ZkNVSkp1SmlHMFZnR1hTUFlyNV9wTnpvcGsyNUVCQnNpYmVHclpZcVlHMzVuU0UyUQ?oc=5",
-          "source": "더구루",
-          "sourceInitial": "더구",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-06T23:03:26.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 12,
       "items": [
         {
           "title": "휘발유 및 식품 가격 하락, CPI 하락",
@@ -162,6 +162,34 @@
           "feat": true
         },
         {
+          "title": "식자재 유통기업 '청운농산', B2B 식자재 공급망 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NemdqdlNZNUE0TmVHSVp1aVVCN0pBcmgzcmZvcHQ2Q1pWdThaUktBMnc0TnNHd0p1d2FneldHaXRvWDRTYTg4SFJvRERJT1BSd1ZQNW1QNFV4VWFFbWhwVGtWQzMwT1hpNThkbGlwV2vSAXBBVV95cUxNTXpnanZTWTVBNE5lR0ladWlVQjdKQXJoM3Jmb3B0NkNaVnU4WlJLQTJ3NE5zR3dKdXdhZ3pXR2l0b1g0U2E4OEhSb0RESU9QUndWUDVtUDRVeFVhRW1ocFRrVkMzME9YaTU4ZGxpcFdr?oc=5",
+          "source": "이넷뉴스",
+          "sourceInitial": "이넷",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-07T02:57:14.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-06T15:38:31.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[뉴스워커_IB탈탈털기] CJ제일제당 전분당 3000억 매각…가격 재결정 뒤 EBITDA 300억 유지될까",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iT0VNanp2b29fNVB4aENKLWFEaDlsdXlQcGlFLXNYekdhWDM2cVlKTGdDR0tTdk9kcVk4VjJ5YVMyenlsLUZsWWZZOTRweGtUQUJJbk0yekJfQ0ZMcU9IX2k2LThnaUlYU0xiYUNyRjdMYU3SAXNBVV95cUxOYk9FTWp6dm9vXzVQeGhDSi1hRGg5bHV5UHBpRS1zWHpHYVgzNnFZSkxnQ0dLU3ZPZHFZOFYyeWFTMnp5bC1GbFlmWTk0cHhrVEFCSW5NMnpCX0NGTHFPSF9pNi04Z2lJWFNMYmFDckY3TGFN?oc=5",
@@ -171,6 +199,20 @@
           "publishedAt": "2026-08-06T09:48:28.000Z",
           "tags": [
             "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, 2분기 매출 9232억원…식자재·급식 성장에 온라인 사업 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OM3VpbkZfNmFXLVlwNDNaMlV0d0ZKVklNT0hiTEpqMEhwUDRZMW96b3lKMjV3Z3FXZnlSNTdKSmhXeHJGWnpRZzhwalJFNVpfSTJVYUFqeEQtNHIzQ1FPcWxDWEhHVE56bVE?oc=5",
+          "source": "데일리팝",
+          "sourceInitial": "데일",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-06T08:15:07.000Z",
+          "tags": [
+            "식자재"
           ],
           "price": null,
           "feat": false
@@ -202,49 +244,13 @@
           "feat": false
         },
         {
-          "title": "헤리티지부터 K푸드 체험까지···식품기업 '공간 마케팅' 확대",
+          "title": "소비자물가지수는 0.12% 하락했다.",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByZDJkSURCTUlRWlVXcFdVcmtiNlAxVlV2d0llZ1Q3MFBHbG9mV3d3X1dxbEktcG1kYV9FNGx2V21yRG84Um1YQmhseHJJaWtZRjhHRERqczhyQjBWY2lBeWtwamVXTVBGM2c?oc=5",
-          "source": "서울파이낸스",
-          "sourceInitial": "서울",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xVVdWUDNkbWZwS3ZaZlM5cFdWdVdzc0dJeERtVlViNVo4bDI5Ymp3NzE0WXlHb29rd3RWYXZQWV9KM2d4a0Q4cW94WXNGWjRFSlRKajcwSmxwUXpleXlRN2VZWjk5THc?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-06T05:52:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "말복 앞두고 건강식품 사볼까…11번가 슈팅배송 '건강 챙기기' 기획전",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETkdPQ3RyaTNqbEZqZzZKNGlhU3dfLW9OWHNOVGZyQkpRU3lNLUlmZE1MVUxnaHA2aXZqRl92UUZ4OHBmSXBlazNmX1hDXzB5bU1xRGQxM1lYNHpuanE4VdIBeEFVX3lxTE9nQmZjU1pxWFlvOHpmOUE2UmprTEFHVDkxZlhGWW4teGx2SjB3VWVkb2hxNFR2dkppcFJHbTNmQ1o3M2J5R1AwREQtcmJLOGctVUtraW9qdGpZUVI2XzUwMUU5R2M5WUpZcmNkUW93QkJ4SVkzblBfNQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-06T00:14:54.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'비효율 덜어라' CJ제일제당, 전분당 매각 나선 까닭은",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xWTcyQUVCbkJDRGlYeVVtbmdYY0gxVEpSUkQ0V09HYWVtNVVPa2hDanpGeGxMb3UySWUxSUpmQ0JmaUhuUHBKclpINzJqQTZ5VzJUTk5BUEk5SXdLNHVlVl92aWxzYlZIdnNV?oc=5",
-          "source": "비즈워치",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-05T22:20:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농산물값 2.2% 내리며 물가 안정 견인…축산물은 상승세 둔화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FQTFNYk1UWUx2akh5dzBzWmZ3c2JYUWhFVU1CaW1NM0d1V3o3NkNJNmZtT1hSblZILWRXblkyZEdRRFBzYThXWWNVejF6SlBqYmdvLXBCbVBmRzJGZThWQUVNOFAyWDVuVzVobGFB0gFuQVVfeXFMT0VBMU1iTVRZTHZqSHl3MHNaZndzYlhRaEVVTUJpbU0zR3VXejc2Q0k2Zm1PWFJuVkgtZFduWTJkR1FEUHNhOFdZY1V6MXpKUGpiZ28tcEJtUGZHMkZlOFZBRU04UDJYNW5XNWhsYUE?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-05T12:07:34.000Z",
+          "publishedAt": "2026-08-07T02:28:59.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -260,15 +266,15 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "CJ프레시웨이 2분기 매출 9232억 전년比 4.5% ↑…식자재 유통·급식 성장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82NzMyWTN6YkVjUWtKSGVZUTEzZTRULWZYOFJFUWFLQVBsWGtDWTI0UUVtelg0T0xQTDhrNWJHeUxsdGpqNTM0YnFnTV9STkMtMnRiTVRlVUhWZXhGbU5QT2dlSER2OV9ydVNaTFFfOGlucjjSAXNBVV95cUxPNjczMlkzemJFY1FrSkhlWVExM2U0VC1mWDhSRVFhS0FQbFhrQ1kyNFFFbXpYNE9MUEw4azViR3lMbHRqajUzNGJxZ01fUk5DLTJ0Yk1UZVVIVmV4Rm1OUE9nZUhEdjlfcnVTWkxRXzhpbnI4?oc=5",
-          "source": "뉴스퀘스트",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
+          "source": "newsquest.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-06T12:47:48.000Z",
           "tags": [
             "유통"
@@ -308,9 +314,9 @@
           "title": "충남교육청, 학교급식 납품업체 170명 위생교육…2학기 식중독 차단",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMzBtNmo1LUpydHlpbG91a0p3Y1pUcUxTeS0wTFJoel9lbk5zZGVZNDJKVHlRMFl4SWVsQzFHNjdsUWt6cEM3RkpEMmRFUUhZQUZz?oc=5",
-          "source": "아산데일리",
-          "sourceInitial": "아산",
-          "sourceColor": "#c15a37",
+          "source": "asandaily.kr",
+          "sourceInitial": "as",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-05T11:49:04.000Z",
           "tags": [
             "납품"
@@ -322,9 +328,9 @@
           "title": "CJ프레시웨이, 온라인·급식 호조에 2분기 외형 성장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcV9hSU56ckdwR2ZPT3JXRzNYOVVNYUcxdkUwM0V0dWFHWmZUOERWbTV4a2oySlhOeFZHQk1LdnJtc3JMUmpIdEZDZHJBci1kMEk1VGppTzhLQmtBazdPVzlFai1rYV9xQVBIUw?oc=5",
-          "source": "sportsq.co.kr",
-          "sourceInitial": "sp",
-          "sourceColor": "#1a7a5a",
+          "source": "스포츠Q",
+          "sourceInitial": "스포",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-07T01:35:04.000Z",
           "tags": [],
           "price": null,
@@ -353,6 +359,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "'급식·식자재 호조' CJ프레시웨이, 2분기 영업익 14%↓…\"온라인 투자 영향\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcWkxSlVQN1cya2h6c2t3TjlXcUMwRjdIV2djWFlnU0NWZmh3WTAzYzNUVlVZVjd0NXNoRTd0QTVfX3hsYWF3eFJkbE9ZQlpyUHNLdWRoZEx2UEFxOTF0aUNVZHZPdEhRLVhhNE04YlFmM1JjNjdkV0toaFpSbXNwSHhB?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-08-06T06:16:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -365,7 +383,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "리더경제 【정책 브리핑】 7월 소비자물가 상승세 둔화에도 체감물가는 여전…품목별 가격 흐름이 말하는 경제 신호 2부",
@@ -398,16 +416,26 @@
           "feat": false
         },
         {
-          "title": "7월 소비자 물가 2.8%↑... 배추·오이는 내렸지만 파·달걀은 '여전'",
+          "title": "자비스, 글로벌 식품 소스 브랜드 유럽 생산라인에 X-ray 검사장비 공급",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45elYxWnpEUU5aQ3prOVRaRUZkeHlWRkxfVFJkeml4R3VlU3FReHVfWFNvSU5XR2tESTdRVmh5S1JUbVpVM25sdVJHZ1lSUzFtUzNQVi1fZ1h2Sk5lSjNSV3BHenFwTzZvRHhBakpiOWLSAXBBVV95cUxOOXpWMVp6RFFOWkN6azlUWkVGZHh5VkZMX1RSZHppeEd1ZVNxUXh1X1hTb0lOV0drREk3UVZoeUtSVG1aVTNubHVSR2dZUlMxbVMzUFYtX2dYdkpOZUozUldwR3pxcE82b0R4QWpKYjli?oc=5",
-          "source": "글로벌경제신문",
-          "sourceInitial": "글로",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-05T04:22:54.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PanhTb0M1NWRyV1lOZ3RoZk40dldwblVKNHVnZTFnY2JucFpYaFlNQ3kwVG5kaWVFX0NNV3QzMWpaRFhzSVJyUXZ5RzY0NXM?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-07T07:52:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한국식품안전관리인증원, 마늘전국연합협의회와 MOU 체결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM3RJbmZkX0RMRXJHU1B3d2htNktRLURhLWpKZzJRNzl6N1RGOW53TjJ2NG9EMlVFV0dGeVRWVEpLRTA1d2M4Z2NNSHZLNTI3bE5namxqZDJoOWVLZXVERm5zcTl5OWVzX3Vicw?oc=5",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-07T07:32:05.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -427,9 +455,9 @@
           "title": "남양유업, 분유서 시작한 품질 기준 전 제품으로…식품기술사 8명 배치",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8za3p3N2dIUzdDMC1vNVJsQ0FXV1F2MGh0a0tvWUt2MFZjWTVUX0VLX0VaMDU3aDVsV0UyWENqYjdPV1kxUEhqSVh0Yw?oc=5",
-          "source": "inews24.com",
-          "sourceInitial": "in",
-          "sourceColor": "#333333",
+          "source": "아이뉴스24",
+          "sourceInitial": "아이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-07T00:43:13.000Z",
           "tags": [],
           "price": null,
@@ -458,15 +486,15 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 12,
       "items": [
         {
           "title": "\"트렌드 포착부터 신제품 기획까지\" CJ제일제당, 식품 AI 플랫폼 론칭",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZTXdSZEFrZTlVWGRGRU1XUHFqRHVhUzUxdEpDRTZYT1VBMC1ibnRfVWJUZ3YySFR0UnNSZDBLNzNpWGE1TUw0TFhJOVZtcEVpdGZlTi1LT0hYNTQydFVNUzRKV1V2TDZZQ2RGQUx2dGZCc01VZ3J3aNIBeEFVX3lxTE5ZTXdSZEFrZTlVWGRGRU1XUHFqRHVhUzUxdEpDRTZYT1VBMC1ibnRfVWJUZ3YySFR0UnNSZDBLNzNpWGE1TUw0TFhJOVZtcEVpdGZlTi1LT0hYNTQydFVNUzRKV1V2TDZZQ2RGQUx2dGZCc01VZ3J3aA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
+          "source": "newsis.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-06T00:32:49.000Z",
           "tags": [
             "신제품",
@@ -474,6 +502,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "CJ제일제당도 ‘푸드 AI 360’ 가동…식품업계, AI로 신제품 개발 경쟁",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DT2tIbDd1VndYeFVhRWpCUVN3VWVMb2lPNDNQZzRDb25TbkhUcWJ1MzY1R3E1aC1XWW9vbTFFZXlSa3VSVUNYQU9hczVJYW9WdTVxazRVdHo3NWlZUkRnVV9nQU0tY1lUNlcxVQ?oc=5",
+          "source": "아시아투데이",
+          "sourceInitial": "아시",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-06T05:29:52.000Z",
+          "tags": [
+            "신제품"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "′맛′ 보는 AI…식품업계, 트렌드 예측부터 상품화까지 AI 바람",
@@ -504,6 +546,30 @@
           "feat": false
         },
         {
+          "title": "[굿모닝! 7일 식품업계 소식] 대상·오뚜기·풀무원푸드앤컬처·삼립·CJ프레시웨이·BBQ",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybHpJOXp0QXl5Z2ZESHBQRl9Xc3NDaGxIelFVLV9fakFhV2oxWk9WbW1zWmlyT1UtNENNbm5fQ19QZWgwOG1NWUJpUm1iYXpsS3JQd1pNVHN6QUxqT2xHa2FDekNZVVdlYm5ueQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-07T06:39:53.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[이슈플러스] “말차 햇반도 AI가 찾았다”…식품업계, AX 경쟁 본격화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FN25zLXJpMDBEanpPQUNaVXR5WGpvRjQ2ejZOajh6bUFQRjd2VEtxR0x3YXRBREs5OTFnbV8xeGVKV2RSRWlsR2xuX21pR0RDYTQ3M2hZOGtmYjhzNjRmRkhPeGQ?oc=5",
+          "source": "서울경제TV",
+          "sourceInitial": "서울",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-06T10:10:30.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "AI가 ‘말차 햇반’ 아이디어 냈다…CJ제일제당, 식품 개발 플랫폼 미국 도입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdFVpQ2lraDd4UzBoYUJfckZRbV9Tc1dYSjQ2M1lHWWJPdmR3SkM1bGNKVFZUQ0hyVWdHX2dRdi1SbGpXTXRkcnpmUHRSeF80dDVXQkdR?oc=5",
@@ -523,42 +589,6 @@
           "sourceInitial": "한국",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-06T06:04:25.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ제일제당, AI로 식품개발 전 과정 연결…미국에 ‘Food AI 360’ 도입",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxSTZsYldseUlrMWRpY3FUNjRNVDBsRjFLUGh5dlg4dEw5ci1fTHo0eksycE5ielAtU3JEUnAtc2l3RlU4VXVySDh0TVhNUW5kQWdVWWRQMFBzM0lWZW42UWtqMlFIcHhmdEE?oc=5",
-          "source": "천지일보",
-          "sourceInitial": "천지",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-06T05:49:06.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계 최초…CJ제일제당, AI로 K푸드 영토 확장 나선다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlQXJfVjNqZkNYaFF1TnYxZUxVN2k5RHhxMDJHUFQ2SmtiUEpMU0VMYzh3TzBueVJzeEVvMC1EbWVGMWQtdzhFS201WTdwWTBSeE5EMWpzU3g2QQ?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-06T00:46:11.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "BAT, 소셜아이어워드 식품브랜드부문 통합 대상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdlNZS24zdHpNTVdJa3ZFY3VHNF9tdGJnN0xOMFNFM3B5NDY1bllKNy00dHJJWGJPSEFCWUlSRmpocVlNRTNwcTNxbnpZQkY1QTZqYXNrN1Q5NU1iN3JTdWhBMnlsT0ZqOV9fc0dVV241Z0R6OHF3TEg5VUlUeGlXMkxKZWpDcHJRLVdia3NCb0VrM3ZFQURaWUVYaF9USFRkYnVyc2J6RWRiNzRzX0QwcmNqMGMyVVBvRGdHWTVQNEJPM0NFZDl6ZUtZLTJPeXJlcTVRT2VYNzRUSkxQaGpPQ19yMlh3T0pkd2tsVEVta1RlbTF1bUcyNWNINUJTNWY3ajZqamttOVNsUlVv?oc=5",
-          "source": "데일리안",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-06T00:22:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
