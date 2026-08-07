@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:07:33.896Z",
+  "generatedAt": "2026-08-07T20:24:34.320Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,22 +16,37 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 28,
+      "total": 29,
       "items": [
+        {
+          "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWE1LRkFVeko0WnFCZmtucUVsbVdJSElkdEkyeGJaRlVaMGNiTGN6QTNEbms3OHgxdzU2LU5jTDFUWjdBRC1rUWR1TklwSlhzS25GRjFYVklHcVl4NmhLR0VFYWNKVVBCM3JicDE2N0gtRjRjNXc?oc=5",
+          "source": "신화망",
+          "sourceInitial": "신화",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-07T04:54:15.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "부산 프랜차이즈 사관학교 11기 출범...AI·마케팅·가맹운영 집중 교육",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4UFQ4Z1UwTXFTTVk1Tm5KVUlCVjI0SkFUUThCSElzdlRSRlE0UHRldHJVYlNTbDAzSmV2UW53ZF9SQUltYUREQURieHpDN3huSTRidnpUM0ZlUEZ4cWYtSXA5RVk2UU9WeDk1X0N2WdIBc0FVX3lxTE9nbmZNelFldEJWY1h2RW9SQ1p0WkE0QklaaXg5MGp1OVB5WDZCcG9PNFpEWkZvSHhfaHV0TEU1LTNVOGU0bElYeG4yZjJHYVVYUVVVV21hSnFqUE02UFYxdEVrZEczZ0lqbjBWcnRWajdhRE0?oc=5",
-          "source": "daily.hankooki.com",
-          "sourceInitial": "da",
-          "sourceColor": "#c15a37",
+          "source": "데일리한국",
+          "sourceInitial": "데일",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-07T08:19:08.000Z",
           "tags": [
             "프랜차이즈",
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "한식프랜차이즈 강경불고기, 2026 신규 가맹 혜택으로 소자본창업 지원",
@@ -116,20 +131,6 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-07T18:01:04.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"사업 못 하겠네요\"…해외서 잘 나가던 K프랜차이즈 무슨 일이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vTWUxREhIN0Y5LTNzSTJzZE1HWVdNX19OWDRWOXZrRl9VbzI2c0FwZkZwNFI3cGdYUE9EbTgtRVU4aTB1Y29FS0dmeF9hd3V4QW5R?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T11:01:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -223,8 +224,8 @@
           "title": "원가 부담은 같았는데…식품업계 2분기 실적, 해외가 희비 가른다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xbUZMaXl2RE45Y0xyZ2F6V1ZPTm1ORWtNSHpmd09fU3VlUlF4Smt2ZEhIVnRLc1B4eERRU0ZPQlN4c25va2J1dWpYNTZ4OGlTV2FxWElZVDJnQmtDUlVDOHdQRURBT2tp?oc=5",
-          "source": "녹색경제신문",
-          "sourceInitial": "녹색",
+          "source": "greened.kr",
+          "sourceInitial": "gr",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-06T04:14:45.000Z",
           "tags": [
@@ -302,9 +303,9 @@
           "title": "CJ프레시웨이, 2분기 매출 9232억원…'식봄' 앞세워 디지털 식자재 유통 속도",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTNFZ1Z1JjWjlZd3p4MU1ORG9HQ3RaLS03Tk1yOGlmVkhYRHl2aGhRVWxja29jVExUZkFXZGhJMGZWWjRCelNhMjdPMVNXa2Njc19aajJSd2JuNl9iT0hfVzVnNGRnbVBsQlHSAWpBVV95cUxQUzRWdWdSY1o5WXd6eDFNTkRvR0N0Wi0tN05NcjhpZlZIWER5dmhoUVVsY2tvY1RMVGZBV2RoSTBmVlo0QnpTYTI3TzFTV2tjY3NfWmoyUndibjZfYk9IX1c1ZzRkZ21QbEJR?oc=5",
-          "source": "techm.kr",
-          "sourceInitial": "te",
-          "sourceColor": "#2f7d4f",
+          "source": "테크M",
+          "sourceInitial": "테크",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-06T06:53:24.000Z",
           "tags": [
             "유통"
@@ -387,8 +388,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
+        {
+          "title": "식약처, 알레르기 유발물질 미표시 두부과자 252kg 대량 회수…식품 안전 경고등 : 정책",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUFk0eGE1Ny1PVUh5OWhYbFQ1ZVd6RzFQOVBsUWpOTmpGQmhmQ0ZjeW9hb2hURHRZby1xVGdRS25NVmV0SWVqOEVHV1VCZXcxN2lZ?oc=5",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-07T09:00:00.000Z",
+          "tags": [
+            "정책",
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "리더경제 【정책 브리핑】 7월 소비자물가 상승세 둔화에도 체감물가는 여전…품목별 가격 흐름이 말하는 경제 신호 2부",
           "summary": "",
@@ -402,15 +418,15 @@
             "정책"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "리더경제【정책 브리핑｜2026년 7월 소비자물가1부】 7월 소비자물가 2.8% 상승…물가 안정세 시작됐나, 국민 체감은 아직 ‘진행형’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yaTFldnVnM0xfVDNqOHVxRGxfMEd4WEpRMHl3YkwwUk85UnJqUW53VXkwU25ZeUdnbVZzbUdfQ3diYnM?oc=5",
-          "source": "kcemedia.com",
-          "sourceInitial": "kc",
-          "sourceColor": "#c98a2b",
+          "source": "knpp.co.kr",
+          "sourceInitial": "kn",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-06T10:44:59.000Z",
           "tags": [
             "물가",
@@ -461,9 +477,9 @@
           "title": "한국식품안전관리인증원, 마늘전국연합협의회와 MOU 체결",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM3RJbmZkX0RMRXJHU1B3d2htNktRLURhLWpKZzJRNzl6N1RGOW53TjJ2NG9EMlVFV0dGeVRWVEpLRTA1d2M4Z2NNSHZLNTI3bE5namxqZDJoOWVLZXVERm5zcTl5OWVzX3Vicw?oc=5",
-          "source": "fntoday.co.kr",
-          "sourceInitial": "fn",
-          "sourceColor": "#b03a6a",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-07T07:32:05.000Z",
           "tags": [],
           "price": null,
@@ -480,18 +496,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "AI 이용 '약사 추천 식품광고' 제동…오인 등 처분기준 신설",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wcktyOTFNUDZSRVlucGdRaGFIMHV3aV9KTF9WT25GZElFdXZBNnlmSndEZ1JPaExOWFZsT1hwTUVwOTlRWnZ1dEVLRjR5eWt0dUxxTmViOFcyTlpaaVpOelFyZ2xSYW5UblNDaw?oc=5",
-          "source": "약사공론",
-          "sourceInitial": "약사",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-07T02:57:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -504,7 +508,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "\"트렌드 포착부터 신제품 기획까지\" CJ제일제당, 식품 AI 플랫폼 론칭",
@@ -564,18 +568,6 @@
           "feat": false
         },
         {
-          "title": "[굿모닝! 7일 식품업계 소식] 대상·오뚜기·풀무원푸드앤컬처·삼립·CJ프레시웨이·BBQ",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybHpJOXp0QXl5Z2ZESHBQRl9Xc3NDaGxIelFVLV9fakFhV2oxWk9WbW1zWmlyT1UtNENNbm5fQ19QZWgwOG1NWUJpUm1iYXpsS3JQd1pNVHN6QUxqT2xHa2FDekNZVVdlYm5ueQ?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-07T06:39:53.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[유통소식] GS25, '레드닷 디자인 어워드' 본상 수상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04dHZQNVVZVWs2dHQwdDJMbzNsdlJEZkU0SGs2ZGZpOWR1RDdOWmpaU0xNZUpuR2duVU40ckZnNV9jdjBFWEFWUnVka0wtSGdqaWRIQ1lEdm5jakhYMWFoWjduNnI?oc=5",
@@ -607,6 +599,18 @@
           "sourceInitial": "지디",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-06T07:23:38.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "푸드위크 코리아, AI부터 K-푸드까지…식품산업 혁신 한자리에",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJRlkyZmFKWERwS19lVFBKWFNxTmsyWkZoVWkxbGhfb0ZBR0h3LXZydVRKcUkxTVU3TjNYT1NZMVp4UFBKSXNKTFJTZ3FOeGMtRjZVbTYtSUowT29MbzlPa0ZVV0Z2a1hTekE?oc=5",
+          "source": "한국면세뉴스",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-06T06:04:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
