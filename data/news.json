@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:16:59.145Z",
+  "generatedAt": "2026-08-08T21:01:25.591Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 17,
       "items": [
-        {
-          "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWE1LRkFVeko0WnFCZmtucUVsbVdJSElkdEkyeGJaRlVaMGNiTGN6QTNEbms3OHgxdzU2LU5jTDFUWjdBRC1rUWR1TklwSlhzS25GRjFYVklHcVl4NmhLR0VFYWNKVVBCM3JicDE2N0gtRjRjNXc?oc=5",
-          "source": "신화망",
-          "sourceInitial": "신화",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-07T04:54:15.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "부산 프랜차이즈 사관학교 11기 출범...AI·마케팅·가맹운영 집중 교육",
           "summary": "",
@@ -46,7 +31,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "외식 프랜차이즈 M&A 다시 활기… 대형 버거 ··커피 치킨 ‘매물 러시’",
@@ -67,9 +52,9 @@
           "title": "한식프랜차이즈 강경불고기, 2026 신규 가맹 혜택으로 소자본창업 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTnMyY3BDaVRtOGI2dy1UalUtakdheWZ4Rmd4bUEya0pIeWFqU2JKY2dsUDF1UXQ1NzZJYnc2dHhIVUsyV0QzTzA1Z1J2clR3TEwxc19Nb0JwWGl2R21Ja2sydVdpZlllaHNNb21n0gFyQVVfeXFMUEN4VEVJekxZWWlfVTd0WDd4dDhYU194TkRFb094aXlTR1FtZVZKNUhNY051cHBVcXFiWmZwUjRJSkVZUnd2VXlLR21FOGFDYTdrajRnTzhiejZNd21LbmpiNU5lR3BsS1p3Qmd0SmwxY09B?oc=5",
-          "source": "잡포스트",
-          "sourceInitial": "잡포",
-          "sourceColor": "#333333",
+          "source": "job-post.co.kr",
+          "sourceInitial": "jo",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-07T01:31:19.000Z",
           "tags": [
             "프랜차이즈",
@@ -133,6 +118,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "맥세스컨설팅, 제44기 프랜차이즈 교육 과정서 상권·입지 분석과 예상매출·ROI 집중교육",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94dEM4RUp5ZUNxVDNmWTVOX3ZhUEFtOTlpTEVFOEJtMlJybG9hRmFCVktTbUhJUGdHZVVCclEweTl0RXkxdDg2Y0xqZnN0UlgwSHE2VlRqNWliVlVZWjNLdkZ1bHo2Y0FkM0owWdIBcEFVX3lxTE8xTGV1SzY4UUt2cVFPdXRhNnJ3OU9kZFp5Vm5SWkhxOUdiY1VUenMxb1BKUUZDd1VPVTZJakhnNFNMdFJZWTRhN29VSTJRX0V1NTFxdzhzRExzcHBtbEFBVE12UXUyTkt3WXFpSUpMVDM?oc=5",
+          "source": "이넷뉴스",
+          "sourceInitial": "이넷",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-07T23:58:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -145,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "이례적인 폭염, 식품 가격도 올렸다…\"3년 반 만에 최고\"",
@@ -214,6 +213,18 @@
           "tags": [
             "식자재"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "말레이시아 팜유 인력 5만 명 부족 사태…생산 최대 15% 감소 전망, 한국 식품업계 대응 시급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04M0lTMFJZbXRFdklSVU9rQXF1TldTQ1dOc25VRlFyTUJkS1ZFZFMtMTNfZTZrcUhxdlN0TWs0RjFEVFZJYndReGNSTU4?oc=5",
+          "source": "한국AI부동산신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-08T20:50:39.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -308,9 +319,9 @@
           "title": "CJ프레시웨이, ‘슈퍼레이스’ IP 급식에 접목…특식 4종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56aHRJTFYwbG8tZTNTMzA3MHYtVFRWcXNLNTd4d0tlV2FDQXNRUTlfRGloUjFKMnlTN2NILVNpQVRlaVhtc0RiNkJFa19Kd1RzSEQtRU95RHNYYXhhWWU2S2RyTmtNNll0S0pSQlV5OA?oc=5",
-          "source": "스마트경제",
-          "sourceInitial": "스마",
-          "sourceColor": "#3a6ea5",
+          "source": "dailysmart.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-07T04:40:00.000Z",
           "tags": [],
           "price": null,
@@ -363,21 +374,35 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
-          "title": "일본, 식품 소비세 8%→1% 인하 추진…물가 부담 완화냐 재정 악화냐 ‘논란’",
+          "title": "기록적 폭염에 장바구니 물가 촉각…배·토마토·계란 올랐지만 8월 공급 늘며 안정 전망",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5adDE1MG9ZUGJjdXp4UW1kNjJZQ2FFMFBGNW5nelFyV2JtRVJGMDJRTFI0aWFZd0JPNVh4MUdOWnNON2ZBd2dwRkoxMk80c0t4RVBCVHJLM1VfVUdTWDNsdVAxQ014SjJVckttLURJN2poQdIBckFVX3lxTE5adDE1MG9ZUGJjdXp4UW1kNjJZQ2FFMFBGNW5nelFyV2JtRVJGMDJRTFI0aWFZd0JPNVh4MUdOWnNON2ZBd2dwRkoxMk80c0t4RVBCVHJLM1VfVUdTWDNsdVAxQ014SjJVckttLURJN2poQQ?oc=5",
-          "source": "뉴스아이이에스",
-          "sourceInitial": "뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mOWlfWGVBbEFFNjRQLXJmZXFSZDZLZ19FNjFvSllrZDZrZ1Fjbm5kbFNNMWwzdW9ab3kxUWZKWTg4R05EOGNRMURtb1pSMWlpWXJvZFJvbWktSFAtVld5NFdxXzJ6eGctZUdIbw?oc=5",
+          "source": "콜뉴스24",
+          "sourceInitial": "콜뉴",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T09:26:24.000Z",
+          "publishedAt": "2026-08-08T00:02:26.000Z",
           "tags": [
             "물가"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "일본, 식품 소비세 8%→1% 인하 추진…물가 부담 완화냐 재정 악화냐 ‘논란’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5adDE1MG9ZUGJjdXp4UW1kNjJZQ2FFMFBGNW5nelFyV2JtRVJGMDJRTFI0aWFZd0JPNVh4MUdOWnNON2ZBd2dwRkoxMk80c0t4RVBCVHJLM1VfVUdTWDNsdVAxQ014SjJVckttLURJN2poQdIBckFVX3lxTE5adDE1MG9ZUGJjdXp4UW1kNjJZQ2FFMFBGNW5nelFyV2JtRVJGMDJRTFI0aWFZd0JPNVh4MUdOWnNON2ZBd2dwRkoxMk80c0t4RVBCVHJLM1VfVUdTWDNsdVAxQ014SjJVckttLURJN2poQQ?oc=5",
+          "source": "newsiesports.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-07T09:26:24.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "EU, 친환경 기준 강화: 베트남 농산물, 시험대에 오르다.",
@@ -395,9 +420,9 @@
           "title": "[ 오늘의 Big Picture !] 튀르키예, 흑해 통항 제한…한국도 곡물·유가·해운비 ‘간접 충격’ 우려",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNeV9ZclVrN0dmc0JCeGp4cG5nVzVtak5yYmFvWmRMV2NLMnItanVhQnRzOV9VQm1mTERCOTVSNmhuY3NmS1hBaXlUZUNsT1pqR2RzaW82d0RKR21hTGl0aVlDTnRmOGFPVmFDR3VB?oc=5",
-          "source": "koreapost.co.kr",
-          "sourceInitial": "ko",
-          "sourceColor": "#333333",
+          "source": "코리아포스트 한글판",
+          "sourceInitial": "코리",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-08T12:06:19.000Z",
           "tags": [],
           "price": null,
@@ -418,7 +443,7 @@
         {
           "title": "자비스, 글로벌 식품 소스 브랜드 유럽 생산라인에 X-ray 검사장비 공급",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80dlVUVVJabnQ5MzNWU285b01neEpMR0lRR1FqQnZYVDZOLURSSHFHVGllenl6aFI4LW5qN0x5bkEtXzlYZU9ZTHhIdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PanhTb0M1NWRyV1lOZ3RoZk40dldwblVKNHVnZTFnY2JucFpYaFlNQ3kwVG5kaWVFX0NNV3QzMWpaRFhzSVJyUXZ5RzY0NXM?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
@@ -494,9 +519,9 @@
           "title": "한국인은 반찬, 세계인은 간식! K-김의 모든 것 ｜ NO.1 K-BOB Ep.5",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTldmUHpHR21ET1RCZnpMSWc2TEZjS0RkUXZaUTZ0UHI0NUloSW5QVWVKdjZYNWM3TUo2V2hwbVhFeXUxVDFpOXhoSC1JMnVUY19yTlpvUTFvV29Q?oc=5",
-          "source": "youtu.be",
-          "sourceInitial": "yo",
-          "sourceColor": "#333333",
+          "source": "YouTube",
+          "sourceInitial": "Yo",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-07T09:02:15.000Z",
           "tags": [],
           "price": null,
