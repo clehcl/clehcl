@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T17:05:59.436Z",
+  "generatedAt": "2026-08-08T19:16:59.145Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "이백장돈가스, 여름 신메뉴 4종 출시…메뉴 경쟁력 강화 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVXhZcXFkb19rdFVPczlKSVJRVERoWU8xVVhJWnI0d0x2YWFxZHpPVzBQQUZIZ2U3ZUw1RTZvSXEyZmhGQWdHOFQzU2NkOGp3Z3MwbUtB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-08T04:35:00.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[뉴스락 특별기획] ‘10%의 대표성’ 누구를 위한 기준인가…프랜차이즈 협의권의 딜레마",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic0VVZ2l5R0xXanhvaDVIQ2g1cnhLTGh4aTVHQTA0M0U5Skg0ZkhkSC1uTXJqaldZNUh0VlozWGk0X2RiR2ZsU1V3aFN2NmpFV1RISGQ3QlVJeEtsQzhCRlN3V2dvNWhtYVdfRA?oc=5",
@@ -86,6 +100,20 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-08T01:02:41.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"프랜차이즈 AX 핵심은 데이터 표준화…업계, 공동 활용 기반 마련 필요\" [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jZFVTVEFyYjJ1TzJ2TDNzYUllbzJONzRHLWF4VTZYZDJGQ0NWS0Zick01elVEZzVRTmdOeHFIZVZuUHZLSE50MGZucjVaOFFQYjdyYXRn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-08T00:15:30.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -105,34 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "맥세스컨설팅, 제44기 프랜차이즈 교육 과정서 상권·입지 분석과 예상매출·ROI 집중교육",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94dEM4RUp5ZUNxVDNmWTVOX3ZhUEFtOTlpTEVFOEJtMlJybG9hRmFCVktTbUhJUGdHZVVCclEweTl0RXkxdDg2Y0xqZnN0UlgwSHE2VlRqNWliVlVZWjNLdkZ1bHo2Y0FkM0owWdIBcEFVX3lxTE8xTGV1SzY4UUt2cVFPdXRhNnJ3OU9kZFp5Vm5SWkhxOUdiY1VUenMxb1BKUUZDd1VPVTZJakhnNFNMdFJZWTRhN29VSTJRX0V1NTFxdzhzRExzcHBtbEFBVE12UXUyTkt3WXFpSUpMVDM?oc=5",
-          "source": "이넷뉴스",
-          "sourceInitial": "이넷",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T23:58:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"프랜차이즈 AX 핵심은 데이터 표준화…업계, 공동 활용 기반 마련 필요\" [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BpaXpicUZ3YU5ucldnUWx3NkItNHRMRE5BY2twUUxjeGtGMWRLbjNhX2h4VHRRZEw4WnR1OGF3d0xyT3FQN0JZS0h1QTRvdGVwTUlNQTF0Mk1zTHB5cm4wVml0ZGlXZWh4TUMwMzZkRjI0YXV2Tl81QTNaN3B0WkJzc01EbmpaZVQtZldn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-07T09:38:55.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,16 +145,16 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
-          "title": "\"기분 탓 아니었네\" 폭염 ㆍ지정학 위기에 세계 식품가격 3년 반 만에 최고",
+          "title": "이례적인 폭염, 식품 가격도 올렸다…\"3년 반 만에 최고\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRLWJUSUFnMnlwaUE5VnNvYU83UExCNkhvSkplVEVMX3ZuQzhhVlE0ajlGT1l1XzJHRDRTZHBhSVA2bnBWWnp1cmR5X0N5enZNaTdaeG05ZzVrVnZpVWpmQVNST3g?oc=5",
-          "source": "MTN 머니투데이방송",
-          "sourceInitial": "MT",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-07T20:01:05.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXM3lXVEk1ZTgwSDBYcVlfMmNxM01GbXJlTnlacGtiMWQzOER5NkQxOUlOUDRKYlFXQi1yQ1ZLVE5HMnczZ0dmdG55RVJZcmRzazJySThFZmhDdw?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-07T13:53:18.000Z",
           "tags": [
             "가격"
           ],
@@ -213,20 +213,6 @@
           "publishedAt": "2026-08-07T01:34:09.000Z",
           "tags": [
             "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "공장에서 생산된 식사 가격이 2만~2만2천 VND에 달하면서 영양 균형을 맞추기가 어렵다고 업체들은 말합니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXQySVlBRExDYlpTTGpvN0J5RTcycHVPVmtENUJzR1kyaDROLTM3R1RVN0JnQlpzTFg0cFRKVnhCM0VXd254VGVtMy0xTVdueFZJeF9QZEhQRmJyYWlEa1Y0WE9xNnJTVVhwbTJxY0pfaDdvaW1EanVpVWlGb2YwdlM2V2hFR0Nyc1k4WktIbkpBeFVzVnFFbnAwMkxHekZSZFZxUURXQQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-06T18:51:15.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -409,9 +395,9 @@
           "title": "[ 오늘의 Big Picture !] 튀르키예, 흑해 통항 제한…한국도 곡물·유가·해운비 ‘간접 충격’ 우려",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNeV9ZclVrN0dmc0JCeGp4cG5nVzVtak5yYmFvWmRMV2NLMnItanVhQnRzOV9VQm1mTERCOTVSNmhuY3NmS1hBaXlUZUNsT1pqR2RzaW82d0RKR21hTGl0aVlDTnRmOGFPVmFDR3VB?oc=5",
-          "source": "코리아포스트 한글판",
-          "sourceInitial": "코리",
-          "sourceColor": "#2f7d4f",
+          "source": "koreapost.co.kr",
+          "sourceInitial": "ko",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-08T12:06:19.000Z",
           "tags": [],
           "price": null,
@@ -508,9 +494,9 @@
           "title": "한국인은 반찬, 세계인은 간식! K-김의 모든 것 ｜ NO.1 K-BOB Ep.5",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTldmUHpHR21ET1RCZnpMSWc2TEZjS0RkUXZaUTZ0UHI0NUloSW5QVWVKdjZYNWM3TUo2V2hwbVhFeXUxVDFpOXhoSC1JMnVUY19yTlpvUTFvV29Q?oc=5",
-          "source": "YouTube",
-          "sourceInitial": "Yo",
-          "sourceColor": "#8a5cc4",
+          "source": "youtu.be",
+          "sourceInitial": "yo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-07T09:02:15.000Z",
           "tags": [],
           "price": null,
