@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:15:35.723Z",
+  "generatedAt": "2026-08-08T13:57:13.747Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 18,
       "items": [
         {
           "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "이백장돈가스, 여름 신메뉴 4종 출시…메뉴 경쟁력 강화 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVXhZcXFkb19rdFVPczlKSVJRVERoWU8xVVhJWnI0d0x2YWFxZHpPVzBQQUZIZ2U3ZUw1RTZvSXEyZmhGQWdHOFQzU2NkOGp3Z3MwbUtB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-08T04:35:00.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[뉴스락 특별기획] ‘10%의 대표성’ 누구를 위한 기준인가…프랜차이즈 협의권의 딜레마",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic0VVZ2l5R0xXanhvaDVIQ2g1cnhLTGh4aTVHQTA0M0U5Skg0ZkhkSC1uTXJqaldZNUh0VlozWGk0X2RiR2ZsU1V3aFN2NmpFV1RISGQ3QlVJeEtsQzhCRlN3V2dvNWhtYVdfRA?oc=5",
@@ -114,20 +128,6 @@
           "sourceInitial": "이넷",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-07T23:58:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"프랜차이즈 AX 핵심은 데이터 표준화…업계, 공동 활용 기반 마련 필요\" [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BpaXpicUZ3YU5ucldnUWx3NkItNHRMRE5BY2twUUxjeGtGMWRLbjNhX2h4VHRRZEw4WnR1OGF3d0xyT3FQN0JZS0h1QTRvdGVwTUlNQTF0Mk1zTHB5cm4wVml0ZGlXZWh4TUMwMzZkRjI0YXV2Tl81QTNaN3B0WkJzc01EbmpaZVQtZldn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-07T09:38:55.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -285,20 +285,6 @@
           "feat": true
         },
         {
-          "title": "CJ프레시웨이 2분기 매출 9232억 전년比 4.5% ↑…식자재 유통·급식 성장",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82NzMyWTN6YkVjUWtKSGVZUTEzZTRULWZYOFJFUWFLQVBsWGtDWTI0UUVtelg0T0xQTDhrNWJHeUxsdGpqNTM0YnFnTV9STkMtMnRiTVRlVUhWZXhGbU5QT2dlSER2OV9ydVNaTFFfOGlucjjSAXNBVV95cUxPNjczMlkzemJFY1FrSkhlWVExM2U0VC1mWDhSRVFhS0FQbFhrQ1kyNFFFbXpYNE9MUEw4azViR3lMbHRqajUzNGJxZ01fUk5DLTJ0Yk1UZVVIVmV4Rm1OUE9nZUhEdjlfcnVTWkxRXzhpbnI4?oc=5",
-          "source": "뉴스퀘스트",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-06T12:47:48.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "급식업계, 2분기 수익성 '희비'…수익원 다각화 분주",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWDFzSWZRb2VjZ2JRWExwZHI5dTRKdDBVUWV2QWNKSkFtMkFKczR6Mk1XYTdQNU5HUTBQMU1ocWFzRFJzUkJGMG16UHZlMklLdXFnaWs4SXVhYWJEV2dWVWM3TFNMOENuQXZ0RA?oc=5",
@@ -362,10 +348,22 @@
           "title": "CJ프레시웨이, 온라인·급식 호조에 2분기 외형 성장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcV9hSU56ckdwR2ZPT3JXRzNYOVVNYUcxdkUwM0V0dWFHWmZUOERWbTV4a2oySlhOeFZHQk1LdnJtc3JMUmpIdEZDZHJBci1kMEk1VGppTzhLQmtBazdPVzlFai1rYV9xQVBIUw?oc=5",
-          "source": "스포츠Q",
-          "sourceInitial": "스포",
-          "sourceColor": "#333333",
+          "source": "sportsq.co.kr",
+          "sourceInitial": "sp",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-07T01:35:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, 온라인 식자재 생태계 확장…시장점유율 확대 기대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lcWhIVDJ5em5hc1FPLVlIeTR5TlhYRzFFMkF5Z3Q3dGhpRWFER0tDRlJsczFuM21IVXFJem5fdDBMRnU2ZXVlcWZpTk1Gd2hDQ2s0T2VtcjJ2TklEcFJ0OXRXYmJXVTFPN0FMVw?oc=5",
+          "source": "프라임경제",
+          "sourceInitial": "프라",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-06T23:24:55.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -381,8 +379,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 8,
       "items": [
+        {
+          "title": "기록적 폭염에 장바구니 물가 촉각…배·토마토·계란 올랐지만 8월 공급 늘며 안정 전망",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mOWlfWGVBbEFFNjRQLXJmZXFSZDZLZ19FNjFvSllrZDZrZ1Fjbm5kbFNNMWwzdW9ab3kxUWZKWTg4R05EOGNRMURtb1pSMWlpWXJvZFJvbWktSFAtVld5NFdxXzJ6eGctZUdIbw?oc=5",
+          "source": "콜뉴스24",
+          "sourceInitial": "콜뉴",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-08T00:02:26.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "일본, 식품 소비세 8%→1% 인하 추진…물가 부담 완화냐 재정 악화냐 ‘논란’",
           "summary": "",
@@ -395,7 +407,19 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "[ 오늘의 Big Picture !] 튀르키예, 흑해 통항 제한…한국도 곡물·유가·해운비 ‘간접 충격’ 우려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNeV9ZclVrN0dmc0JCeGp4cG5nVzVtak5yYmFvWmRMV2NLMnItanVhQnRzOV9VQm1mTERCOTVSNmhuY3NmS1hBaXlUZUNsT1pqR2RzaW82d0RKR21hTGl0aVlDTnRmOGFPVmFDR3VB?oc=5",
+          "source": "코리아포스트 한글판",
+          "sourceInitial": "코리",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-08T12:06:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "UBS, 식품 안전 영향에 Sweetgreen 주가 목표 하향 조정",
@@ -425,10 +449,22 @@
           "title": "한국식품안전관리인증원, 마늘전국연합협의회와 MOU 체결",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM3RJbmZkX0RMRXJHU1B3d2htNktRLURhLWpKZzJRNzl6N1RGOW53TjJ2NG9EMlVFV0dGeVRWVEpLRTA1d2M4Z2NNSHZLNTI3bE5namxqZDJoOWVLZXVERm5zcTl5OWVzX3Vicw?oc=5",
-          "source": "fntoday.co.kr",
-          "sourceInitial": "fn",
-          "sourceColor": "#b03a6a",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-07T07:32:05.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "지방공기업 경영, 서울농수산식품공사 등 20곳 최고등급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRW42RmhDeEl6SE5mOE1jX0FmTDVyZUo2c2lhNndqeEtobDBKZ1pXbkFlTzJhcEx4Ym1lYnBLUTFMdmhNOVltN01CdGdoVDNpdzRF?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-07T01:02:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -476,9 +512,9 @@
           "title": "Z세대 지갑 여는 '토마토코어'… 여름 유통가 붉게 물들었다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01ZzZzY2xWSlVSaUVIUzJTWHNhTjdtMUZnMjRuSnQ4cndDdzhuVnIybk1UVWJuTHFFTUNpR19aR0ZnaERKR3pqSzdwTHpHa0dldFEtbFVB?oc=5",
-          "source": "wikitree.co.kr",
-          "sourceInitial": "wi",
-          "sourceColor": "#8a5cc4",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-08T05:46:00.000Z",
           "tags": [],
           "price": null,
