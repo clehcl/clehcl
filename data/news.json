@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:57:13.747Z",
+  "generatedAt": "2026-08-08T15:02:49.572Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 19,
       "items": [
         {
           "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
@@ -79,20 +79,6 @@
           "feat": false
         },
         {
-          "title": "이백장돈가스, 여름 신메뉴 4종 출시…메뉴 경쟁력 강화 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVXhZcXFkb19rdFVPczlKSVJRVERoWU8xVVhJWnI0d0x2YWFxZHpPVzBQQUZIZ2U3ZUw1RTZvSXEyZmhGQWdHOFQzU2NkOGp3Z3MwbUtB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-08T04:35:00.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[뉴스락 특별기획] ‘10%의 대표성’ 누구를 위한 기준인가…프랜차이즈 협의권의 딜레마",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic0VVZ2l5R0xXanhvaDVIQ2g1cnhLTGh4aTVHQTA0M0U5Skg0ZkhkSC1uTXJqaldZNUh0VlozWGk0X2RiR2ZsU1V3aFN2NmpFV1RISGQ3QlVJeEtsQzhCRlN3V2dvNWhtYVdfRA?oc=5",
@@ -110,9 +96,9 @@
           "title": "[ 2026년 8월 8일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWlMODl3Y1h4Z3N5Q2hnVUZqb2NhS21VV2JkbkJvZVZ6WFJwWEhqM29GZF9FdXI0NW52VXpjNF9CSnN0dVdzcjFLQWVlUEFueVlhSkxOLXVNc0dCTzd0VW9kYm4tcTRmTi1WNXJxaXE1dlZsWmhWOGJDa3VaM2ZfMDJGc3hwOHFsMGFYaFFB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
+          "source": "blog.naver.com",
+          "sourceInitial": "bl",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-08T00:01:04.000Z",
           "tags": [
             "프랜차이즈"
@@ -128,6 +114,20 @@
           "sourceInitial": "이넷",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-07T23:58:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"프랜차이즈 AX 핵심은 데이터 표준화…업계, 공동 활용 기반 마련 필요\" [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BpaXpicUZ3YU5ucldnUWx3NkItNHRMRE5BY2twUUxjeGtGMWRLbjNhX2h4VHRRZEw4WnR1OGF3d0xyT3FQN0JZS0h1QTRvdGVwTUlNQTF0Mk1zTHB5cm4wVml0ZGlXZWh4TUMwMzZkRjI0YXV2Tl81QTNaN3B0WkJzc01EbmpaZVQtZldn?oc=5",
+          "source": "blog.naver.com",
+          "sourceInitial": "bl",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-07T09:38:55.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -379,22 +379,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
-        {
-          "title": "기록적 폭염에 장바구니 물가 촉각…배·토마토·계란 올랐지만 8월 공급 늘며 안정 전망",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mOWlfWGVBbEFFNjRQLXJmZXFSZDZLZ19FNjFvSllrZDZrZ1Fjbm5kbFNNMWwzdW9ab3kxUWZKWTg4R05EOGNRMURtb1pSMWlpWXJvZFJvbWktSFAtVld5NFdxXzJ6eGctZUdIbw?oc=5",
-          "source": "콜뉴스24",
-          "sourceInitial": "콜뉴",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-08T00:02:26.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "일본, 식품 소비세 8%→1% 인하 추진…물가 부담 완화냐 재정 악화냐 ‘논란’",
           "summary": "",
@@ -406,6 +392,18 @@
           "tags": [
             "물가"
           ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "EU, 친환경 기준 강화: 베트남 농산물, 시험대에 오르다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU03bXZuNmFXaWlKdGN0b2JEWnNfX19TMEJIZjNqYWhRSnM0eTlOWGFNSmtiM0RvSEhtaGE1Tk13OFBpWDlXZFUyUXdZWXp4bUxOWDZTT1RJTHhubUQxSUNNaHpZWHNzdGhGcnEtbFdLNkQzZFVaWWFLVDBfM1k2U09sUFRfdDQ?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-08T14:42:32.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -441,18 +439,6 @@
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-07T07:52:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한국식품안전관리인증원, 마늘전국연합협의회와 MOU 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM3RJbmZkX0RMRXJHU1B3d2htNktRLURhLWpKZzJRNzl6N1RGOW53TjJ2NG9EMlVFV0dGeVRWVEpLRTA1d2M4Z2NNSHZLNTI3bE5namxqZDJoOWVLZXVERm5zcTl5OWVzX3Vicw?oc=5",
-          "source": "파이낸스투데이",
-          "sourceInitial": "파이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T07:32:05.000Z",
           "tags": [],
           "price": null,
           "feat": false
