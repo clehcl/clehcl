@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:19:18.007Z",
+  "generatedAt": "2026-08-08T00:02:49.266Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 28,
+      "total": 27,
       "items": [
-        {
-          "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWE1LRkFVeko0WnFCZmtucUVsbVdJSElkdEkyeGJaRlVaMGNiTGN6QTNEbms3OHgxdzU2LU5jTDFUWjdBRC1rUWR1TklwSlhzS25GRjFYVklHcVl4NmhLR0VFYWNKVVBCM3JicDE2N0gtRjRjNXc?oc=5",
-          "source": "신화망",
-          "sourceInitial": "신화",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-07T04:54:15.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "부산 프랜차이즈 사관학교 11기 출범...AI·마케팅·가맹운영 집중 교육",
           "summary": "",
@@ -46,7 +31,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "한식프랜차이즈 강경불고기, 2026 신규 가맹 혜택으로 소자본창업 지원",
@@ -67,9 +52,9 @@
           "title": "버거·커피·치킨까지 줄줄이 매물…외식 프랜차이즈 M&A 활기",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91UGdUbEZzeTM0c2lTRjM1MzFMSnB6al9fUThfMHRZSE5aLXdSY2JHTFA2TllkMmM4anlJX2ZCZ1lHYkU5allIWklEQ3BycTdRUWxqcDlZZ0RXQdIBWEFVX3lxTE5UYlBTSTVVQVRnVXZ4cEk5QTJVSERNelQweDM3dTVqMWZOMnFLWmpkR2doZ0ZIUm1KWU5kemN2VXJKZnlQV00zbEtGdHNMLWREbXE5YVNrQmk?oc=5",
-          "source": "아주경제",
-          "sourceInitial": "아주",
-          "sourceColor": "#1a4d8f",
+          "source": "ajunews.com",
+          "sourceInitial": "aj",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-06T08:19:16.000Z",
           "tags": [
             "프랜차이즈",
@@ -136,6 +121,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "\"프랜차이즈 AX 핵심은 데이터 표준화…업계, 공동 활용 기반 마련 필요\" [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BpaXpicUZ3YU5ucldnUWx3NkItNHRMRE5BY2twUUxjeGtGMWRLbjNhX2h4VHRRZEw4WnR1OGF3d0xyT3FQN0JZS0h1QTRvdGVwTUlNQTF0Mk1zTHB5cm4wVml0ZGlXZWh4TUMwMzZkRjI0YXV2Tl81QTNaN3B0WkJzc01EbmpaZVQtZldn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-07T09:38:55.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -148,7 +147,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "세계 식품 가격, 전쟁과 폭염으로 3년 래 최고치…유엔 FAO",
@@ -181,13 +180,27 @@
         {
           "title": "식자재 유통기업 '청운농산', B2B 식자재 공급망 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeFU2RnhwT2Q4NzF3dUI4aWZaSXZTWjZEM25sdUNSN01iZ3RCNm5zRFhZRXhoZk45bXVGWEFEcEtaakFqTzhacVlTWXVKbXdwMjJMc0JQa3ZHSHZpY1kwQkszR1ZUSkc3QnJPUNIBcEFVX3lxTE1NemdqdlNZNUE0TmVHSVp1aVVCN0pBcmgzcmZvcHQ2Q1pWdThaUktBMnc0TnNHd0p1d2FneldHaXRvWDRTYTg4SFJvRERJT1BSd1ZQNW1QNFV4VWFFbWhwVGtWQzMwT1hpNThkbGlwV2s?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NemdqdlNZNUE0TmVHSVp1aVVCN0pBcmgzcmZvcHQ2Q1pWdThaUktBMnc0TnNHd0p1d2FneldHaXRvWDRTYTg4SFJvRERJT1BSd1ZQNW1QNFV4VWFFbWhwVGtWQzMwT1hpNThkbGlwV2vSAXBBVV95cUxNTXpnanZTWTVBNE5lR0ladWlVQjdKQXJoM3Jmb3B0NkNaVnU4WlJLQTJ3NE5zR3dKdXdhZ3pXR2l0b1g0U2E4OEhSb0RESU9QUndWUDVtUDRVeFVhRW1ocFRrVkMzME9YaTU4ZGxpcFdr?oc=5",
           "source": "이넷뉴스",
           "sourceInitial": "이넷",
           "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T01:34:09.000Z",
+          "publishedAt": "2026-08-07T02:57:14.000Z",
           "tags": [
             "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "공장에서 생산된 식사 가격이 2만~2만2천 VND에 달하면서 영양 균형을 맞추기가 어렵다고 업체들은 말합니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXQySVlBRExDYlpTTGpvN0J5RTcycHVPVmtENUJzR1kyaDROLTM3R1RVN0JnQlpzTFg0cFRKVnhCM0VXd254VGVtMy0xTVdueFZJeF9QZEhQRmJyYWlEa1Y0WE9xNnJTVVhwbTJxY0pfaDdvaW1EanVpVWlGb2YwdlM2V2hFR0Nyc1k4WktIbkpBeFVzVnFFbnAwMkxHekZSZFZxUURXQQ?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-06T18:51:15.000Z",
+          "tags": [
+            "가격"
           ],
           "price": null,
           "feat": false
@@ -221,16 +234,14 @@
           "feat": false
         },
         {
-          "title": "원가 부담은 같았는데…식품업계 2분기 실적, 해외가 희비 가른다",
+          "title": "기획부터 공장 가동까지···식품업계, ‘푸드 AI’ 총력전",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xbUZMaXl2RE45Y0xyZ2F6V1ZPTm1ORWtNSHpmd09fU3VlUlF4Smt2ZEhIVnRLc1B4eERRU0ZPQlN4c25va2J1dWpYNTZ4OGlTV2FxWElZVDJnQmtDUlVDOHdQRURBT2tp?oc=5",
-          "source": "greened.kr",
-          "sourceInitial": "gr",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-06T04:14:45.000Z",
-          "tags": [
-            "원가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ET1N5OHBscW1mUUdGaUdfM2h1dUZKN0QyMFZxa3JlTEVWMk5Vb1doSXFUS1NHTGtuMFB6WEV5SWQ1SS1mRUtDdE9lajU3Z2dSYkV0bnBvQkVIWTlNTEVJU0xkeU1kdXI40gFsQVVfeXFMUE45eWNPQ2hpaDJlUWxCbGMyaGxKTktMTnByY01aa0VvbzhyOWpnWG9mcWFmQ3RNVFZaRkNEN2NPaWxDaE5WVEhLOTRDaERSWWt6Y3c2Q3phSmFlcm1JeDJoeEdPR2w0bFJURnlR?oc=5",
+          "source": "ziksir.com",
+          "sourceInitial": "zi",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-07T21:00:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -242,18 +253,6 @@
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-07T09:32:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "소비자물가지수는 0.12% 하락했다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xVVdWUDNkbWZwS3ZaZlM5cFdWdVdzc0dJeERtVlViNVo4bDI5Ymp3NzE0WXlHb29rd3RWYXZQWV9KM2d4a0Q4cW94WXNGWjRFSlRKajcwSmxwUXpleXlRN2VZWjk5THc?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-07T02:28:59.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -269,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "CJ프레시웨이, \"매출 9,232억원 찍었다\"…외식 둔화에도 성장한 이 식자재 유통사",
@@ -293,6 +292,20 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-06T12:47:48.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, 식자재 유통·급식 성장세에 매출·영업익↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GM2VSRjA2UGlsV1hLTUdJbUowaHpHM1ZodnBCbDBBX3FRcFh3MjhBNThIckdGT3g4aWlSbXFSX3R0R1V5eUZZQ0hCTEV3Vy1ESFc0Z1NsVEZvYzlBQVVYQzgyUzM4cUVMZExqZG85NXHSAXRBVV95cUxObXlaV0pTc2s2VjVmTkZZUmFYWWF2V1dmYVc2blJxRk9HbmNkb19XNDZNUHo4NkFhWm9nN0pfMzZMOTZEU0NZREVvVV92VTJBdE05cHFWWnZQMGp6ZGlOa2xPQXN2X1RMcEFNRFFHZk92SkYwdQ?oc=5",
+          "source": "포인트데일리",
+          "sourceInitial": "포인",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-06T07:21:49.000Z",
           "tags": [
             "유통"
           ],
@@ -364,18 +377,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "'급식·식자재 호조' CJ프레시웨이, 2분기 영업익 14%↓…\"온라인 투자 영향\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcWkxSlVQN1cya2h6c2t3TjlXcUMwRjdIV2djWFlnU0NWZmh3WTAzYzNUVlVZVjd0NXNoRTd0QTVfX3hsYWF3eFJkbE9ZQlpyUHNLdWRoZEx2UEFxOTF0aUNVZHZPdEhRLVhhNE04YlFmM1JjNjdkV0toaFpSbXNwSHhB?oc=5",
-          "source": "아시아경제",
-          "sourceInitial": "아",
-          "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-08-06T06:16:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -388,7 +389,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "식약처, 알레르기 유발물질 미표시 두부과자 252kg 대량 회수…식품 안전 경고등 : 정책",
@@ -582,6 +583,18 @@
           "feat": false
         },
         {
+          "title": "[굿모닝! 7일 식품업계 소식] 대상·오뚜기·풀무원푸드앤컬처·삼립·CJ프레시웨이·BBQ",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybHpJOXp0QXl5Z2ZESHBQRl9Xc3NDaGxIelFVLV9fakFhV2oxWk9WbW1zWmlyT1UtNENNbm5fQ19QZWgwOG1NWUJpUm1iYXpsS3JQd1pNVHN6QUxqT2xHa2FDekNZVVdlYm5ueQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-07T06:39:53.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[유통소식] GS25, '레드닷 디자인 어워드' 본상 수상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04dHZQNVVZVWs2dHQwdDJMbzNsdlJEZkU0SGs2ZGZpOWR1RDdOWmpaU0xNZUpuR2duVU40ckZnNV9jdjBFWEFWUnVka0wtSGdqaWRIQ1lEdm5jakhYMWFoWjduNnI?oc=5",
@@ -601,18 +614,6 @@
           "sourceInitial": "서울",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-06T10:10:30.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "AI가 ‘말차 햇반’ 아이디어 냈다…CJ제일제당, 식품 개발 플랫폼 미국 도입",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdFVpQ2lraDd4UzBoYUJfckZRbV9Tc1dYSjQ2M1lHWWJPdmR3SkM1bGNKVFZUQ0hyVWdHX2dRdi1SbGpXTXRkcnpmUHRSeF80dDVXQkdR?oc=5",
-          "source": "지디넷코리아",
-          "sourceInitial": "지디",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-06T07:23:38.000Z",
           "tags": [],
           "price": null,
           "feat": false
