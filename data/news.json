@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:58:16.228Z",
+  "generatedAt": "2026-08-09T10:05:20.718Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,22 +16,37 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 15,
       "items": [
         {
-          "title": "부산 프랜차이즈 사관학교 11기 출범...AI·마케팅·가맹운영 집중 교육",
+          "title": "번지는 차액가맹금 소송…외식 프랜차이즈 M&A에 '불똥'[시그널]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4UFQ4Z1UwTXFTTVk1Tm5KVUlCVjI0SkFUUThCSElzdlRSRlE0UHRldHJVYlNTbDAzSmV2UW53ZF9SQUltYUREQURieHpDN3huSTRidnpUM0ZlUEZ4cWYtSXA5RVk2UU9WeDk1X0N2WdIBc0FVX3lxTE9nbmZNelFldEJWY1h2RW9SQ1p0WkE0QklaaXg5MGp1OVB5WDZCcG9PNFpEWkZvSHhfaHV0TEU1LTNVOGU0bElYeG4yZjJHYVVYUVVVV21hSnFqUE02UFYxdEVrZEczZ0lqbjBWcnRWajdhRE0?oc=5",
-          "source": "데일리한국",
-          "sourceInitial": "데일",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-07T08:19:08.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0R29PVUtCallibEZmRHFabkstTzhrQVc0NGxsVkFvQ3ZNXzY3SkF1aF81U0xXSFpRQVVITnllQXNnYVZIWE1VcWFjTk5UX0ZJTHhr?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-09T09:21:00.000Z",
           "tags": [
             "프랜차이즈",
             "가맹"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LQXUxOUZIbnAtMFQ3WnhHdDJJY21zY0c4Z2locXNQdEY1dVBVdkpXUE80anR4ZlFuR3BEbVpKZ0k3RzlmcXFKMUk1ZTg4cWFEbXFPR1d0VHZub21RVDhBVm9NQmF6RTRkbTZuX1ViNkJFVlhFZVYzMWdDc3o?oc=5",
+          "source": "신화망",
+          "sourceInitial": "신화",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-09T07:14:52.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "외국인 242만명 찾은 부산…배민, 사장님에 AI 메뉴판 가르친다",
@@ -51,9 +66,9 @@
           "title": "우아한형제들, 8월 10일부터 배민아카데미 부산편 모집…외식업 사장 대상 4주 AI 마케팅 교육",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iaGJmMkpReDRJU29EbGNuMU1yVjhIcnBLNmNidTRYVVR3VlRqMTJsOTgyRkV0SXpaTU5EdkxvTFBzOXV6LUNmckxfX1pjZmxLckYw?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-09T06:29:00.000Z",
           "tags": [
             "외식"
@@ -71,6 +86,20 @@
           "publishedAt": "2026-08-09T05:09:07.000Z",
           "tags": [
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "BBQ, 앱 회원 대상 '오픈런 이벤트'…신메뉴 필크런치 할인 쿠폰 제공 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU1lGTm5pNTVVNEMyTjBJSXVFWHRxSHJsVmZheWJ2QWE1VkUyZ3hRQTVVQVNtaDZ0NzVWRFd4dHI3Xzl5cGRlajY0MjZpU0FWa2FEVXRmZldveW5pTXB6LUhTdFlUTGlaR0tDN2dveE94bGVxN2QyZDVoSWtSbXJCdkNrT1FWUTBBak9RSFhB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-09T02:19:19.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -102,34 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "부산 찾은 외국인 242만명…배민, 외식업주 글로벌 마케팅 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCYWpITFNxcC1vakl0anlGVmk5ZDZmZ3B1RmZXVDhaSTNZR0RKMC1MM0o1OHBQVzBFalRZdEU2djZKYkFpMzVVamtkLVhsb0hKbnBtVA?oc=5",
-          "source": "데일리안",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-09T01:05:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "이백장돈가스, 여름 신메뉴 4종 출시…메뉴 경쟁력 강화 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVXhZcXFkb19rdFVPczlKSVJRVERoWU8xVVhJWnI0d0x2YWFxZHpPVzBQQUZIZ2U3ZUw1RTZvSXEyZmhGQWdHOFQzU2NkOGp3Z3MwbUtB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-08T04:35:00.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -142,8 +143,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
+        {
+          "title": "‘보름달 빵 200원 올라’…삼립, 다음 달 빵가격 평균 9%대 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PbnJhZnlKdHZnQ0VyR0xpSkMtUUI1WDVTcWdwOFA3dGpkZ3ozRWFxWVBFdzJjelcwVG9OZ2FpTTNLblpJNHYzcE0yNUg1bWhGd0HSAVNBVV95cUxQbG9WQW5aQXpDX3lveldqT0pzVmV5Q1JleUN0QXlXREl6bzA5ZHdJZUduZXRkVkViVU83NmJzZzlyZHNVZGo3SjU2YWRGWVRhNUdCMA?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-09T09:44:18.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "7월 세계식량가격지수 131.1⋯ 3년반만에 최고치",
           "summary": "",
@@ -156,7 +171,21 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-08T16:33:00.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "폭염·전쟁에 다시 뛰는 세계 식량가격…3년반 만에 최고",
@@ -166,20 +195,6 @@
           "sourceInitial": "연",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-07T12:50:20.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "세계 식품 가격, 전쟁과 폭염으로 3년 래 최고치…유엔 FAO",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VYWEyY0NINWNPeWdLY0N6SzFWM09GU1BRcWJCQ0l3Mlp6SW4xeEVvMDVHbVN4TW5BUWZObWFvLWpUWWV5ZUFpMl9oTmVIYXlIektxRUt0OGRRMFFpY3RBaNIBeEFVX3lxTE1PR2NWTTduYzM1MVFBZktJVnQ4dkFaWHJ2QWxnX2t4VDExNW5vN2lzU0tpNjdMUHRUSlRmQ1lJNUVCWGVuTWpPeEptQ2s2U051LS1keXFWLWQ2WGM4OEE2Q2I3UWI2TnlEY00wT3NVOC1qU29VMlJUTw?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T09:58:48.000Z",
           "tags": [
             "가격"
           ],
@@ -245,22 +260,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 3,
       "items": [
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-08T16:33:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "CJ프레시웨이, \"매출 9,232억원 찍었다\"…외식 둔화에도 성장한 이 식자재 유통사",
           "summary": "",
@@ -273,21 +274,7 @@
             "유통"
           ],
           "price": null,
-          "feat": false
-        },
-        {
-          "title": "충북 유통 농·수산물 방사능 '이상 무'…393건 검사 모두 적합",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jcElVRjNLaXZwbWVUSWxEVVhza2J4V0Z5S3g1VjJTR0d2V2RSX3Z5MWh4c2ZEVFRrYUlvT3VnWlZkMnFNRGk4RzRqdGpIM3J2d3k1YUZ0WWRGcEZF?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-07T08:16:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "초콜릿 녹고 식자재 상할라…40도 폭염에 식품업계 초긴장",
@@ -305,46 +292,10 @@
           "title": "경기도극단, 급식조리사 삶 무대에…‘버닝:타오르는 삶’ 9월 초연",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHOUhlZ0RfNzgwZVlzaE5Cc3dCNGliMXR3cThLdDdfOF9VQ2phR0k2MllJTVh6MHVEZWp2ZVpPckNDOEdhS01RcTB4TEVObVJGSDBtRmgxLUZ3QQ?oc=5",
-          "source": "데일리엔뉴스",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
+          "source": "dailyn.net",
+          "sourceInitial": "da",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-08T23:56:46.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, ‘슈퍼레이스’ 협업 특식 이벤트 … 단체급식에 모터스포츠 감성 더했다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqUVE0V3V5M25mVGpBZWNRcUgzNXFhTWthQjZ0UkJmTlZDMU82LVVCUnAwTC1iRzNPNVo3MUphaVU1VVMyb0lnSHk0dUNUdFdDNVFXbzNSWkZEcE5lbGNVcW9uZzROQUhIX3pWbQ?oc=5",
-          "source": "워크투데이",
-          "sourceInitial": "워크",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T08:53:32.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "급식업계, 2분기 수익성 '희비'…수익원 다각화 분주",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWDFzSWZRb2VjZ2JRWExwZHI5dTRKdDBVUWV2QWNKSkFtMkFKczR6Mk1XYTdQNU5HUTBQMU1ocWFzRFJzUkJGMG16UHZlMklLdXFnaWs4SXVhYWJEV2dWVWM3TFNMOENuQXZ0RA?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-07T08:34:40.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, 스포츠 IP로 단체급식 차별화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QRlc2WWNGZ0V0N2xDbXo1MFpSZ0JWdFdEb2p5ME5FblNFYUI4c0loYTJFQy1fY216cWN6djNJaDNxSnc2S1FRaHZxVURDMlJkZ0J3RXNwMWIxT3RPbGpJSm1nMzNHVndkQW9zatIBcEFVX3lxTE5aWkdlenphSEE0bmtCU1hBdmlHbDlCTmVJdWo2ZnNDVENfQWU3NjEycTNtU2xQZHJCYXduMDF5b3Fub3pRMlM4MDZlc0VFOW1UV2g2bFlKbXJqR1ZsYnE1cjhBNkVJSjBiV0NMbVFkMVQ?oc=5",
-          "source": "소년한국일보",
-          "sourceInitial": "소년",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-07T08:02:27.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -405,16 +356,14 @@
           "feat": false
         },
         {
-          "title": "일본, 식품 소비세 8%→1% 인하 추진…물가 부담 완화냐 재정 악화냐 ‘논란’",
+          "title": "폭염 덮친 시금치·상추…세계식량가격 3년 6개월來 최고 [폭염 피해 확산]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5adDE1MG9ZUGJjdXp4UW1kNjJZQ2FFMFBGNW5nelFyV2JtRVJGMDJRTFI0aWFZd0JPNVh4MUdOWnNON2ZBd2dwRkoxMk80c0t4RVBCVHJLM1VfVUdTWDNsdVAxQ014SjJVckttLURJN2poQdIBckFVX3lxTE5adDE1MG9ZUGJjdXp4UW1kNjJZQ2FFMFBGNW5nelFyV2JtRVJGMDJRTFI0aWFZd0JPNVh4MUdOWnNON2ZBd2dwRkoxMk80c0t4RVBCVHJLM1VfVUdTWDNsdVAxQ014SjJVckttLURJN2poQQ?oc=5",
-          "source": "newsiesports.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-07T09:26:24.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WbVZjbjk1VGlPQVllMkNEa0RGOHhRZkR4SGlUMmJtbHJsR0JMWGN4Zmg3NnJRTVpjMmwzVlNzbDFVaHltR3dMcW0yelNDa0JwQTY4?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-09T09:25:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -480,6 +429,21 @@
       "total": 4,
       "items": [
         {
+          "title": "투썸플레이스, 삼양식품 ‘불닭’과 협업 델리 신제품 2종 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhN2k0enZlbzJvX0JEcTJQYUVFOFJ5V0NtcjBmdmlxaEZYWFM2eDhWaFo3OUJxSlo3bm5iV3JBSG1ibzlrMzY3cXNhYUEwamdvMi1TTXFXSmRyLUZjSWhWNlNyaXI3TGRQWC1uR0pCMkpkUFVI0gF0QVVfeXFMUGE3aTR6dmVvMm9fQkRxMlBhRUU4UnlXQ21yMGZ2aXFoRlhYUzZ4OFZoWjc5QnFKWjdubmJXckFIbWJvOWszNjdxc2FhQTBqZ28yLVNNcVdKZHItRmNJaFY2U3JpcjdMZFBYLW5HSkIySmRQVUg?oc=5",
+          "source": "세계문화신문",
+          "sourceInitial": "세계",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-07T16:41:17.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "\"한 끼라도 싸고 간편하게\"…고물가·1인 가구에 커지는 간편식 시장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wQ3htUUtEU1FWd0szZnkxU2F2aDBtMDJ0cHAydzRrUFFrTXFKV0ZhSkl1TFRZak95NFZYMGJjVGlNMDRtMkJmY0xtcFh4UzhxQTRwcQ?oc=5",
@@ -491,16 +455,16 @@
             "간편식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
-          "title": "[bnt글로벌 홍콩 K-푸드테이블] 지구촌 K맛집⑤ 세계 미식의 수도 홍콩을 사로잡은 K-치킨의 반란, 굽네치킨 코스웨이베이 V Point점 | bnt뉴스",
+          "title": "[오늘의 유통리뷰] 현대그린푸드·BGF리테일·이그니스·GS리테일",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRExjZkRTRmlYTUp2d3RGeDgxa3M0bHNGSk8yeXhsVm5hS1NCcDhtWFI3UzJVUnhjeHBXN3FxdFhYZGQzN0pxdF94TGZPWFNNX0gwWm91dzdoNUd0NC0wYlpuNHNsTy0ybmdOX1JiNA?oc=5",
-          "source": "bntnews.co.kr",
-          "sourceInitial": "bn",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWDY1TzRVaExKVXZoNDlidThMQnlTdUFKN0Y5RGN3N3JheFMxYXg1UDdid1FRVUpucXliU0NROFlHajFSV0xNY3BBV3M3Uk9QcllnVlFacmxjUG40eWQ2b2FEVksyQ2hmcTJ4RjRETzhabmhK?oc=5",
+          "source": "파이낸셜리뷰",
+          "sourceInitial": "파이",
           "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-09T07:15:32.000Z",
+          "publishedAt": "2026-08-09T08:04:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -513,18 +477,6 @@
           "sourceInitial": "위키",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-08T05:46:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한국인은 반찬, 세계인은 간식! K-김의 모든 것 ｜ NO.1 K-BOB Ep.5",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTldmUHpHR21ET1RCZnpMSWc2TEZjS0RkUXZaUTZ0UHI0NUloSW5QVWVKdjZYNWM3TUo2V2hwbVhFeXUxVDFpOXhoSC1JMnVUY19yTlpvUTFvV29Q?oc=5",
-          "source": "youtu.be",
-          "sourceInitial": "yo",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T09:02:15.000Z",
           "tags": [],
           "price": null,
           "feat": false
