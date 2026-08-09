@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:49:51.283Z",
+  "generatedAt": "2026-08-09T07:58:16.228Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 12,
       "items": [
-        {
-          "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWE1LRkFVeko0WnFCZmtucUVsbVdJSElkdEkyeGJaRlVaMGNiTGN6QTNEbms3OHgxdzU2LU5jTDFUWjdBRC1rUWR1TklwSlhzS25GRjFYVklHcVl4NmhLR0VFYWNKVVBCM3JicDE2N0gtRjRjNXc?oc=5",
-          "source": "kr.news.cn",
-          "sourceInitial": "kr",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T04:54:15.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "부산 프랜차이즈 사관학교 11기 출범...AI·마케팅·가맹운영 집중 교육",
           "summary": "",
@@ -46,16 +31,44 @@
             "가맹"
           ],
           "price": null,
+          "feat": true
+        },
+        {
+          "title": "외국인 242만명 찾은 부산…배민, 사장님에 AI 메뉴판 가르친다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92eDBTRXhuemFrYXBXY1RnVnNULXp4dUpMZHNFem9aeWZULTcxcVdLeTQ1bUl6UzBKRVBLZDEzTldkdFVOVXZQZmtZZ2ZjNnBUTjlzNFd3?oc=5",
+          "source": "지디넷코리아",
+          "sourceInitial": "지디",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-09T06:48:44.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
           "feat": false
         },
         {
-          "title": "배달의민족, 부산서 AI 기반 외식업 현장 교육 추진",
+          "title": "우아한형제들, 8월 10일부터 배민아카데미 부산편 모집…외식업 사장 대상 4주 AI 마케팅 교육",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUjlkREpIRHZVdk1nQXE0MU5OVUpCRU9vOG5hU2lNTTVvWGkxeGRJbWlzSi1pTmFJYzdPdEZnclF3R210VUVocEhvZ0t1TnpkdEV6RHlsR0hzN2tWNEpnMGMwOFRiNnpuTXBB?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-09T03:16:48.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iaGJmMkpReDRJU29EbGNuMU1yVjhIcnBLNmNidTRYVVR3VlRqMTJsOTgyRkV0SXpaTU5EdkxvTFBzOXV6LUNmckxfX1pjZmxLckYw?oc=5",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-09T06:29:00.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "부산 찾는 외국인 증가에 배민, 외식업주 AI·마케팅 등 교육",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EamVjejZsV2pxSThKOXNQa2FlaVZPemRoaW0yYXdPcU5rYWZWQUtfdktXdkNvR2hrb29ySTE5X0RkRlJuRktPRGw1dFRiY052ci13aGpPWkd4cXIteGNOdnozbWpudlN5Qnc?oc=5",
+          "source": "월요신문",
+          "sourceInitial": "월요",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-09T05:09:07.000Z",
           "tags": [
             "외식"
           ],
@@ -117,20 +130,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[뉴스락 특별기획] ‘10%의 대표성’ 누구를 위한 기준인가…프랜차이즈 협의권의 딜레마",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic0VVZ2l5R0xXanhvaDVIQ2g1cnhLTGh4aTVHQTA0M0U5Skg0ZkhkSC1uTXJqaldZNUh0VlozWGk0X2RiR2ZsU1V3aFN2NmpFV1RISGQ3QlVJeEtsQzhCRlN3V2dvNWhtYVdfRA?oc=5",
-          "source": "뉴스락",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-08T01:02:41.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "7월 세계식량가격지수 131.1⋯ 3년반만에 최고치",
@@ -158,20 +157,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-08T16:33:00.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "폭염·전쟁에 다시 뛰는 세계 식량가격…3년반 만에 최고",
@@ -202,16 +187,14 @@
           "feat": false
         },
         {
-          "title": "교촌에프앤비, 2Q 매출 4.9%↑…원가 부담에 영업익 감소",
+          "title": "음식점 우대 공제율 9/109 유지…연 매출 4억 이하 2년 연장",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16anlUd3ZKZTVFNFZYbWFrQkl4OVAxXzJONjFjSVZvY01fZ3gyTkdrMmVPQlExQkw1OVMxaHAtdWxneXY2Yk90aUZRaWVES2JOWV9zeFdvME9OWUkwSnlicHFmQjlSN0wy?oc=5",
-          "source": "ebn.co.kr",
-          "sourceInitial": "eb",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-07T08:17:43.000Z",
-          "tags": [
-            "원가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsdmZ1Ni1wdGh0TGIzWW90bkRySjlKdmliVEZOckxMdTV2ODhZclBjU000eWF0aFhVRC0zcDJzTTNTSURPaG9uY3hlS0ZFWlNfR2FCeVVrczhsRk4tejVEM2hKeExrX2s?oc=5",
+          "source": "자본시장뉴스",
+          "sourceInitial": "자본",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-09T06:30:49.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -265,6 +248,20 @@
       "total": 8,
       "items": [
         {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-08T16:33:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "CJ프레시웨이, \"매출 9,232억원 찍었다\"…외식 둔화에도 성장한 이 식자재 유통사",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LX01weDJPbjlTT0ZTclBDTHJndldoWkNWNW1UVXgtVjFTaEhMZk5ldTFRTFluODNKR0t4cUVscVl2cDJ0OWxkeVFlVVJ6cE8xQkZUdHR0eE5Ka01qWXBYamRuY2RjWE5DODh0ekhB?oc=5",
@@ -276,7 +273,21 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "충북 유통 농·수산물 방사능 '이상 무'…393건 검사 모두 적합",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jcElVRjNLaXZwbWVUSWxEVVhza2J4V0Z5S3g1VjJTR0d2V2RSX3Z5MWh4c2ZEVFRrYUlvT3VnWlZkMnFNRGk4RzRqdGpIM3J2d3k1YUZ0WWRGcEZF?oc=5",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-07T08:16:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "초콜릿 녹고 식자재 상할라…40도 폭염에 식품업계 초긴장",
@@ -306,9 +317,9 @@
           "title": "CJ프레시웨이, ‘슈퍼레이스’ 협업 특식 이벤트 … 단체급식에 모터스포츠 감성 더했다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqUVE0V3V5M25mVGpBZWNRcUgzNXFhTWthQjZ0UkJmTlZDMU82LVVCUnAwTC1iRzNPNVo3MUphaVU1VVMyb0lnSHk0dUNUdFdDNVFXbzNSWkZEcE5lbGNVcW9uZzROQUhIX3pWbQ?oc=5",
-          "source": "worktoday.co.kr",
-          "sourceInitial": "wo",
-          "sourceColor": "#8a5cc4",
+          "source": "워크투데이",
+          "sourceInitial": "워크",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-07T08:53:32.000Z",
           "tags": [],
           "price": null,
@@ -337,30 +348,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "알토란ERP, ‘K발주’ 품목별 주문 마감시간 기능 추가…신선식품·공산품 별도 관리",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9va1BPZ2c0T2JZaGllVVRUZzUweVU5TW93cFVwbWpoZGxTQlNGZVRZbktBT0MwdEV5UnlMMFNCeGJ6RmowTk9yTlhDVTRLUGxSVUpr?oc=5",
-          "source": "더밸류뉴스",
-          "sourceInitial": "더밸",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T06:20:53.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘농·수산물 393건 방사능 검사’ 모두 적합",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oWFVZb3JTeVJtTk5vak82dnhVV2VLanRXNVpiOTZxR25Da09pYzdQRk1ZYThoaGJDR0RoZnBLc2YxejJKNFRYM205ZnpQMjMydE1ETDg0aVdFOTJvMTlfU1p0cEZrdGVMWEM1eg?oc=5",
-          "source": "공뉴스",
-          "sourceInitial": "공뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T04:53:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -376,6 +363,20 @@
       "total": 8,
       "items": [
         {
+          "title": "“시금치 한 달 새 152%↑”… 폭염에 장바구니 물가 다시 들썩",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Oakk0a2dReW9ibXhDUW9ybndvTVpuZGVQOXdYUkpRSWlUOVpreDJKWjFRUUZkSkxpSnFwVFpKNjBqMExpTV9qVVZlOWVfS1k?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-09T06:05:04.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "폭염에 시금치값 2.5배 껑충…무더위에 밥상 물가 '비상'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WN3IxR0tVa2gydk5VNWduNmQyLTV3MVVFYWRkLXVMSjRlcFhQekpWLWUtNXVKUXVmM01kUjlBeTZ2UFR2N2I1LUN0X1VNSS1mX0UyQUl1RjVpX1A4elFrbTFHOUQ?oc=5",
@@ -387,7 +388,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "기록적 폭염에 장바구니 물가 촉각…배·토마토·계란 올랐지만 8월 공급 늘며 안정 전망",
@@ -433,9 +434,9 @@
           "title": "EU, 친환경 기준 강화: 베트남 농산물, 시험대에 오르다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU03bXZuNmFXaWlKdGN0b2JEWnNfX19TMEJIZjNqYWhRSnM0eTlOWGFNSmtiM0RvSEhtaGE1Tk13OFBpWDlXZFUyUXdZWXp4bUxOWDZTT1RJTHhubUQxSUNNaHpZWHNzdGhGcnEtbFdLNkQzZFVaWWFLVDBfM1k2U09sUFRfdDQ?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-08T14:42:32.000Z",
           "tags": [],
           "price": null,
@@ -464,18 +465,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "자비스, 글로벌 식품 소스 브랜드 유럽 생산라인에 X-ray 검사장비 공급",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80dlVUVVJabnQ5MzNWU285b01neEpMR0lRR1FqQnZYVDZOLURSSHFHVGllenl6aFI4LW5qN0x5bkEtXzlYZU9ZTHhIdw?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T07:52:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -488,34 +477,31 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
-          "title": "골든팜, 2026 베트남 식품 및 음료 박람회에서 신제품 라인 출시",
+          "title": "\"한 끼라도 싸고 간편하게\"…고물가·1인 가구에 커지는 간편식 시장",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjJycHViNFJjWHZTM3lsMUlOdUpHU1p6MGVFeHY1YzJUQ3FVdVFOUjRYWVZ6c1h6bzFyQTBsNml3NS15UVlnZ0N5TURZOENrMEt6VDd3cDJKbjJhNWRsNW5DRFpUbmhuY2FKMEEydi1vbHY3V0V3bGRsT1YtUlk1MHl1MWk2UUMta1JVWG95V2xScWc?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wQ3htUUtEU1FWd0szZnkxU2F2aDBtMDJ0cHAydzRrUFFrTXFKV0ZhSkl1TFRZak95NFZYMGJjVGlNMDRtMkJmY0xtcFh4UzhxQTRwcQ?oc=5",
+          "source": "데일리안",
+          "sourceInitial": "데일",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-07T06:17:09.000Z",
+          "publishedAt": "2026-08-08T23:18:00.000Z",
           "tags": [
-            "신제품",
-            "출시"
+            "간편식"
           ],
           "price": null,
           "feat": true
         },
         {
-          "title": "미국, K-푸드 최대 수출시장…라면·김치 인기 확산",
+          "title": "[bnt글로벌 홍콩 K-푸드테이블] 지구촌 K맛집⑤ 세계 미식의 수도 홍콩을 사로잡은 K-치킨의 반란, 굽네치킨 코스웨이베이 V Point점 | bnt뉴스",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLSWRpbHhBbHVIRF83VVhuMmlPMHo5aDZHWnhITl9mR1Ftdk1keDdJTndJVldtdFBoNl9BVG1IWFIwTWtnN0HSAUZBVV95cUxQS0lkaWx4QWx1SERfN1VYbjJpTzB6OWg2R1p4SE5fZkdRbXZNZHg3SU53SVZXbXRQaDZfQVRtSFhSME1rZzdB?oc=5",
-          "source": "KBFD",
-          "sourceInitial": "KB",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-07T05:02:00.000Z",
-          "tags": [
-            "출시"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRExjZkRTRmlYTUp2d3RGeDgxa3M0bHNGSk8yeXhsVm5hS1NCcDhtWFI3UzJVUnhjeHBXN3FxdFhYZGQzN0pxdF94TGZPWFNNX0gwWm91dzdoNUd0NC0wYlpuNHNsTy0ybmdOX1JiNA?oc=5",
+          "source": "bntnews.co.kr",
+          "sourceInitial": "bn",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-09T07:15:32.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -535,22 +521,10 @@
           "title": "한국인은 반찬, 세계인은 간식! K-김의 모든 것 ｜ NO.1 K-BOB Ep.5",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTldmUHpHR21ET1RCZnpMSWc2TEZjS0RkUXZaUTZ0UHI0NUloSW5QVWVKdjZYNWM3TUo2V2hwbVhFeXUxVDFpOXhoSC1JMnVUY19yTlpvUTFvV29Q?oc=5",
-          "source": "YouTube",
-          "sourceInitial": "Yo",
-          "sourceColor": "#8a5cc4",
+          "source": "youtu.be",
+          "sourceInitial": "yo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-07T09:02:15.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 7일 식품업계 소식] 대상·오뚜기·풀무원푸드앤컬처·삼립·CJ프레시웨이·BBQ",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybHpJOXp0QXl5Z2ZESHBQRl9Xc3NDaGxIelFVLV9fakFhV2oxWk9WbW1zWmlyT1UtNENNbm5fQ19QZWgwOG1NWUJpUm1iYXpsS3JQd1pNVHN6QUxqT2xHa2FDekNZVVdlYm5ueQ?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-07T06:39:53.000Z",
           "tags": [],
           "price": null,
           "feat": false
