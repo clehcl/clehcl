@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T17:50:19.465Z",
+  "generatedAt": "2026-08-09T19:51:01.452Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "‘보름달 빵 200원 올라’…삼립, 다음 달 빵가격 평균 9%대 인상",
@@ -240,13 +240,13 @@
           "feat": false
         },
         {
-          "title": "말레이시아 팜유 인력 5만 명 부족 사태…생산 최대 15% 감소 전망, 한국 식품업계 대응 시급",
+          "title": "2026년 임산부 엽산 가성비 추천: 현명한 선택 가이드 : 건강식품",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04M0lTMFJZbXRFdklSVU9rQXF1TldTQ1dOc25VRlFyTUJkS1ZFZFMtMTNfZTZrcUhxdlN0TWs0RjFEVFZJYndReGNSTU4?oc=5",
-          "source": "한국AI부동산신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-08T20:50:39.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRjlMdG8wQ1ZzOWZ2V1lKLW1LWWlWYkk4WlFZZGFzYmREWHQ1dmFBZGFHVnlZNTI1dWdqT2RQX3B6LTFNZVVJU0E4YW9jZm9zUUw0?oc=5",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-09T00:05:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
