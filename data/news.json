@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:18:19.308Z",
+  "generatedAt": "2026-08-09T23:03:02.386Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -91,13 +91,13 @@
           "feat": false
         },
         {
-          "title": "배달의민족, 부산서 AI 기반 외식업 현장 교육 추진",
+          "title": "부산 찾는 외국인 증가에 배민, 외식업주 AI·마케팅 등 교육",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUjlkREpIRHZVdk1nQXE0MU5OVUpCRU9vOG5hU2lNTTVvWGkxeGRJbWlzSi1pTmFJYzdPdEZnclF3R210VUVocEhvZ0t1TnpkdEV6RHlsR0hzN2tWNEpnMGMwOFRiNnpuTXBB?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-09T03:16:48.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EamVjejZsV2pxSThKOXNQa2FlaVZPemRoaW0yYXdPcU5rYWZWQUtfdktXdkNvR2hrb29ySTE5X0RkRlJuRktPRGw1dFRiY052ci13aGpPWkd4cXIteGNOdnozbWpudlN5Qnc?oc=5",
+          "source": "월요신문",
+          "sourceInitial": "월요",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-09T05:09:07.000Z",
           "tags": [
             "외식"
           ],
@@ -176,7 +176,7 @@
         {
           "title": "7월 세계식량가격지수 131.1⋯ 3년반만에 최고치",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jd3VUdUYydWxuX09aZ01JNnN6NEJMWU42cm1GRnJ6NkpGNEg5YUVRRGRhaXNqMkQzSTNUQTBvdE1XdXNsNjJNUlUxRTFDOUhyX3BsbA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CSFM3NjNaUXlUa0E0Mk94VmQ1bTdpVmJkZXh3VTBzd3FvMWxOdWJlU0FMa3ZNV3BsUktveUxaSjlXd0JldGpCRHZRUnlsOUwxUEpUeTZrRjdoZw?oc=5",
           "source": "브릿지경제",
           "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
@@ -289,7 +289,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "폭염에 시금치값 2.5배 껑충…무더위에 밥상 물가 '비상'",
@@ -304,6 +304,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "관세법으로 이미 처벌받았는데, 수입식품법으로 또 처벌될까-김미연 변호사의 식품 판례 프리즘(6)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNmROTGk5MEpDZ1V6ZHVKckZZdG5UR1NMTDlzZ0pPRGp5Q2ZQQml1bVEwSXNpSjlhNzRFMGRnX1RkNENCaTJRMk1KSC1UWFhpNjllQzNCSHU0WmhZS2N5ZFRCY0t3Nk15ampFQWcwbw?oc=5",
+          "source": "thinkfood.co.kr",
+          "sourceInitial": "th",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-09T22:45:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "CPTPP 문턱서 커지는 '후쿠시마 수산물' 개방 압력 [수출과 식량주권 사이]",
@@ -369,22 +381,10 @@
           "title": "EU, 친환경 기준 강화: 베트남 농산물, 시험대에 오르다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU03bXZuNmFXaWlKdGN0b2JEWnNfX19TMEJIZjNqYWhRSnM0eTlOWGFNSmtiM0RvSEhtaGE1Tk13OFBpWDlXZFUyUXdZWXp4bUxOWDZTT1RJTHhubUQxSUNNaHpZWHNzdGhGcnEtbFdLNkQzZFVaWWFLVDBfM1k2U09sUFRfdDQ?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-08T14:42:32.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 오늘의 Big Picture !] 튀르키예, 흑해 통항 제한…한국도 곡물·유가·해운비 ‘간접 충격’ 우려",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNeV9ZclVrN0dmc0JCeGp4cG5nVzVtak5yYmFvWmRMV2NLMnItanVhQnRzOV9VQm1mTERCOTVSNmhuY3NmS1hBaXlUZUNsT1pqR2RzaW82d0RKR21hTGl0aVlDTnRmOGFPVmFDR3VB?oc=5",
-          "source": "코리아포스트 한글판",
-          "sourceInitial": "코리",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-08T12:06:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
