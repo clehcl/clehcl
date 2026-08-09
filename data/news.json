@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T19:51:01.452Z",
+  "generatedAt": "2026-08-09T21:18:19.308Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 16,
       "items": [
         {
           "title": "번지는 차액가맹금 소송…외식 프랜차이즈 M&A에 '불똥'[시그널]",
@@ -37,13 +37,27 @@
           "title": "中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LQXUxOUZIbnAtMFQ3WnhHdDJJY21zY0c4Z2locXNQdEY1dVBVdkpXUE80anR4ZlFuR3BEbVpKZ0k3RzlmcXFKMUk1ZTg4cWFEbXFPR1d0VHZub21RVDhBVm9NQmF6RTRkbTZuX1ViNkJFVlhFZVYzMWdDc3o?oc=5",
-          "source": "kr.xinhuanet.com",
-          "sourceInitial": "kr",
-          "sourceColor": "#c98a2b",
+          "source": "신화망",
+          "sourceInitial": "신화",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-09T07:14:52.000Z",
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[돋보기] 사모펀드가 삼킨 한식 프랜차이즈 1세대 '놀부의 39년 흥망성쇠'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFSGpsMXpqSjVzMFlyV0F0NFZVN2NaTUs4cGFjX1ZmYWFtdmE4WFdBNjB0elBURkZueWtwSkVQYzI1YkltalZSMzJsZDNXNW1fbFo2NkRaY2RfMWZUbGNR?oc=5",
+          "source": "저스트 이코노믹스",
+          "sourceInitial": "저스",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-09T20:55:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -117,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "한양대 경영전문대학원, 제18기 프랜차이즈 CEO 과정 모집",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xTWYxcGVuNDVsS0l3ekljc1hJMXZFeFpIQ1Jnak1fdnNKcFo3WGtIVlJOZEs0LTUzS25YMy1DOURFQUVudGNpZGFNeFFfcHpteGVYMlptZVJTbVZqeVV2X3hmTXRtSEtVcEJRT0daY0o?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-09T01:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "‘보름달 빵 200원 올라’…삼립, 다음 달 빵가격 평균 9%대 인상",
@@ -160,9 +160,23 @@
           "feat": true
         },
         {
+          "title": "삼립, 빵값 평균 9% 가격 인상⋯“원부자재 값 상승 영향”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qbnZjaEsxNXNvVEF6YnRvRDY3UzNtU09hZEVORHU4dXRfeHpyOHJGczNKc196dlVyNUZKY29oelcxVWhmYlNGVlljcHZ6Yl9na0NTNA?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-09T08:39:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "7월 세계식량가격지수 131.1⋯ 3년반만에 최고치",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CSFM3NjNaUXlUa0E0Mk94VmQ1bTdpVmJkZXh3VTBzd3FvMWxOdWJlU0FMa3ZNV3BsUktveUxaSjlXd0JldGpCRHZRUnlsOUwxUEpUeTZrRjdoZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jd3VUdUYydWxuX09aZ01JNnN6NEJMWU42cm1GRnJ6NkpGNEg5YUVRRGRhaXNqMkQzSTNUQTBvdE1XdXNsNjJNUlUxRTFDOUhyX3BsbA?oc=5",
           "source": "브릿지경제",
           "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
@@ -238,18 +252,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "2026년 임산부 엽산 가성비 추천: 현명한 선택 가이드 : 건강식품",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRjlMdG8wQ1ZzOWZ2V1lKLW1LWWlWYkk4WlFZZGFzYmREWHQ1dmFBZGFHVnlZNTI1dWdqT2RQX3B6LTFNZVVJU0E4YW9jZm9zUUw0?oc=5",
-          "source": "의약일보",
-          "sourceInitial": "의약",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-09T00:05:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -262,7 +264,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 2,
+      "total": 1,
       "items": [
         {
           "title": "초콜릿 녹고 식자재 상할라…40도 폭염에 식품업계 초긴장",
@@ -275,18 +277,6 @@
           "tags": [],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "경기도극단, 급식조리사 삶 무대에…‘버닝:타오르는 삶’ 9월 초연",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHOUhlZ0RfNzgwZVlzaE5Cc3dCNGliMXR3cThLdDdfOF9VQ2phR0k2MllJTVh6MHVEZWp2ZVpPckNDOEdhS01RcTB4TEVObVJGSDBtRmgxLUZ3QQ?oc=5",
-          "source": "데일리엔뉴스",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-08T23:56:46.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -299,21 +289,33 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "폭염에 시금치값 2.5배 껑충…무더위에 밥상 물가 '비상'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WN3IxR0tVa2gydk5VNWduNmQyLTV3MVVFYWRkLXVMSjRlcFhQekpWLWUtNXVKUXVmM01kUjlBeTZ2UFR2N2I1LUN0X1VNSS1mX0UyQUl1RjVpX1A4elFrbTFHOUQ?oc=5",
-          "source": "서울경제TV",
-          "sourceInitial": "서울",
-          "sourceColor": "#1a7a5a",
+          "source": "sentv.co.kr",
+          "sourceInitial": "se",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-09T01:46:05.000Z",
           "tags": [
             "물가"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "CPTPP 문턱서 커지는 '후쿠시마 수산물' 개방 압력 [수출과 식량주권 사이]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DMXM3Z0dyQ3Z4bm45UWQtREhuaWNZdjZGZ3VYblFTLVlYd3dPTEpXUDNRTVZ5SjUzcFdBT1FhdGZsSFpJQkdIRHR1UjljSXJieVdzTQ?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-09T20:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "삼립, 다음 달 빵 50여종 가격 인상…평균 9%대 오른다 : 경제",
@@ -367,9 +369,9 @@
           "title": "EU, 친환경 기준 강화: 베트남 농산물, 시험대에 오르다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU03bXZuNmFXaWlKdGN0b2JEWnNfX19TMEJIZjNqYWhRSnM0eTlOWGFNSmtiM0RvSEhtaGE1Tk13OFBpWDlXZFUyUXdZWXp4bUxOWDZTT1RJTHhubUQxSUNNaHpZWHNzdGhGcnEtbFdLNkQzZFVaWWFLVDBfM1k2U09sUFRfdDQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-08T14:42:32.000Z",
           "tags": [],
           "price": null,
@@ -398,8 +400,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "식품 트렌드 분석부터 상품화까지 AI로 '뚝딱'…K푸드 날개",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVTG0tSTRIcjh1czBUQUVnci01cnlTVGxVSFpZQ0oyUURGczFKME50SkpyLVFnd1VRQndSVnFpNjd5aXBBT21ZMHBjMDJJeW1TWGJV?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-09T21:04:00.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "\"한 끼라도 싸고 간편하게\"…고물가·1인 가구에 커지는 간편식 시장",
           "summary": "",
@@ -412,7 +428,7 @@
             "간편식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[오늘의 유통리뷰] 현대그린푸드·BGF리테일·이그니스·GS리테일",
