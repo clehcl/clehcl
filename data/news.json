@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:59:18.138Z",
+  "generatedAt": "2026-08-09T00:01:18.736Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,6 +19,21 @@
       "total": 15,
       "items": [
         {
+          "title": "[경제] 中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWE1LRkFVeko0WnFCZmtucUVsbVdJSElkdEkyeGJaRlVaMGNiTGN6QTNEbms3OHgxdzU2LU5jTDFUWjdBRC1rUWR1TklwSlhzS25GRjFYVklHcVl4NmhLR0VFYWNKVVBCM3JicDE2N0gtRjRjNXc?oc=5",
+          "source": "신화망",
+          "sourceInitial": "신화",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-07T04:54:15.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "부산 프랜차이즈 사관학교 11기 출범...AI·마케팅·가맹운영 집중 교육",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4UFQ4Z1UwTXFTTVk1Tm5KVUlCVjI0SkFUUThCSElzdlRSRlE0UHRldHJVYlNTbDAzSmV2UW53ZF9SQUltYUREQURieHpDN3huSTRidnpUM0ZlUEZ4cWYtSXA5RVk2UU9WeDk1X0N2WdIBc0FVX3lxTE9nbmZNelFldEJWY1h2RW9SQ1p0WkE0QklaaXg5MGp1OVB5WDZCcG9PNFpEWkZvSHhfaHV0TEU1LTNVOGU0bElYeG4yZjJHYVVYUVVVV21hSnFqUE02UFYxdEVrZEczZ0lqbjBWcnRWajdhRE0?oc=5",
@@ -31,7 +46,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "외식 프랜차이즈 M&A 다시 활기… 대형 버거 ··커피 치킨 ‘매물 러시’",
@@ -113,20 +128,6 @@
           "sourceInitial": "이넷",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-07T23:58:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"프랜차이즈 AX 핵심은 데이터 표준화…업계, 공동 활용 기반 마련 필요\" [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1BpaXpicUZ3YU5ucldnUWx3NkItNHRMRE5BY2twUUxjeGtGMWRLbjNhX2h4VHRRZEw4WnR1OGF3d0xyT3FQN0JZS0h1QTRvdGVwTUlNQTF0Mk1zTHB5cm4wVml0ZGlXZWh4TUMwMzZkRjI0YXV2Tl81QTNaN3B0WkJzc01EbmpaZVQtZldn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-07T09:38:55.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -263,7 +264,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "CJ프레시웨이, \"매출 9,232억원 찍었다\"…외식 둔화에도 성장한 이 식자재 유통사",
@@ -283,9 +284,9 @@
           "title": "급식업계, 2분기 수익성 '희비'…수익원 다각화 분주",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWDFzSWZRb2VjZ2JRWExwZHI5dTRKdDBVUWV2QWNKSkFtMkFKczR6Mk1XYTdQNU5HUTBQMU1ocWFzRFJzUkJGMG16UHZlMklLdXFnaWs4SXVhYWJEV2dWVWM3TFNMOENuQXZ0RA?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
+          "source": "goodkyung.com",
+          "sourceInitial": "go",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-07T08:34:40.000Z",
           "tags": [],
           "price": null,
@@ -307,9 +308,9 @@
           "title": "알토란ERP, ‘K발주’ 품목별 주문 마감시간 기능 추가…신선식품·공산품 별도 관리",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9va1BPZ2c0T2JZaGllVVRUZzUweVU5TW93cFVwbWpoZGxTQlNGZVRZbktBT0MwdEV5UnlMMFNCeGJ6RmowTk9yTlhDVTRLUGxSVUpr?oc=5",
-          "source": "더밸류뉴스",
-          "sourceInitial": "더밸",
-          "sourceColor": "#2f7d4f",
+          "source": "thevaluenews.co.kr",
+          "sourceInitial": "th",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-07T06:20:53.000Z",
           "tags": [],
           "price": null,
@@ -340,13 +341,13 @@
           "feat": false
         },
         {
-          "title": "'한화 삼남' 김동선, 홀로서기 본격화…한화M&S 출범",
+          "title": "‘한화 삼남’ 김동선, 홀로서기 본격화…한화M&S 출범",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YQVhmNkFsekRDcEVFM2VSZUt3VHpTVzFzMDd6TEE1V1F3OHZYdXE0cTM2S1V3cFgyR3NyRUpQc3Izb0RPY2VaY19jazduTXhhcDZn?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-07T03:34:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QR1FmdXp1UC1UY3pVS29UeC1jMm9hWXpEcFZoVHB5T1VsSVNmU1hmSzhjcmF3cEI0eWpaVTE3THI2V1MybEFaRUluOEFKRmtzQzlvcQ?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-07T03:33:12.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -487,12 +488,26 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
+        {
+          "title": "\"한 끼라도 싸고 간편하게\"…고물가·1인 가구에 커지는 간편식 시장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYkxVMzZGeWt0Sk1HUHduTk1uUS1xOXBXWUp3Q1ZUaUlDbV81RlpsaUtGNmJ1bFYyaUZnSFdhcFM5M25xcXI5Nk4xQWZJV01nYVhzX2ZPMlR5ZU5LMDgzV1ZDcGdoT1pmd1RrNjBXM1QydlA5NnZScjlvMl9xeVpqbFhaMXA1RUh1QmhrZnZWNlEwMW9xUlFLV2xUaFozOG13TWlVTHFrMmthdVJqQloxZ2xQNm5wVk5ZMmxqZXhOcVpuUTJYRUF2eFdaZHRwOHE5dDA1UXVIMUJDcVFpZUJwLW9rUnRYRUo0a0tPeHRmR1h0d3l3cllnbkR2RzdQemtVX2g1WVV3bU15VGhiOF9NV2E0V0VULXh6?oc=5",
+          "source": "데일리안",
+          "sourceInitial": "데일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-08T23:18:00.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "미국, K-푸드 최대 수출시장…라면·김치 인기 확산",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1IVEw2b2ZkX3NqcUtxY2FuN1AxV0tQazNPSnJvRkFlOGt2ZXBOQUphM0d1RzdzNnhXODk2NXpB0gE-QVVfeXFMTUhUTDZvZmRfc2pxS3FjYW43UDFXS1BrM09Kcm9GQWU4a3ZlcE5BSmEzR3VHN3M2eFc4OTY1ekE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLSWRpbHhBbHVIRF83VVhuMmlPMHo5aDZHWnhITl9mR1Ftdk1keDdJTndJVldtdFBoNl9BVG1IWFIwTWtnN0HSAUZBVV95cUxQS0lkaWx4QWx1SERfN1VYbjJpTzB6OWg2R1p4SE5fZkdRbXZNZHg3SU53SVZXbXRQaDZfQVRtSFhSME1rZzdB?oc=5",
           "source": "KBFD",
           "sourceInitial": "KB",
           "sourceColor": "#333333",
@@ -501,7 +516,7 @@
             "출시"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "Z세대 지갑 여는 '토마토코어'… 여름 유통가 붉게 물들었다",
@@ -531,9 +546,9 @@
           "title": "[굿모닝! 7일 식품업계 소식] 대상·오뚜기·풀무원푸드앤컬처·삼립·CJ프레시웨이·BBQ",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybHpJOXp0QXl5Z2ZESHBQRl9Xc3NDaGxIelFVLV9fakFhV2oxWk9WbW1zWmlyT1UtNENNbm5fQ19QZWgwOG1NWUJpUm1iYXpsS3JQd1pNVHN6QUxqT2xHa2FDekNZVVdlYm5ueQ?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
+          "source": "goodkyung.com",
+          "sourceInitial": "go",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-07T06:39:53.000Z",
           "tags": [],
           "price": null,
@@ -552,18 +567,6 @@
           "feat": false
         },
         {
-          "title": "[굿모닝! 7일 유통가 소식] 현대백화점·쿠팡·GS리테일·LG유니참·파스쿠찌·홈앤쇼핑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aMmZXN01JSnB3YlFfN3Z3eGlPVzlfd0pLQlJlN0wxSGpzdmpzRXhyRTRkeHpDTmVSSVdJY2VWc1Jkbk12aUg4ZUNPSFU1cHVEZ0JUUFNPZGZ3dGsxdXFYbFZZaU5ESDVFblJtUQ?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-07T02:23:25.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[라이프스타일 뉴스클리핑] 2026년 08월 07일(금): 온라인이 오프라인을 넘었다…식품 유통, 사상 첫 온라인 매출 추월",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zM1ZLbHFRd19WVGR1OUNHb29Ga2xWWGRidjdpVjg1MWNQRnktRlBHNlRwYlVIaEZlTDhiNHUySmUybmhGVEtKRHdxMHozdGxj?oc=5",
@@ -571,18 +574,6 @@
           "sourceInitial": "si",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-07T00:13:07.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "26년 6월 패스트푸드 리테일 동향: 최근 치킨, 피자, 햄버거 시장 동향은?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mcVdpZUUxM3ZPbTRobW1iMXJweHRyS3cwNHpLREpSR0twc25NLUNYUnIwNmZmcnhxMlZQdTZ5Z2RDeUZFWlpJUDF6U092THhqdkN6aWY1c1RqZ050NzFzYTluMnpDbHliM0hEMjlR?oc=5",
-          "source": "오픈애즈",
-          "sourceInitial": "오픈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-07T00:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
