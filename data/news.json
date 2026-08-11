@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T04:53:11.815Z",
+  "generatedAt": "2026-08-11T08:32:14.370Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,15 +16,15 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 27,
+      "total": 29,
       "items": [
         {
           "title": "[프랜차이즈 Pick] 창업 지원·메뉴 전략·해외 매장 브랜드 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqeWRSci01Y1FabG1wSS00ZHdvekRTXy1pUERCb0VXLThzSVdiN2MwanREM2lFcXhtaFQtTlRBUUVaOUJwczZXVmpPbmFVdXRZYU93eWphVm9IMldHa0dhNmNFM3R2YThLZHlB?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
+          "source": "lcnews.co.kr",
+          "sourceInitial": "lc",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-10T04:12:45.000Z",
           "tags": [
             "프랜차이즈",
@@ -49,16 +49,31 @@
           "feat": false
         },
         {
-          "title": "中 프랜차이즈 외식업계 상반기 회복세 뚜렷...'매장+배달' 방식이 주류-Xinhua",
+          "title": "파리바게뜨, 2026 美 가맹점 컨벤션 개최…북미 프랜차이즈 사업 속도↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByeUlNbjYybUstZUxoVmdSOVdyd3U1aFdLSnRibjhHV3JkLVlPM2hpWmJlM3VEcW44ZzlTVkdEQ3N3a3FrWXRSbnRUNERFVXVCbFczT0JIQWNROGxNRUgxbmo2NkVoRzNJdEpSWnBob0JIMTNadUE?oc=5",
-          "source": "신화망",
-          "sourceInitial": "신화",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-09T08:14:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0VXJQQlFfWE41VjRzTm9pckdRM1otOGZxRThZRWdLV2JCaEpjRENtdnctaVAwTkF1dC1jVmwxZGJLUFVVV3pzc3lnbV9IdDhNSDlQS2FLdm1NMGEwdUtvbFNZUk5YZ1VEYkpFVg?oc=5",
+          "source": "goodkyung.com",
+          "sourceInitial": "go",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-11T07:12:06.000Z",
           "tags": [
             "프랜차이즈",
-            "외식"
+            "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[푸드·다이닝트렌드] ‘요즘 저녁 2차는 타코벨에서?’··· 외식업계, 메뉴와 이용 경험 넓히는 ‘빅블러’ 전략 강화 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EOWFDZXBQazhLQTNRTExYUnZVNlFTUGJUV2s3VmlOU1NNRW5TbWVNU0czb0hkaU01NHRZV3liSWM2dVRXUkFjb08yUVR4d296WWhRUFBFeU9RcE9qYk5ZcWF1NjFkdlB2Y0JLLQ?oc=5",
+          "source": "ibabynews.com",
+          "sourceInitial": "ib",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-11T06:14:55.000Z",
+          "tags": [
+            "외식",
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -94,43 +109,29 @@
           "feat": false
         },
         {
-          "title": "커피 시장 3조 7천억원으로 '껑충'... 외식업체 7곳 중 1곳은 '카페'",
+          "title": "커피부터 치킨까지 필리핀行…K-프랜차이즈 동남아 새 격전지로 부상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LZDVYaktVU09oMk1QclhhWVp6dkJqYjFFTXlXdDczUkM3c0VtNW9BejVoTjFkYjNXTmRFM3F5NlZPS0VxcW9LeDY4LXhDQkMtZmx1Y1JVc01pWjVnTFBBa0tkVFhkZ19XVkdlSW9FYXAxLWt3?oc=5",
-          "source": "OhmyNews",
-          "sourceInitial": "Oh",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-11T02:00:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "강남구, 외식산업 전문 경영인 양성… ‘최고경영자과정’ 35명 모집",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sQk42Y3cwU1JtX2Fpdl9DTWNrUV9QRTFqdW1lY0lsQWF6VEZOeHBrTzBHV1M3TFM4RWRWWmZXcUVyclFCTm9RWnVjR0hXZVh3MDlVaU5tZjRUcGRLM1dSZ2VSckg1SzZKMXR1OXhINWVudGPSAXdBVV95cUxQVTBuRDUtN29ERzFaUnEtMmFtaExRXy0zSWJucE9vWVI1ZlAwRk5NSU9vOWdfRU5WMjlpU3Fzdlp3d2QzbF9VeExCOFk5RmQxMlI4R2NndWxPRkYtRUxoc0VqaUxDNFF6dnNJcl9mcmRKSWRGUEgtYw?oc=5",
-          "source": "핀포인트뉴스",
-          "sourceInitial": "핀포",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-11T01:25:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“치킨과 맥주의 새로운 창업 기회를 한눈에” 치맥킹, 오는 18일 토랜스서 프랜차이즈 사업 설명회 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQUmMtb25jNEFTOUdVVzhsYzJ6TkpqYUdraFlUcEVvODlDaWJ5eEo1T0RRTFpkbEVrcXNudFlKWFNQTFNwTmRacnhEQjVRanByd1RYLXhiblVyMUIxbFdLdE9OUkw?oc=5",
-          "source": "RadioKorea",
-          "sourceInitial": "Ra",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-11T01:06:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZU0JxcXdLMmZ5Q1ZobFd2RU5IQlhvN0JOaWZHOWxNLW9iMzMzTURsSDZkZG5mY2hEb04wUV83VzRiczhjNl90QTA4NUdkNEJDdXNjb2duQWY3eUpzMnc?oc=5",
+          "source": "아시아타임즈",
+          "sourceInitial": "아시",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-11T06:00:00.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "강남구, 예비 창업인·외식업 경영자 35명 모집…중앙대와 경영자 교육",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxcjFxcFBZMmo1aGxjYWVzVWRtVHFTLVc1SE41UVY5ZjVPUGQzUk41Y2t2R0d4U2ZUdUZDWHRwOVJTWGxTNm11aVo5ZjdidHVRME8yM0w0bFAwZy1PX2JoVA?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-11T05:04:00.000Z",
+          "tags": [
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -146,21 +147,63 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 29,
+      "total": 33,
       "items": [
+        {
+          "title": "CJ제일제당, 2분기 매출 전년比 9.5%↑…원가부담에 수익성 '발목'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sUGNrNUpoeUFLMXlLWU5xS3AtcG1icklCVE9SNHE4YmJzeFBtZmc3ZF9RbnRHWGJsb1FQMEhjOFIzamk5MjlmRkhBUGI3QmVFSmVJ?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-11T05:56:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "\"원가 부담·내수 부진\"…CJ제일제당, 2분기 영업익 2576억, 전년比 18.5%↓",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EM0d1N0VEOUduUnhpNzBQSzFfQzgzTWg4NzREWWxPT3hrUjNRRW1EVnNGVE53QTVZT1NLMjNZVDlFc19hN2g2UDdBN3p5RTZ5SDJz?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-11T05:32:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ제일제당, K-푸드 수출로 외형 키웠지만...원가 부담에 수익성 둔화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMnpkUTNCV1c1UTdiMlU0MXJiUXh6bEJqRVJ1T2pkcmZvVUVlRWtXMHBGYXRvUkdqaW1sVE5QU0VzdDByOHVtNzY3X0twSmVyVUpKWVd1dFg2ODVKdmpub2RZSTAwYUgxZWxGY3I4V1ExUdIBdEFVX3lxTFBCa2I0cFc0c2NFWW1GRXd2U2twcUFGZkJVLUNQVlZvandwdlpKZW9KZEU3OEN1WVk2QnA3MmMtRS1Zcml5bG5zOF9ZbkVBMVVlTWRwU3Fjd284R3hwSjN2OTRqX2V0ZGlxem5UMFBSemlxeXgz?oc=5",
+          "source": "더퍼스트미디어",
+          "sourceInitial": "더퍼",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-11T04:55:45.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "CJ제일제당, 2분기 영업익 1619억 18.5%↓…원재료 가격 부담 컸다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pWFhUd3pxMDRGYzJjZzlBNmpSXzU2cW5KN0RYLXRuemp2R1FOQ1ktQzFyM0gtcW1EenlyejgxQkE5UG5WeUxGcUNqazZCWGFrUXhnVTVPWkRzN0hIQzU3NmtrSk9zTHVNeHI4TkdDY9IBc0FVX3lxTE5kemJuLTJTZTVBcTRtY0Q5dkxwZ2hDbmtfd19pQjNidThHNHowNGRSUEN3cU1maS1wZmlDREZDUDhpc1NaZ3d5THNmV01TMXl0TUtzMEotT0pSU2pmcTVvbDhGcUVXTVg1ZlBwSkVvNTV4M2M?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kemJuLTJTZTVBcTRtY0Q5dkxwZ2hDbmtfd19pQjNidThHNHowNGRSUEN3cU1maS1wZmlDREZDUDhpc1NaZ3d5THNmV01TMXl0TUtzMEotT0pSU2pmcTVvbDhGcUVXTVg1ZlBwSkVvNTV4M2PSAXNBVV95cUxOZHpibi0yU2U1QXE0bWNEOXZMcGdoQ25rX3dfaUIzYnU4RzR6MDRkUlBDd3FNZmktcGZpQ0RGQ1A4aXNTWmd3eUxzZldNUzF5dE1LczBKLU9KUlNqZnE1b2w4RnFFV01YNWZQcEpFbzU1eDNj?oc=5",
           "source": "뉴스웍스",
           "sourceInitial": "뉴스",
           "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-11T02:43:46.000Z",
+          "publishedAt": "2026-08-11T02:52:40.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "KB증권 \"CJ제일제당, 2분기 영업이익 컨센서스 6.4% 하회…환율·원가 부담 지속\"",
@@ -180,9 +223,9 @@
           "title": "CJ제일제당, 2Q 영업익 18.4%↓…내수부진 속 원가 부담",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdEE3TTB2SnpTOE1uN0tJMFNLYi1KazNKeWJxeXVkOEcxT0RTM01qa2xuTGxzdHQwY0c4b3B4cEhsS012cVNxR0p3SG10NU52S3hqQXpnS2t2bl8yU0wwRzVsLXFfSzhzQVE?oc=5",
-          "source": "wolyo.co.kr",
-          "sourceInitial": "wo",
-          "sourceColor": "#1a7a5a",
+          "source": "월요신문",
+          "sourceInitial": "월요",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-11T01:59:02.000Z",
           "tags": [
             "원가"
@@ -191,13 +234,13 @@
           "feat": false
         },
         {
-          "title": "CJ제일제당, 원가 부담에 2분기 영업이익 18% 감소",
+          "title": "K-푸드·바이오 외형 늘렸지만...CJ제일제당, 고유가-원가 부담에 영업익 18.4%↓",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVXVURmluY2MzUjV6YTJYZXdPbjg4cWM1ajZ3WDVVSEVydTh0VGhENVo2RDBSbnBabnNpV3NxVXZHOEZwV3FNMnRNTl9hVzQ?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-11T01:45:02.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51aGlWSFktWjlWc1lzYUYtaEY0ZmNBSkNIT0ZDZjhuVFVkTHVXRGlNVGNzcUVTXzVmQlJpYTRHbTZ6LTZvWmdzVVcxR1RNejZudjNLOTBmY3lYVklDeXdaenNOX3VPQ2VyZmfSAWpBVV95cUxOdWhpVkhZLVo5VnNZc2FGLWhGNGZjQUpDSE9GQ2Y4blRVZEx1V0RpTVRjc3FFU181ZkJSaWE0R202ei02b1pnc1VXMUdUTXo2bnYzSzkwZmN5WFZJQ3l3WnpzTl91T0NlcmZn?oc=5",
+          "source": "테크M",
+          "sourceInitial": "테크",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-11T01:28:44.000Z",
           "tags": [
             "원가"
           ],
@@ -217,48 +260,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ제일제당, 원가 부담 커져 영업익 18.5% 감소…\"수익성 개선 집중\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZTlTem0tV21PQkRjWXJ5ZERLMDdWUDN6M25tWWZyb1p1N01oaDRJQnp2SzY3UG9NR0xIMWRudkdBSHQ2R2tpTmdRaDhkTHEyZ3VZ?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-11T01:03:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ제일제당 2분기 영업이익 1619억 원으로 18.4% 감소, 원재료 가격 상승으로 식품부문 수익성 악화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKcUkzM091a1E5Q3I0WER0UVdLZVZKbHVFbWJORDhEQ1lvQ2I5dEhPSERZR19Da1FRcWhZeEtkZy1iZnRmck8xV2hudWZ3U1JQMjFGWlJKcGNqMmd2eTQ1QmxIUm1TWjcwWGhyTVE1SjQ5Qjg?oc=5",
-          "source": "비즈니스포스트",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-11T00:58:56.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ제일제당, 2분기 영업익 2576억 원…원가 부담에 전년比 18.5%↓",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WWkNMZ1JxWXBqb2NuNXJaSkdYUUdUUWtORXdMUVNOSi1BSUpLMVRQc3V4dEVlbGZSeG5jc185aHpLckdUOEtwMjhtMVJrUzdVNFFBQ21wYU5qQ1dyVzZjeQ?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-11T00:48:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -271,8 +272,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
+        {
+          "title": "[SV 유통 단신] 아워홈, 시니어 ‘인지기능 개선 식단’ 개발 나선다 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tdUFsbXJxamVDRWJlZFQ0Z3BCLW9xNkVwQUpMYWpQLUlXeEt0VEtncWdwRlZmeVE1TFVuRTVfN2V6M0p5a0h0MVhqamdfMTBnSVVrbTkwU25INEw0NjdObFJPUk42OHBFSmVaT9IBbEFVX3lxTE9tdUFsbXJxamVDRWJlZFQ0Z3BCLW9xNkVwQUpMYWpQLUlXeEt0VEtncWdwRlZmeVE1TFVuRTVfN2V6M0p5a0h0MVhqamdfMTBnSVVrbTkwU25INEw0NjdObFJPUk42OHBFSmVaTw?oc=5",
+          "source": "socialvalue.kr",
+          "sourceInitial": "so",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-11T01:54:13.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "매출 300억 식자재 유통사 매물로",
           "summary": "",
@@ -285,16 +300,16 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "SCL사이언스 수주공시 - 의료기기(이노씰 플러스 DL)의 유통 판매 계약 77.3억원 (매출액대비 35.1 %)",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVMm42ZG13Wk9zQmx1ZzJhRklZWVlXaTVVcmZNS1BISGZZblVoOXNiT1huV3ItUEpXRTk2ZTl2UXNrUU04RUdnT0g5OFVkcHZUZjJ2OFNWZkJZeXZaTzA5eUpVRHlHS1lYSzB2TWp1ZFRrcnBjVW1MMw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lVU9xTUM1SnFidHJXUnhmTkQyWFpDQno3YmR6R0M4YWc3c0dQZEV6M1dJaVQycHlvZUo1ckJueTFRbUVtWlpmVnR4clpOOENET2sxT3o5bmg1M3hQbWNaUQ?oc=5",
           "source": "네이트",
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-10T06:31:00.000Z",
+          "publishedAt": "2026-08-10T06:31:07.000Z",
           "tags": [
             "유통"
           ],
@@ -305,9 +320,9 @@
           "title": "식자재유통프로그램 전문 알토란ERP ‘K발주’ 어플 품목별 발주 시간 관리 기능 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dFFZLVJCZGMtajNDWU0wdmhsMmhLUHZTRTM0cnNyUjFNYnhDSlowLVJFTDVldFZwNVBrZjJrN0t2Yjl5cXlqQURHQWE0cldnM2xUTktfS0RMUEhNak5pWHZkUHlOTzQxdjl2UtIBcEFVX3lxTE95NUZUNDhrVmpLTEN2cUR3Ym1WdGR2VFpzODVzX0xtc3NBb3ltNjJJUjdMLWNuZFpRSmhuWHl6S2preGRNRE1Bb0hxTkd5OExOd01aajV5aEVURVVGREVHYnlORXNNcTlDRDRYU09mNm0?oc=5",
-          "source": "이넷뉴스",
-          "sourceInitial": "이넷",
-          "sourceColor": "#333333",
+          "source": "enetnews.co.kr",
+          "sourceInitial": "en",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-10T05:51:01.000Z",
           "tags": [
             "유통"
@@ -323,18 +338,6 @@
           "sourceInitial": "싱글",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-11T02:28:41.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2조원대 '軍 급식'까지 민간에 개방했더니…놀라운 결과",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIa3I3V3I1cGx3RFYtaElRWjBTdlZ4ZGpfNkU3YkREcUVFSlNfVmZFcm1PRjZDUFJKeS1Sa0tiQWVqQ1VnZ09PX0xPMDhYWl85bFVvd3FTdUxzQQ?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-10T05:37:11.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -364,13 +367,13 @@
           "feat": false
         },
         {
-          "title": "부평구, 아동 급식 음식점 100곳 위생점검",
+          "title": "불황이 키운 '급식 호황'…급식 4사, 외식 한파 뚫고 '동반 성장'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Oc25IQTUtcjVjNHM1REdIa2I5SmVONXR0YmhkUGJwT1JDQ1g2Y2NfWExHcG1uTXRqa3FmNWxVUGdUd2ZpU2doU05Jd2IzcXFKS2Iwc3BaUkN6WjdvOEI2X0pvbEJ3Z25QbTM4Wg?oc=5",
-          "source": "전국매일신문",
-          "sourceInitial": "전국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-10T00:59:47.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02SHhHQlNjNWJTV0NZd0JOc2hvSUNkaUNhdVdfOG1DMTZhWkpxNEtaVkdtalhlUzFPeU9UOHNsRkZINVFzN0owWjJ2dkFlR2s4QWNaQU9UWGNSc3Z0NWtkRk9sVHg?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-09T21:20:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -418,13 +421,13 @@
           "feat": false
         },
         {
-          "title": "식약처, 아시아 9개국 식품안전 공무원 초청…K-푸드 수출 지원",
+          "title": "식약처, 아시아 9개국과 K-식품안전관리체계 공유",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Gem0zblFXd3l5VHExTHV1blZjTEN3LXY0SlRvMVB3UTFLUFdqckhMUEtueTVRbTY2ZnNZWEI1SFliZzg2b1d2ZGFsWElGSlJfejBzcmtmSzNyNlpQY0drelNrMWFzUQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-10T07:18:18.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpWWg4THFMODlMYTh0d0duZGNicFotWmRZTVpLNEVhcGgyN0FtODRSWEV6STZoY0dWYVVzYmliRTlJdnFHTlE?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-10T08:27:00.000Z",
           "tags": [
             "식약처"
           ],
@@ -504,7 +507,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "“건강 트렌드 반영…”동원F&B, ‘2026 추석 선물세트’ 110여 종 출시",
@@ -522,7 +525,7 @@
           "feat": true
         },
         {
-          "title": "[유통 트렌드] 대상 청정원, ‘LOWTAG(로우태그)’ 소스 5종 출시...外",
+          "title": "[유통 트렌드] 대상 청정원, ‘로우태그’ 소스 5종 출시...外",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83a2tlUm1aTUJrTXN4Z0Y0WjJQRTdtdFlVVTFneVpFb0ZMeERzOHJVMlZXemEtbHlMcjhpTHM0Z2hUZjVBcFJZOE95TzByTnNZcUgwVDNBdEVmRXREbjY2SG9RTTEzZ3VhU0hfUWVEOA?oc=5",
           "source": "데일리e뉴스",
@@ -537,15 +540,14 @@
           "feat": false
         },
         {
-          "title": "세븐일레븐, ‘청주 미친만두’ 간편식 5종 출시",
+          "title": "‘K-간편식’ 호주 식품시장 공략…100만 달러 수출계약 성과",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ncTNmelk2d3lOTy1fNHpZTVhnZF9YZExKYm03c2VTdVZsWlF5Mm1HcWVZOWdsUkptdHVzYUQyX3ZkclNSVGI1dnM2bDctbWFzeGVmN0FEMjlqeklXcWRvWndZajl5M3liUlpZ?oc=5",
-          "source": "news.bbsi.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-11T01:39:28.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WT2hqSGNkMmtxeV9zNFAyM3lrWl9lYnZ5ZS12UWtyTlU4TFhXM0pGblVHTnVPZEY3d1NjOU54bFdiYmJ5TEFmb2pfczNONU9FT25ja3llMmtYTHVHdlI4akljemJVVzZP?oc=5",
+          "source": "투데이안",
+          "sourceInitial": "투데",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-11T06:53:44.000Z",
           "tags": [
-            "출시",
             "간편식"
           ],
           "price": null,
@@ -594,25 +596,25 @@
           "feat": false
         },
         {
-          "title": "CJ제일제당, 2분기 해외 식품 매출 10.1% 증가…3분기 사업 리밸런싱으로 수익성 방어",
+          "title": "농식품부-aT, 호주서 NEXT K-푸드 수출 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50TzRfX0U1THpTLWl1Q2Z2eGc5XzN5MDR3U3FRUGg5UHBuSnQxcW5lZTg1MWZseWRscHNLMktmX29lU0JlUjBCUWJnMzhxcVk2TXVTZDc0bUhrbFlzSUlVRzBvdS01M05CbzlN?oc=5",
-          "source": "퍼블릭뉴스통신",
-          "sourceInitial": "퍼블",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-11T02:25:11.000Z",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUGdPZEViSklFUUJnNFptZEk2VEFJeEs4RXBnLS1tTlpUMHNrTVRjZU84OFRnZjdydTRpVV9kR2FIWU54RUpDbVhmSWF0MkxuMDlLQ1NYOGFOeU1pX1VfSWcxMkwzY3d3U1hHa0lDQU9MRUE?oc=5",
+          "source": "충남일보",
+          "sourceInitial": "충남",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-11T07:04:42.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "건기식협회, ‘K-Health Conference 2026’ 개최…수출·규제·유통 총망라",
+          "title": "제로 음료가 전체의 30%, 식품업계 전반에 ‘건강한 음식’ 확산",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cc2VWX19aQXdnUlhsQTdPNW9PZlAxczFReDA4VG5TYzdkeVkxdnZfLUYtb25zM1FfcmlZckVKX0gxNk1YV1Y0R0ZDOUJFdVZieWN6WUJKTnIwd3FwRGpRTVNJcFdOUQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-11T01:15:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tMU1nSks2bkkyeGMwenNaVkZVeGN1ZjE0Vk1KLU00cm1vdFBmaFZMS3dFcFJCZkVNS3p1VlZXTGY0YWhDQjVLSlFfb1Z6UlNkbTV1WWVWWTNRSzRNWmVUMjR4NS0xLXNiRDBEZG0yYw?oc=5",
+          "source": "아이러브PC방",
+          "sourceInitial": "아이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-11T06:47:18.000Z",
           "tags": [],
           "price": null,
           "feat": false
