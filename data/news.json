@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:21:30.337Z",
+  "generatedAt": "2026-08-11T00:03:24.903Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -51,7 +51,7 @@
         {
           "title": "번지는 차액가맹금 소송…외식 프랜차이즈 M&A에 ‘불똥’[시그널]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wYzl2VGRQQ202U2pPUkdROTNpNHBrRmdhNVluWnNTTGFzTW4wX1EtZGxyR2NxOGJhQUlsSGI4VXBmSTFwMWMwUUZwdHlZZ0JHX0Jz0gFTQVVfeXFMTzBjOXZUZFBDbTZTak9SR1E5M2k0cGtGZ2E1WW5ac1NMYXNNbjBfUS1kbHJHY3E4YmFBSWxIYjhVcGZJMXAxYzBRRnB0eVlnQkdfQnM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sblFVMVVaRjlkMlRvR0ZKdEZ5MkEyb2wtRkdrY2FuSVBET2g0VFRkUkNOVzZrNmwyUFM4Mm5fY0E4Qm1KYkV0ZjVTaW81NjNRQzRhRldHMFUzbFlYaG44X1FR?oc=5",
           "source": "서울경제",
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
@@ -316,6 +316,20 @@
           "feat": false
         },
         {
+          "title": "[기업家] CJ그룹 ④ㅣ 식품 IP 흥행부터 자율주행 물류까지…'혁신 DNA' 가속",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14SkYwa0p6RFRBeW5JVEIzRFFhcTNHQnBXRElmOExTRVFfT0hQUXoteVp1UjUxeHk3YS1CMDFuUUtMOHdQZEFnQWNfMzQ1bjNuYTY4?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-10T04:53:00.000Z",
+          "tags": [
+            "물류"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "2조원대 '軍 급식'까지 민간에 개방했더니…놀라운 결과",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIa3I3V3I1cGx3RFYtaElRWjBTdlZ4ZGpfNkU3YkREcUVFSlNfVmZFcm1PRjZDUFJKeS1Sa0tiQWVqQ1VnZ09PX0xPMDhYWl85bFVvd3FTdUxzQQ?oc=5",
@@ -355,22 +369,10 @@
           "title": "부평구, 아동 급식 음식점 100곳 위생점검",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Oc25IQTUtcjVjNHM1REdIa2I5SmVONXR0YmhkUGJwT1JDQ1g2Y2NfWExHcG1uTXRqa3FmNWxVUGdUd2ZpU2doU05Jd2IzcXFKS2Iwc3BaUkN6WjdvOEI2X0pvbEJ3Z25QbTM4Wg?oc=5",
-          "source": "전국매일신문",
-          "sourceInitial": "전국",
-          "sourceColor": "#1a7a5a",
+          "source": "jeonmae.co.kr",
+          "sourceInitial": "je",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-10T00:59:47.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "초콜릿 녹고 식자재 상할라…40도 폭염에 식품업계 초긴장",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BeTF0c05vLVRCb3VlWTk1TVRVWTI0N1FLNmN1cFVGLXh4eEsxWjRyWDdfODJtMjZfVEN4WTNEdU1VVHA2SUVfeFdsenNuanJQTkJZa1JIZ3LSAVhBVV95cUxPQXkxdHNOby1UQm91ZVk5NU1UVVkyNDdRSzZjdXBVRi14eHhLMVo0clg3XzgybTI2X1RDeFkzRHVNVVRwNklFX3hXbHpzbmpyUE5CWWtSSGdy?oc=5",
-          "source": "아주경제",
-          "sourceInitial": "아주",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-09T02:47:20.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -386,8 +388,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
+        {
+          "title": "식약처, 아시아 9개국 식품안전 당국과 협력···수입규제 정보 공유",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tNnRKakxha3hVV0c5WTFNVzdMX3lhbGZ4UWZQR2cwRUltanJYWHZXT0ZHM1hnRks1YTVNbHhfdnFNbUgxQ29FX2NwYkQwWl9yU0Q5Wm9NYnZBWDVzMzQtQ0FxSE16eEU5UmpqaktwLUQ1TzBFWUV30gF3QVVfeXFMTi02dEpqTGFreFVXRzlZMU1XN0xfeWFsZnhRZlBHZzBFSW1qclhYdldPRkczWGdGSzVhNU1seF92cU1tSDFDb0VfY3BiRDBaX3JTRDlab01idkFYNXMzNC1DQXFITXp4RTlSampqS3AtRDVPMEVZRXc?oc=5",
+          "source": "뉴스프리존",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-10T06:16:44.000Z",
+          "tags": [
+            "규제",
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "식약처, 아시아 9개국 식품안전 공무원 초청…K-푸드 수출 지원",
           "summary": "",
@@ -400,7 +417,7 @@
             "식약처"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "K-식품안전 아시아로 확산…9개국 규제당국과 K-푸드 수출길 넓힌다",
@@ -536,6 +553,18 @@
           "feat": false
         },
         {
+          "title": "투자 확대에도 곳간은 '풍성'…삼양식품, 3개월 새 영업현금흐름 '3배' 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhVXJ1ckNSMFo0TFcyMVlxWUhjOFJXWWtheGh2bTR1TWs0ZlFjanJ3aHpzaTlKMkptaW9tTVlrTUxoSEluY0w0VTJFNmhIT2Y3dVR5Z2o3NDViOHpPeWRfZk9VOGxpNHlWcXc?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-10T23:00:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“이 맛은 CU, 저 맛은 GS25”…제과업계, 편의점별로 ‘다른 맛’ 숨겨놓은 까닭?",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxY1hkVE8tWDk0VEV1d2FEZjVtZnNGdWNoOWVIR3JhMjB5aXVCUTJ2Wmx1Y0V5T0NsSnVyYmVuNW1uMDhxUFdoSE9IeXowbXFm?oc=5",
@@ -555,18 +584,6 @@
           "sourceInitial": "한국",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-10T05:50:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[기업家] CJ그룹 ④ㅣ 식품 IP 흥행부터 자율주행 물류까지…'혁신 DNA' 가속",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14SkYwa0p6RFRBeW5JVEIzRFFhcTNHQnBXRElmOExTRVFfT0hQUXoteVp1UjUxeHk3YS1CMDFuUUtMOHdQZEFnQWNfMzQ1bjNuYTY4?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-10T04:53:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
