@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:43:41.327Z",
+  "generatedAt": "2026-08-12T12:35:48.629Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 29,
+      "total": 28,
       "items": [
         {
           "title": "점주 10%만 모여도 본부와 협의…외식 프랜차이즈, 새 가맹사업법 '촉각'",
@@ -49,21 +49,6 @@
           "feat": false
         },
         {
-          "title": "파리바게뜨, 2026 美 가맹점 컨벤션 개최…북미 프랜차이즈 사업 속도↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0VXJQQlFfWE41VjRzTm9pckdRM1otOGZxRThZRWdLV2JCaEpjRENtdnctaVAwTkF1dC1jVmwxZGJLUFVVV3pzc3lnbV9IdDhNSDlQS2FLdm1NMGEwdUtvbFNZUk5YZ1VEYkpFVg?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-11T07:12:06.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[푸드·다이닝 트렌드] ‘요즘 저녁 2차는 타코벨에서?’··· 외식업계, 메뉴와 이용 경험 넓히는 ‘빅블러’ 전략 강화 外",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EOWFDZXBQazhLQTNRTExYUnZVNlFTUGJUV2s3VmlOU1NNRW5TbWVNU0czb0hkaU01NHRZV3liSWM2dVRXUkFjb08yUVR4d296WWhRUFBFeU9RcE9qYk5ZcWF1NjFkdlB2Y0JLLQ?oc=5",
@@ -74,6 +59,20 @@
           "tags": [
             "외식",
             "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서울혼술바 제주 혼자옵서예 2026 프랜차이즈 창업 박람회 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QY2VxeU9oUFo5cWNCQzNSYnBOQzZpanlrclh4alBVamRHME9NVFV0emtseVdzcFJiWWFKTDg2aHI3RklZTXZ0V3NHT1Vhd1pmc1NhMFFZbldMRU5DczV4WW52ODRKcEROLXRRaE9tN3VrZ9IBckFVX3lxTE9QY2VxeU9oUFo5cWNCQzNSYnBOQzZpanlrclh4alBVamRHME9NVFV0emtseVdzcFJiWWFKTDg2aHI3RklZTXZ0V3NHT1Vhd1pmc1NhMFFZbldMRU5DczV4WW52ODRKcEROLXRRaE9tN3VrZw?oc=5",
+          "source": "시선뉴스",
+          "sourceInitial": "시선",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-12T08:59:51.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -145,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 20,
+      "total": 21,
       "items": [
         {
           "title": "동원산업, 상반기 영업익 전년 대비 15% 증가…식자재·포장재·물류가 견인",
@@ -204,6 +203,20 @@
           "feat": false
         },
         {
+          "title": "중동 전쟁 충격…석유류 가격 10% 급등, 3년5개월 만 최대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbFRCV1BIeTlmTGFoWXA2NW1nYWxnejdWU3dmQng3cUQ1cG14V3lCM2dqaVhYVzg5dFJwc0RVZlEtbUw3SDg5S3B4V0wyQjkyVmViamtMVE1ud1E1VXEyOV9mZGhmb0hXa1HSAWhBVV95cUxPZnFsWmlzSnBJaXJ0eG5sZVBldjRibG5SX0NvbXdIbUNSMUZFSk9LbHpxQUk2VnpTbU9sQjd2TkthTkkxb0J6WW5BTzE5cHloMkc4ajhhNTYtX2hTWUFZOE9JbXU2aDBJbA?oc=5",
+          "source": "더팩트",
+          "sourceInitial": "더팩",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-11T09:21:17.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "CJ제일제당, 2분기 영업익 1619억 18.5%↓…원재료 가격 부담 컸다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kemJuLTJTZTVBcTRtY0Q5dkxwZ2hDbmtfd19pQjNidThHNHowNGRSUEN3cU1maS1wZmlDREZDUDhpc1NaZ3d5THNmV01TMXl0TUtzMEotT0pSU2pmcTVvbDhGcUVXTVg1ZlBwSkVvNTV4M2PSAXNBVV95cUxOZHpibi0yU2U1QXE0bWNEOXZMcGdoQ25rX3dfaUIzYnU4RzR6MDRkUlBDd3FNZmktcGZpQ0RGQ1A4aXNTWmd3eUxzZldNUzF5dE1LczBKLU9KUlNqZnE1b2w4RnFFV01YNWZQcEpFbzU1eDNj?oc=5",
@@ -244,20 +257,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "고유가·원재료 가격 상승 부담에...CJ제일제당, 영업익 전년비 18.4%↓",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iM2xSMU45N3NBMEFfamJ2OExoUVEtODc2ZF91aXdpNlFNYk15UEdNYlpCdXZnd2t2WWdGMXNsazI4MUN0dWt5SUFsM1lyeGpXVll3Ni1QRnJlcVctWlpQRF81N2NOdGhEWGY5WHNzY2_SAXRBVV95cUxQY3RNZHBmZjAxdmN3emZrRmVKY0ZTRHk0R1V2b2hWQVpMaDlaR2lVQktXV1k5bDltM0NjazhuUHQ1WW1SWmFvMmE5MHFkYUZsLWFiWWthVWFqZnFnM0UyTHdwSk8yY1BXendKYllNZmE2U2twTQ?oc=5",
-          "source": "우먼타임스",
-          "sourceInitial": "우먼",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-11T00:13:24.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -270,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 1,
+      "total": 2,
       "items": [
         {
           "title": "[SV 유통 단신] 아워홈, 시니어 ‘인지기능 개선 식단’ 개발 나선다 外",
@@ -285,6 +284,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "동원그룹, 상반기 영업익 전년比 15.1% ↑ … \"식품 부진에도 B2B가 실적 견인\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHJiRThTdS13OGJWV09rdm5GaVE3WFZEQlR1N0toRDc2aVUzUzhLRENzZ2FwclB5VEdUMklvMDZiRTM2Y3pud2hJMW1OYXZFWllFT3kyNENhM0NKSHE2Zmpla0YyWno4R1d5d1RDV2xZdnNxcWVLTU1MQW9nVzUyMNIBgAFBVV95cUxPOHJiRThTdS13OGJWV09rdm5GaVE3WFZEQlR1N0toRDc2aVUzUzhLRENzZ2FwclB5VEdUMklvMDZiRTM2Y3pud2hJMW1OYXZFWllFT3kyNENhM0NKSHE2Zmpla0YyWno4R1d5d1RDV2xZdnNxcWVLTU1MQW9nVzUyMA?oc=5",
+          "source": "biz.newdaily.co.kr",
+          "sourceInitial": "bi",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-12T08:04:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -297,15 +308,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "식약처, 아시아 9개국 식품안전 규제기관 공무원 초청…K-푸드 수출 기반 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdXZ2QTEtWlJELS1lNE1rOE5zZDdNbG9iSVptR3VvOVpOWGxLSTVHX0tiTUtURHlzckV3d1ZuMzBWWnpDSl9fLWxFS243ckk4aEZKbzQ3WjAzSzA5cnNsd214OUFMWEdXcUM5NEl30gFwQVVfeXFMT0J6dkZ0SjNYdlBNbW9Ja21VWTd6ZzZEY25GQnJHT25WUGtkOFVlLUc3cUlxZUpRSjRRSDNFVFNqN1lEVWs0ZFhJN2tqT3FGd19GUkFUX2xHSDB0N2dDSkdmNXhwSWpQU0F3Qkt5Yjk0aQ?oc=5",
-          "source": "nbnnews.co.kr",
-          "sourceInitial": "nb",
-          "sourceColor": "#c15a37",
+          "source": "내외뉴스통신",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-11T02:59:47.000Z",
           "tags": [
             "규제",
@@ -346,9 +357,9 @@
           "title": "건기식협회, ‘K-Health Conference 2026’ 개최…수출·규제·유통 총망라",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cc2VWX19aQXdnUlhsQTdPNW9PZlAxczFReDA4VG5TYzdkeVkxdnZfLUYtb25zM1FfcmlZckVKX0gxNk1YV1Y0R0ZDOUJFdVZieWN6WUJKTnIwd3FwRGpRTVNJcFdOUQ?oc=5",
-          "source": "foodtoday.or.kr",
-          "sourceInitial": "fo",
-          "sourceColor": "#333333",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-11T01:15:04.000Z",
           "tags": [
             "규제"
@@ -387,10 +398,10 @@
         {
           "title": "식품ㆍ축산물 HACCP 교육훈련 기준 일원화, HACCP 팀장 교체 시 중복 교육 부담 완화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjV0t1MGI1ODNwdFhNcFBHWmJRUzJyMXlEZDZHaUlYQjl5b2JSbTBFYjl0aEZXM3ZvLThTRGY5NmRjdmxIUGljTG52TEZZOHdPMzVFSnhDQ09TbGRDVU90X2cxc01OMGE3ZnktXw?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWbmkxUVl5RFFDRDh5NTA3Q1BCbS1XVTI0SEtndTB0NzUtc0tmSXpScjIyd0k1dWY3eU8yd3hNVzVUVm80RU82akxVN0FZYVowX1dDZ3FRekVNN2tzeThncllNeU8xQVcxVElEZkhB?oc=5",
+          "source": "foodnews.co.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-12T04:30:00.000Z",
           "tags": [],
           "price": null,
@@ -419,7 +430,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "[식품업계 7월 동향] 삼양식품, 신제품 ‘짜르르’ 출시·명동사옥 페포라운지 개방·문화체육관광부와 MOU 체결",
