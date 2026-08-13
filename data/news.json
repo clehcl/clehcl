@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:18:32.346Z",
+  "generatedAt": "2026-08-13T09:43:19.844Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
           "title": "점주 10%만 모여도 본부와 협의…외식 프랜차이즈, 새 가맹사업법 '촉각'",
@@ -34,16 +34,71 @@
           "feat": true
         },
         {
-          "title": "[푸드·다이닝 트렌드] ‘요즘 저녁 2차는 타코벨에서?’··· 외식업계, 메뉴와 이용 경험 넓히는 ‘빅블러’ 전략 강화 外",
+          "title": "맘스터치·파리바게트, 싱가포르서 확장 모색…K-프랜차이즈 아세안 공략",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EOWFDZXBQazhLQTNRTExYUnZVNlFTUGJUV2s3VmlOU1NNRW5TbWVNU0czb0hkaU01NHRZV3liSWM2dVRXUkFjb08yUVR4d296WWhRUFBFeU9RcE9qYk5ZcWF1NjFkdlB2Y0JLLQ?oc=5",
-          "source": "베이비뉴스",
-          "sourceInitial": "베이",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-11T06:14:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdHVIYkVaTEt1RHY2LVZRWHl4MVdtbzltWUJqUlpwMkM2VFlqT3c2YVFEYTNlQlVPOVVoSzBsRDdUMXl2S01vOGNWUWZsNUtHNVlIRUlCeERubjhTSWI4X0M0Z1E2VHpDSmk2Ni1saGFQWk1oTlFjSjExMFM2WTRGOUI5R2VwSjhuSEktM1ZhS2dGM0xldkhJTzUtQ1VwdFJGYkQ4Mmw2a1lOcjNTeHd3X0JRbkhkZWxpZHRrNlpPUEludkRTZTgyODBNN0NLY1pJVEx4THJMUUgwV253WFhGXy0tdl9FMll0ZGpBdjkzTVJjVkRrZFhmWlVVYXJfdHpHTkItRzkwd2ROWlRjbDAxZ1RpTmdpS3ptS2hEX3FfQjhEY0hOZ0l4UzRvZndiZw?oc=5",
+          "source": "데일리안",
+          "sourceInitial": "데일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-13T09:00:00.000Z",
           "tags": [
-            "외식",
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "‘몽키터미널’ 재가동…충장로 달구는 C-프랜차이즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfd3pqR0R4RUppOEJad3NwTUhjajd4Wi1XYVA2Vi1YN01rRWZ6WHpkVzBTOWsyVU1FVDlQRElfU0dfYUNwY0pfV04xR1FENTFoczQ4dFBrTHZBZklWdXZyWFd3UE8xRWd2YkE?oc=5",
+          "source": "드림투데이",
+          "sourceInitial": "드림",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-13T08:58:24.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "교촌치킨, 멥쌀 반죽 활용 '찰도그' 2종 출시…사이드 메뉴 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1pKdzBFN0kxR01KWC1aQnhuMDhmb3J4TzdJSjBQLUliQ296dzF4YVpPeTBBQjdpemVKSW5UaVRHeHMyMUVQVFNDVlFWUGN0ckRtR0hQWHFWZWpXZUVzN0hPRzBRU3VCRnBzQTNqN1pMS3RxMkVBNnpEdl9jdUhtcVQtU2h2TTVYajA3T2VR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-13T06:59:11.000Z",
+          "tags": [
             "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "인생아구찜, ′2026 대한민국 100대 프랜차이즈′ 명단 등록",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjQUw1R3B4bEVVQ2lmN0N6eEpkdEwyZmM0N29Mdl82TDBUQUhZc2RiODRRdzFRb0xmeU9wc0dnVDlzNjgzc1FTT2xnM2dPQ1ZldlhTVG1R0gFWQVVfeXFMUGNBTDVHcHhsRVVDaWY3Q3p4SmR0TDJmYzQ3b0x2XzZMMFRBSFlzZGI4NFF3MVFvTGZ5T3BzR2dUOXM2ODNzUVNPbGczZ09DVmV2WFNUbVE?oc=5",
+          "source": "피앤피뉴스",
+          "sourceInitial": "피앤",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-13T06:25:25.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "K-푸드 다음은 ‘K-프랜차이즈’…8개사 싱가포르 출격",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYW5aMTBtMnE5LWlKdEx1NnJqNjdMVG95V0g5dmtRVmJFRTNjM0JTeEhXRmdMR1kwTzc3dTZDRW5Rc1hHWGNUOHZMbUNUc01mMURNRHlvUFFHd3ExbllyZ2FmR1NkTHlpZGtmWA?oc=5",
+          "source": "재외동포신문",
+          "sourceInitial": "재외",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-13T05:53:44.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -63,71 +118,15 @@
           "feat": false
         },
         {
-          "title": "냉기 가득 충장로 ‘C-프랜차이즈’로 상권 예열",
+          "title": "더본코리아 대표 백종원, 'TBK소스'와 메뉴로 미국 로컬 시장 공략 위해 현지 식당 찾아",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52NzYxS0otOHc4djFpYXFWMUVVRUdpUWNiLW9YeTJZYV9kaVpkeENIa3lJbWNRUDk1c2NDeE1HdzRRcE5nRk5Fdk1TN0F1SDg1a01PLWFWVnYtVHFHdGgxTTZNZUtjdkRQRXc?oc=5",
-          "source": "드림투데이",
-          "sourceInitial": "드림",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-12T15:05:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "서울혼술바 제주 혼자옵서예 2026 프랜차이즈 창업 박람회 참가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QY2VxeU9oUFo5cWNCQzNSYnBOQzZpanlrclh4alBVamRHME9NVFV0emtseVdzcFJiWWFKTDg2aHI3RklZTXZ0V3NHT1Vhd1pmc1NhMFFZbldMRU5DczV4WW52ODRKcEROLXRRaE9tN3VrZ9IBckFVX3lxTE9QY2VxeU9oUFo5cWNCQzNSYnBOQzZpanlrclh4alBVamRHME9NVFV0emtseVdzcFJiWWFKTDg2aHI3RklZTXZ0V3NHT1Vhd1pmc1NhMFFZbldMRU5DczV4WW52ODRKcEROLXRRaE9tN3VrZw?oc=5",
-          "source": "시선뉴스",
-          "sourceInitial": "시선",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DVEEwZXByT0ozXzh2QlZ0ck1teFk2TDhjYzk5dkhYb3lpc3ptaWM2TXF4NjQtT3loQ2VZVDZ0VllER3B3Y1VJY2V5WnJHY2JWd09tRnFwRjNpRVl1QVc0dE9wazlJazhaU0JNNEdNckhNR2M?oc=5",
+          "source": "비즈니스포스트",
+          "sourceInitial": "비즈",
           "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-12T08:59:51.000Z",
+          "publishedAt": "2026-08-12T23:40:40.000Z",
           "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "해외진출 외식기업 200개 돌파… 한식 브랜드가 주도",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3YWNlbU9DcDhfN1VqakJfNTM3RWg1QjNPNHJ3TFQtTXRkbFowRHRiMGpQUW5ncjJMUEZQS0ZQWTZDWjNUZlM0ejE0a19semNDcmZhRk1Ubm1zVnFVY1RRbDNhTzJCLTNpaXM2Mw?oc=5",
-          "source": "foodbank.co.kr",
-          "sourceInitial": "fo",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-12T07:27:06.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "우아한형제들, 외식업주 모임 ‘배민프렌즈’ 12기 발대식 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xOGV2MnREN180RFVSZ1NmUUJkOEswSG5WRHVTZHk5ZjNOclA0MkJLS09vN0hDZHdPVE54cGRsMG5DVU90cEtNRENtZDVZUmZCSTcza3k0UG95QUVRM0luSHZ4T1I2UmF2R1E?oc=5",
-          "source": "한국면세뉴스",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-12T00:46:21.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[이슈] bhc 연매출 6000억·엽떡 14년 동결…외식업 손익 재편",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EeEpWQUQ3R21ISFZ6QUtyUGs3dDZmQTlodUhQb3ppRy1ZS2FodWtxUXhYSTE3OHlLMkpESlBEcjJtNEYyN1E2ZTlERGQzbHNYWU14VGg0VlpiM1B0ZlhoZVBDQWdnQlU?oc=5",
-          "source": "자본시장뉴스",
-          "sourceInitial": "자본",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-11T23:00:00.000Z",
-          "tags": [
-            "외식"
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -146,6 +145,20 @@
       "total": 16,
       "items": [
         {
+          "title": "[현장] '갓뚜기' 오뚜기의 위험한 땜질식 가격 인상…한달새 3차례나 올려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTV9feFlKZVpKc3ZuNVZBWUZxS1VzcHBZb1cxOGtHQWg4U25zWW8zYTRpUnJKc1ZJSDJhZWJ3MlBXSlNYcXdKNVdPWkdZa0hkY0pkV3FPMzVJZlBuWXQ1Ry0tUlpMbzh2UkhiMG1R?oc=5",
+          "source": "알파경제",
+          "sourceInitial": "알파",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-13T03:06:11.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "[테크M 이슈] 한달새 세 번째 가격 인상…서민 울리는 오뚜기, 내수 의존 그늘 짙어졌다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DdHpwSVRNeWN5QWduVWdvVHVkVVd4VFkwbDk2Q3A4TWVHU3FEcFdvN3YyRVMwQXk4ZEs0dFBGQmZrSi16WVVhRHJLb1psSlNVMnctWGUxa3lVRGRNbTdGWXdBWXl2Zw?oc=5",
@@ -157,7 +170,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "오뚜기, 컵라면 11개·만두 3개 브랜드 가격 올린다",
@@ -167,20 +180,6 @@
           "sourceInitial": "식품",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-13T01:24:34.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "오뚜기, 9월부터 컵라면·만두 가격 올린다…봉지라면은 그대로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92cF96LWhsVzNXYnRFWThOVnRhRGRaaXNLMktsYVYwRjZKUlNuUmJTSXN0c29rckRuX05jVVZnbXNkcm14cGJiSlFSalJPbC1HT2hPVGxKa1NNbkZVNDAydUZybUZGWHBLZmc?oc=5",
-          "source": "한국면세뉴스",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-13T01:17:13.000Z",
           "tags": [
             "가격"
           ],
@@ -233,9 +232,9 @@
           "title": "K푸드 잘 팔려도 원가 부담에…CJ제일제당 식품 영업익 21.3%↓",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yalhkQmxCSHh1emN6eGxfVTlmcUkwbTh5MG14bldjM1haSFY0YV91ZE9rdWdRd2YwdWdDOGhzeS1BdzQzdkJwUndmNDRlTWNnLWZjZ0VRaE9QbjhGRXNXMExRWXJDVERPbHNoT9IBbEFVX3lxTE5yalhkQmxCSHh1emN6eGxfVTlmcUkwbTh5MG14bldjM1haSFY0YV91ZE9rdWdRd2YwdWdDOGhzeS1BdzQzdkJwUndmNDRlTWNnLWZjZ0VRaE9QbjhGRXNXMExRWXJDVERPbHNoTw?oc=5",
-          "source": "국민일보",
-          "sourceInitial": "국민",
-          "sourceColor": "#1a4d8f",
+          "source": "kmib.co.kr",
+          "sourceInitial": "km",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-11T21:02:00.000Z",
           "tags": [
             "원가"
@@ -246,7 +245,7 @@
         {
           "title": "동원그룹, 식품 주춤해도 B2B 선전…상반기 영업익 전년비 15.1%↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmRlVnbDJrRDEwRTFEZWg1VGVONE14QXo1TDF6SEM5WklScXVtY0dKbGpEQmxaYy01OHV2WVBEamF5TVhXTVhjLU5vZDh4aHI1TmM0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPQlBHZ0dTeEctWjZXazFqMTZ2SzgwQUtWc0U4c3c1MEdpR1pNWkpqWkloWHhZdVl1eXYybkNRQ2ZRVXNSZ1RfcHU4UUNnVGxSZnV2X3FqTXdyV2hTdDZ2SzlKNlBVVkNzX3ZtVkVReW5JLW8yczZBZA?oc=5",
           "source": "네이트",
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
@@ -303,15 +302,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "농식품부·aT, 동남아 수출설명회 열고 할랄·식품안전 규제 대응법 짚어",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JU1RKa2tWemtYWTRRbDNzMkhFaUd5T2g5dFpwaktOQ3MyRVNBVnNFUmd3SkZNSkNXOHFjMnY2R1NXRVN5RzVxQkkzb0NRczJqSmU0WmMwbEQyUdIBX0FVX3lxTE5USDY4Qnp6QzR3a0dBREo4LXgzLVEwSnFYcmJZZ3lsSHBpY216QjFCMW1nNTEyVVBNeDFvaDhJZzJkQkV6dnlTd0tGV05IUmFEUEs3TFVZOUxuUUpqUGZN?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-13T02:36:53.000Z",
           "tags": [
             "규제",
@@ -324,9 +323,9 @@
           "title": "정부, '고수온 피해' 332억 재난지원금 투입…농축산물 수급 대응 총력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUdIBWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-12T23:30:00.000Z",
           "tags": [
             "수급",
@@ -338,11 +337,11 @@
         {
           "title": "aT, 동남아 식품 수입규제 강화에 'K-푸드' 수출 지원",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KSUR6MGY1Umc3M0FuV1JoSlBtY1FIWE5xZE1nVEJnZmJ1UURJWHFzczdIeFg1ajV1RUQzQjBRV1BSODlHQUg1Q3B0UFRRUGNwemNR?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-13T00:47:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMcVl1NW5scnlTbklrRExRWDFLdk5BYTFJTERYbm13SGRUN2ZtTjJucGYzNFdvZ3pDZlV1ZkU5QmthcHBPZy12ZXZFVEdwajg5blpZN3ZldEVpNXpIazFGMtIBeEFVX3lxTE9veW9nSWg1R1RkZUhSSWE4WGladG9NSTJCaktLdmZMS01SbU00bThJakdMTVZoV1RuM1AycUczdFJpYkp4di1tSUxycnUtMEh0MmstR0JnWXlUVE5fWEUtRjU2M05BZE53dV9Tenh5MFJTYVVBUjdIeA?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-13T00:46:08.000Z",
           "tags": [
             "규제"
           ],
@@ -364,27 +363,13 @@
           "feat": false
         },
         {
-          "title": "“시금치·상추 다 녹아버렸습니다”…물가상승률 ‘도로 3%’ 공포",
+          "title": "FITI시험연구원, EU 식품용 용기·포장재 규제 대응 원스톱 기술지원 본격화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81aDdnN2RiQTJMU09jXzhMOTRrLXhEYVJVRU9qZEVhZHVoVHl4enppcVRpWktqdEpvSWoyQ0tWQ2k2LVgwajZxaVprS3hvcWtKYnJsbQ?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-11T20:51:58.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "FITI, EU 포장재ㆍ식품접촉물질 규제 대응 '원스톱 서비스' 가동",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SM2k2OU1Nc0dnUEZMdGRmVHNtclRMdlpBWXZ5VzZkQTJYNHJzYW1HTkdhVlZCZ3VOX0c5N0NKb3FhajFFQS1UTk5Oa1RobkUzOGc1NjNsdkJIV0x0M2Z1UlJhM0l4VXZCSzhOaGxR?oc=5",
-          "source": "산업인뉴스",
-          "sourceInitial": "산업",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-11T06:19:13.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiSGtmc0Y3eER1SXVpNXZ0WWVuNl9rcW9sVmlEcndYdTE3cFFia1BycS04TDYzWTVfRURZdnI4Rzc1aWtZOW9hOGJ2dl9CaHU3aWpZR2xwU1JVbXZOOW1tRUE3OGFwMVE?oc=5",
+          "source": "국제섬유신문",
+          "sourceInitial": "국제",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-12T00:10:00.000Z",
           "tags": [
             "규제"
           ],
@@ -414,6 +399,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "아워홈 안산공장, '글로벌 HACCP' 인증…식품안전 관리체계 고도화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jaTI3MDVnWXlfVHA0NU5fd2J2NUU3TUVlSzU1OHlpQThSZWl2dVRyRWJNZi1aaXJxWWh3eDI5ZUFKYnIwdkhkWFI0QQ?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-12T00:39:27.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -426,7 +423,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 13,
       "items": [
         {
           "title": "포도호텔, ‘한우사골곰탕·흑돼지짬뽕‘ 프리미엄 HMR 신제품 출시",
@@ -442,6 +439,21 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "하림, 탕수육·깐풍기 등 ‘중화 닭요리’ HMR 4종 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMWdrMk5zRmJGdWZOSGhGTWQ2LWNxVlVVWDNBbEZMTmt1YUR3eXh2YlR0SlV3azhWOVQ0SmZiTnY4azc4Qk5ydjlPM2xJdzB0REFEbTFVQ2xITHMtdGN5QUxMeEJla0V4MGZEZNIBbkFVX3lxTE1mdmlpRnFwWnBfemt5RF9yclI4ZnlWenRsb29mbnI1VXB3VDJQdUhpSHhaakkxTVNzUnJ0U0piMW9mTWxjTlQzZHVXZE1GaHZtQWNSd0NyMF8tdHUtLTFPTEY2S1F5SzN5TGE4RDFn?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-13T00:46:26.000Z",
+          "tags": [
+            "출시",
+            "HMR"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[식품업계 7월 동향] 삼양식품, 신제품 ‘짜르르’ 출시·명동사옥 페포라운지 개방·문화체육관광부와 MOU 체결",
@@ -487,6 +499,18 @@
           "feat": false
         },
         {
+          "title": "오뚜기, 9월부터 컵라면·만두 가격 올린다…봉지라면은 그대로",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92cF96LWhsVzNXYnRFWThOVnRhRGRaaXNLMktsYVYwRjZKUlNuUmJTSXN0c29rckRuX05jVVZnbXNkcm14cGJiSlFSalJPbC1HT2hPVGxKa1NNbkZVNDAydUZybUZGWHBLZmc?oc=5",
+          "source": "한국면세뉴스",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-13T01:17:13.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "삼양식품, '스와이시 불닭' 日서 먼저 판다…18일 패밀리마트 출격",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1meVlvOVBxSDVPWGt2MWEtZFlCVlR0ZTdoeWo3N2ZQVmpkaF81ZTMxRnVNOGNONDgydFlrRmFfZFZxNjV6X0NRclRUcFdRZEpKZE8tR3B4d2VOMWtqMHc?oc=5",
@@ -506,30 +530,6 @@
           "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-12T21:01:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농식품부·aT, 호주서 K-푸드 수출상담회 개최…132만 달러 계약·MOU 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52UU94X3A2bXpGMUxuOHEwa1ZkY1NBdVQ1WGpXbUR1emh5ZzhvLV9idUdUMTFXWVVTMGJ6MVNNZnQtc1lnRjlLY2ZHTm0tcWxrYkpJbXZxMkl4TnNaTGRybEdxNF9xUmd6eHdF?oc=5",
-          "source": "BBS불교방송",
-          "sourceInitial": "BB",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-11T23:48:13.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계가 스타 셰프와 손잡는 이유 [SS포커스]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMGNlWmdmVXJBc3EyNEUydlRrN0xIdE5WM09iTEhKNkwtNHRLV1hKQnFiZk1vX0ZGaU9GZFpmeTJtZmJvdlJrQWxSdGwxWXRfZVM0?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-11T21:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
