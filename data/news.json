@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:12:53.348Z",
+  "generatedAt": "2026-08-13T19:47:46.255Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,22 +16,36 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 17,
       "items": [
         {
           "title": "점주 10%만 모여도 본부와 협의…외식 프랜차이즈, 새 가맹사업법 '촉각'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tdWhEQTUyb3pfZjlERzVPUXVhWEdkaUJtQnM2dV8zM3c1NWVRLVlPN0hsdEZhRmlDb1pwRWYtYnh0MDdUMDBYMmQyTExjZTlNb2w4cG1NaHNYU1Y2MFlhOFNwUVlldFJROUt2R1o2SlDSAXRBVV95cUxNSWZhTmFMeGtUX3Ayc3FOVVduNTYwc0FuQUNjZU5DQ29XcXZiYW03TjJOaVpIYzRTdHBrdXZ0RmllaTBlVFZJMDFYcVFrVXMxRm5MLWYyQ3VIVTdsTGcyNTlFTDA4ZEU5WnYyXzVqWlJjclcxMQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JZmFOYUx4a1RfcDJzcU5VV241NjBzQW5BQ2NlTkNDb1dxdmJhbTdOMk5pWkhjNFN0cGt1dnRGaWVpMGVUVkkwMVhxUWtVczFGbkwtZjJDdUhVN2xMZzI1OUVMMDhkRTladjJfNWpaUmNyVzEx0gF0QVVfeXFMTUlmYU5hTHhrVF9wMnNxTlVXbjU2MHNBbkFDY2VOQ0NvV3F2YmFtN04yTmlaSGM0U3Rwa3V2dEZpZWkwZVRWSTAxWHFRa1VzMUZuTC1mMkN1SFU3bExnMjU5RUwwOGRFOVp2Ml81alpSY3JXMTE?oc=5",
           "source": "포인트데일리",
           "sourceInitial": "포인",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-11T17:35:00.000Z",
+          "publishedAt": "2026-08-11T19:51:50.000Z",
           "tags": [
             "프랜차이즈",
             "가맹"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "교촌치킨, 멥쌀 반죽 활용 '찰도그' 2종 출시…사이드 메뉴 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1pKdzBFN0kxR01KWC1aQnhuMDhmb3J4TzdJSjBQLUliQ296dzF4YVpPeTBBQjdpemVKSW5UaVRHeHMyMUVQVFNDVlFWUGN0ckRtR0hQWHFWZWpXZUVzN0hPRzBRU3VCRnBzQTNqN1pMS3RxMkVBNnpEdl9jdUhtcVQtU2h2TTVYajA3T2VR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-13T18:59:11.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[ 2026년 8월 14일(금) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -43,20 +57,6 @@
           "publishedAt": "2026-08-13T13:16:26.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "교촌치킨, 멥쌀 반죽 활용 '찰도그' 2종 출시…사이드 메뉴 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1pKdzBFN0kxR01KWC1aQnhuMDhmb3J4TzdJSjBQLUliQ296dzF4YVpPeTBBQjdpemVKSW5UaVRHeHMyMUVQVFNDVlFWUGN0ckRtR0hQWHFWZWpXZUVzN0hPRzBRU3VCRnBzQTNqN1pMS3RxMkVBNnpEdl9jdUhtcVQtU2h2TTVYajA3T2VR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-13T12:59:11.000Z",
-          "tags": [
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -107,9 +107,9 @@
           "title": "K-푸드 다음은 ‘K-프랜차이즈’…8개사 싱가포르 출격",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYW5aMTBtMnE5LWlKdEx1NnJqNjdMVG95V0g5dmtRVmJFRTNjM0JTeEhXRmdMR1kwTzc3dTZDRW5Rc1hHWGNUOHZMbUNUc01mMURNRHlvUFFHd3ExbllyZ2FmR1NkTHlpZGtmWA?oc=5",
-          "source": "재외동포신문",
-          "sourceInitial": "재외",
-          "sourceColor": "#1a7a5a",
+          "source": "dongponews.net",
+          "sourceInitial": "do",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-13T05:53:44.000Z",
           "tags": [
             "프랜차이즈"
@@ -142,15 +142,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "美 7월 생산자 물가 전월과 동일…에너지·식품 가격 하락 영향(종합)",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vWkxGZlp6YXk2M2JxQlp2b3diUmZCVWlGaC1EU19MRkRVMEtuei1RaGI2ZzMtRzhzaFRGTU1PNzIwLWZUWW14MzZhRzFMZkNRcXhQQUk5MmnSAV5BVV95cUxOM1RnNUxKX0RGRVBDc2xsSDk3V2Z0T0dGb0s2eC05bXBhNTZWc1UwVC1yWVJJOFlPbFZWVGtkODNhdnlZZ05NaVhmSGVEel9FMHdPUGpDVVo5RzNvby1n?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-13T13:34:24.000Z",
           "tags": [
             "가격"
@@ -201,6 +201,20 @@
           "feat": false
         },
         {
+          "title": "오뚜기 진라면 컵라면 1200원→1300원 … 식품업계 가격 인상 릴레이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuTURrOHBFNG00dkdiY0RMeFdLeVc0Y0tuT0ZKVS1RYlg1TnVDejNRU2p3MHZMSW05TzA0cDFhUWNlMDlzWW0zSl9YSmJWenJrRy1icHNaUnZrX3lrelZnbnAzMkhZRjhKQ1NoV0Zldldrb1pBd0dPaFk5a9IBgAFBVV95cUxQMzVWV0dQQWp5RVp4VHpjcjlLMTNZZWhSTjc3NXdGMzJqalRyNElqbUF5a3RrWFVJZlp4OS1YaGc2MEdVX0dreDNDQ2pvbk40RGlzWm8wU3dMRHhrVVJXNDkyYk1vMFJfYUFKa0I4TGktRVlIeEhvcEhJdUMxQ0R5Zg?oc=5",
+          "source": "뉴데일리",
+          "sourceInitial": "뉴데",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-12T23:42:37.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "동원산업, 상반기 영업익 전년 대비 15% 증가…식자재·포장재·물류가 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjcURFQ1FqQzR5S3VPNm5KaV9mbFh2QjZJMnJxeVk3RDAzWVp0QXFQN1pDamdVT2piNDlQMUFJWjAyMEN3UUxZS2FGM2pNR0hCNk1oRHpIOVUzbmJ2SG9yOHFIaFlRa19YNVNr0gFvQVVfeXFMTkNkYkFTVmpMQnFlbXotbkE1U2M1Yl9DTmR2U3pGd0t1a2kzdWFmd2lQd1M2MXF1Q2NpbHJmUGhVRjkyYndjVHVQRXZSaE1BT1RYR3NMR3VoaFNGLWFUdXdXY0JPV3BmdTBGaHFVeUtn?oc=5",
@@ -215,6 +229,20 @@
           "feat": false
         },
         {
+          "title": "동원산업, 상반기 매출 5조 돌파…식자재·물류 효과 '톡톡'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TkhsRUpjXy1pcklnV051YW1kMGJsNlpMSlctRmVIdHo4a3hmV3dZa29rZVR2Q1VQa1JlNmo0dlNjMFhxeGJzbVFSbmItY0dqSmJB?oc=5",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-12T08:20:00.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[기획]고원가·저항에 갇힌 식품업계, ‘해외·B2B’로 판로 선회",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YzBsUVV0dDE3clYwS0RRQjRWbndsVHVXdGJ5U3Q5NFJJY1F4U0p3cTVSNUQwek5jb3RsRjA2cWt6QWVreDR6SE9uLWlpX2pWOGhGSXdISE1YVXpodERMSFV6MA?oc=5",
@@ -222,34 +250,6 @@
           "sourceInitial": "매일",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-12T03:00:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "NH투자證 \"CJ제일제당, 해외 식품 성장 긍정적, 원가 부담 아쉬워\"…목표가 7.1% ↓\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tQjQ1bVF5djFyODl0eEhrc2ViX1JNT1lvRU1peDBLRlpjSkNCTlllSmFpdC1fQ2xCcWhhcXpfVS1veW9zOV84M2FidE9BcmpsRjZqOQ?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-11T23:14:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "K푸드 잘 팔려도 원가 부담에…CJ제일제당 식품 영업익 21.3%↓",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yalhkQmxCSHh1emN6eGxfVTlmcUkwbTh5MG14bldjM1haSFY0YV91ZE9rdWdRd2YwdWdDOGhzeS1BdzQzdkJwUndmNDRlTWNnLWZjZ0VRaE9QbjhGRXNXMExRWXJDVERPbHNoT9IBbEFVX3lxTE5yalhkQmxCSHh1emN6eGxfVTlmcUkwbTh5MG14bldjM1haSFY0YV91ZE9rdWdRd2YwdWdDOGhzeS1BdzQzdkJwUndmNDRlTWNnLWZjZ0VRaE9QbjhGRXNXMExRWXJDVERPbHNoTw?oc=5",
-          "source": "국민일보",
-          "sourceInitial": "국민",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-11T21:02:00.000Z",
           "tags": [
             "원가"
           ],
@@ -298,9 +298,9 @@
           "title": "농식품부·aT, 동남아 수출설명회 열고 할랄·식품안전 규제 대응법 짚어",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JU1RKa2tWemtYWTRRbDNzMkhFaUd5T2g5dFpwaktOQ3MyRVNBVnNFUmd3SkZNSkNXOHFjMnY2R1NXRVN5RzVxQkkzb0NRczJqSmU0WmMwbEQyUdIBX0FVX3lxTE5USDY4Qnp6QzR3a0dBREo4LXgzLVEwSnFYcmJZZ3lsSHBpY216QjFCMW1nNTEyVVBNeDFvaDhJZzJkQkV6dnlTd0tGV05IUmFEUEs3TFVZOUxuUUpqUGZN?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-13T02:36:53.000Z",
           "tags": [
             "규제",
@@ -313,9 +313,9 @@
           "title": "정부, '고수온 피해' 332억 재난지원금 투입…농축산물 수급 대응 총력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUdIBWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-12T23:30:00.000Z",
           "tags": [
             "수급",
@@ -328,9 +328,9 @@
           "title": "aT, 동남아 식품 수입규제 강화에 'K-푸드' 수출 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMcVl1NW5scnlTbklrRExRWDFLdk5BYTFJTERYbm13SGRUN2ZtTjJucGYzNFdvZ3pDZlV1ZkU5QmthcHBPZy12ZXZFVEdwajg5blpZN3ZldEVpNXpIazFGMtIBeEFVX3lxTE9veW9nSWg1R1RkZUhSSWE4WGladG9NSTJCaktLdmZMS01SbU00bThJakdMTVZoV1RuM1AycUczdFJpYkp4di1tSUxycnUtMEh0MmstR0JnWXlUVE5fWEUtRjU2M05BZE53dV9Tenh5MFJTYVVBUjdIeA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
+          "source": "newsis.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-13T00:46:08.000Z",
           "tags": [
             "규제"
@@ -418,10 +418,10 @@
         {
           "title": "포도호텔, ‘한우사골곰탕·흑돼지짬뽕‘ 프리미엄 HMR 신제품 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERjZ1MUlwbVlPd3RYRTNzUGg1WWxJbVRob1VGMVRGajQwQlNXd0RjSEVCYmo3b3RWb3JydVJSYzVGeXN5QWs2SHMyd2FwemduclJnay1xUnN5SEZQZmxIVW51V2FkY3ROeURJWi1QV0M?oc=5",
-          "source": "숙박매거진",
-          "sourceInitial": "숙박",
-          "sourceColor": "#b03a6a",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGY25lRWhnUllzc0ZIanpOc3BEYWRzOGZ2dHBuOTI0bDdZV09OYy00bkRld241MWNCa3pfVUJ5Y0NZakFlbUJCVWpieEdYQVY3R05lbV9CUVAyY1h4Y0U3SmJQRlRYQkF4YWdiZEZZQzhQUQ?oc=5",
+          "source": "sukbakmagazine.com",
+          "sourceInitial": "su",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-13T01:33:02.000Z",
           "tags": [
             "신제품",
@@ -434,9 +434,9 @@
           "title": "하림, 탕수육·깐풍기 등 ‘중화 닭요리’ HMR 4종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMWdrMk5zRmJGdWZOSGhGTWQ2LWNxVlVVWDNBbEZMTmt1YUR3eXh2YlR0SlV3azhWOVQ0SmZiTnY4azc4Qk5ydjlPM2xJdzB0REFEbTFVQ2xITHMtdGN5QUxMeEJla0V4MGZEZNIBbkFVX3lxTE1mdmlpRnFwWnBfemt5RF9yclI4ZnlWenRsb29mbnI1VXB3VDJQdUhpSHhaakkxTVNzUnJ0U0piMW9mTWxjTlQzZHVXZE1GaHZtQWNSd0NyMF8tdHUtLTFPTEY2S1F5SzN5TGE4RDFn?oc=5",
-          "source": "youngnong.co.kr",
-          "sourceInitial": "yo",
-          "sourceColor": "#3a6ea5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-13T00:46:26.000Z",
           "tags": [
             "출시",
@@ -467,7 +467,7 @@
           "source": "마일드경제",
           "sourceInitial": "마일",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-13T13:29:02.000Z",
+          "publishedAt": "2026-08-13T06:44:00.000Z",
           "tags": [
             "출시"
           ],
