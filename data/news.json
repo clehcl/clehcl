@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T09:43:19.844Z",
+  "generatedAt": "2026-08-13T12:35:49.995Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 19,
       "items": [
         {
           "title": "점주 10%만 모여도 본부와 협의…외식 프랜차이즈, 새 가맹사업법 '촉각'",
@@ -36,25 +36,11 @@
         {
           "title": "맘스터치·파리바게트, 싱가포르서 확장 모색…K-프랜차이즈 아세안 공략",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdHVIYkVaTEt1RHY2LVZRWHl4MVdtbzltWUJqUlpwMkM2VFlqT3c2YVFEYTNlQlVPOVVoSzBsRDdUMXl2S01vOGNWUWZsNUtHNVlIRUlCeERubjhTSWI4X0M0Z1E2VHpDSmk2Ni1saGFQWk1oTlFjSjExMFM2WTRGOUI5R2VwSjhuSEktM1ZhS2dGM0xldkhJTzUtQ1VwdFJGYkQ4Mmw2a1lOcjNTeHd3X0JRbkhkZWxpZHRrNlpPUEludkRTZTgyODBNN0NLY1pJVEx4THJMUUgwV253WFhGXy0tdl9FMll0ZGpBdjkzTVJjVkRrZFhmWlVVYXJfdHpHTkItRzkwd2ROWlRjbDAxZ1RpTmdpS3ptS2hEX3FfQjhEY0hOZ0l4UzRvZndiZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oQS04dnR3S05jOVVjMWhZRVZMZnM2a29ZWFpKVzVrOHBsQlBXLUloSG1ZQnVCa3dkQ0YwNnFFVXRtM1B5UjdhY2YwdFJoM0FwNGhkdA?oc=5",
           "source": "데일리안",
           "sourceInitial": "데일",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-13T09:00:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘몽키터미널’ 재가동…충장로 달구는 C-프랜차이즈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfd3pqR0R4RUppOEJad3NwTUhjajd4Wi1XYVA2Vi1YN01rRWZ6WHpkVzBTOWsyVU1FVDlQRElfU0dfYUNwY0pfV04xR1FENTFoczQ4dFBrTHZBZklWdXZyWFd3UE8xRWd2YkE?oc=5",
-          "source": "드림투데이",
-          "sourceInitial": "드림",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-13T08:58:24.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -107,9 +93,9 @@
           "title": "프랜차이즈산업협회, 재직자 무료교육 성과평가 'S등급' 획득",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBanoyZEdmay1wUmZwcnBUZDh0bHpGWG9YRlZyN0dWeGdtQjhueUthVkU1NnV5bDRYRE96ZlRpQ2lua04takR1R3EyVkZzNHZrOXF1c3BheFQ2ZjRLVWllSDZmZkxHU2FpNTZlUXpGb1A?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-13T00:10:00.000Z",
           "tags": [
             "프랜차이즈"
@@ -127,6 +113,20 @@
           "publishedAt": "2026-08-12T23:40:40.000Z",
           "tags": [
             "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "냉기 가득 충장로 ‘C-프랜차이즈’로 상권 예열",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52NzYxS0otOHc4djFpYXFWMUVVRUdpUWNiLW9YeTJZYV9kaVpkeENIa3lJbWNRUDk1c2NDeE1HdzRRcE5nRk5Fdk1TN0F1SDg1a01PLWFWVnYtVHFHdGgxTTZNZUtjdkRQRXc?oc=5",
+          "source": "드림투데이",
+          "sourceInitial": "드림",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-12T15:05:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -232,9 +232,9 @@
           "title": "K푸드 잘 팔려도 원가 부담에…CJ제일제당 식품 영업익 21.3%↓",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yalhkQmxCSHh1emN6eGxfVTlmcUkwbTh5MG14bldjM1haSFY0YV91ZE9rdWdRd2YwdWdDOGhzeS1BdzQzdkJwUndmNDRlTWNnLWZjZ0VRaE9QbjhGRXNXMExRWXJDVERPbHNoT9IBbEFVX3lxTE5yalhkQmxCSHh1emN6eGxfVTlmcUkwbTh5MG14bldjM1haSFY0YV91ZE9rdWdRd2YwdWdDOGhzeS1BdzQzdkJwUndmNDRlTWNnLWZjZ0VRaE9QbjhGRXNXMExRWXJDVERPbHNoTw?oc=5",
-          "source": "kmib.co.kr",
-          "sourceInitial": "km",
-          "sourceColor": "#2f7d4f",
+          "source": "국민일보",
+          "sourceInitial": "국민",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-11T21:02:00.000Z",
           "tags": [
             "원가"
@@ -271,9 +271,9 @@
           "title": "동원그룹, 상반기 영업익 전년比 15.1% ↑ … \"식품 부진에도 B2B가 실적 견인\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHJiRThTdS13OGJWV09rdm5GaVE3WFZEQlR1N0toRDc2aVUzUzhLRENzZ2FwclB5VEdUMklvMDZiRTM2Y3pud2hJMW1OYXZFWllFT3kyNENhM0NKSHE2Zmpla0YyWno4R1d5d1RDV2xZdnNxcWVLTU1MQW9nVzUyMNIBgAFBVV95cUxPOHJiRThTdS13OGJWV09rdm5GaVE3WFZEQlR1N0toRDc2aVUzUzhLRENzZ2FwclB5VEdUMklvMDZiRTM2Y3pud2hJMW1OYXZFWllFT3kyNENhM0NKSHE2Zmpla0YyWno4R1d5d1RDV2xZdnNxcWVLTU1MQW9nVzUyMA?oc=5",
-          "source": "뉴데일리",
-          "sourceInitial": "뉴데",
-          "sourceColor": "#c0392b",
+          "source": "biz.newdaily.co.kr",
+          "sourceInitial": "bi",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-12T08:04:01.000Z",
           "tags": [],
           "price": null,
@@ -302,15 +302,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "농식품부·aT, 동남아 수출설명회 열고 할랄·식품안전 규제 대응법 짚어",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JU1RKa2tWemtYWTRRbDNzMkhFaUd5T2g5dFpwaktOQ3MyRVNBVnNFUmd3SkZNSkNXOHFjMnY2R1NXRVN5RzVxQkkzb0NRczJqSmU0WmMwbEQyUdIBX0FVX3lxTE5USDY4Qnp6QzR3a0dBREo4LXgzLVEwSnFYcmJZZ3lsSHBpY216QjFCMW1nNTEyVVBNeDFvaDhJZzJkQkV6dnlTd0tGV05IUmFEUEs3TFVZOUxuUUpqUGZN?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-13T02:36:53.000Z",
           "tags": [
             "규제",
@@ -323,9 +323,9 @@
           "title": "정부, '고수온 피해' 332억 재난지원금 투입…농축산물 수급 대응 총력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUdIBWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUQ?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-12T23:30:00.000Z",
           "tags": [
             "수급",
@@ -403,7 +403,7 @@
         {
           "title": "아워홈 안산공장, '글로벌 HACCP' 인증…식품안전 관리체계 고도화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jaTI3MDVnWXlfVHA0NU5fd2J2NUU3TUVlSzU1OHlpQThSZWl2dVRyRWJNZi1aaXJxWWh3eDI5ZUFKYnIwdkhkWFI0QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkMF94V3hHQXpLelN0TjVDOFc2Q0ctYU82WFZ0Y1RINkdfc21ZNTduRFVLMG81WDQ5X19ieE5XS1N0OXRZcGNkMGE0QU9aZWlPQmlzZw?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
@@ -423,7 +423,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 10,
       "items": [
         {
           "title": "포도호텔, ‘한우사골곰탕·흑돼지짬뽕‘ 프리미엄 HMR 신제품 출시",
@@ -473,27 +473,13 @@
         {
           "title": "CJ제일제당·롯데웰푸드·정관장, 식품업계 신제품 경쟁 후끈",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QSndxUHdEenZLTi1vaGVfTmpLWE9BTDNSLW1wSG15U3RMYWtzbU9pOVJlV0RzNFowQlJKcDRqbU1YRnVRbEdrcVhWTDZ4eEM0MU93ZHdmRXdvTUdMX19xTnF0Nm4tZ29ZU0lJa2d1dXIxVlXSAXNBVV95cUxNUEp3cVB3RHp2S04tb2hlX05qS1hPQUwzUi1tcEhteVN0TGFrc21PaTlSZVdEczRaMEJSSnA0am1NWEZ1UWxHa3FYVkw2eHhDNDFPd2R3ZkV3b01HTF9fcU5xdDZuLWdvWVNJSWtndXVyMVZV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTTFkQzM2Z0J5NzQwU0c0TzNYbm5fX2hWZVJMNm4zZXFQQjVjaUpCMFFNRkQzcWdYcHYxUkdBc0lQZXB5a3lPdGk2OWNBOExBaU5faW1GOUpPRU5jWFhrQkRYaDBvOThzeEk2Wjd6RdIBc0FVX3lxTE1QSndxUHdEenZLTi1vaGVfTmpLWE9BTDNSLW1wSG15U3RMYWtzbU9pOVJlV0RzNFowQlJKcDRqbU1YRnVRbEdrcVhWTDZ4eEM0MU93ZHdmRXdvTUdMX19xTnF0Nm4tZ29ZU0lJa2d1dXIxVlU?oc=5",
           "source": "whitepaper.co.kr",
           "sourceInitial": "wh",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-12T16:18:58.000Z",
+          "publishedAt": "2026-08-12T02:29:44.000Z",
           "tags": [
             "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "떡볶이·냉면, 호주 주류시장 공략 나선다…K-간편식 100만 달러 수출계약",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZEZhZlVONVdBOU9KSW9ONE51SmhDUndINktvZl9UNVdFME5hQ2ZSMlk2Tlo0Z0JjZE1CTlp3WGxJVS03YVFCUjBhaXpSRVRZbFk5ZHZfeWxIWGdyVlZvN0x2QU9NcGhTWVd4SA?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-11T09:49:00.000Z",
-          "tags": [
-            "간편식"
           ],
           "price": null,
           "feat": false
@@ -526,10 +512,22 @@
           "title": "“AI로 제품 만들고 업무도 척척”⋯ 식품업계 AI 활용 확산",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVTg0dDJJVnRnaEQxcFBSaVNvaW84QkNKaE1XaTJ1di1TQUdCZXdHRHZxZlhzbklobXFlNGRCRm4ybGJXMU5fbUNLQ1VXd2lJVVRPZTNQZXZodw?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
-          "sourceColor": "#c0392b",
+          "source": "viva100.com",
+          "sourceInitial": "vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-12T21:01:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농식품부·aT, 호주서 K-푸드 수출상담회 개최…132만 달러 계약·MOU 체결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52UU94X3A2bXpGMUxuOHEwa1ZkY1NBdVQ1WGpXbUR1emh5ZzhvLV9idUdUMTFXWVVTMGJ6MVNNZnQtc1lnRjlLY2ZHTm0tcWxrYkpJbXZxMkl4TnNaTGRybEdxNF9xUmd6eHdF?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-11T23:48:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
