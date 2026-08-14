@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:18:11.072Z",
+  "generatedAt": "2026-08-14T21:44:10.777Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
           "title": "파리바게뜨, 빵류 86종 등 일부 제품 가격 인상...\"원가 부담\"",
@@ -158,6 +158,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "대상, 2분기 영업익 465억…“원가 개선·글로벌 성장 효과”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUXl5cTUtUDZCeUZCelNfV3V6UDI2X0hsMVpyb09ycDl1T2FjZ1Q2VU56ZzlLWHhpRl9sWnRGU3RRSlFOYmlxaDdfdEV5TXpjbS1RMlp3?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-14T14:19:20.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[더트래커 2026 상반기 유통 리포트⑦] 삼양식품, 내수 가격 동결에도 웃었다…해외 수익성이 만든 ‘고성장 공식’",
@@ -242,20 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[테크M 이슈] 한달새 세 번째 가격 인상…서민 울리는 오뚜기, 내수 의존 그늘 짙어졌다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DdHpwSVRNeWN5QWduVWdvVHVkVVd4VFkwbDk2Q3A4TWVHU3FEcFdvN3YyRVMwQXk4ZEs0dFBGQmZrSi16WVVhRHJLb1psSlNVMnctWGUxa3lVRGRNbTdGWXdBWXl2Z9IBakFVX3lxTE95UWxfS2lTUnVoQUNWZWtZdVlQdWpGSkRLR00wNFZXTHFKT0hnajd2LUNKLVhrb01EdWZyLW90N2dJS0dZTW1kc1FhaEZ1aXhmVS1Vd3RKdHpfNHBSSDBzTXhyeGlJcUpwcHc?oc=5",
-          "source": "테크M",
-          "sourceInitial": "테크",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-13T02:05:40.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -268,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 5,
       "items": [
         {
           "title": "대불노인복지관, 아이코리아 북구지회·바로유통과 함께 어르신 700명에게 복(福) 나눔",
@@ -295,18 +295,6 @@
           "tags": [
             "납품"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 2분기 영업익 46.7% 증가…해외 매출 첫 6000억 돌파",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXpFU2RHRkVBa1VBYl94eFloVXZGTE9nQTVmU3lWeXJlRUphR2IzaVREWGtxbW5LSFpGOFp6UFdwXzVPbTM0Yjh2X3RBdjFZczA1RFlCdG05SzVBT3pzRjVPRGdTcWJ1YVJwMHNWa1FtQUdWR1VaZjdHN0JIcTcteTJteGFMZDR5aE4xMtIBe0FVX3lxTFBZa0VqRThpemNqaDhHUFJ5VlFfYVBOWk9UZWN2WUdURW5xcHJsVXkzeGtTX1FKQzFlbnZOenU1Q1d5X19ocktLMWVfUzdpQ2FRVnJYQ0NNdnhQX3ZJZWNpUXVuRHZkZHd6ZzQwUldlTmdTTVphbzBOVEVvWQ?oc=5",
-          "source": "디지틀조선일보",
-          "sourceInitial": "디지",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-14T07:48:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -342,18 +330,6 @@
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-13T03:10:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식약처, 신학기 맞아 학교 급식·무인점포 등 3만3,000여 곳 위생 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PaklUVV8zNGNwbGpGSnF6Y3BaNW1FdVp2UU5DNjFHZ3VYR2hxRmhNektYdkxJMUsyc0Z2WV9Fd1FwREJJQUNaVnR4Mld2bkJKRXUzWUZFVnRXNnJyRXlXSjd2QzN0R3ZzdDRlNHVKb9IBb0FVX3lxTE9PaklUVV8zNGNwbGpGSnF6Y3BaNW1FdVp2UU5DNjFHZ3VYR2hxRmhNektYdkxJMUsyc0Z2WV9Fd1FwREJJQUNaVnR4Mld2bkJKRXUzWUZFVnRXNnJyRXlXSjd2QzN0R3ZzdDRlNHVKbw?oc=5",
-          "source": "글로벌E",
-          "sourceInitial": "글로",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-12T21:35:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -492,15 +468,15 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "포도호텔, ‘한우사골곰탕·흑돼지짬뽕‘ 프리미엄 HMR 신제품 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGY25lRWhnUllzc0ZIanpOc3BEYWRzOGZ2dHBuOTI0bDdZV09OYy00bkRld241MWNCa3pfVUJ5Y0NZakFlbUJCVWpieEdYQVY3R05lbV9CUVAyY1h4Y0U3SmJQRlRYQkF4YWdiZEZZQzhQUQ?oc=5",
-          "source": "sukbakmagazine.com",
-          "sourceInitial": "su",
-          "sourceColor": "#c98a2b",
+          "source": "숙박매거진",
+          "sourceInitial": "숙박",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-13T01:33:02.000Z",
           "tags": [
             "신제품",
@@ -528,9 +504,9 @@
           "title": "[오늘의 신제품] CU·농협식품·CJ웰케어·마몽드",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tb0tVTlo4VGtVV2FOdUg5WURCejVtOWkxWGFLcU01QTdiOTVVV091RWlmZjlBX2RJZnAwS243UFJMa01vbVdERVdHSEZKZ3AyODFtLVIyOExKS2huN0JoUGN1T3dmN3FaSjNIVlJWWQ?oc=5",
-          "source": "sisafocus.co.kr",
-          "sourceInitial": "si",
-          "sourceColor": "#1a4d8f",
+          "source": "시사포커스",
+          "sourceInitial": "시사",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-14T02:24:21.000Z",
           "tags": [
             "신제품"
@@ -568,9 +544,9 @@
           "title": "10대 식품사 중 8곳 상반기 영업익↑...오리온 2980억 '톱', 롯데웰푸드 두배 급증",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZVRJVGxoZnZKZVVZZTBKdGg3TFNBVGRqRFpXSzFZNDgzak1aYlYxMFhYVWwzTVdiMHhBaHZVYWZ6YU9ySUljWUR3QnNVWHA4MzZETTNOV2EyYXl0ZmRJOXhNcE0wal9SSEJaYjhR?oc=5",
-          "source": "consumernews.co.kr",
-          "sourceInitial": "co",
-          "sourceColor": "#2f7d4f",
+          "source": "소비자가 만드는 신문",
+          "sourceInitial": "소비",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-14T09:07:04.000Z",
           "tags": [],
           "price": null,
