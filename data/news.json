@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:13:35.589Z",
+  "generatedAt": "2026-08-14T09:34:56.116Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,36 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 16,
       "items": [
+        {
+          "title": "2026년 7월 프랜차이즈 정보공개서 신규등록 128개 브랜드 공개 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRld5cmtsREpsUWI1RDFGNlZyaGtvQm5YWlV3bDhnZ3VWTnhBRVVaZW5BR2ktR2tKUVAtb3M2SVBhVWJ4VlNFMEZVRU4wbkxzYlhZZEJCQ1RIanlmdFhVRGVhVEV2M18xS21PQk0zeE1jcXh5elpoNnh1dzVvT2hNaHJWdi0tY3RMb0xnREhn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-14T05:35:32.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "코트라, ‘싱가포르 프랜차이즈 전시회’서 한국관 운영… K-서비스 아세안 영토 확장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRFZON3JrVm5ObUpweTR0cjBuSDJtWEI1bUh6M2lFcTlPNTJYZmd4S2RiM0RuTUtNaXlvVGpYS1dZVmgxV2xvZ2tCaU5tcUN4N0lfTDJxTDdGeGxwbHVtUjNfWUMydGYyazVvVXB4OFBJUdIBckFVX3lxTE5RRFZON3JrVm5ObUpweTR0cjBuSDJtWEI1bUh6M2lFcTlPNTJYZmd4S2RiM0RuTUtNaXlvVGpYS1dZVmgxV2xvZ2tCaU5tcUN4N0lfTDJxTDdGeGxwbHVtUjNfWUMydGYyazVvVXB4OFBJUQ?oc=5",
+          "source": "경인종합일보",
+          "sourceInitial": "경인",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-14T05:30:45.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
           "summary": "",
@@ -30,7 +58,7 @@
             "프랜차이즈"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "코트라, 싱가포르 FLAsia에 K-프랜차이즈 8개사와 한국관 운영",
@@ -40,34 +68,6 @@
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-14T01:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "K-프랜차이즈, 아세안 거점 싱가포르서 해외시장 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZnNjOU5qcExOUW5KWTd1Zk5LOVpoVVphWE9wWFdQU2Mtak1BMWRtZlNHdnBhOFBYTmZTY1ZXa2Y3eFhyMmxmUmhsWG1oeVhkWXYtOU1RdVVQTEFxY2h5QmFtUW80TXRCVXdZZm5jN3nSAXRBVV95cUxPZ3NVaUhyZTdTclJnc3ZoanRBUEJfT282QXZXNWNQMXJUMUxQaFhxeEFkSUNObzZGUE5jbEhucFlyQTRJcHluRUtsNnlGVUhzeTZQNmdFR1JIb0tuR0hlZUR6cXBpNjg0elhvVEdmT2hjRWhLVg?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T01:07:33.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2026년 7월 프랜차이즈 정보공개서 신규등록 128개 브랜드 공개 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRld5cmtsREpsUWI1RDFGNlZyaGtvQm5YWlV3bDhnZ3VWTnhBRVVaZW5BR2ktR2tKUVAtb3M2SVBhVWJ4VlNFMEZVRU4wbkxzYlhZZEJCQ1RIanlmdFhVRGVhVEV2M18xS21PQk0zeE1jcXh5elpoNnh1dzVvT2hNaHJWdi0tY3RMb0xnREhn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-13T23:35:32.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -141,8 +141,37 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 15,
       "items": [
+        {
+          "title": "파리바게뜨, 빵류 86종 등 일부 제품 가격 인상...\"원가 부담\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XUldHcEZjTTdQb090VDN6c2FSbkFlOS1MVWRwVG4xYlljU2pWdmNMSTVqNzlDQ0Q4QVoxb1ZSdkNMemthUUxPOTk2TmdwRzRZV3RhdjYtOGZHMXRBTEVRRk5RR0xacHc?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-14T00:07:52.000Z",
+          "tags": [
+            "원가",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "[더트래커 2026 상반기 유통 리포트⑦] 삼양식품, 내수 가격 동결에도 웃었다…해외 수익성이 만든 ‘고성장 공식’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WTVdsTjNQQV8xOEE1emhBZlpmZHFVUnRSUzVkWXBoZXRwMndfd1FCVmIzbXczVUtCdUpoUGF1UGVJTjlua2dLQjVZWW8zWHVUY1pmclVCdHE?oc=5",
+          "source": "더트래커",
+          "sourceInitial": "더트",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-14T08:42:26.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "식품 원가 부담 B2B로 넘었다…동원그룹 '사업 다각화' 힘으로 이익 체력 키웠다",
           "summary": "",
@@ -155,7 +184,7 @@
             "원가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "파리바게뜨 25일부터 평균 5% 인상… 식품업계, 가파른 가격 인상 잇따라",
@@ -226,34 +255,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "오뚜기, 컵라면 11개·만두 3개 브랜드 가격 올린다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tcVRxMnJLMGFILVFtRUU0M1lneldBN3h5a1BEdGZNUG54WHZQdWlyV3NVQzFpZDVQX0dnM1BSVUNybzBKUnY5MG5rSlV1dlFZTWhjQkpQQ3FOYjZMUUZPdmJzVG9VZWFudGZEY1VR?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-13T01:24:34.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "폭염에 채솟값 뛰고 원가 부담에 가공식품까지…8월 장바구니 '비상'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80UzFyTV9sNHFlelFtalRlbDZmVUdYZlE0NWt6SzBvQnllUlFlQUdMeGNJNGRTa1E0UFM4bTVlWmFLbk1KUDNsbzYyeU5VVGpJT3F3UG13THdXTU50N25tYl82Vng2eDUxQjIydklhNDk3UdIBckFVX3lxTE80UzFyTV9sNHFlelFtalRlbDZmVUdYZlE0NWt6SzBvQnllUlFlQUdMeGNJNGRTa1E0UFM4bTVlWmFLbk1KUDNsbzYyeU5VVGpJT3F3UG13THdXTU50N25tYl82Vng2eDUxQjIydklhNDk3UQ?oc=5",
-          "source": "딜라이트닷넷",
-          "sourceInitial": "딜라",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-12T10:44:19.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -283,16 +284,14 @@
           "feat": true
         },
         {
-          "title": "동원산업 상반기 영업익 15% 증가…포장재·식자재·물류가 견인",
+          "title": "풀무원, 2분기 영업익 246억 26.0%↑..\"해외·급식 호조\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXY2dSRHZmWDhxM2tZQWhVQ0dsUUw3NUFpOGJUOFpSeXl1bU5VVUhCdVhjMnh2RkdHU1o1Zzl0YUc2ZWpqNDBBVzFMT28xcWI4czJqX1Z6SGxkbTEtYVVB?oc=5",
-          "source": "스마트투데이",
-          "sourceInitial": "스마",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-12T07:57:00.000Z",
-          "tags": [
-            "물류"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBQzk1bEZ5RUJmXy1UZDJpZTdNNGFUOVQ0SDRpNmFYeGlzNk5oQk5rb1Q4TGJ6YlVYb245ZXhJeU4wb1M3VURFWDI5QWpUeFo5cF84SHhFWFN3OGtUYmxEWVcxYjI?oc=5",
+          "source": "포쓰저널",
+          "sourceInitial": "포쓰",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-14T07:26:20.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -309,13 +308,13 @@
           "feat": false
         },
         {
-          "title": "동원그룹, 상반기 영업익 전년比 15.1% ↑ … \"식품 부진에도 B2B가 실적 견인\"",
+          "title": "사조푸디스트, 하남에 신규 급식 브랜드 '푸디플러스' 1호점 개점",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHJiRThTdS13OGJWV09rdm5GaVE3WFZEQlR1N0toRDc2aVUzUzhLRENzZ2FwclB5VEdUMklvMDZiRTM2Y3pud2hJMW1OYXZFWllFT3kyNENhM0NKSHE2Zmpla0YyWno4R1d5d1RDV2xZdnNxcWVLTU1MQW9nVzUyMNIBgAFBVV95cUxPOHJiRThTdS13OGJWV09rdm5GaVE3WFZEQlR1N0toRDc2aVUzUzhLRENzZ2FwclB5VEdUMklvMDZiRTM2Y3pud2hJMW1OYXZFWllFT3kyNENhM0NKSHE2Zmpla0YyWno4R1d5d1RDV2xZdnNxcWVLTU1MQW9nVzUyMA?oc=5",
-          "source": "뉴데일리",
-          "sourceInitial": "뉴데",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-12T08:04:01.000Z",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfMDRPdW5LQVpSS1RmcmtxZmJjY1pzUVlFdlFsMW0yaDladmxESldBTXQzeElZZVlIY1BHU21yQnR2bm9kYWZEU3RzUWk5ay14MGRidzJhMHlMcmpYQkVISXBGRl9WWWZOZ25DWVNtMTM?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-13T03:10:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -331,7 +330,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 9,
       "items": [
         {
           "title": "농식품부·aT, 동남아 수출설명회 열고 할랄·식품안전 규제 대응법 짚어",
@@ -406,6 +405,18 @@
           "feat": false
         },
         {
+          "title": "AI ‘가짜 의료인’ 내세운 식품광고 제재 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xWnpRRzhiMkF4ZU5mRUY0TlhvcHhtWmE4TkRSUFdDVnAtNHZoazM5UE13T2p1S0JJdUk0Z0F3dUJ0WklSVWJJTjJxVE5tTW5fOGVxT3RlX3lDN2dPUThOSVJaV3pmRDRU?oc=5",
+          "source": "치과신문",
+          "sourceInitial": "치과",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-14T01:19:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[농산유통 집중해부②] 20%대 영업이익률?…뭇매 맞는 도매시장법인의 ‘진짜 역할’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzQ2RwaHk0eDVxcVBDZloxZHhCMTF3eHViMG91amt1dkRjclItdk5qUnpHTzU2UmUwRnFCMjlRVTh1TXF6bVNZMHJNSVlZeEpDQXFNRUEzUUNvTG5URWc?oc=5",
@@ -418,13 +429,13 @@
           "feat": false
         },
         {
-          "title": "[K-소비재 글로벌 리포트] 8월 2주, 해외 유통망 확장",
+          "title": "유기농 식품 시장 규모, 점유율, 성장, 분석, 보고서, 2034년",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMVVfMlh3MkM0MTU0WUF4XzY1RFNocVpwbEh5VE5aMFJmWmpTaE9haG9rd2dNWUdZZ0YxQjlRbTljc1JUdHBpXy1JNWZ4WEZoR3ZKZ3pYbmtqUEp1MnhEZ1JaOXdwR0l2N1hFNw?oc=5",
-          "source": "센머니",
-          "sourceInitial": "센머",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-13T01:06:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94U0otMlhoajNIdVNCaFdOcmRPUE9JOGV1ZHpSZUl5U0I2MFpKbi12ZmNsRi1COG5GVGZqLXZSNTRaeUtKa1phVDdobDZhVnRheUE3RkxXUlZDOTkwODBJcEoyUVA5ejll?oc=5",
+          "source": "straitsresearch.com",
+          "sourceInitial": "st",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-13T14:59:27.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -440,7 +451,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 12,
       "items": [
         {
           "title": "포도호텔, ‘한우사골곰탕·흑돼지짬뽕‘ 프리미엄 HMR 신제품 출시",
@@ -461,28 +472,13 @@
           "title": "하림, 탕수육·깐풍기 등 ‘중화 닭요리’ HMR 4종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMWdrMk5zRmJGdWZOSGhGTWQ2LWNxVlVVWDNBbEZMTmt1YUR3eXh2YlR0SlV3azhWOVQ0SmZiTnY4azc4Qk5ydjlPM2xJdzB0REFEbTFVQ2xITHMtdGN5QUxMeEJla0V4MGZEZNIBbkFVX3lxTE1mdmlpRnFwWnBfemt5RF9yclI4ZnlWenRsb29mbnI1VXB3VDJQdUhpSHhaakkxTVNzUnJ0U0piMW9mTWxjTlQzZHVXZE1GaHZtQWNSd0NyMF8tdHUtLTFPTEY2S1F5SzN5TGE4RDFn?oc=5",
-          "source": "youngnong.co.kr",
-          "sourceInitial": "yo",
-          "sourceColor": "#3a6ea5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-13T00:46:26.000Z",
           "tags": [
             "출시",
             "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품업계 7월 동향] 삼양식품, 신제품 ‘짜르르’ 출시·명동사옥 페포라운지 개방·문화체육관광부와 MOU 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ScVlCR3B6bVpWR1JJa1h1MDhZQWFTUjNwOS1CSEFFZDF2SjhDX0hUWENUTDJQSnNmYU01Mnp6T3JHbnQ3TjlKMGRrRWg1QkUtM1VneEtXUXFSbVoxM0hOVUl2enFZUQ?oc=5",
-          "source": "통신일보",
-          "sourceInitial": "통신",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-12T07:15:57.000Z",
-          "tags": [
-            "신제품",
-            "출시"
           ],
           "price": null,
           "feat": false
@@ -516,39 +512,49 @@
           "feat": false
         },
         {
-          "title": "CJ제일제당·롯데웰푸드·정관장, 식품업계 신제품 경쟁 후끈",
+          "title": "10대 식품사 중 8곳 상반기 영업익↑...오리온 2980억 '톱', 롯데웰푸드 두배 급증",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QSndxUHdEenZLTi1vaGVfTmpLWE9BTDNSLW1wSG15U3RMYWtzbU9pOVJlV0RzNFowQlJKcDRqbU1YRnVRbEdrcVhWTDZ4eEM0MU93ZHdmRXdvTUdMX19xTnF0Nm4tZ29ZU0lJa2d1dXIxVlXSAXNBVV95cUxNUEp3cVB3RHp2S04tb2hlX05qS1hPQUwzUi1tcEhteVN0TGFrc21PaTlSZVdEczRaMEJSSnA0am1NWEZ1UWxHa3FYVkw2eHhDNDFPd2R3ZkV3b01HTF9fcU5xdDZuLWdvWVNJSWtndXVyMVZV?oc=5",
-          "source": "화이트페이퍼",
-          "sourceInitial": "화이",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-12T16:18:58.000Z",
-          "tags": [
-            "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[유통소식] 농심 웰치스, PC 슈팅게임 ‘배틀그라운드’와 협업",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wcmxQR25WbEdIUDlIN2lvZFVlY2g2NmQxRHlMcVYwY1NobjlrTjdKbEVteEpGMF9haUdROHNlc1Y1Q1B4aFU4X2tnT0QtZ3pzRW9sSFR1LWRXUTNZT3hRQU41Sl8?oc=5",
-          "source": "포쓰저널",
-          "sourceInitial": "포쓰",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxaUg3czJodEJzVW1HdnB2dmU0M1N4NkZfdjgzY0Q3ZmpjWGMtbU5GNjVNZ1BrbDRnQ2h4cW9nYVNvRHRENnVxbVplWTVTbzZEdmtVNURTZ1REcVZUcWVhM1RHNWFPLWlZazhzS3VqRUI5VE0?oc=5",
+          "source": "소비자가 만드는 신문",
+          "sourceInitial": "소비",
           "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-14T03:13:17.000Z",
+          "publishedAt": "2026-08-14T09:07:04.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "삼양식품, '스와이시 불닭' 日서 먼저 판다…18일 패밀리마트 출격",
+          "title": "삼양식품, 2분기 영업익 1천762억원…해외 매출 첫 6천억원 돌파",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PbktDblFrUVlzdnFUbDdtNzFTVDhYS0Jycy1ZU2VlVG40SHRFc2tGOEF0THlYa2NKNE5VMXdncTlWcVZ2MUhOVzQ0a3RGSG0ycUtsM2hCVWZTYndYYWtMaU9Uaw?oc=5",
-          "source": "더구루",
-          "sourceInitial": "더구",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qZjRCOHZ6dTNKOEhmak1aT09LTW4yVE1MbHotUUdkd2NlNFVwTVpRQ1ZWUzZrMDgwT0FyWm5wTFZvR0hDbnBXMkQ2UW5RdXJlV1FNRVhndTJkT29FaVFNbWd2UUtSZEJ2U1E?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-14T07:45:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 2분기 영업익 1762억원…해외 매출 첫 6000억원 돌파",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03eF9LcnRWZXppSG1NRVkweU9GZUVWNzdCcXVEbTJXMGkyV0czQ3RoOEdQak9MeGlWVDhfaFJ3MFI0Q1I1aFlLZjcycGpaRm9aYmcycFdPc0JjbXhBQk14Q0NYQ0xEakwwdlE?oc=5",
+          "source": "천지일보",
+          "sourceInitial": "천지",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-14T07:42:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[식품] CJ웰케어, MAC 기반 웰니스 브랜드 ‘맥플랜’ 런칭",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40TjRZX004ME5fY25qVzhpd3lDMlNGYmNQQ01LV3FtanB5aXNoRHlvcVNHdXF3bXVPNjVKZnNjWkpkeURMU1F3azhTWkdGQTNUdU9nYzhiWDBUV2tYYmI5dml0d3Z6cDNXTEROWjltcC0?oc=5",
+          "source": "리뷰타임스",
+          "sourceInitial": "리뷰",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-13T00:11:48.000Z",
+          "publishedAt": "2026-08-14T07:06:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
