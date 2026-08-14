@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:54:03.358Z",
+  "generatedAt": "2026-08-14T23:52:29.502Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -160,6 +160,20 @@
           "feat": true
         },
         {
+          "title": "원가 아끼려 다대기 섞은 고춧가루 5만㎏ 제조·판매…대표 집유",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zcHJMX0VZeUpmZmJSMVFMd2NBdFVrc2tVQzhDSURnNFA1VDlEWkNJUlZfdjNSWjBtUFlqN1NTY3JlYV9YUmtZRmVpREZhV1pHNUhoRWtZa3VUR2RqMllIMldyeUp5NklpTU1SbWliY9IBc0FVX3lxTE1sdTNwc1pUVmVraWRmREtqcjRCTlRIcFczcldjQUIxWVRrV1kxb2NpcXVaWV9VRGZRa2RaWnRrMVhtTUIzMFdXMEM4dklaLXYwN1BhTkZEZkt1NGlCMEdUcDAzbU9XZ2hzT3BnT1U0Y3A3RDQ?oc=5",
+          "source": "대전일보",
+          "sourceInitial": "대전",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-14T23:06:33.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "대상, 2분기 영업익 465억…“원가 개선·글로벌 성장 효과”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUXl5cTUtUDZCeUZCelNfV3V6UDI2X0hsMVpyb09ycDl1T2FjZ1Q2VU56ZzlLWHhpRl9sWnRGU3RRSlFOYmlxaDdfdEV5TXpjbS1RMlp3?oc=5",
@@ -242,20 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[현장] '갓뚜기' 오뚜기의 위험한 땜질식 가격 인상…한달새 3차례나 올려",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTV9feFlKZVpKc3ZuNVZBWUZxS1VzcHBZb1cxOGtHQWg4U25zWW8zYTRpUnJKc1ZJSDJhZWJ3MlBXSlNYcXdKNVdPWkdZa0hkY0pkV3FPMzVJZlBuWXQ1Ry0tUlpMbzh2UkhiMG1R?oc=5",
-          "source": "알파경제",
-          "sourceInitial": "알파",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-13T03:06:11.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -268,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "대불노인복지관, 아이코리아 북구지회·바로유통과 함께 어르신 700명에게 복(福) 나눔",
@@ -299,6 +299,30 @@
           "feat": false
         },
         {
+          "title": "신세계푸드 상반기 영업이익 98억, 전년比 5.4% ↑…홀로서기 마지막 실적서 ‘원가 효율화’ 빛났다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XM3pacHZKdmtvS052OW5vOUkwWU5QcklsSElBVThYSTRQN01kbG5HRmlHeXBpVk9GNkkwTEN6N2M3U3BVN0FzdHBna2VMelE5RnhMck1rc2dpX082d1VhRUZhRDl4SEs4d1J2d0VZVdIBc0FVX3lxTE9mSl91X3hzYjZIdncwUmtFV002Q0pZaFdTMlBMblRzeUFTLXJ4YXZRdUxTZV9vbVlOTGJkOXFRekxkY2dkMjBkdjlKNEZEdXl1TUxNYl9ETldZemhweE9rbHEwRWZDVkJqaXdWTjhVeTZzV3M?oc=5",
+          "source": "뉴스퀘스트",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-14T08:10:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 2분기 영업익 46.7% 증가…해외 매출 첫 6000억 돌파",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXpFU2RHRkVBa1VBYl94eFloVXZGTE9nQTVmU3lWeXJlRUphR2IzaVREWGtxbW5LSFpGOFp6UFdwXzVPbTM0Yjh2X3RBdjFZczA1RFlCdG05SzVBT3pzRjVPRGdTcWJ1YVJwMHNWa1FtQUdWR1VaZjdHN0JIcTcteTJteGFMZDR5aE4xMtIBe0FVX3lxTFBZa0VqRThpemNqaDhHUFJ5VlFfYVBOWk9UZWN2WUdURW5xcHJsVXkzeGtTX1FKQzFlbnZOenU1Q1d5X19ocktLMWVfUzdpQ2FRVnJYQ0NNdnhQX3ZJZWNpUXVuRHZkZHd6ZzQwUldlTmdTTVphbzBOVEVvWQ?oc=5",
+          "source": "디지틀조선일보",
+          "sourceInitial": "디지",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-14T07:48:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "풀무원, 2분기 영업익 246억 26.0%↑..\"해외·급식 호조\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBQzk1bEZ5RUJmXy1UZDJpZTdNNGFUOVQ0SDRpNmFYeGlzNk5oQk5rb1Q4TGJ6YlVYb245ZXhJeU4wb1M3VURFWDI5QWpUeFo5cF84SHhFWFN3OGtUYmxEWVcxYjI?oc=5",
@@ -306,18 +330,6 @@
           "sourceInitial": "포쓰",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-14T07:26:20.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동원그룹, 상반기 영업이익 2976억원… 비식품 계열사 선방",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SNG5nX0VUSEtfZFg2cTU4NnpJTjlyRWR5b0NvTzVPNXh4UlIwcWFaTkZqVm1vM3hfdXd6OXdjMmdPcEN6dU1FTGpYUWNaZTZXZFhVbzNRY19kaENiVU1iYVRMOEgwcy1Kc3NGT0tR?oc=5",
-          "source": "S저널",
-          "sourceInitial": "S저",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-13T07:29:15.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -345,7 +357,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "농식품부·aT, 동남아 수출설명회 열고 할랄·식품안전 규제 대응법 짚어",
@@ -363,15 +375,14 @@
           "feat": true
         },
         {
-          "title": "정부, '고수온 피해' 332억 재난지원금 투입…농축산물 수급 대응 총력",
+          "title": "정부, '고수온 피해' 332억 재난지원금 투입…수산물 최대 50% 할인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUdIBWkFVX3lxTE1YdHNGVW1BQ1puYVlnbXpzdjNlSTNqd0hjOGktWWE0TF82NlRRVzBvRWFwbWJSakMxakxjWUg0WkNDTURWNllnQTVwa2RxdzRkSWVhWXI0bkZMUQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-12T23:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQVHRDWmdYaG91TnVRMmFGSGhtNV9LVTduVm9GZkwzUEc2M0EyVWItSEFjNDBBeC1rS3gteDQ5aDVfUjFtYnJ3OHNDRzdROTJqZEs2Rm03U0V4ejJEdWFVd0JMZXZrX0U0cGsw0gFrQVVfeXFMUFBUdENaZ1hob3VOdVEyYUZIaG01X0tVN25Wb0ZmTDNQRzYzQTJVYi1IQWM0MEF4LWtLeC14NDloNV9SMW1icnc4c0NHN1E5MmpkSzZGbTdTRXh6MkR1YVV3QkxldmtfRTRwazA?oc=5",
+          "source": "경제투데이",
+          "sourceInitial": "경제",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-13T02:36:08.000Z",
           "tags": [
-            "수급",
             "정부"
           ],
           "price": null,
@@ -420,27 +431,13 @@
           "feat": false
         },
         {
-          "title": "폭염·가뭄에 농축수산물 수급 비상…수산물 할인 300억 투입",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Gb3dBWGlkSTRibjVaNjhReHhOY1ozekNyYXVvdnRCZlJqZ2l1akF3ZDdVa2pGOGpJMGNQUExqUUk0Q2U3aUxqREZiYm5tQmo2VXBEdA?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-12T23:30:00.000Z",
-          "tags": [
-            "수급"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[농산유통 집중해부②] 20%대 영업이익률?…뭇매 맞는 도매시장법인의 ‘진짜 역할’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzQ2RwaHk0eDVxcVBDZloxZHhCMTF3eHViMG91amt1dkRjclItdk5qUnpHTzU2UmUwRnFCMjlRVTh1TXF6bVNZMHJNSVlZeEpDQXFNRUEzUUNvTG5URWc?oc=5",
           "source": "뉴스투데이",
           "sourceInitial": "뉴스",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-13T23:13:00.000Z",
+          "publishedAt": "2026-08-13T21:01:24.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -453,6 +450,18 @@
           "sourceInitial": "St",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-13T14:59:27.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "대한민국 수산대전 23일까지 연장…광어·우럭 등 최대 50% 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wRGwtcDhYYWFCMFpHVWM4cGE5THRwT0xPRzFqX3NsZG81amRocnF0MFBkZGFxWE5vSmpBOWV2c01rb3d3b0FKRFI5dWRaeGIzeDR3?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-13T07:44:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -504,9 +513,9 @@
           "title": "[오늘의 신제품] CU·농협식품·CJ웰케어·마몽드",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tb0tVTlo4VGtVV2FOdUg5WURCejVtOWkxWGFLcU01QTdiOTVVV091RWlmZjlBX2RJZnAwS243UFJMa01vbVdERVdHSEZKZ3AyODFtLVIyOExKS2huN0JoUGN1T3dmN3FaSjNIVlJWWQ?oc=5",
-          "source": "시사포커스",
-          "sourceInitial": "시사",
-          "sourceColor": "#b03a6a",
+          "source": "sisafocus.co.kr",
+          "sourceInitial": "si",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-14T02:24:21.000Z",
           "tags": [
             "신제품"
