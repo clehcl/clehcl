@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T21:42:59.862Z",
+  "generatedAt": "2026-08-15T22:51:04.183Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 18,
       "items": [
         {
           "title": "7월 인도 도매물가 지수 9.78%↑…\"에너지 가격 상승 완화\"",
@@ -270,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "대불노인복지관, 아이코리아 북구지회·바로유통과 함께 어르신 700명에게 복(福) 나눔",
@@ -342,10 +342,22 @@
           "title": "풀무원, 2분기 영업익 246억 26.0%↑..\"해외·급식 호조\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBQzk1bEZ5RUJmXy1UZDJpZTdNNGFUOVQ0SDRpNmFYeGlzNk5oQk5rb1Q4TGJ6YlVYb245ZXhJeU4wb1M3VURFWDI5QWpUeFo5cF84SHhFWFN3OGtUYmxEWVcxYjI?oc=5",
-          "source": "포쓰저널",
-          "sourceInitial": "포쓰",
-          "sourceColor": "#b03a6a",
+          "source": "4th.kr",
+          "sourceInitial": "4t",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-14T07:26:20.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원, 해외 성장·급식 호조에 2Q 영업익 26%↑…순이익 흑자전환(종합)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhb1Z2RTRkQWlDa1pLNDd3NTd6dUxKa0RUQUFjbE4yYU51S1FNSGVjcmc4MlJKZW0xdmxyRXBQVjZ2UzZZMG1sUWtoWGNsR3RfbmFhal9kM3JkUzFtSHc?oc=5",
+          "source": "뉴스투데이",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-14T07:03:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -462,7 +474,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "‘고사리육개장’ 완판 이어…포도호텔, HMR 2종 추가 출시",
@@ -478,6 +490,21 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "포도호텔, 호텔 셰프의 미식 담은 프리미엄 가정간편식 2종 신규 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95OFpVd2NidXp6UEtBMXRCbk43cGlJU3NCRV9PQWVqYjdMemFhczhzdnh4dVo4S2Fmc1l6YlJNMnRYT1IzWFNRUHN6MnJBdm1FMElzQjlVczBiWDhmTW41NVB1SjNNbFlQTnlMaA?oc=5",
+          "source": "미디어데일",
+          "sourceInitial": "미디",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-13T23:04:49.000Z",
+          "tags": [
+            "출시",
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[오늘의 신제품] CU·농협식품·CJ웰케어·마몽드",
@@ -511,9 +538,9 @@
           "title": "10대 식품사 중 8곳 상반기 영업익↑...오리온 2980억 '톱', 롯데웰푸드 두배 급증",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZVRJVGxoZnZKZVVZZTBKdGg3TFNBVGRqRFpXSzFZNDgzak1aYlYxMFhYVWwzTVdiMHhBaHZVYWZ6YU9ySUljWUR3QnNVWHA4MzZETTNOV2EyYXl0ZmRJOXhNcE0wal9SSEJaYjhR?oc=5",
-          "source": "소비자가 만드는 신문",
-          "sourceInitial": "소비",
-          "sourceColor": "#b03a6a",
+          "source": "consumernews.co.kr",
+          "sourceInitial": "co",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-14T09:07:04.000Z",
           "tags": [],
           "price": null,
@@ -551,18 +578,6 @@
           "sourceInitial": "ne",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-14T07:42:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품] CJ웰케어, MAC 기반 웰니스 브랜드 ‘맥플랜’ 런칭",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40TjRZX004ME5fY25qVzhpd3lDMlNGYmNQQ01LV3FtanB5aXNoRHlvcVNHdXF3bXVPNjVKZnNjWkpkeURMU1F3azhTWkdGQTNUdU9nYzhiWDBUV2tYYmI5dml0d3Z6cDNXTEROWjltcC0?oc=5",
-          "source": "리뷰타임스",
-          "sourceInitial": "리뷰",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-14T07:06:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
