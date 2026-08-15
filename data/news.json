@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T05:56:58.730Z",
+  "generatedAt": "2026-08-15T07:43:08.311Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "지난 10년, 사모펀드는 왜 외식 프랜차이즈를 사들였나",
@@ -48,20 +48,6 @@
           "feat": false
         },
         {
-          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14YkdyMlhFQzJIVmN1QWlHYk1zZ3phd3RYbmlXZVdpYi1xUVUyUU15bFRhTmRlTnprZ25DUjlhbnhJbDh0dFE3Z001bFltaEplOHJSamZRZWVUZWxGSlRPdGoxclYwTzZGX3BnbmtLUDdwa0XSAXdBVV95cUxORDB6TGkwZDY0NWVsTFprcnFXclc3MnA5U1pYemtydzNUT1VtUU9aR0hlMW9CcVZuaks1SUdiRU9wMGwyRGEzeEFNUGt6Yy1jR0Vkd0poVlhkOTJNOXFwN2gzWDd3cjNxbXVNQnhnQm9Zb1F5TFcycw?oc=5",
-          "source": "sportpeopletimes.com",
-          "sourceInitial": "sp",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T08:12:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "코트라, ‘싱가포르 프랜차이즈 전시회’서 한국관 운영… K-서비스 아세안 영토 확장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRFZON3JrVm5ObUpweTR0cjBuSDJtWEI1bUh6M2lFcTlPNTJYZmd4S2RiM0RuTUtNaXlvVGpYS1dZVmgxV2xvZ2tCaU5tcUN4N0lfTDJxTDdGeGxwbHVtUjNfWUMydGYyazVvVXB4OFBJUdIBckFVX3lxTE5RRFZON3JrVm5ObUpweTR0cjBuSDJtWEI1bUh6M2lFcTlPNTJYZmd4S2RiM0RuTUtNaXlvVGpYS1dZVmgxV2xvZ2tCaU5tcUN4N0lfTDJxTDdGeGxwbHVtUjNfWUMydGYyazVvVXB4OFBJUQ?oc=5",
@@ -69,6 +55,20 @@
           "sourceInitial": "jo",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-14T05:30:45.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41XzBzQzdTZnN4cmhMUktRSFV6ZmZ2YVdCazNYUXloMDNBcU8wNkZhT0RWS1N0SE1lY0tDUVZJZWJQaEZXcVg0U1NGQW54ZGs2c1VIb25Gai1JelAxaXQ4?oc=5",
+          "source": "press.theleader.kr",
+          "sourceInitial": "pr",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-14T04:50:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -217,6 +217,20 @@
           "feat": false
         },
         {
+          "title": "건기식 시장, 고품질·합리적 가격 경쟁 심화… 에스더포뮬러 오메가3 누적 판매 2억 캡슐 돌파",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YW1DRmJacWl5MElDTktPRU5lRXFGa2xxUGFrNmV4d1ZrbGR6Y2pIU3J5eHc3eGxNSWpsbmNzbG9YNFpvNDhYRXF4QVdtSzFta0hZMUJibkE?oc=5",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-14T08:28:20.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품 원가 부담 B2B로 넘었다…동원그룹 '사업 다각화' 힘으로 이익 체력 키웠다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NU19CRVh3Q1gxZWpUdGV0NHlCUEMtVWQzVWNveVF6TnBUZ2lmZTZheGVKa3B2MlN1ZFlTR1lfbjNqOVoyX2lXQ3ptR2ZpSmxETHhLdGpLYWRQQjg2S3hCNkhpcEhxUdIBakFVX3lxTE82ZUt5Z0pWMlB6N2xmVFA3S0tlTmgxTV9PRmdLZDg0alhuUktiVGpxcEJ0TV9fX2lQVjZYNWZEQTNyS0QzMEpRUFRqLU15cnpwOUtwbVY4aHU3NWotNkVvTHBqVXpVSExLZGc?oc=5",
@@ -238,20 +252,6 @@
           "sourceInitial": "MT",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-14T02:10:50.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "예산군, 9월 학교급식 식재료 가격 지역 농가·학교가 함께 정하다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YOUVseDVNMXhKSElETVdXdUwzdHFnWGM5clNfbVdiVnljOXl4SHFJdjR1Qy1oTjdrUVFsLTRFMnBwNWpSYzlaYVROQmhuUUxOVVotcXg2X2hZelRjRFNYTHBrdmduZDVXUUExajRZRHhuQ0U?oc=5",
-          "source": "충남일보",
-          "sourceInitial": "충남",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-13T23:58:34.000Z",
           "tags": [
             "가격"
           ],
@@ -334,7 +334,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "정부, 폭염 고물가 대비 수산물 최대 50% 할인",
@@ -361,20 +361,6 @@
           "publishedAt": "2026-08-13T09:00:02.000Z",
           "tags": [
             "규제",
-            "농식품부"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농식품부·aT, 동남아 K-푸드 수출 비관세장벽 대응 설명회 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hN19TMTVadTNVRkxTZW5JcVZBMno3cUtaZUI2dHlGLWhlZVZHUmxLb0RRYnlQQkRuZENTa3VDdFV0QVlCSW9uRmk2ZENQeEcxSmdwU3BLRE03T01KMFJYcFZUcl9udWNmdExJ?oc=5",
-          "source": "BBS불교방송",
-          "sourceInitial": "BB",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-13T06:41:18.000Z",
-          "tags": [
             "농식품부"
           ],
           "price": null,
@@ -429,6 +415,18 @@
           "feat": false
         },
         {
+          "title": "농수산식품유통공사(aT), '동남아 K-푸드 수출 비관세장벽 대응 설명회' 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpUmc1RFBmZ2NMTzd3RUJ1Y2VLRWt0T2hWRVR0Q0ozeDZ5a0Fianlad2lCb2ttLWxORW5SanhIQkdhaVVwbjlMbm9lMmViUUVIdDJqMGZfa0ZhN1hwX3l6d1B0QXc5UGt1RXc?oc=5",
+          "source": "컨슈머타임스",
+          "sourceInitial": "컨슈",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-13T10:31:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "대한민국 수산대전 23일까지 연장…광어·우럭 등 최대 50% 할인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TYTU0Rjg2SURjb2poQXhpQ0pWS3dSdFlyenJ3SEJnSk0ySTFPdVBkNy1wS2ZxTDVSazV6MGQ2aS1UWEFCNHc?oc=5",
@@ -451,7 +449,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 8,
       "items": [
         {
           "title": "‘고사리육개장’ 완판 이어…포도호텔, HMR 2종 추가 출시",
@@ -479,46 +477,6 @@
           "tags": [
             "신제품"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "대상 청정원, 방한 외국인 겨냥 ‘바사삭 김부각’ 3종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10UFUydTdyZEFMM05KTXZJVnpUZlhlMzh5QzdTX3R3TGtWQ0VycEFpYzJnRFJTSkZfX0ZSR19pemtvYndVOXNGcUpNYXJBNFBHMkhMajR3SWVyUW40U01pMVJXVnBWb3M?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-13T08:00:06.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "대상 청정원, K-헤리티지 담은 '바사삭 김부각' 3종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fY0hPc3FZQzNqSmlQS01oZ3lPMVZzOUN4MDg5ZUFNc3VZalNsRFdpczBFSFJ1SWtJVWM4NVR4bTYzSTZmS0Jma0g0YXB0VGZmT29JLThZdFp1ZS1RNm43RUJnV2tvQUNHbWo0?oc=5",
-          "source": "마일드경제",
-          "sourceInitial": "마일",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-13T06:44:00.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "쇼피푸드의 빅딜이 8월 16일에 시작됩니다: 학생들에게 인기 있는 다양한 상품들을 최대 50% 할인된 가격으로 만나보세요.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXpITW1xQVd1cVR4STBYcGxlOUh1cUJLcDRzdk96bU5ZX1RacWhjSGIzUXFQTVczeGhVTHE3VkhEb2J6RW5qYlpEdVZQMU9XRDNhUzBROGx3SUZwNjV2MDFuNzVuN0FDbFRfVFBRR082dDM5dzU5ZXJSN0c4Z0tERFBudDJlaWhZWVlrV3dVRVVJeFZhb25jekE5Vlp3RnVOTjN2OC1rSFZUaXNldW5hSmVTTlNVQ0NfRHJzWUF5TQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T10:32:30.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -554,6 +512,42 @@
           "sourceInitial": "청년",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-14T07:45:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 2분기 영업익 1762억원…해외 매출 첫 6000억원 돌파",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03eF9LcnRWZXppSG1NRVkweU9GZUVWNzdCcXVEbTJXMGkyV0czQ3RoOEdQak9MeGlWVDhfaFJ3MFI0Q1I1aFlLZjcycGpaRm9aYmcycFdPc0JjbXhBQk14Q0NYQ0xEakwwdlE?oc=5",
+          "source": "천지일보",
+          "sourceInitial": "천지",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-14T07:42:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[식품] CJ웰케어, MAC 기반 웰니스 브랜드 ‘맥플랜’ 런칭",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40TjRZX004ME5fY25qVzhpd3lDMlNGYmNQQ01LV3FtanB5aXNoRHlvcVNHdXF3bXVPNjVKZnNjWkpkeURMU1F3azhTWkdGQTNUdU9nYzhiWDBUV2tYYmI5dml0d3Z6cDNXTEROWjltcC0?oc=5",
+          "source": "리뷰타임스",
+          "sourceInitial": "리뷰",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-14T07:06:25.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[유통소식] 농심 웰치스, PC 슈팅게임 ‘배틀그라운드’와 협업",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wcmxQR25WbEdIUDlIN2lvZFVlY2g2NmQxRHlMcVYwY1NobjlrTjdKbEVteEpGMF9haUdROHNlc1Y1Q1B4aFU4X2tnT0QtZ3pzRW9sSFR1LWRXUTNZT3hRQU41Sl8?oc=5",
+          "source": "포쓰저널",
+          "sourceInitial": "포쓰",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-14T03:13:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
