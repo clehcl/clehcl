@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T19:56:17.378Z",
+  "generatedAt": "2026-08-15T20:51:58.666Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 19,
       "items": [
         {
           "title": "7월 인도 도매물가 지수 9.78%↑…\"에너지 가격 상승 완화\"",
@@ -176,12 +176,26 @@
           "feat": false
         },
         {
+          "title": "해외서 벌고 원가에 깎였다···CJ제일제당부터 빙그레까지 엇갈린 2분기",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yVklwa2tHLVRPQmdQREFaLXlPR2RtVnU3WHdlcC00VEVmRkdGLXRtNTJLSmV1cE5CQjRNQ3VJUEoweFhNU2ZHajZSZkdGQ3MwbVBDXzMtVjJfNnVIZUV1WXhOWm8xcmRkZng0Tk9iVkNZWEnSAXdBVV95cUxPeTE5Sk9ZNEVzdndSbnA1TC1kTkswNnpZd1ZUNG1FY0xFV1lKeXFxUks2UE1BMFBjVV9KQ1JSRTlLSm9uN0NVZU1sYnV0b1dGaWQ4dkZXY3I2eF8yNlNEVUJRVXNMQmdNd0I4SlExaVY5OENoZ1g1NA?oc=5",
+          "source": "여성경제신문",
+          "sourceInitial": "여성",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-15T00:10:33.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "대상, 2분기 영업익 465억…“원가 개선·글로벌 성장 효과”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUXl5cTUtUDZCeUZCelNfV3V6UDI2X0hsMVpyb09ycDl1T2FjZ1Q2VU56ZzlLWHhpRl9sWnRGU3RRSlFOYmlxaDdfdEV5TXpjbS1RMlp3?oc=5",
-          "source": "biz.heraldcorp.com",
-          "sourceInitial": "bi",
-          "sourceColor": "#2f7d4f",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-14T14:19:20.000Z",
           "tags": [
             "원가"
@@ -193,9 +207,9 @@
           "title": "美 7월 생산자 물가 전월과 동일…에너지·식품 가격 하락 영향 > 시애틀 뉴스/핫이슈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqZFRXN2FPcFFPZzBKcTRUdDJNcEFxb3Q2TlRpM0gxMTZjRWNoMVJvUWZNY19iZ1V6X1d4WmhZMVlCaEQ3RjRjR05SemlnNXQxSVFDb2Y1YjFZVjRSa3NfZ1N5Q045clBsV0dCb2xzekc?oc=5",
-          "source": "seattlen.com",
-          "sourceInitial": "se",
-          "sourceColor": "#333333",
+          "source": "SeattleN",
+          "sourceInitial": "Se",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-14T09:25:30.000Z",
           "tags": [
             "가격"
@@ -239,20 +253,6 @@
           "sourceInitial": "한겨",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-14T05:09:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "파리바게뜨, 일부 제품 가격 인상…평균 5%",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WHhkVjkwYjBJUFRHcGluWGdpTmFOWkdMeklZT2QxazlKOFlualNkRXd2VS1kWGNUNUh2dDhiRkJ0cHI3U05JbndkYWFSNTdSck9jMEZJQUthWThMQlhyd0ZvSnpTWUE?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-14T02:38:08.000Z",
           "tags": [
             "가격"
           ],
