@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:01:06.793Z",
+  "generatedAt": "2026-08-15T11:57:02.676Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -121,9 +121,9 @@
           "title": "[K-라이프스타일 확산] K-푸드 넘어 K-라이프스타일로…프랜차이즈, 싱가포르서 아세안 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UV3Q0YjRDMkV0VEd5V0JyUXpoaS1RNEJ6WFpTTEFfdWhOYWJTUXRNNkQtaloxYTFWa25rVVhjdXlvV3V2WC02QkVHT3dndGlmaDBEZUtLZ3B2LUNpVEJValpCZ3pNMWJ6QjZYY2Fn?oc=5",
-          "source": "코리아포스트 한글판",
-          "sourceInitial": "코리",
-          "sourceColor": "#2f7d4f",
+          "source": "koreapost.co.kr",
+          "sourceInitial": "ko",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-13T23:08:20.000Z",
           "tags": [
             "프랜차이즈"
@@ -189,20 +189,6 @@
           "feat": false
         },
         {
-          "title": "해외서 벌고 원가에 깎였다···CJ제일제당부터 빙그레까지 엇갈린 2분기",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yVklwa2tHLVRPQmdQREFaLXlPR2RtVnU3WHdlcC00VEVmRkdGLXRtNTJLSmV1cE5CQjRNQ3VJUEoweFhNU2ZHajZSZkdGQ3MwbVBDXzMtVjJfNnVIZUV1WXhOWm8xcmRkZng0Tk9iVkNZWEnSAXdBVV95cUxPeTE5Sk9ZNEVzdndSbnA1TC1kTkswNnpZd1ZUNG1FY0xFV1lKeXFxUks2UE1BMFBjVV9KQ1JSRTlLSm9uN0NVZU1sYnV0b1dGaWQ4dkZXY3I2eF8yNlNEVUJRVXNMQmdNd0I4SlExaVY5OENoZ1g1NA?oc=5",
-          "source": "womaneconomy.co.kr",
-          "sourceInitial": "wo",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-15T00:10:33.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "대상, 2분기 영업익 465억…“원가 개선·글로벌 성장 효과”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUXl5cTUtUDZCeUZCelNfV3V6UDI2X0hsMVpyb09ycDl1T2FjZ1Q2VU56ZzlLWHhpRl9sWnRGU3RRSlFOYmlxaDdfdEV5TXpjbS1RMlp3?oc=5",
@@ -234,9 +220,9 @@
           "title": "건기식 시장, 고품질·합리적 가격 경쟁 심화… 에스더포뮬러 오메가3 누적 판매 2억 캡슐 돌파",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YW1DRmJacWl5MElDTktPRU5lRXFGa2xxUGFrNmV4d1ZrbGR6Y2pIU3J5eHc3eGxNSWpsbmNzbG9YNFpvNDhYRXF4QVdtSzFta0hZMUJibkE?oc=5",
-          "source": "theviewers.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#8a5cc4",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-14T08:28:20.000Z",
           "tags": [
             "가격"
@@ -257,6 +243,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "기름값 뛰자 식용유·설탕도 상승…세계식량가격 2.4%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uY05PVnJqbllIU21td2JKeXh6Ti1YUXFiNWkzTFRUcUQzc1N5TlV2LWJvZzlVaEhzSnYtSmNiRDhmdkhCbHBiWEJfZVhES0dBTnpOd0wteERqN3MwOTFPS0dlSQ?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-14T02:18:22.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "대불노인복지관, 아이코리아 북구지회·바로유통과 함께 어르신 700명에게 복(福) 나눔",
@@ -303,9 +303,9 @@
           "title": "수입산 채소 106t ‘국내산’ 둔갑…학교급식 납품업자 집행유예",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WenFEeDJYZklzTmJaLWtTLTFCRF93OTFoVnhYQUNZVUNXbjV1bHNKMEF4TkQ4N3hPcDkxLTc0OVg3bWROU19MYVJnZV90R2JZVGZLd1JtTlVmSVFYRTgxSmFIZEEtSXhiNnlPcNIBcEFVX3lxTFBWaXJ3cVV3NTUyNUhwUFZ5T1NoV0ZIbGZDdUswd2o5YUlnc0NFNndlbDhsUGtCbDMwaHJ3cDBqeGFsRmFkWFdBTDBOcXlMYlUzaHAtdGpjZG54RTZFSzVtdDk2VGhPdGprZXJURDIydUU?oc=5",
-          "source": "namdonews.com",
-          "sourceInitial": "na",
-          "sourceColor": "#3a6ea5",
+          "source": "남도일보",
+          "sourceInitial": "남도",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-14T04:43:00.000Z",
           "tags": [
             "납품"
@@ -333,18 +333,6 @@
           "sourceInitial": "포쓰",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-14T07:26:20.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동원그룹 김남정 회장, 보수 11.7억⋯2분기 영업익 1515억전년比13.3%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51U3N0MldMXzdkOGZseF8tMWxUUXRhY0NSRTBVM3JNRjZORFRjTGR0eEg5bHk0ZWx2X1RDRHF3T1BqVFFUZElKQUEyOEFheDlaZ0h4bHIydC1QYWhfaUZyWnN1ZVc?oc=5",
-          "source": "뉴스엔뷰",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-14T06:51:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -422,9 +410,9 @@
           "title": "AI ‘가짜 의료인’ 내세운 식품광고 제재 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xWnpRRzhiMkF4ZU5mRUY0TlhvcHhtWmE4TkRSUFdDVnAtNHZoazM5UE13T2p1S0JJdUk0Z0F3dUJ0WklSVWJJTjJxVE5tTW5fOGVxT3RlX3lDN2dPUThOSVJaV3pmRDRU?oc=5",
-          "source": "dentalnews.or.kr",
-          "sourceInitial": "de",
-          "sourceColor": "#8a5cc4",
+          "source": "치과신문",
+          "sourceInitial": "치과",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-14T01:19:47.000Z",
           "tags": [],
           "price": null,
@@ -471,9 +459,9 @@
           "title": "‘고사리육개장’ 완판 이어…포도호텔, HMR 2종 추가 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hOXV2N2hiLWhsTlFjUEpYdEF3YlZieG5zMnBpZzh3Yk9pdGZfVXFRVUVuY2pVeHdrVkd3MGtJWmstdFhiQ3pHZjhLa3kzdUNhU0EyZ2FvMnVUZFNiY3VsTGFCV0JCWjNGZW50cNIBcEFVX3lxTE5wMTVoRGthT3luc29PZlZ0UGo4V1BRak1zY2xjUGtWc09hVnkyd1BSTVYtdWlnYnlzNG5rTFNPcFV6ZVJSdmN5ZEYwWFFjT083Rmo3Y29iRGtiek1fSGVLVlRDSFR4UFZKMWdCb1g5QWU?oc=5",
-          "source": "미디어제주",
-          "sourceInitial": "미디",
-          "sourceColor": "#c15a37",
+          "source": "mediajeju.com",
+          "sourceInitial": "me",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-14T08:11:47.000Z",
           "tags": [
             "출시",
@@ -500,9 +488,9 @@
           "title": "10대 식품사 중 8곳 상반기 영업익↑...오리온 2980억 '톱', 롯데웰푸드 두배 급증",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZVRJVGxoZnZKZVVZZTBKdGg3TFNBVGRqRFpXSzFZNDgzak1aYlYxMFhYVWwzTVdiMHhBaHZVYWZ6YU9ySUljWUR3QnNVWHA4MzZETTNOV2EyYXl0ZmRJOXhNcE0wal9SSEJaYjhR?oc=5",
-          "source": "consumernews.co.kr",
-          "sourceInitial": "co",
-          "sourceColor": "#2f7d4f",
+          "source": "소비자가 만드는 신문",
+          "sourceInitial": "소비",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-14T09:07:04.000Z",
           "tags": [],
           "price": null,
