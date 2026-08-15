@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:51:58.666Z",
+  "generatedAt": "2026-08-15T21:42:59.862Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -176,12 +176,26 @@
           "feat": false
         },
         {
+          "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
+          "source": "뉴스엔톡",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-15T01:52:21.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "해외서 벌고 원가에 깎였다···CJ제일제당부터 빙그레까지 엇갈린 2분기",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yVklwa2tHLVRPQmdQREFaLXlPR2RtVnU3WHdlcC00VEVmRkdGLXRtNTJLSmV1cE5CQjRNQ3VJUEoweFhNU2ZHajZSZkdGQ3MwbVBDXzMtVjJfNnVIZUV1WXhOWm8xcmRkZng0Tk9iVkNZWEnSAXdBVV95cUxPeTE5Sk9ZNEVzdndSbnA1TC1kTkswNnpZd1ZUNG1FY0xFV1lKeXFxUks2UE1BMFBjVV9KQ1JSRTlLSm9uN0NVZU1sYnV0b1dGaWQ4dkZXY3I2eF8yNlNEVUJRVXNMQmdNd0I4SlExaVY5OENoZ1g1NA?oc=5",
-          "source": "여성경제신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#2f7d4f",
+          "source": "womaneconomy.co.kr",
+          "sourceInitial": "wo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-15T00:10:33.000Z",
           "tags": [
             "원가"
@@ -239,20 +253,6 @@
           "sourceInitial": "뷰어",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-14T08:28:20.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "빵·라면·간편식 가격 ‘뜀박질’…고유가·고환율에 최대 9%대 올린다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrX1hrODl0MUhfazkzNTd1Y1JIYTZibXdRallPbXNlLVhBbXI0NjVyRkFvTkdZQWFOd0ZKV2VYMGV4OGtocjhqR2Y0cWl0U0ZLZUhIdFA2cnJjcUR0UDQ4RnlLYlQxTWliVjU1alRWODhpQQ?oc=5",
-          "source": "한겨레",
-          "sourceInitial": "한겨",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T05:09:00.000Z",
           "tags": [
             "가격"
           ],
@@ -364,16 +364,15 @@
       "total": 7,
       "items": [
         {
-          "title": "“광어·우럭·전복이 반값?”… 폭염 물가 잡으려 정부 300억원 '투입', 언제까지?",
+          "title": "KDI 수정 경제전망 나온다…민생물가 잡기 고삐[재경부·기획처 주간예보]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43Yk16djlQelA0NXhlZ0ZYY1FZVldUOGZNN1BRVGNEUnNlUlVpZHRtTFA3dEU4dGVXbG9OTkRpRFc5TWo0VUN5MGhGRXkzYlNxdnhUVGR3SURXeWl2bTh1UlREY2ZaMVJPcWtTRk91a3hsQWM?oc=5",
-          "source": "경제시그널",
-          "sourceInitial": "경제",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-13T21:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1J3WG0yM0NYUGVRNXpidzVPMWlxRldvQkUxMF9remluRFFLZUplOFBxS2ZFYkpjeS1jc1Z2bTFHeUZiMTJLRjRabElacWtrY2JlWXhjdHVzV3g4Sl9WaTM3aGJVTXI5UzU4QURMRjh2eU8yU0twaExDTEJ3V3pINQ?oc=5",
+          "source": "edaily.co.kr",
+          "sourceInitial": "ed",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-15T21:00:05.000Z",
           "tags": [
-            "물가",
-            "정부"
+            "물가"
           ],
           "price": null,
           "feat": true
@@ -443,11 +442,11 @@
         {
           "title": "[농산유통 집중해부②] 20%대 영업이익률?…뭇매 맞는 도매시장법인의 ‘진짜 역할’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzQ2RwaHk0eDVxcVBDZloxZHhCMTF3eHViMG91amt1dkRjclItdk5qUnpHTzU2UmUwRnFCMjlRVTh1TXF6bVNZMHJNSVlZeEpDQXFNRUEzUUNvTG5URWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YVnVVT1JHTDMyb0t0b0dWSDFDNnRXcDU1dUpraDl0LTFra0x3TW0yME1iT0VTc3o1aHFTNU1tMFpNQ1IzdzY2cHdHejA4OW5ldUxRdVUtaTNzQjNhOHZEOUtVaTZaUHRPVWpzTzZXMEhoNnF4R01lQ3B4TzA?oc=5",
           "source": "뉴스투데이",
           "sourceInitial": "뉴스",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-13T21:01:24.000Z",
+          "publishedAt": "2026-08-13T23:13:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -548,9 +547,9 @@
           "title": "삼양식품, 2분기 영업익 1762억원…해외 매출 첫 6000억원 돌파",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03eF9LcnRWZXppSG1NRVkweU9GZUVWNzdCcXVEbTJXMGkyV0czQ3RoOEdQak9MeGlWVDhfaFJ3MFI0Q1I1aFlLZjcycGpaRm9aYmcycFdPc0JjbXhBQk14Q0NYQ0xEakwwdlE?oc=5",
-          "source": "천지일보",
-          "sourceInitial": "천지",
-          "sourceColor": "#c15a37",
+          "source": "newscj.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-14T07:42:03.000Z",
           "tags": [],
           "price": null,
