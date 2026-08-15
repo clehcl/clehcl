@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T16:54:50.940Z",
+  "generatedAt": "2026-08-15T17:44:56.734Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
+        {
+          "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tc2t5ajZqS2ZyQ3M1Sll6OWY5akNhN05nMGg1Ylo5c1QtZjgzVmg2SW9lOEZpS1BkWEIzX1VpUlRkd2lRNUplSHpIc0J0UmJQSGVUM0dpMkpFdEh5aTJXd1F5Y2dZUWhRelcyQW1GbTgyVU0?oc=5",
+          "source": "스페셜타임스",
+          "sourceInitial": "스페",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-15T16:59:13.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "지난 10년, 사모펀드는 왜 외식 프랜차이즈를 사들였나",
           "summary": "",
@@ -31,7 +46,7 @@
             "외식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[ 2026년 8월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -41,6 +56,20 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-14T15:32:43.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14YkdyMlhFQzJIVmN1QWlHYk1zZ3phd3RYbmlXZVdpYi1xUVUyUU15bFRhTmRlTnprZ25DUjlhbnhJbDh0dFE3Z001bFltaEplOHJSamZRZWVUZWxGSlRPdGoxclYwTzZGX3BnbmtLUDdwa0XSAXdBVV95cUxORDB6TGkwZDY0NWVsTFprcnFXclc3MnA5U1pYemtydzNUT1VtUU9aR0hlMW9CcVZuaks1SUdiRU9wMGwyRGEzeEFNUGt6Yy1jR0Vkd0poVlhkOTJNOXFwN2gzWDd3cjNxbXVNQnhnQm9Zb1F5TFcycw?oc=5",
+          "source": "스포츠 피플 타임즈",
+          "sourceInitial": "스포",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-14T08:12:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -76,20 +105,6 @@
           "feat": false
         },
         {
-          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41XzBzQzdTZnN4cmhMUktRSFV6ZmZ2YVdCazNYUXloMDNBcU8wNkZhT0RWS1N0SE1lY0tDUVZJZWJQaEZXcVg0U1NGQW54ZGs2c1VIb25Gai1JelAxaXQ4?oc=5",
-          "source": "press.theleader.kr",
-          "sourceInitial": "pr",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-14T04:50:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "코트라, 싱가포르 FLAsia에 K-프랜차이즈 8개사와 한국관 운영",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1POS1NYXVqTk9iWmJYZU1HZHQtcDctdktINm5BQm0zV0xhZWgzVnRfWlMtTVM4cnZUczNwVzdSb3B0UE4yZzlhUTl1cjhQang4RV9CdlBxZG1wRVViU05VZEZxR1VTMjNaOUNNcDFjaGE?oc=5",
@@ -111,20 +126,6 @@
           "sourceInitial": "코리",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-13T23:08:20.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"K-푸드 이어 K-프랜차이즈\" 코트라, 싱가포르 FLAsia 전시회서 한국관 운영",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWHA4bEVHWmNSZ1dZdGZFVHhNWVhPX2tIbm51UjZ0cVZPZXRUa3k1WlpzWHJwREFMOWVzQ1F4YXBWblI2bi1xS2ROVVI0UnktLWc2ZjM5VFY4LTZIOU1MZVNqWDdzNm9uYnc?oc=5",
-          "source": "컨슈머타임스",
-          "sourceInitial": "컨슈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-13T22:30:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -178,9 +179,9 @@
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
-          "source": "newsntalk.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#c0392b",
+          "source": "뉴스엔톡",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-15T01:52:21.000Z",
           "tags": [
             "원가"
@@ -234,9 +235,9 @@
           "title": "건기식 시장, 고품질·합리적 가격 경쟁 심화… 에스더포뮬러 오메가3 누적 판매 2억 캡슐 돌파",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YW1DRmJacWl5MElDTktPRU5lRXFGa2xxUGFrNmV4d1ZrbGR6Y2pIU3J5eHc3eGxNSWpsbmNzbG9YNFpvNDhYRXF4QVdtSzFta0hZMUJibkE?oc=5",
-          "source": "theviewers.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#8a5cc4",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-14T08:28:20.000Z",
           "tags": [
             "가격"
@@ -443,9 +444,9 @@
           "title": "[농산유통 집중해부②] 20%대 영업이익률?…뭇매 맞는 도매시장법인의 ‘진짜 역할’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzQ2RwaHk0eDVxcVBDZloxZHhCMTF3eHViMG91amt1dkRjclItdk5qUnpHTzU2UmUwRnFCMjlRVTh1TXF6bVNZMHJNSVlZeEpDQXFNRUEzUUNvTG5URWc?oc=5",
-          "source": "뉴스투데이",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
+          "source": "news2day.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-13T21:01:24.000Z",
           "tags": [],
           "price": null,
