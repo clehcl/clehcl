@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:54:37.030Z",
+  "generatedAt": "2026-08-16T10:52:58.495Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -51,9 +51,9 @@
           "title": "감동국밥, ‘얼큰국밥 4종 세트’ …메뉴 다양화로 창업 경쟁력 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T05:10:00.000Z",
           "tags": [
             "메뉴"
@@ -100,7 +100,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 11,
       "items": [
         {
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
@@ -117,12 +117,26 @@
           "feat": true
         },
         {
+          "title": "ICER, 신규 고혈압 치료제 비용효율성 평가…'가격 대비 가치' 과제 제시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WVRYWE1TSm5zQmxfT2hudUJSOFBIcTJjY2lWV0NmSFctdWkyVjdfTFdfdDVQYkYwNml6aklVa1duQVprVVkwOF9UZDNWRDRycnduSWptak40SC1lUzd4SFlrTDFjdmtqN040cw?oc=5",
+          "source": "금융경제플러스",
+          "sourceInitial": "금융",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-15T04:40:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
-          "source": "newsntalk.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#c0392b",
+          "source": "뉴스엔톡",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-15T01:52:21.000Z",
           "tags": [
             "원가"
@@ -159,13 +173,27 @@
           "feat": false
         },
         {
-          "title": "K푸드 인기 업고 수출 호조…식품업계 2분기 성적표 '양호'",
+          "title": "대상, 2분기 영업익 465억…“원가 개선·글로벌 성장 효과”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qRFNNSXhZUHpib2lxb0JrZ2g5ZVhMaUpOd2d5UVVRU25weHlSSlUyR3hyNE5fa0J5WXo5Y3BDTEh6OHc5TzhOZ0k0YmdJR1J5UmIw?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-16T09:33:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUXl5cTUtUDZCeUZCelNfV3V6UDI2X0hsMVpyb09ycDl1T2FjZ1Q2VU56ZzlLWHhpRl9sWnRGU3RRSlFOYmlxaDdfdEV5TXpjbS1RMlp3?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-14T14:19:20.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "K푸드 인기 업고 수출 호조… 식품업계 2분기 성적표 ‘양호’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MS0xYeXFwbW9nelRvRHlWOHJhWTMwT1EyMExndUt6ZTlBMWhSMmJucnRWN0d0cXpwZTFnemxVYnRiX3drOE94Z3RFWnJSMGEyT1RMOS15NUdPQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "sourceInitial": "파",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-16T09:31:37.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -178,30 +206,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-16T02:17:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "함안군먹거리통합지원센터 운영위원회 2기 출범 > 뉴스",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB1dDUxVXJkX0FvTDJnZmtrTnI4MmtfT3luUUFuSzdnd1FLN0xYdmlVMGZYN184OENCR3RoRTlyS1gxUWM?oc=5",
-          "source": "더코리아",
-          "sourceInitial": "더코",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-15T11:41:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중국 7월 소비자물가 0.5% 상승…서비스 소비가 회복세 견인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wdFRDTDc3VWVyTUZKSGJWWHpBbzNMNkxOZEdrZlVCSDFvazJaM3hPMTdMRW1ULU1KNGR4N0VRdnVnWGlzYUxrZg?oc=5",
-          "source": "얼리어답터뉴스",
-          "sourceInitial": "얼리",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-14T11:34:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -223,9 +227,9 @@
           "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nMGtFRnhub2pMeXpYTmo2QzFwMTZuVVJIeFdpeTlTandoR1dhYkpzR2dzYTV3MVZfa1FYa2xQWjY1elJscnc1ZFIwZWxvY1lZZm5KX0ZzQUNGcWt3VUt2SQ?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-16T00:04:00.000Z",
           "tags": [
             "유통"
