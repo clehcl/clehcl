@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:44:15.543Z",
+  "generatedAt": "2026-08-16T14:53:00.825Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -34,6 +34,34 @@
           "feat": true
         },
         {
+          "title": "감동국밥, '얼큰국밥' 4종 세트…메뉴 다양화로 창업 경쟁력 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-16T14:10:35.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 8월 17일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3ZfNUgzY050UG1Id1lydEc5R3NRbDlTenZfSmNGalhJTWNJcHZHc1luUld2Umo0ZXJmeVNicG9aTldoR1pzM3NKZ2dBRW9RTEJ2WTFjZG5JR1A2SlhFcDdMcklHRE1sOS1kT0t3OV8xdlc3dE1FaTlWTS16azZYU3VjRXFUVWlQdDFaSzZ3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-16T08:42:49.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "프랜차이즈 경영역량 강화 수요 반영…연세대 CEO 과정 48기 2차 모집 [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWZvclNpSEZBZjRkR1c5QlZaQXo3ZVR2WXczcDZqVld3eklxM1RLYTg2bFdUM3VIemZrNGJOT0ZBbHNSTDFFQVN0VUZVT3A4dHZycnVOdWFZQ3E0NmhwVHQ5V1JkUGZFS0tlclJ6cXByR051d1gtcFRNRUtuLWhPLU1kT3B2dXFzWHRWU0pB?oc=5",
@@ -43,20 +71,6 @@
           "publishedAt": "2026-08-16T06:02:51.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "감동국밥, ‘얼큰국밥 4종 세트’ …메뉴 다양화로 창업 경쟁력 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-16T05:10:00.000Z",
-          "tags": [
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -106,15 +120,29 @@
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbVBWZ2RIcHVEalJJX29JRVZlQzdZZzV5ZkF4U0IwSnJfclRFeW53Ym1aSTMwc2VwM0wyVEJBTko1SDRpZ3BoS2Y0amMyRmItOXBzVVhlcUdwVWRmSzdUV0VqNGVFeXg1T2c?oc=5",
-          "source": "천지일보",
-          "sourceInitial": "천지",
-          "sourceColor": "#c15a37",
+          "source": "newscj.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-15T23:25:32.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "ICER, 신규 고혈압 치료제 비용효율성 평가…'가격 대비 가치' 과제 제시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WVRYWE1TSm5zQmxfT2hudUJSOFBIcTJjY2lWV0NmSFctdWkyVjdfTFdfdDVQYkYwNml6aklVa1duQVprVVkwOF9UZDNWRDRycnduSWptak40SC1lUzd4SFlrTDFjdmtqN040cw?oc=5",
+          "source": "금융경제플러스",
+          "sourceInitial": "금융",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-15T04:40:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
@@ -159,20 +187,6 @@
           "feat": false
         },
         {
-          "title": "대상, 2분기 영업익 465억…\"원가 개선·글로벌 성장 효과\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tX1UzYmVKbmQ4TDRhQy1iUkQ0SFJ4bEc2bXNrRmR3T2pTSlozOUplLV92YktPbl9LQ3ZVZWM0dmV6M2JYSG9md3ZOQXp2M3R5bDlV?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T14:20:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "하림지주, 해운 날고 식품 주춤…2Q 영업익 19.7%↑ : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWdwVEJneHZEbVdIU1o3WDdKUWFfT01QX3JPLUpaVmktZ0hhdVZYUEdMUFp1Y2lPbWg0Rjg0V25kSnlROFoxYl93QTZwak90cTNOaDhTUlRHNmJ5ZHhQcmhZODgyanQyOURhSFNVdURxZGlXdEpXcUlHZ1REdDBKaWNZV3Mya0Q0OUUyTVl3UQ?oc=5",
@@ -187,7 +201,7 @@
         {
           "title": "K푸드 인기 업고 수출 호조…식품업계 2분기 성적표 '양호'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oRS1uczJ5SHhxVU1ZbUlnSnZqcXN0NVllQ3hhWkFaa3lqb0R2bTIxNTZjYjVfdjZCZHJFNGZlLUFOOFhyZWNQaTlZZVdyNEZUeUxEZkY1LVotVU5tTDVYRA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qRFNNSXhZUHpib2lxb0JrZ2g5ZVhMaUpOd2d5UVVRU25weHlSSlUyR3hyNE5fa0J5WXo5Y3BDTEh6OHc5TzhOZ0k0YmdJR1J5UmIw?oc=5",
           "source": "네이트",
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
@@ -200,9 +214,9 @@
           "title": "중국 7월 물가, 소비는 0.5%·생산은 3.5% 상승",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UHhFV1RqX0pDeURXVFJfdUJGelFxazFkdExfMXU0Mng1M1o2RkQ2d0RsNndDZUd4S3RTU2g4dDZvci1uOGlFRDM1MVJmaDJhbVFUWEVn?oc=5",
-          "source": "대한청년일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#333333",
+          "source": "koreayouthdaily.com",
+          "sourceInitial": "ko",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-16T02:08:54.000Z",
           "tags": [],
           "price": null,
