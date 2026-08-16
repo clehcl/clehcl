@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:16:38.500Z",
+  "generatedAt": "2026-08-16T05:03:29.267Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -48,6 +48,20 @@
           "feat": false
         },
         {
+          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14YkdyMlhFQzJIVmN1QWlHYk1zZ3phd3RYbmlXZVdpYi1xUVUyUU15bFRhTmRlTnprZ25DUjlhbnhJbDh0dFE3Z001bFltaEplOHJSamZRZWVUZWxGSlRPdGoxclYwTzZGX3BnbmtLUDdwa0XSAXdBVV95cUxORDB6TGkwZDY0NWVsTFprcnFXclc3MnA5U1pYemtydzNUT1VtUU9aR0hlMW9CcVZuaks1SUdiRU9wMGwyRGEzeEFNUGt6Yy1jR0Vkd0poVlhkOTJNOXFwN2gzWDd3cjNxbXVNQnhnQm9Zb1F5TFcycw?oc=5",
+          "source": "스포츠 피플 타임즈",
+          "sourceInitial": "스포",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-14T08:12:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "저가 ‘메가커피’ 고가 ‘스타벅스’ 제치고 프랜차이즈 1위 올라",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9reUFTdk9RZ0VyTnJvQkxnXy1WM0Rubk9lYi03TE5GTWM4TEZhSzI2ZHNwMFZHOWpwUFNaWEhSQ09QTWRtQW56cGVtakNReEdZWGJlZ1ROQTlhbVVSLV8yeXFyNGlVUXd6d1EySzJmQQ?oc=5",
@@ -88,20 +102,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XblRwM081XzJJS0NqZ3VtLTVnVHBJU3NLeDlMc3BvZzBaSE9KNnFpS25MbWVwU2YxSVZXTEdxeVl5cml0N1lSQWtBeUZMd1NSaHc?oc=5",
-          "source": "AI경기방송",
-          "sourceInitial": "AI",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-14T04:50:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -114,7 +114,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 14,
       "items": [
         {
           "title": "7월 인도 도매물가 지수 9.78%↑…\"에너지 가격 상승 완화\"",
@@ -130,20 +130,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbVBWZ2RIcHVEalJJX29JRVZlQzdZZzV5ZkF4U0IwSnJfclRFeW53Ym1aSTMwc2VwM0wyVEJBTko1SDRpZ3BoS2Y0amMyRmItOXBzVVhlcUdwVWRmSzdUV0VqNGVFeXg1T2c?oc=5",
-          "source": "천지일보",
-          "sourceInitial": "천지",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-15T23:25:32.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
@@ -228,6 +214,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "빵·라면·간편식 가격 ‘뜀박질’…고유가·고환율에 최대 9%대 올린다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrX1hrODl0MUhfazkzNTd1Y1JIYTZibXdRallPbXNlLVhBbXI0NjVyRkFvTkdZQWFOd0ZKV2VYMGV4OGtocjhqR2Y0cWl0U0ZLZUhIdFA2cnJjcUR0UDQ4RnlLYlQxTWliVjU1alRWODhpQQ?oc=5",
+          "source": "한겨레",
+          "sourceInitial": "한겨",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-14T05:09:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -240,7 +240,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
@@ -255,6 +255,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbVBWZ2RIcHVEalJJX29JRVZlQzdZZzV5ZkF4U0IwSnJfclRFeW53Ym1aSTMwc2VwM0wyVEJBTko1SDRpZ3BoS2Y0amMyRmItOXBzVVhlcUdwVWRmSzdUV0VqNGVFeXg1T2c?oc=5",
+          "source": "천지일보",
+          "sourceInitial": "천지",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-15T23:25:32.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "대불노인복지관, 아이코리아 북구지회·바로유통과 함께 어르신 700명에게 복(福) 나눔",
@@ -281,32 +295,6 @@
           "tags": [
             "납품"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "수입산 채소 106t ‘국내산’ 둔갑…학교급식 납품업자 집행유예",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWaXJ3cVV3NTUyNUhwUFZ5T1NoV0ZIbGZDdUswd2o5YUlnc0NFNndlbDhsUGtCbDMwaHJ3cDBqeGFsRmFkWFdBTDBOcXlMYlUzaHAtdGpjZG54RTZFSzVtdDk2VGhPdGprZXJURDIydUXSAXBBVV95cUxQVmlyd3FVdzU1MjVIcFBWeU9TaFdGSGxmQ3VLMHdqOWFJZ3NDRTZ3ZWw4bFBrQmwzMGhyd3AwanhhbEZhZFhXQUwwTnF5TGJVM2hwLXRqY2RueEU2RUs1bXQ5NlRoT3Rqa2VyVEQyMnVF?oc=5",
-          "source": "남도일보",
-          "sourceInitial": "남도",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T04:43:00.000Z",
-          "tags": [
-            "납품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "마트·편의점·e커머스까지...‘신선식품’ 주도권 경쟁 뜨겁다 [똑똑! 스마슈머]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nenRoR3FRX09hT0UtbV9CbUZNYUEwWXRBQnl0SnNrZTg1aGpkdWQzaWlxN3c4WXRXT0M0Z1VkejR3MWtMMmdWYWVGVGtUal9TZ2FF?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-15T03:30:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -338,9 +326,9 @@
           "title": "풀무원, 해외 성장·급식 호조에 2Q 영업익 26%↑…순이익 흑자전환(종합)",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhb1Z2RTRkQWlDa1pLNDd3NTd6dUxKa0RUQUFjbE4yYU51S1FNSGVjcmc4MlJKZW0xdmxyRXBQVjZ2UzZZMG1sUWtoWGNsR3RfbmFhal9kM3JkUzFtSHc?oc=5",
-          "source": "뉴스투데이",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
+          "source": "news2day.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-14T07:03:00.000Z",
           "tags": [],
           "price": null,
@@ -357,7 +345,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "KDI 수정 경제전망 나온다…민생물가 잡기 고삐[재경부·기획처 주간예보]",
@@ -377,9 +365,9 @@
           "title": "유럽연합(EU)이 여러 농약의 잔류 허용량에 대한 규제를 강화할 예정인 가운데, 농부와 농산물 수출업체는 무엇을 주의해야 할까요?",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNODBfbVlmTXBWazZ2NXpKdHBJNWkyMnZwZVNMVGVzc04tSXdpY25CSkhPRTJjLUF6NHNxb2pIUy1sblIxSjRndDRhRTNKQ05NWHRZdnAzRFNuS3dEVWFqNVB0Y2lWX0Nxbzd5RW1SSlh5bWdWX1hQTmotTmtHVVVGX0hJWjBIUng2QlVvcGk5T2tPZnZ2c0xjeEFfY29ZUVhyYjVFdnJvVy11QjBUYkR1emZHMkxkeWozWDBDYWVkVlRpQVdkVWxn?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-15T08:40:29.000Z",
           "tags": [
             "규제"
@@ -403,22 +391,10 @@
           "title": "과일 및 채소 산업의 병목 현상 해소: 농산물 수출액 1,000억 달러 달성을 위한 핵심 동력.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9wTTB6bmZNUF9OMXB0TUIzRy1XMkpKRTlSVTh5MFNKVjlmNGdsRHlWWVBFUEdWMG9rWUQ4aXg1NTFDcE4xWlhSdmFib1JTdWFTNFFkUFJXdW93ZXpCOGx0dmlMUXRlamVYaGQzVjBLNm5KNHFVRjd1VzRGa2MyckJhU0VxUG9wcFZPd1l1MmplZWFUVVZ2U093b1Bkb2tHSl9fRFZBTHo5ck5FaktBQzA4UXhCR1MtcHhKaQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-15T00:40:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품 항산화제 시장 규모, 점유율 및 성장 보고서 (2034년까지)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qeXh4TTN4V3NTMEZ3VjFLa29KVUk5ZXlQQTlvQ0s2SkhQWkQxMU1MMlBsaXUzU0Y0bHh4ZU14UE9TRmxMczNzUHBnWk95S3JhSDk3a3RYNGJNSEUxMERxNzZZYUdNVWxtSjNvYU1fSQ?oc=5",
-          "source": "Straits Research",
-          "sourceInitial": "St",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-14T03:41:39.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -455,9 +431,9 @@
           "title": "‘고사리육개장’ 완판 이어…포도호텔, HMR 2종 추가 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hOXV2N2hiLWhsTlFjUEpYdEF3YlZieG5zMnBpZzh3Yk9pdGZfVXFRVUVuY2pVeHdrVkd3MGtJWmstdFhiQ3pHZjhLa3kzdUNhU0EyZ2FvMnVUZFNiY3VsTGFCV0JCWjNGZW50cNIBcEFVX3lxTE5wMTVoRGthT3luc29PZlZ0UGo4V1BRak1zY2xjUGtWc09hVnkyd1BSTVYtdWlnYnlzNG5rTFNPcFV6ZVJSdmN5ZEYwWFFjT083Rmo3Y29iRGtiek1fSGVLVlRDSFR4UFZKMWdCb1g5QWU?oc=5",
-          "source": "미디어제주",
-          "sourceInitial": "미디",
-          "sourceColor": "#c15a37",
+          "source": "mediajeju.com",
+          "sourceInitial": "me",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-14T08:11:47.000Z",
           "tags": [
             "출시",
@@ -470,9 +446,9 @@
           "title": "“익숙한 것을 새롭게”…김숙영 UCLA 교수가 본 K컬처의 경쟁력은",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RYWh6blhfVDFMMVZRc2hpWEZ2Sjg3X24yejVlMXlrcUNLTHFjQWt0bnhyWVYwQzNZOU8taTNBZ3A0cHp6NnFSLTB0MmpJWXJyS0VqcVBWSFpoZ011MFF1SFVJRXdOM1dySVBna2hn?oc=5",
-          "source": "아시아투데이",
-          "sourceInitial": "아시",
-          "sourceColor": "#2f7d4f",
+          "source": "asiatoday.co.kr",
+          "sourceInitial": "as",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T00:00:00.000Z",
           "tags": [],
           "price": null,
@@ -494,9 +470,9 @@
           "title": "10대 식품사 중 8곳 상반기 영업익↑...오리온 2980억 '톱', 롯데웰푸드 두배 급증",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZVRJVGxoZnZKZVVZZTBKdGg3TFNBVGRqRFpXSzFZNDgzak1aYlYxMFhYVWwzTVdiMHhBaHZVYWZ6YU9ySUljWUR3QnNVWHA4MzZETTNOV2EyYXl0ZmRJOXhNcE0wal9SSEJaYjhR?oc=5",
-          "source": "소비자가 만드는 신문",
-          "sourceInitial": "소비",
-          "sourceColor": "#b03a6a",
+          "source": "consumernews.co.kr",
+          "sourceInitial": "co",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-14T09:07:04.000Z",
           "tags": [],
           "price": null,
