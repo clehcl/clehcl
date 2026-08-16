@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:53:00.825Z",
+  "generatedAt": "2026-08-16T15:47:50.803Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -114,35 +114,21 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbVBWZ2RIcHVEalJJX29JRVZlQzdZZzV5ZkF4U0IwSnJfclRFeW53Ym1aSTMwc2VwM0wyVEJBTko1SDRpZ3BoS2Y0amMyRmItOXBzVVhlcUdwVWRmSzdUV0VqNGVFeXg1T2c?oc=5",
-          "source": "newscj.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#1a7a5a",
+          "source": "천지일보",
+          "sourceInitial": "천지",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-15T23:25:32.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "ICER, 신규 고혈압 치료제 비용효율성 평가…'가격 대비 가치' 과제 제시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WVRYWE1TSm5zQmxfT2hudUJSOFBIcTJjY2lWV0NmSFctdWkyVjdfTFdfdDVQYkYwNml6aklVa1duQVprVVkwOF9UZDNWRDRycnduSWptak40SC1lUzd4SFlrTDFjdmtqN040cw?oc=5",
-          "source": "금융경제플러스",
-          "sourceInitial": "금융",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-15T04:40:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
@@ -218,6 +204,18 @@
           "sourceInitial": "ko",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-16T02:08:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에\"복날 특수 없었다\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92RklKYll6NkI5X3hYeHVGd2xvQmowWVpkTXYxVWp4cW1FVHNZWUhwc2RCenFxdlM1aG93UWxaODBJaU5TNHY0QjZDSFJ3NkNRVzlfRkowN0lxWk5fQUltUw?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-15T21:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
