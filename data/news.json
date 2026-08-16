@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:50:28.228Z",
+  "generatedAt": "2026-08-16T21:40:52.025Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -65,9 +65,9 @@
           "title": "감동국밥, '얼큰국밥' 4종 세트…메뉴 다양화로 창업 경쟁력 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
-          "source": "shinailbo.co.kr",
-          "sourceInitial": "sh",
-          "sourceColor": "#b03a6a",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-16T05:10:00.000Z",
           "tags": [
             "메뉴"
@@ -83,20 +83,6 @@
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-16T01:00:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTEyV0owVFRKZ2UzTkdRT3l3blVYNHM1c0lIeHFBU0JrXzlKZktLUnNBd1N0R2d2TFdPVlotMUppNFRKWnRNZDBwMmhvT2oyWkNKX1F4Q0M4S21VZ3ZCcWdwWU5CUkxCbnhUV3VIaDU0eUF3WVdaRTdocGVUc1VsTEtfU2o1cTUtbHpfdmhn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T21:32:43.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -134,9 +120,9 @@
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
-          "source": "뉴스엔톡",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#1a4d8f",
+          "source": "newsntalk.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-15T01:52:21.000Z",
           "tags": [
             "원가"
@@ -177,19 +163,19 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T12:45:56.000Z",
+          "publishedAt": "2026-08-16T12:45:33.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "K푸드 인기 업고 수출 호조…식품업계 2분기 성적표 '양호'",
+          "title": "K푸드 인기 업고 수출 호조… 식품업계 2분기 성적표 ‘양호’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qRFNNSXhZUHpib2lxb0JrZ2g5ZVhMaUpOd2d5UVVRU25weHlSSlUyR3hyNE5fa0J5WXo5Y3BDTEh6OHc5TzhOZ0k0YmdJR1J5UmIw?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-16T09:33:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MS0xYeXFwbW9nelRvRHlWOHJhWTMwT1EyMExndUt6ZTlBMWhSMmJucnRWN0d0cXpwZTFnemxVYnRiX3drOE94Z3RFWnJSMGEyT1RMOS15NUdPQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "sourceInitial": "파",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-16T09:31:37.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -198,9 +184,9 @@
           "title": "중국 7월 물가, 소비는 0.5%·생산은 3.5% 상승",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UHhFV1RqX0pDeURXVFJfdUJGelFxazFkdExfMXU0Mng1M1o2RkQ2d0RsNndDZUd4S3RTU2g4dDZvci1uOGlFRDM1MVJmaDJhbVFUWEVn?oc=5",
-          "source": "koreayouthdaily.com",
-          "sourceInitial": "ko",
-          "sourceColor": "#1a4d8f",
+          "source": "대한청년일보",
+          "sourceInitial": "대한",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-16T02:08:54.000Z",
           "tags": [],
           "price": null,
@@ -319,14 +305,14 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVjNZVG1LZlU1blJYZWEyNFh4aDV6R1J0eFc5cWdiUGVYdjZDM3pkcWtEclc2V1B3RmswNTFLR0Jzb3Q2bFFQWGNHVHA1eGt3cHQ5NGVqdFI3ekJVQjl3b1B2cTZfVU82TVdCWHRXZmhlbVpFRmFmYnRR?oc=5",
-          "source": "lawissue.co.kr",
-          "sourceInitial": "la",
+          "source": "로이슈",
+          "sourceInitial": "로이",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T06:08:10.000Z",
           "tags": [
@@ -346,20 +332,6 @@
           "publishedAt": "2026-08-16T06:10:39.000Z",
           "tags": [
             "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[심층분석] 고물가·1인 가구 시대…프리미엄 간편식의 무한 진화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UV2hmd2lLQzdBU0lxTURhZDlpMndXV2ZxUDlpT2lqNmFYQVFIaDVzMUJQUDhpUGpTLV9tY3NwV0hsUVdKdjJFZkhhLVAtYUNzdjg3SEtYZGRBMjBjYVFpMUZXQnA3RG1kZjFr?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-14T21:00:00.000Z",
-          "tags": [
-            "간편식"
           ],
           "price": null,
           "feat": false
