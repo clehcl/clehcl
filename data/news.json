@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T23:41:05.181Z",
+  "generatedAt": "2026-08-16T03:16:38.500Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 9,
+      "total": 6,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -34,21 +34,6 @@
           "feat": true
         },
         {
-          "title": "지난 10년, 사모펀드는 왜 외식 프랜차이즈를 사들였나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRGZxSUNRRXRYOHNiMTZYaHFLeGJXc2k5QzB2eHFEd2Rrd0hVaDFaM3NsWkVwYUJaU1lKYXk5ZDRMVlVVNVJiRg?oc=5",
-          "source": "브런치",
-          "sourceInitial": "브런",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T00:30:54.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 8월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTEyV0owVFRKZ2UzTkdRT3l3blVYNHM1c0lIeHFBU0JrXzlKZktLUnNBd1N0R2d2TFdPVlotMUppNFRKWnRNZDBwMmhvT2oyWkNKX1F4Q0M4S21VZ3ZCcWdwWU5CUkxCbnhUV3VIaDU0eUF3WVdaRTdocGVUc1VsTEtfU2o1cTUtbHpfdmhn?oc=5",
@@ -63,13 +48,13 @@
           "feat": false
         },
         {
-          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
+          "title": "저가 ‘메가커피’ 고가 ‘스타벅스’ 제치고 프랜차이즈 1위 올라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14YkdyMlhFQzJIVmN1QWlHYk1zZ3phd3RYbmlXZVdpYi1xUVUyUU15bFRhTmRlTnprZ25DUjlhbnhJbDh0dFE3Z001bFltaEplOHJSamZRZWVUZWxGSlRPdGoxclYwTzZGX3BnbmtLUDdwa0XSAXdBVV95cUxORDB6TGkwZDY0NWVsTFprcnFXclc3MnA5U1pYemtydzNUT1VtUU9aR0hlMW9CcVZuaks1SUdiRU9wMGwyRGEzeEFNUGt6Yy1jR0Vkd0poVlhkOTJNOXFwN2gzWDd3cjNxbXVNQnhnQm9Zb1F5TFcycw?oc=5",
-          "source": "스포츠 피플 타임즈",
-          "sourceInitial": "스포",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-14T08:12:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9reUFTdk9RZ0VyTnJvQkxnXy1WM0Rubk9lYi03TE5GTWM4TEZhSzI2ZHNwMFZHOWpwUFNaWEhSQ09QTWRtQW56cGVtakNReEdZWGJlZ1ROQTlhbVVSLV8yeXFyNGlVUXd6d1EySzJmQQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-14T07:00:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -105,28 +90,16 @@
           "feat": false
         },
         {
-          "title": "코트라, 싱가포르 FLAsia에 K-프랜차이즈 8개사와 한국관 운영",
+          "title": "인생아구찜 ‘2026 매경 100대 프랜차이즈’ 첫 선정",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1POS1NYXVqTk9iWmJYZU1HZHQtcDctdktINm5BQm0zV0xhZWgzVnRfWlMtTVM4cnZUczNwVzdSb3B0UE4yZzlhUTl1cjhQang4RV9CdlBxZG1wRVViU05VZEZxR1VTMjNaOUNNcDFjaGE?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-14T01:10:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XblRwM081XzJJS0NqZ3VtLTVnVHBJU3NLeDlMc3BvZzBaSE9KNnFpS25MbWVwU2YxSVZXTEdxeVl5cml0N1lSQWtBeUZMd1NSaHc?oc=5",
+          "source": "AI경기방송",
+          "sourceInitial": "AI",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-14T04:50:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "굽네치킨, 남해군과 MOU 연장…남해마늘 상생 협력 이어간다 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVVndkFGeXl5VWItR0xqdWlyS1RfX19TMTFvSzNfcTI2UzlxWVMwS1V3enhHbHZNeGZRTXZaZDFZU0U2T1JlYk5KelJnUko2QzVHZFhsNVpQUWhfMDQ2RWs3MTNhRFlINUY2LTVQZmhTVnplSjVDQ2R4dGlXRFA1UUVXc1d2WW9tWU1iS21B?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T00:22:20.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -141,7 +114,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "7월 인도 도매물가 지수 9.78%↑…\"에너지 가격 상승 완화\"",
@@ -159,15 +132,14 @@
           "feat": true
         },
         {
-          "title": "파리바게뜨, 빵류 86종 등 일부 제품 가격 인상...\"원가 부담\"",
+          "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XUldHcEZjTTdQb090VDN6c2FSbkFlOS1MVWRwVG4xYlljU2pWdmNMSTVqNzlDQ0Q4QVoxb1ZSdkNMemthUUxPOTk2TmdwRzRZV3RhdjYtOGZHMXRBTEVRRk5RR0xacHc?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-14T00:07:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbVBWZ2RIcHVEalJJX29JRVZlQzdZZzV5ZkF4U0IwSnJfclRFeW53Ym1aSTMwc2VwM0wyVEJBTko1SDRpZ3BoS2Y0amMyRmItOXBzVVhlcUdwVWRmSzdUV0VqNGVFeXg1T2c?oc=5",
+          "source": "천지일보",
+          "sourceInitial": "천지",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-15T23:25:32.000Z",
           "tags": [
-            "원가",
             "가격"
           ],
           "price": null,
@@ -219,9 +191,9 @@
           "title": "美 7월 생산자 물가 전월과 동일…에너지·식품 가격 하락 영향 > 시애틀 뉴스/핫이슈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqZFRXN2FPcFFPZzBKcTRUdDJNcEFxb3Q2TlRpM0gxMTZjRWNoMVJvUWZNY19iZ1V6X1d4WmhZMVlCaEQ3RjRjR05SemlnNXQxSVFDb2Y1YjFZVjRSa3NfZ1N5Q045clBsV0dCb2xzekc?oc=5",
-          "source": "seattlen.com",
-          "sourceInitial": "se",
-          "sourceColor": "#333333",
+          "source": "SeattleN",
+          "sourceInitial": "Se",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-14T09:25:30.000Z",
           "tags": [
             "가격"
@@ -244,13 +216,13 @@
           "feat": false
         },
         {
-          "title": "빵·라면·간편식 가격 ‘뜀박질’…고유가·고환율에 최대 9%대 올린다",
+          "title": "파리바게뜨, 25일부터 빵·케이크 등 가격 평균 5% 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrX1hrODl0MUhfazkzNTd1Y1JIYTZibXdRallPbXNlLVhBbXI0NjVyRkFvTkdZQWFOd0ZKV2VYMGV4OGtocjhqR2Y0cWl0U0ZLZUhIdFA2cnJjcUR0UDQ4RnlLYlQxTWliVjU1alRWODhpQQ?oc=5",
-          "source": "한겨레",
-          "sourceInitial": "한겨",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T05:09:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NMzNBenlSbkhSZGI2RmFFbjN6SFNLdE0tNHZfcnZBN1FFeTRXSXRmTXdsaXpfcGxyMVl6c2pSMjQ2eC1nY3dsT2FUQVF2SnlwaGhSczlWTDZzbjZVZzlTdVhMM2pqX09pWk4w?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-14T05:45:23.000Z",
           "tags": [
             "가격"
           ],
@@ -268,8 +240,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
+        {
+          "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nMGtFRnhub2pMeXpYTmo2QzFwMTZuVVJIeFdpeTlTandoR1dhYkpzR2dzYTV3MVZfa1FYa2xQWjY1elJscnc1ZFIwZWxvY1lZZm5KX0ZzQUNGcWt3VUt2SQ?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-16T00:04:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "대불노인복지관, 아이코리아 북구지회·바로유통과 함께 어르신 700명에게 복(福) 나눔",
           "summary": "",
@@ -282,15 +268,15 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "수입산 콩나물 '국내산' 둔갑시켜 학교급식에 납품한 60대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XNEFsS21XNlJ1UlBPZ0VfNzh4RGtKTlRnbDNKNDVDV0NydHU1RTZxekUtNmRERUtCUncxQjJ6LUYwR2FHZTl4ZWlSZ0NpeFhNRGMw?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-14T06:04:00.000Z",
           "tags": [
             "납품"
@@ -371,7 +357,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "KDI 수정 경제전망 나온다…민생물가 잡기 고삐[재경부·기획처 주간예보]",
@@ -436,18 +422,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "AI ‘가짜 의료인’ 내세운 식품광고 제재 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55aWs3WWhxSGY5MXlpZVVYMlhQSDFwcTk5RnRXTlZBRk9YdDFzWG90TU9oTkt3UlJCLW5qaUk5akJJYmZTaTJZcWl3dWVONkRGbUlxUUpOUk82Q2xZaTV6a1dCdlA?oc=5",
-          "source": "치과신문",
-          "sourceInitial": "치과",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-14T01:19:47.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -493,16 +467,26 @@
           "feat": false
         },
         {
-          "title": "[오늘의 신제품] CU·농협식품·CJ웰케어·마몽드",
+          "title": "“익숙한 것을 새롭게”…김숙영 UCLA 교수가 본 K컬처의 경쟁력은",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tb0tVTlo4VGtVV2FOdUg5WURCejVtOWkxWGFLcU01QTdiOTVVV091RWlmZjlBX2RJZnAwS243UFJMa01vbVdERVdHSEZKZ3AyODFtLVIyOExKS2huN0JoUGN1T3dmN3FaSjNIVlJWWQ?oc=5",
-          "source": "시사포커스",
-          "sourceInitial": "시사",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-14T02:24:21.000Z",
-          "tags": [
-            "신제품"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RYWh6blhfVDFMMVZRc2hpWEZ2Sjg3X24yejVlMXlrcUNLTHFjQWt0bnhyWVYwQzNZOU8taTNBZ3A0cHp6NnFSLTB0MmpJWXJyS0VqcVBWSFpoZ011MFF1SFVJRXdOM1dySVBna2hn?oc=5",
+          "source": "아시아투데이",
+          "sourceInitial": "아시",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-16T00:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[농협] 상호금융 AI 전환 / 식품연구소 부산물 자원화 / 농협식품 저당 식혜 / 농협 을지연습",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vZURuVU5XdVpIODlsRlZ3Zk5IVWtoNl9XRWtfQ09MVks4QkxCR2hnMDBUdjRveHVtSmVPeGZCOU5DUUJQVjBoVUpJM1NuWjZSQWl5aG5WaUpLZEQyYjhVcjA3dnpNOW5LeU5zRF8tLVctQQ?oc=5",
+          "source": "웹이코노미",
+          "sourceInitial": "웹이",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-15T02:17:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -550,18 +534,6 @@
           "sourceInitial": "천지",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-14T07:42:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품] CJ웰케어, MAC 기반 웰니스 브랜드 ‘맥플랜’ 런칭",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40TjRZX004ME5fY25qVzhpd3lDMlNGYmNQQ01LV3FtanB5aXNoRHlvcVNHdXF3bXVPNjVKZnNjWkpkeURMU1F3azhTWkdGQTNUdU9nYzhiWDBUV2tYYmI5dml0d3Z6cDNXTEROWjltcC0?oc=5",
-          "source": "리뷰타임스",
-          "sourceInitial": "리뷰",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-14T07:06:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
