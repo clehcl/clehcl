@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T19:44:19.961Z",
+  "generatedAt": "2026-08-16T20:50:28.228Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -34,6 +34,20 @@
           "feat": true
         },
         {
+          "title": "[ 2026년 8월 17일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3ZfNUgzY050UG1Id1lydEc5R3NRbDlTenZfSmNGalhJTWNJcHZHc1luUld2Umo0ZXJmeVNicG9aTldoR1pzM3NKZ2dBRW9RTEJ2WTFjZG5JR1A2SlhFcDdMcklHRE1sOS1kT0t3OV8xdlc3dE1FaTlWTS16azZYU3VjRXFUVWlQdDFaSzZ3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-16T14:42:49.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "프랜차이즈 경영역량 강화 수요 반영…연세대 CEO 과정 48기 2차 모집 [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWZvclNpSEZBZjRkR1c5QlZaQXo3ZVR2WXczcDZqVld3eklxM1RLYTg2bFdUM3VIemZrNGJOT0ZBbHNSTDFFQVN0VUZVT3A4dHZycnVOdWFZQ3E0NmhwVHQ5V1JkUGZFS0tlclJ6cXByR051d1gtcFRNRUtuLWhPLU1kT3B2dXFzWHRWU0pB?oc=5",
@@ -48,26 +62,12 @@
           "feat": false
         },
         {
-          "title": "[ 2026년 8월 17일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3ZfNUgzY050UG1Id1lydEc5R3NRbDlTenZfSmNGalhJTWNJcHZHc1luUld2Umo0ZXJmeVNicG9aTldoR1pzM3NKZ2dBRW9RTEJ2WTFjZG5JR1A2SlhFcDdMcklHRE1sOS1kT0t3OV8xdlc3dE1FaTlWTS16azZYU3VjRXFUVWlQdDFaSzZ3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T08:42:49.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "감동국밥, '얼큰국밥' 4종 세트…메뉴 다양화로 창업 경쟁력 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T05:10:00.000Z",
           "tags": [
             "메뉴"
@@ -114,7 +114,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 7,
       "items": [
         {
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
@@ -159,20 +159,6 @@
           "feat": false
         },
         {
-          "title": "식량안보 가치 최대 31.6조원…국민이 매긴 ‘먹거리 안전판’ 가격",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rNWVkaWNsNHJXXy1qNWR3WV90UmdHS29wajE2UU0zOFluUkVmSUZSZ0RPTlJfMmpFY09PdkFnaDNxbi1YRGZEeDJSWnhHRU12N0tzY1hB?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-14T21:00:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "중국 7월 소비자물가 0.5% 상승…여행·디지털 제품이 물가 이끌어",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxOFR3TkFtdlhVTFRhMHdJLWJrc2R3MFh3dEloYVA3VE1RbXRTMFpqMkRROUJwVVRvMjJlV0pTUEVjZmc?oc=5",
@@ -212,9 +198,9 @@
           "title": "중국 7월 물가, 소비는 0.5%·생산은 3.5% 상승",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UHhFV1RqX0pDeURXVFJfdUJGelFxazFkdExfMXU0Mng1M1o2RkQ2d0RsNndDZUd4S3RTU2g4dDZvci1uOGlFRDM1MVJmaDJhbVFUWEVn?oc=5",
-          "source": "대한청년일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#333333",
+          "source": "koreayouthdaily.com",
+          "sourceInitial": "ko",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-16T02:08:54.000Z",
           "tags": [],
           "price": null,
@@ -339,8 +325,8 @@
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVjNZVG1LZlU1blJYZWEyNFh4aDV6R1J0eFc5cWdiUGVYdjZDM3pkcWtEclc2V1B3RmswNTFLR0Jzb3Q2bFFQWGNHVHA1eGt3cHQ5NGVqdFI3ekJVQjl3b1B2cTZfVU82TVdCWHRXZmhlbVpFRmFmYnRR?oc=5",
-          "source": "로이슈",
-          "sourceInitial": "로이",
+          "source": "lawissue.co.kr",
+          "sourceInitial": "la",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T06:08:10.000Z",
           "tags": [
@@ -354,9 +340,9 @@
           "title": "SPC삼립, 50년 제면 노하우 기반 푸드테크·HMR 사업 구조 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SODNpZXdrR3VJVUZuVzN5NG9TekhfUkV6Q1ZmN3BfSzhQbmVreHBfYVJPSUVEa08xeE1JUUlKN2Jvc0tTM0lmYWlEVDdEeVhyQU92Q2tVUlBuOXNPa1FpZFR6R0lvM0VMOXR3bmloVEJTZkpiZnVr?oc=5",
-          "source": "hinews.co.kr",
-          "sourceInitial": "hi",
-          "sourceColor": "#1a7a5a",
+          "source": "하이뉴스",
+          "sourceInitial": "하이",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-16T06:10:39.000Z",
           "tags": [
             "HMR"
