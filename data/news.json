@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:43:16.542Z",
+  "generatedAt": "2026-08-16T13:44:15.543Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -40,7 +40,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T06:01:51.000Z",
+          "publishedAt": "2026-08-16T06:02:51.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -65,9 +65,9 @@
           "title": "치킨부터 버거, 베이커리까지…동남아 조준하는 K프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb0dHeW15NTdnN20tTmZnUkVvSVk2Yk0zOG5xcG53Zk1kWUxPNlF4LUFrTVFOY1Buc01qTEtNQ256Q1hVUGlZeWlqeFltZXlfWGc?oc=5",
-          "source": "sedaily.com",
-          "sourceInitial": "se",
-          "sourceColor": "#c15a37",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-16T01:00:00.000Z",
           "tags": [
             "프랜차이즈"
@@ -117,20 +117,6 @@
           "feat": true
         },
         {
-          "title": "ICER, 신규 고혈압 치료제 비용효율성 평가…'가격 대비 가치' 과제 제시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WVRYWE1TSm5zQmxfT2hudUJSOFBIcTJjY2lWV0NmSFctdWkyVjdfTFdfdDVQYkYwNml6aklVa1duQVprVVkwOF9UZDNWRDRycnduSWptak40SC1lUzd4SFlrTDFjdmtqN040cw?oc=5",
-          "source": "금융경제플러스",
-          "sourceInitial": "금융",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-15T04:40:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
@@ -162,9 +148,9 @@
           "title": "식량안보 가치 최대 31.6조원…국민이 매긴 ‘먹거리 안전판’ 가격",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rNWVkaWNsNHJXXy1qNWR3WV90UmdHS29wajE2UU0zOFluUkVmSUZSZ0RPTlJfMmpFY09PdkFnaDNxbi1YRGZEeDJSWnhHRU12N0tzY1hB?oc=5",
-          "source": "biz.heraldcorp.com",
-          "sourceInitial": "bi",
-          "sourceColor": "#2f7d4f",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-14T21:00:00.000Z",
           "tags": [
             "가격"
@@ -173,13 +159,13 @@
           "feat": false
         },
         {
-          "title": "대상, 2분기 영업익 465억…“원가 개선·글로벌 성장 효과”",
+          "title": "대상, 2분기 영업익 465억…\"원가 개선·글로벌 성장 효과\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoUXl5cTUtUDZCeUZCelNfV3V6UDI2X0hsMVpyb09ycDl1T2FjZ1Q2VU56ZzlLWHhpRl9sWnRGU3RRSlFOYmlxaDdfdEV5TXpjbS1RMlp3?oc=5",
-          "source": "biz.heraldcorp.com",
-          "sourceInitial": "bi",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tX1UzYmVKbmQ4TDRhQy1iUkQ0SFJ4bEc2bXNrRmR3T2pTSlozOUplLV92YktPbl9LQ3ZVZWM0dmV6M2JYSG9md3ZOQXp2M3R5bDlV?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T14:19:20.000Z",
+          "publishedAt": "2026-08-14T14:20:00.000Z",
           "tags": [
             "원가"
           ],
@@ -187,13 +173,25 @@
           "feat": false
         },
         {
-          "title": "K푸드 인기 업고 수출 호조… 식품업계 2분기 성적표 ‘양호’",
+          "title": "하림지주, 해운 날고 식품 주춤…2Q 영업익 19.7%↑ : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DNjVlZ2xCQkhrQ29LWXZxYzZyNnV1V3ZwaGJqYmE5WnduUjBvZVhEalNTcTNFakdQendobTdJQWJxck9SOEM0WnZzMzR0ZTA?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWdwVEJneHZEbVdIU1o3WDdKUWFfT01QX3JPLUpaVmktZ0hhdVZYUEdMUFp1Y2lPbWg0Rjg0V25kSnlROFoxYl93QTZwak90cTNOaDhTUlRHNmJ5ZHhQcmhZODgyanQyOURhSFNVdURxZGlXdEpXcUlHZ1REdDBKaWNZV3Mya0Q0OUUyTVl3UQ?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-16T12:45:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "K푸드 인기 업고 수출 호조…식품업계 2분기 성적표 '양호'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oRS1uczJ5SHhxVU1ZbUlnSnZqcXN0NVllQ3hhWkFaa3lqb0R2bTIxNTZjYjVfdjZCZHJFNGZlLUFOOFhyZWNQaTlZZVdyNEZUeUxEZkY1LVotVU5tTDVYRA?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-16T09:34:15.000Z",
+          "publishedAt": "2026-08-16T09:33:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -227,9 +225,9 @@
           "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nMGtFRnhub2pMeXpYTmo2QzFwMTZuVVJIeFdpeTlTandoR1dhYkpzR2dzYTV3MVZfa1FYa2xQWjY1elJscnc1ZFIwZWxvY1lZZm5KX0ZzQUNGcWt3VUt2SQ?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-16T00:04:00.000Z",
           "tags": [
             "유통"
