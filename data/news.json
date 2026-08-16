@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:40:52.025Z",
+  "generatedAt": "2026-08-16T22:49:02.551Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -100,8 +100,37 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 7,
+      "total": 9,
       "items": [
+        {
+          "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SM091N0ItOXU0RXd0TUVTMktPQldGUHlsT3BoSkdDN3JCYWkzZnkycjJDU3dpa3VYZEpQODRqR2M0TU0zZ1R2UTRTNDdxYlFaOVVGamlB?oc=5",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-16T22:30:00.000Z",
+          "tags": [
+            "원가",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "신동원 14.5억·함영준 5.4억…가격 올린 식품사, 상반기 보수도 늘었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSkZIaVNsNGhXRF9uaWpGS0FrWHh5TDdHLUx3VWRsVnJhVGhmS0RmUHZsLXdBeElzR1VHWWVGd1JlaUQ2dXB2SnBQOTUxWnhEWExsNDFpU2owbElUdHA0UUpfUHdNY0k5N3RJ?oc=5",
+          "source": "뉴스저널리즘",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-16T22:20:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
           "summary": "",
@@ -114,15 +143,15 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
-          "source": "newsntalk.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#c0392b",
+          "source": "뉴스엔톡",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-15T01:52:21.000Z",
           "tags": [
             "원가"
@@ -147,11 +176,11 @@
         {
           "title": "중국 7월 소비자물가 0.5% 상승…여행·디지털 제품이 물가 이끌어",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxOFR3TkFtdlhVTFRhMHdJLWJrc2R3MFh3dEloYVA3VE1RbXRTMFpqMkRROUJwVVRvMjJlV0pTUEVjZmc?oc=5",
-          "source": "한국공공정책신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-16T15:41:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFVXI3RFA4RmlzOGRGUl82Rm5VNm5ROXNMeUlScXNjRmpKNXhCR3RTMFVUNlphZ0JDcnUxa0NwcTg0VzhpSFJhbWxB?oc=5",
+          "source": "뉴스N연합",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-16T15:59:28.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -176,18 +205,6 @@
           "sourceInitial": "파",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-16T09:31:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중국 7월 물가, 소비는 0.5%·생산은 3.5% 상승",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UHhFV1RqX0pDeURXVFJfdUJGelFxazFkdExfMXU0Mng1M1o2RkQ2d0RsNndDZUd4S3RTU2g4dDZvci1uOGlFRDM1MVJmaDJhbVFUWEVn?oc=5",
-          "source": "대한청년일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-16T02:08:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
