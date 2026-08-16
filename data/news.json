@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:57:11.307Z",
+  "generatedAt": "2026-08-16T09:54:37.030Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -76,20 +76,6 @@
           "feat": false
         },
         {
-          "title": "프랜차이즈 물류, 3PL로 해결될까…물류 운영과 본부 전략 다루는 실무 교육",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRFpHbHVHdnJTZVdfdmhLVGtzV2k1U1U4YkhfT2xETTFFNmNDRTE5T2ZHR25CZ3dQdVhyYUlsdk41ZWxXRkQ0dE84VGhkaFJiZnI5N1hoVE5tckNvY01VTUhaS29FRy1rTGpIU0dn?oc=5",
-          "source": "gukjenews.com",
-          "sourceInitial": "gu",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-14T23:00:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 8월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTEyV0owVFRKZ2UzTkdRT3l3blVYNHM1c0lIeHFBU0JrXzlKZktLUnNBd1N0R2d2TFdPVlotMUppNFRKWnRNZDBwMmhvT2oyWkNKX1F4Q0M4S21VZ3ZCcWdwWU5CUkxCbnhUV3VIaDU0eUF3WVdaRTdocGVUc1VsTEtfU2o1cTUtbHpfdmhn?oc=5",
@@ -114,7 +100,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
@@ -159,13 +145,13 @@
           "feat": false
         },
         {
-          "title": "식량안보 가치 최대 31.6조원…국민이 매긴 '먹거리 안전판' 가격",
+          "title": "식량안보 가치 최대 31.6조원…국민이 매긴 ‘먹거리 안전판’ 가격",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DdHZDaHNCZ2RaNWl4QlYyREtaX0Y3X0NLN0k0NGc2elp1ZUNQc3dDcFZSWS0yaWI3ZzltZ0Y5bkRNRV95RkhreVlyYkZEME5vTnQ4?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T21:01:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rNWVkaWNsNHJXXy1qNWR3WV90UmdHS29wajE2UU0zOFluUkVmSUZSZ0RPTlJfMmpFY09PdkFnaDNxbi1YRGZEeDJSWnhHRU12N0tzY1hB?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-14T21:00:00.000Z",
           "tags": [
             "가격"
           ],
@@ -173,16 +159,14 @@
           "feat": false
         },
         {
-          "title": "美 7월 생산자 물가 전월과 동일…에너지·식품 가격 하락 영향 > 시애틀 뉴스/핫이슈",
+          "title": "K푸드 인기 업고 수출 호조…식품업계 2분기 성적표 '양호'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqZFRXN2FPcFFPZzBKcTRUdDJNcEFxb3Q2TlRpM0gxMTZjRWNoMVJvUWZNY19iZ1V6X1d4WmhZMVlCaEQ3RjRjR05SemlnNXQxSVFDb2Y1YjFZVjRSa3NfZ1N5Q045clBsV0dCb2xzekc?oc=5",
-          "source": "SeattleN",
-          "sourceInitial": "Se",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-14T09:25:30.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qRFNNSXhZUHpib2lxb0JrZ2g5ZVhMaUpOd2d5UVVRU25weHlSSlUyR3hyNE5fa0J5WXo5Y3BDTEh6OHc5TzhOZ0k0YmdJR1J5UmIw?oc=5",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-16T09:33:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -239,9 +223,9 @@
           "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nMGtFRnhub2pMeXpYTmo2QzFwMTZuVVJIeFdpeTlTandoR1dhYkpzR2dzYTV3MVZfa1FYa2xQWjY1elJscnc1ZFIwZWxvY1lZZm5KX0ZzQUNGcWt3VUt2SQ?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-16T00:04:00.000Z",
           "tags": [
             "유통"
@@ -323,7 +307,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
@@ -388,18 +372,6 @@
           "sourceInitial": "웹이",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-15T02:17:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "10대 식품사 중 8곳 상반기 영업익↑...오리온 2980억 '톱', 롯데웰푸드 두배 급증",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZVRJVGxoZnZKZVVZZTBKdGg3TFNBVGRqRFpXSzFZNDgzak1aYlYxMFhYVWwzTVdiMHhBaHZVYWZ6YU9ySUljWUR3QnNVWHA4MzZETTNOV2EyYXl0ZmRJOXhNcE0wal9SSEJaYjhR?oc=5",
-          "source": "소비자가 만드는 신문",
-          "sourceInitial": "소비",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-14T09:07:04.000Z",
           "tags": [],
           "price": null,
           "feat": false
