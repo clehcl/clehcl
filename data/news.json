@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T16:55:15.201Z",
+  "generatedAt": "2026-08-16T17:41:59.626Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -34,20 +34,6 @@
           "feat": true
         },
         {
-          "title": "감동국밥, '얼큰국밥' 4종 세트…메뉴 다양화로 창업 경쟁력 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-16T14:10:35.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 8월 17일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3ZfNUgzY050UG1Id1lydEc5R3NRbDlTenZfSmNGalhJTWNJcHZHc1luUld2Umo0ZXJmeVNicG9aTldoR1pzM3NKZ2dBRW9RTEJ2WTFjZG5JR1A2SlhFcDdMcklHRE1sOS1kT0t3OV8xdlc3dE1FaTlWTS16azZYU3VjRXFUVWlQdDFaSzZ3?oc=5",
@@ -71,6 +57,20 @@
           "publishedAt": "2026-08-16T06:02:51.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "감동국밥, '얼큰국밥' 4종 세트…메뉴 다양화로 창업 경쟁력 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-16T05:10:00.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -173,6 +173,18 @@
           "feat": false
         },
         {
+          "title": "중국 7월 소비자물가 0.5% 상승…여행·디지털 제품이 물가 이끌어",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxOFR3TkFtdlhVTFRhMHdJLWJrc2R3MFh3dEloYVA3VE1RbXRTMFpqMkRROUJwVVRvMjJlV0pTUEVjZmc?oc=5",
+          "source": "한국공공정책신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-16T15:41:12.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "하림지주, 해운 날고 식품 주춤…2Q 영업익 19.7%↑ : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWdwVEJneHZEbVdIU1o3WDdKUWFfT01QX3JPLUpaVmktZ0hhdVZYUEdMUFp1Y2lPbWg0Rjg0V25kSnlROFoxYl93QTZwak90cTNOaDhTUlRHNmJ5ZHhQcmhZODgyanQyOURhSFNVdURxZGlXdEpXcUlHZ1REdDBKaWNZV3Mya0Q0OUUyTVl3UQ?oc=5",
@@ -204,18 +216,6 @@
           "sourceInitial": "대한",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-16T02:08:54.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에\"복날 특수 없었다\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92RklKYll6NkI5X3hYeHVGd2xvQmowWVpkTXYxVWp4cW1FVHNZWUhwc2RCenFxdlM1aG93UWxaODBJaU5TNHY0QjZDSFJ3NkNRVzlfRkowN0lxWk5fQUltUw?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-15T21:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -342,9 +342,9 @@
           "title": "SPC삼립, 50년 제면 노하우 기반 푸드테크·HMR 사업 구조 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SODNpZXdrR3VJVUZuVzN5NG9TekhfUkV6Q1ZmN3BfSzhQbmVreHBfYVJPSUVEa08xeE1JUUlKN2Jvc0tTM0lmYWlEVDdEeVhyQU92Q2tVUlBuOXNPa1FpZFR6R0lvM0VMOXR3bmloVEJTZkpiZnVr?oc=5",
-          "source": "하이뉴스",
-          "sourceInitial": "하이",
-          "sourceColor": "#c15a37",
+          "source": "hinews.co.kr",
+          "sourceInitial": "hi",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-16T06:10:39.000Z",
           "tags": [
             "HMR"
