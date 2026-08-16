@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T19:00:11.203Z",
+  "generatedAt": "2026-08-16T19:44:19.961Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -258,7 +258,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "KDI 수정 경제전망 나온다…민생물가 잡기 고삐[재경부·기획처 주간예보]",
@@ -273,6 +273,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "Top 20 기업 글로벌 식품 보존 시장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMEhJT3J2cC04RjdqVWxwNTg3aW54ZGpqaDFzLURhWE5yQ2dtX3lPbGFYaFlpNnJicnhhdjRvWlJ1QXVZMGRwdE5DREZnZUx0SWZkMnRoZWRaQW9NeUExd2VTYWZrdWZiaVBSMFNtLXRhTEM4S2ZLVFh1bU4tOHdQdmt5eklWUU9leHJGUmdIRDJFak9nNUNRaUhna2dWOHFRUWlBVHhHRE5CMnJTNklVeUpEUHFOVW9QMmxQR1VLSmVyQ1ducjhfaXQ0NG5MZw?oc=5",
+          "source": "Spherical Insights",
+          "sourceInitial": "Sp",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-16T19:43:39.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "유럽연합(EU)이 여러 농약의 잔류 허용 기준을 강화할 예정인 가운데, 농부와 농산물 수출업체는 무엇을 주의해야 할까요?",
