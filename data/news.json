@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T17:00:21.391Z",
+  "generatedAt": "2026-08-17T19:16:00.116Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 11,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -204,13 +204,25 @@
           "feat": false
         },
         {
-          "title": "‘깜깜이 수산물 시가’ AI로 예측…글로벌 거래 플랫폼 노린다",
+          "title": "\"비싼 햄버거엔 지갑 열었다\" 주가 30% 쑥…'이 회사' 역주행",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfSUVzSG03bGpZOHRXTUdpN1QybEVOdjRmOWpDdjRyMGdSTE1XZGpNSElkX1dXZXpSandleWdKVkZqcVprR05faEEyRUwwbFpocHB1SEV0WnlJbDNlLUVVM0dJM2wyZw?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-17T08:18:19.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XVWM5SFI1eDZYdGdPN0hQdUZLb0wtUHo1bzhNS1daa0FqLVVYWGo1QkZCTUU2U2Z4NlctenJUT01xdGE4VnRQcDFJV2xHRVU0S1pB?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T18:55:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'깜깜이 수산물 시가' AI로 예측…글로벌 거래 플랫폼 노린다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByLTZaMC01bnQwTkMxeWJaZy1OeHpWUS13dnNOemxoTTB0a2MzcUE3UkFrdVRnSnNjdVJtS096QTFNd1dxUU1FaS1hSUo2dGItX25j?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T08:19:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -230,23 +242,11 @@
         {
           "title": "[국제] JP모건체이스, 내년 상반기 식품 인플레이션 위기 경고",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYd1oySXZmZmRGSVNSSkR6R2labmFzNkZNMmFkSE9PeHh0OTdWVGJxNTRCWGtwU214T2VoMU0zUDNYa0RzamNySWJxNjcxS3VzZmI3ajlJcWowN3ZMRUNsdnplajVEZ0NlZ2JZ?oc=5",
-          "source": "서울뉴스통신",
-          "sourceInitial": "서울",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-17T07:30:58.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "김밥 한 줄 4000원 육박…식재료값 오르자 외식비 부담↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QdXVjZHdwb0pHTi1UdVZMX0t3cGU3VktITlRtc1ZNZExpQTBLZml0dWNmZHhXa2ZvSTVQMkdlRWp1RkpJUVNMRE1vQ0R3TnVieDBqQXlCYkYxeDNrWm1zd3ljWUM?oc=5",
-          "source": "디지털데일리",
-          "sourceInitial": "디지",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-17T05:02:32.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRY2FzSGRnd1NtUEl0MFZpQ0l2U2dCMWdYczdaQmFRMmh0aU1fWTR5V29zWldrN3ZRb2lCZ2U5UjFvbm1kVmhpQ2dpcFpvTXppOHNDSjhzMXQxaHFkY2VJVklrT1BLdW1ZSzBNX9IBcEFVX3lxTE5KbW53R3dwVUE0SUNjZU5Ga0FEZUtoQ1pNVmtBZU8xN3FqM1RPTkZFMmlaUDc4dHQyM3lQV3JHd2FVNDdZZlpFOHQ3bFllazJxVzBLcHdaY0RtVm14dHFSUEFRRWIzTGNraHpGQW9MYjE?oc=5",
+          "source": "내외뉴스통신",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-17T07:44:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -299,7 +299,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "KDI 수정 경제전망 나온다…민생물가 잡기 고삐[재경부·기획처 주간예보]",
@@ -314,18 +314,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "미국 식품의약국(FDA)은 베트남에 아세안 최초 사무소를 개설한 이유를 설명했습니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1hWWFdKNG9JdnR2N0hrYzlJcld1MVN4RFQ1N2t0VXVsUGRHMEgycmJNN0lNblc5N3ktQjBwMmViWFBWUzBHN25FN2wtbXdHVERzeHBnZDFTcXVMT3hYYWx2ZVNWNTdLU2pmeXBGS3JTdWs4UEplUVc3TlY5dmhndUczTUgtWjBVRnYtQXZR?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-17T10:44:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         },
         {
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
