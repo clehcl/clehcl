@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:16:00.116Z",
+  "generatedAt": "2026-08-17T20:48:40.439Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "10평이면 문 연다…버거·피자 프랜차이즈, 창업 문턱 낮추는 소형 매장 모델 고도화",
@@ -59,6 +59,20 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "폐업 아픔 겪은 50대, AI 배워 '프랜차이즈 팀장'으로 컴백",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSFQ4TDFWcEN6YkRSVUJ3SnJWQjliT0M3RlE1VzlGUlhKOXNiUXJWZ1NaeXdpNUxoUmxBeUY5ZXpvNm5FbklhNUxPNnk2RndxNkdz?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T19:33:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -118,20 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "프랜차이즈 경영역량 강화 수요 반영…연세대 CEO 과정 48기 2차 모집 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWZvclNpSEZBZjRkR1c5QlZaQXo3ZVR2WXczcDZqVld3eklxM1RLYTg2bFdUM3VIemZrNGJOT0ZBbHNSTDFFQVN0VUZVT3A4dHZycnVOdWFZQ3E0NmhwVHQ5V1JkUGZFS0tlclJ6cXByR051d1gtcFRNRUtuLWhPLU1kT3B2dXFzWHRWU0pB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T12:02:51.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -171,6 +171,20 @@
           "publishedAt": "2026-08-17T15:25:00.000Z",
           "tags": [
             "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-17T08:20:11.000Z",
+          "tags": [
+            "식자재"
           ],
           "price": null,
           "feat": false
@@ -235,18 +249,6 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T08:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[국제] JP모건체이스, 내년 상반기 식품 인플레이션 위기 경고",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRY2FzSGRnd1NtUEl0MFZpQ0l2U2dCMWdYczdaQmFRMmh0aU1fWTR5V29zWldrN3ZRb2lCZ2U5UjFvbm1kVmhpQ2dpcFpvTXppOHNDSjhzMXQxaHFkY2VJVklrT1BLdW1ZSzBNX9IBcEFVX3lxTE5KbW53R3dwVUE0SUNjZU5Ga0FEZUtoQ1pNVmtBZU8xN3FqM1RPTkZFMmlaUDc4dHQyM3lQV3JHd2FVNDdZZlpFOHQ3bFllazJxVzBLcHdaY0RtVm14dHFSUEFRRWIzTGNraHpGQW9MYjE?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-17T07:44:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -344,8 +346,8 @@
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVjNZVG1LZlU1blJYZWEyNFh4aDV6R1J0eFc5cWdiUGVYdjZDM3pkcWtEclc2V1B3RmswNTFLR0Jzb3Q2bFFQWGNHVHA1eGt3cHQ5NGVqdFI3ekJVQjl3b1B2cTZfVU82TVdCWHRXZmhlbVpFRmFmYnRR?oc=5",
-          "source": "로이슈",
-          "sourceInitial": "로이",
+          "source": "lawissue.co.kr",
+          "sourceInitial": "la",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T06:08:10.000Z",
           "tags": [
