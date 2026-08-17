@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:55:07.098Z",
+  "generatedAt": "2026-08-17T23:48:56.840Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
+        {
+          "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjNWSXA2WURybU1FNE4yVVl3cnppMHlwSGwyM1VyVHFiV21DRmlaWDlKOFg1bS1sQktJNlZoTFNHZWx2TzVFWnowTDNhbmNJT1haSlhHcEpWNXZ4SFF5UkkyOTBJVkFaMTJYTlJLUW5ibjFLVm12enVhcDIzNDlEQ0l6SEt1UExGTmxpazJR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-17T23:15:34.000Z",
+          "tags": [
+            "가맹",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "10평이면 문 연다…버거·피자 프랜차이즈, 창업 문턱 낮추는 소형 매장 모델 고도화",
           "summary": "",
@@ -31,7 +46,7 @@
             "매장"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "한솥도시락, 8월 한 달간 18종 메뉴 할인…가맹점 지원 병행 [ 신아일보 강동완 기자 ] : 네이버 블로그",
@@ -118,20 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 17일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3ZfNUgzY050UG1Id1lydEc5R3NRbDlTenZfSmNGalhJTWNJcHZHc1luUld2Umo0ZXJmeVNicG9aTldoR1pzM3NKZ2dBRW9RTEJ2WTFjZG5JR1A2SlhFcDdMcklHRE1sOS1kT0t3OV8xdlc3dE1FaTlWTS16azZYU3VjRXFUVWlQdDFaSzZ3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T14:42:49.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 16,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -179,9 +180,9 @@
           "title": "원가 부담에도 선방…K-푸드, 내수 고전했지만 해외서 훨훨[불황 뚫은 K-프리미엄③]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5icHlpM0dqeVhwV19FQlRmVm9pdzRCeVRFWk40aW9VYmliQ3Zwekh6MUtRTjNiNEpmS0N6X0FHeGVaZl80NmgwWHlLdDhzWTVvRl82N2htcGZmSlBvdGo1ctIBeEFVX3lxTE5tdkdENV9HRjNTa0c5S1ZNRDFhYkl4Z2JWbjc2ZktlSjVLcU5US2J5alFwWnhhaUwyQ1pTZXhiRW5Bd045X3JqYWZwMDFzcjBwZ0dvRTd1YnpISU9QSkFUVW1JVUV0X3lYRWx5NWNjZ082TThJYmo3Xw?oc=5",
-          "source": "newsis.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#2f7d4f",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-17T22:03:00.000Z",
           "tags": [
             "원가"
@@ -204,20 +205,6 @@
           "feat": false
         },
         {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "kukinews.com",
-          "sourceInitial": "ku",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-17T08:20:11.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "신동원 14.5억·함영준 5.4억…가격 올린 식품사, 상반기 보수도 늘었다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSkZIaVNsNGhXRF9uaWpGS0FrWHh5TDdHLUx3VWRsVnJhVGhmS0RmUHZsLXdBeElzR1VHWWVGd1JlaUQ2dXB2SnBQOTUxWnhEWExsNDFpU2owbElUdHA0UUpfUHdNY0k5N3RJ?oc=5",
@@ -232,16 +219,26 @@
           "feat": false
         },
         {
-          "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
+          "title": "환율 1500원 뚫고 웃은 식품업계…해외서 번 돈으로 내수 부진 메웠다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbVBWZ2RIcHVEalJJX29JRVZlQzdZZzV5ZkF4U0IwSnJfclRFeW53Ym1aSTMwc2VwM0wyVEJBTko1SDRpZ3BoS2Y0amMyRmItOXBzVVhlcUdwVWRmSzdUV0VqNGVFeXg1T2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VR1M1bkw2TEYwMnpDSHhlMHpKS1BXWmt1QVFkWDlWNmhNc2ZfbGdBdlJ2MGxROVU5dVdaRGdkcDV0WnNrTk9rdGdZTXV4QUZROXpkVzlkNDJaVHo0Q29NUk5QWkx2NnJBMFE?oc=5",
           "source": "천지일보",
           "sourceInitial": "천지",
           "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-15T23:25:32.000Z",
-          "tags": [
-            "가격"
-          ],
+          "publishedAt": "2026-08-17T23:36:30.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한국투자證 “삼양식품, 하반기에도 ‘불닭’ 글로벌 성장할 것…목표가 185만원 유지\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2t2Wm1ha3ZEb01JZjJscWlzZlFVbDg0Qm9lTVh1X3prUGpna2xtSnJuSk40M1JoRTJVTG5oV1R2YVRxNDhDNjNTNjMtdEx6UHFzMEF3QXhCbWFPdUpxcUxEb29FVXlGRGktQzdlYTQ1dVR3SVVTcjdGLTZncWdOclNPaXJFNVl2?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-17T23:33:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -268,8 +265,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
+        {
+          "title": "전남광주 농업, 저탄소 농산물 인증 1위 보다 더 중요한 것",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAycnpzUTNETFhEejZaNFd1TFZiWFhFU1lxUUdHOFYzUm53OGxzR1VpU0tZZHlJcHFpWWxFNW1PS2wxeTlBYU5Ec0x3bTdFT254c0hEcDY3R0paLWpGaG9QS1Z6N1dGN0hxczRlQ1B3?oc=5",
+          "source": "전남인터넷신문",
+          "sourceInitial": "전남",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-17T23:42:38.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
           "summary": "",
@@ -280,7 +289,7 @@
           "publishedAt": "2026-08-17T01:57:57.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "학교 식중독 2년새 65% 폭증, 급식 안전 '빨간불' : 정책",
@@ -348,8 +357,8 @@
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVjNZVG1LZlU1blJYZWEyNFh4aDV6R1J0eFc5cWdiUGVYdjZDM3pkcWtEclc2V1B3RmswNTFLR0Jzb3Q2bFFQWGNHVHA1eGt3cHQ5NGVqdFI3ekJVQjl3b1B2cTZfVU82TVdCWHRXZmhlbVpFRmFmYnRR?oc=5",
-          "source": "lawissue.co.kr",
-          "sourceInitial": "la",
+          "source": "로이슈",
+          "sourceInitial": "로이",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T06:08:10.000Z",
           "tags": [
@@ -377,9 +386,9 @@
           "title": "SPC삼립, 50년 제면 노하우 기반 푸드테크·HMR 사업 구조 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SODNpZXdrR3VJVUZuVzN5NG9TekhfUkV6Q1ZmN3BfSzhQbmVreHBfYVJPSUVEa08xeE1JUUlKN2Jvc0tTM0lmYWlEVDdEeVhyQU92Q2tVUlBuOXNPa1FpZFR6R0lvM0VMOXR3bmloVEJTZkpiZnVr?oc=5",
-          "source": "hinews.co.kr",
-          "sourceInitial": "hi",
-          "sourceColor": "#1a7a5a",
+          "source": "하이뉴스",
+          "sourceInitial": "하이",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-16T06:10:39.000Z",
           "tags": [
             "HMR"
