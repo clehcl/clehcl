@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T23:40:23.866Z",
+  "generatedAt": "2026-08-17T03:16:06.021Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 7,
       "items": [
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -32,6 +32,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "명도물류, 제77회 프랜차이즈 창업박람회 COEX 참가…화물운송 창업 상담 운영",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SN0JmV01uSW1BdHJ4VkxKb3A3bUM2TnB6UjBYQU1Gc0liWXlQLWdpOHVYV3RJVk80dThkbVdtXzFYQUZhOE9DNUxhdXB3eVFhbTRRMGlhbjlKczluZVpiLVA1azYwSTRfVHNlRw?oc=5",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T01:00:16.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[ 2026년 8월 17일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -86,6 +100,18 @@
           "tags": [
             "프랜차이즈"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "BBQ, '오븐구이 닭다리살' 롯데마트 입점…HMR 유통 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNG1fWm9xQVNnTTlQTF9tUnZ1RGJsUUYxV2F6akZzMDN1Vm9FTWozV0RxM1lMRURkUUJmelZ6UzBGbzg4R0lud2szQnJKODNKcC1EakcwRXk4eHdrQklWYW1xMXV6YU1ya3djUTNWUzZWSS10NWdkbGxCNGlnNUFHVGZybXZMLW1YZjZMLUx3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-17T01:53:21.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -146,41 +172,13 @@
           "feat": false
         },
         {
-          "title": "원가 낮추려고 다대기 섞어 ‘가짜 고춧가루’ 5만㎏ 유통한 대표",
+          "title": "김밥 한 줄 4000원 시대…쌀·계란값 뛰자 외식비도 ‘껑충’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85cGQ2VktDdDhBalBZVXJMSmdtSVpCM2VoY1ZnNzdPTU9tVkFaNjNMY09ueVhrQVZGdzh1MEJjNmNaeUdxd3VibUZDQjNqd0tNcDhvTTVxQWdOTFpGNFFwU1lQbURaWmV2S05BNA?oc=5",
-          "source": "뉴스엔톡",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-15T01:52:21.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "해외서 벌고 원가에 깎였다···CJ제일제당부터 빙그레까지 엇갈린 2분기",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yVklwa2tHLVRPQmdQREFaLXlPR2RtVnU3WHdlcC00VEVmRkdGLXRtNTJLSmV1cE5CQjRNQ3VJUEoweFhNU2ZHajZSZkdGQ3MwbVBDXzMtVjJfNnVIZUV1WXhOWm8xcmRkZng0Tk9iVkNZWEnSAXdBVV95cUxPeTE5Sk9ZNEVzdndSbnA1TC1kTkswNnpZd1ZUNG1FY0xFV1lKeXFxUks2UE1BMFBjVV9KQ1JSRTlLSm9uN0NVZU1sYnV0b1dGaWQ4dkZXY3I2eF8yNlNEVUJRVXNMQmdNd0I4SlExaVY5OENoZ1g1NA?oc=5",
-          "source": "여성경제신문",
-          "sourceInitial": "여성",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EcGxJajl4b2JCdmZERDBfWEZCNHJCSXJJdjU2cW0yaE15djdzalBNSnV6Q0ZFSlZSd3Ezd1V3OEZKQjR1WmVSTGl2dWF0ZUk?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-15T00:10:33.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중국 7월 소비자물가 0.5% 상승…여행·디지털 제품이 물가 이끌어",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFVXI3RFA4RmlzOGRGUl82Rm5VNm5ROXNMeUlScXNjRmpKNXhCR3RTMFVUNlphZ0JDcnUxa0NwcTg0VzhpSFJhbWxB?oc=5",
-          "source": "newsyonhap.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-16T15:59:28.000Z",
+          "publishedAt": "2026-08-17T00:55:29.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -192,7 +190,19 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T12:45:33.000Z",
+          "publishedAt": "2026-08-16T18:45:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "중국 7월 소비자물가 0.5% 상승…여행·디지털 제품이 물가 이끌어",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFVXI3RFA4RmlzOGRGUl82Rm5VNm5ROXNMeUlScXNjRmpKNXhCR3RTMFVUNlphZ0JDcnUxa0NwcTg0VzhpSFJhbWxB?oc=5",
+          "source": "뉴스N연합",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-16T15:59:28.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -208,6 +218,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "중국 7월 물가, 소비는 0.5%·생산은 3.5% 상승",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UHhFV1RqX0pDeURXVFJfdUJGelFxazFkdExfMXU0Mng1M1o2RkQ2d0RsNndDZUd4S3RTU2g4dDZvci1uOGlFRDM1MVJmaDJhbVFUWEVn?oc=5",
+          "source": "대한청년일보",
+          "sourceInitial": "대한",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-16T02:08:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -220,7 +242,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 1,
+      "total": 3,
       "items": [
         {
           "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
@@ -235,6 +257,30 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84UTE1MmhJY0k5U2RkRFU4T0dxQWZJYlZQalpEM0FPaF9Na0hOTXVHckVLaXpMZDRwU01QR2JYeWdXdTNicFJybDBfN0RmeWFsWHVzd21OTy1xMzB2WXRITVZBQ2x1dw?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-17T01:57:57.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에\"복날 특수 없었다\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Rld3ZE5NMTEtRmk0cWNwQU0wNUZWZVJHaElYaWFnUGRhdlBRckwtWFQyVFliekZuQUxWb1dFVmNZa2dHZnBZY1dLdnJ3VWRhdmhabFBHcTZMbG1JRHhrdFI1WHQ4ajFZWnfSAWpBVV95cUxNeEZXd2ROTTExLUZpNHFjcEFNMDVGVmVSR2hJWGlhZ1BkYXZQUXJMLVhUMlRZYnpGbkFMVm9XRVZjWWtnR2ZwWWNXS3Zyd1VkYXZoWmxQR3E2TGxtSUR4a3RSNVh0OGoxWVp3?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-15T21:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -247,7 +293,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "KDI 수정 경제전망 나온다…민생물가 잡기 고삐[재경부·기획처 주간예보]",
@@ -298,18 +344,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "과일 및 채소 산업의 병목 현상 해소: 농산물 수출액 1,000억 달러 달성을 위한 핵심 동력.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9wTTB6bmZNUF9OMXB0TUIzRy1XMkpKRTlSVTh5MFNKVjlmNGdsRHlWWVBFUEdWMG9rWUQ4aXg1NTFDcE4xWlhSdmFib1JTdWFTNFFkUFJXdW93ZXpCOGx0dmlMUXRlamVYaGQzVjBLNm5KNHFVRjd1VzRGa2MyckJhU0VxUG9wcFZPd1l1MmplZWFUVVZ2U093b1Bkb2tHSl9fRFZBTHo5ck5FaktBQzA4UXhCR1MtcHhKaQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-15T00:40:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -322,7 +356,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
@@ -354,6 +388,30 @@
           "feat": false
         },
         {
+          "title": "CJ \"식품·콘텐츠·뷰티 시너지로 2028년 美 매출 12조원 확대\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSm52WVNpME9GQlJzczgya3Z5OEFJbU1RYlNueThtcVAxQ0ZRQjlWSDVTbjRTS3pNSVJfOGRWRGdpQW9sS1MtakdiRUt5bkc4WFIxbzZ3?oc=5",
+          "source": "지디넷코리아",
+          "sourceInitial": "지디",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-17T00:00:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[CJ, 美를 넓히다] 김숙영 UCLA 교수 “美 잘파세대, ‘익숙한 새로움’에 빠졌다”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40emVsNG9ZQmRRVTRWTHNOTVhTS2pFNFZtaFlITmRUZU1TNVJyVUVISmRHOVJXTW56cTZ3R2ZHd05EMXVUNnBGUURpdGprNklMVFdubXY0RTU2akpIbHNKbnEzdl90b0N5V2duQUtJYkt3UdIBdkFVX3lxTFBCc1VtVFFENGFnR1dJNWpUMmRDc05kUXNyV1pHNlhxWEN0dnprbHI5VnUyeC1XdjRsYWpQRWYtVkZObG5ENVF1VVVQRndKN0FlcnFvZEh1aDF4bU83WlRoTnVBMnpGaU1MWDBkTTBUdDdjZFdDN2c?oc=5",
+          "source": "sisajournal-e.com",
+          "sourceInitial": "si",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-17T00:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“익숙한 것을 새롭게”…김숙영 UCLA 교수가 본 K컬처의 경쟁력은",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RYWh6blhfVDFMMVZRc2hpWEZ2Sjg3X24yejVlMXlrcUNLTHFjQWt0bnhyWVYwQzNZOU8taTNBZ3A0cHp6NnFSLTB0MmpJWXJyS0VqcVBWSFpoZ011MFF1SFVJRXdOM1dySVBna2hn?oc=5",
@@ -361,18 +419,6 @@
           "sourceInitial": "아시",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-16T00:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[농협] 상호금융 AI 전환 / 식품연구소 부산물 자원화 / 농협식품 저당 식혜 / 농협 을지연습",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vZURuVU5XdVpIODlsRlZ3Zk5IVWtoNl9XRWtfQ09MVks4QkxCR2hnMDBUdjRveHVtSmVPeGZCOU5DUUJQVjBoVUpJM1NuWjZSQWl5aG5WaUpLZEQyYjhVcjA3dnpNOW5LeU5zRF8tLVctQQ?oc=5",
-          "source": "웹이코노미",
-          "sourceInitial": "웹이",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-15T02:17:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
