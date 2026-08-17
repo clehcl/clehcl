@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:22:53.607Z",
+  "generatedAt": "2026-08-17T08:03:49.076Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
+        {
+          "title": "“현금흐름에 해외 확장까지”…외식 프랜차이즈 M&A 다시 뛴다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UdWlkdl9pZkxpUi1PS240cnZLSlA3Y2hMU1NYaVVoMkE5MFhmX2NUbnNvc2RlTk83MDVoeG5FYTBRcmlHNGx4TDY5ZEg0RkVPSy1hMEZhQnRURWpQQV9aRG55RGNjVUo2MTRfc3NRc9IBc0FVX3lxTE5mbmRmUVk0d1Ztd3BicmoxcmszcURXZ1lOWGhyVEFRdjNhMFRIN0FSYi1xM3VRZ3BYWkZvVkFVMGpkaHIwMmNuZ3Y1MXpLRS1LZ3NreThnbGZVWHdzS0xmX0EtaW5RYzFyOUlJY2swdjM4SEU?oc=5",
+          "source": "데일리한국",
+          "sourceInitial": "데일",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-17T06:00:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "한솥도시락, 8월 한 달간 18종 메뉴 할인…가맹점 지원 병행 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
@@ -31,7 +46,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
@@ -117,18 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "BBQ, '오븐구이 닭다리살' 롯데마트 입점…HMR 유통 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNG1fWm9xQVNnTTlQTF9tUnZ1RGJsUUYxV2F6akZzMDN1Vm9FTWozV0RxM1lMRURkUUJmelZ6UzBGbzg4R0lud2szQnJKODNKcC1EakcwRXk4eHdrQklWYW1xMXV6YU1ya3djUTNWUzZWSS10NWdkbGxCNGlnNUFHVGZybXZMLW1YZjZMLUx3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-17T01:53:21.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -141,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -187,13 +190,13 @@
           "feat": false
         },
         {
-          "title": "필리핀뉴스 농무부, 40억 페소 규모 ‘클라크 국가 식품 허브’ 구축 박차… 2027년 말 부분 가동 목표",
+          "title": "[국제] JP모건체이스, 내년 상반기 식품 인플레이션 위기 경고",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42UmRnMmlFbEc0TnpCbzJOOTVlZVU3ekN6cUV6dEZ5S1pBRGIwMHd4bjdFbGR6dkxHYzFpbkpndkhDUGhNS2d3enBTdW13dXNCaEo2bkpaOFhkQQ?oc=5",
-          "source": "뉴스케이",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-17T04:14:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYd1oySXZmZmRGSVNSSkR6R2labmFzNkZNMmFkSE9PeHh0OTdWVGJxNTRCWGtwU214T2VoMU0zUDNYa0RzamNySWJxNjcxS3VzZmI3ajlJcWowN3ZMRUNsdnplajVEZ0NlZ2JZ?oc=5",
+          "source": "서울뉴스통신",
+          "sourceInitial": "서울",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-17T07:30:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -202,9 +205,9 @@
           "title": "1500원 커피의 비밀...컴포즈 매출 84%·메가 94%가 '상품 공급'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPSDg2cHBzYkNVYXA2anV0VTBULUl5Z01DWnNPc292YWVDeTJpSGxFZmlId0tyOGtKWk9MeWZaOUMzSnpxWm1qNGRwVHQ3WkwtVWdTTnQyWFRXODhDLWJLM1EwQmRkRXRQMEE?oc=5",
-          "source": "월요신문",
-          "sourceInitial": "월요",
-          "sourceColor": "#2f7d4f",
+          "source": "wolyo.co.kr",
+          "sourceInitial": "wo",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-17T03:47:11.000Z",
           "tags": [],
           "price": null,
@@ -223,18 +226,6 @@
           "feat": false
         },
         {
-          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에 \"복날 특수 없었다\" > 뉴스포커스",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lUldZZEw4OEdBNGpDLWdEdGRiNHA1TVpwZVZmZFk4X3lQWXk2OU8wamFoRjhoQTdTb2djemtzbnJpeVZHbE8yZUhZdkRSdnJoVVd5endGLWtRbUVqanV1ZzJtRFhaZ0RpMldYcy13M2hWS0E?oc=5",
-          "source": "SeattleN",
-          "sourceInitial": "Se",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-16T21:16:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "하림지주, 해운 날고 식품 주춤…2Q 영업익 19.7%↑ : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWdwVEJneHZEbVdIU1o3WDdKUWFfT01QX3JPLUpaVmktZ0hhdVZYUEdMUFp1Y2lPbWg0Rjg0V25kSnlROFoxYl93QTZwak90cTNOaDhTUlRHNmJ5ZHhQcmhZODgyanQyOURhSFNVdURxZGlXdEpXcUlHZ1REdDBKaWNZV3Mya0Q0OUUyTVl3UQ?oc=5",
@@ -242,6 +233,18 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-16T18:45:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "중국 7월 소비자물가 0.5% 상승…여행·디지털 제품이 물가 이끌어",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxOFR3TkFtdlhVTFRhMHdJLWJrc2R3MFh3dEloYVA3VE1RbXRTMFpqMkRROUJwVVRvMjJlV0pTUEVjZmc?oc=5",
+          "source": "한국공공정책신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-16T15:41:12.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -257,22 +260,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
-        {
-          "title": "[M&A 딜보드]요양·수산물 유통 매물로…시설관리·건설 인수 수요",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzhRRHdEb2tiYXpxQVByRDhZZHhSYXJld241dUREaEhFRDRTcW5XWng0NVJsSTNabG15MlFTZDhGVW40dmVLSl90TWdvZnhPREtFYTVyNWZpd29ydG1QdGtGM3V0c3RQRXYzZTg5eURGdkRtN3QxWlZNcnBXNk9xOQ?oc=5",
-          "source": "edaily.co.kr",
-          "sourceInitial": "ed",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-16T00:02:04.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
           "summary": "",
@@ -281,6 +270,30 @@
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T01:57:57.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "학교 식중독 2년새 65% 폭증, 급식 안전 '빨간불' : 정책",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EUFJKcEh4am5ZaHR0Znd3bFBpa0xHMXJmTWh0WllySXYyakduMEdYWUo0T0ZBN2RMc2hycml5Qmx3eXZ1VVJBTlFtcGw5SnJRSV9N?oc=5",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-16T23:05:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에\"복날 특수 없었다\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Rld3ZE5NMTEtRmk0cWNwQU0wNUZWZVJHaElYaWFnUGRhdlBRckwtWFQyVFliekZuQUxWb1dFVmNZa2dHZnBZY1dLdnJ3VWRhdmhabFBHcTZMbG1JRHhrdFI1WHQ4ajFZWnfSAWpBVV95cUxNeEZXd2ROTTExLUZpNHFjcEFNMDVGVmVSR2hJWGlhZ1BkYXZQUXJMLVhUMlRZYnpGbkFMVm9XRVZjWWtnR2ZwWWNXS3Zyd1VkYXZoWmxQR3E2TGxtSUR4a3RSNVh0OGoxWVp3?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-15T21:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -359,7 +372,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
@@ -410,6 +423,18 @@
           "sourceInitial": "시사",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-17T00:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품 투자분석 2026. 08. 16",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pbHRxZ09zS256Vm5VUm9EeU5VTWlSR2VzWHZGNVc1WENwN1JNVkl3MDlRWHU2M09KZHRIdW9WNF9hVUJjTmx1UlJWV1BOeDF0aGNCbE5tU2o1ME56cVc5d1VBeV8xSlZGTnQ2Qlp4U2YzNE0?oc=5",
+          "source": "주달",
+          "sourceInitial": "주달",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-16T07:34:02.000Z",
           "tags": [],
           "price": null,
           "feat": false
