@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T21:54:24.708Z",
+  "generatedAt": "2026-08-17T22:55:07.098Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -67,9 +67,9 @@
           "title": "폐업 아픔 겪은 50대, AI 배워 '프랜차이즈 팀장'으로 컴백",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSFQ4TDFWcEN6YkRSVUJ3SnJWQjliT0M3RlE1VzlGUlhKOXNiUXJWZ1NaeXdpNUxoUmxBeUY5ZXpvNm5FbklhNUxPNnk2RndxNkdz?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T19:33:00.000Z",
           "tags": [
             "프랜차이즈"
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 17,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -162,6 +162,34 @@
           "feat": true
         },
         {
+          "title": "삼양식품, 해외 매출↑·원가 경쟁력↑…목표가 200만원 유지-유안타",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yY2paM3d3WnJEWWZpLWhrM3NveUJUbFZCdEhLNVpVSnpuU282ZEtFNkxoem9OTFlHQjlmcDJBVXdGT2JUV2Q1TFMyX2xVTHJrbUlV?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T22:44:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "원가 부담에도 선방…K-푸드, 내수 고전했지만 해외서 훨훨[불황 뚫은 K-프리미엄③]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5icHlpM0dqeVhwV19FQlRmVm9pdzRCeVRFWk40aW9VYmliQ3Zwekh6MUtRTjNiNEpmS0N6X0FHeGVaZl80NmgwWHlLdDhzWTVvRl82N2htcGZmSlBvdGo1ctIBeEFVX3lxTE5tdkdENV9HRjNTa0c5S1ZNRDFhYkl4Z2JWbjc2ZktlSjVLcU5US2J5alFwWnhhaUwyQ1pTZXhiRW5Bd045X3JqYWZwMDFzcjBwZ0dvRTd1YnpISU9QSkFUVW1JVUV0X3lYRWx5NWNjZ082TThJYmo3Xw?oc=5",
+          "source": "newsis.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T22:03:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "日 소비 확대 프로틴 가격 급등…2년 만에 두 배 [KDF World]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUWtNN2pfZ2N4STJxTi1BTjQ5MGFuczJkRUdWNFRJVTNuWTFzWldibDMtRnJVaTNVNzc4bnB2UDRfemlzemdKcFY5bUMtWG9rYW4xeGQ1TERfV3NaZnpzcnNYQnhSeWoyMnc?oc=5",
@@ -171,6 +199,20 @@
           "publishedAt": "2026-08-17T15:25:00.000Z",
           "tags": [
             "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "kukinews.com",
+          "sourceInitial": "ku",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-17T08:20:11.000Z",
+          "tags": [
+            "식자재"
           ],
           "price": null,
           "feat": false
@@ -211,42 +253,6 @@
           "sourceInitial": "머",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T18:55:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘깜깜이 수산물 시가’ AI로 예측…글로벌 거래 플랫폼 노린다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfSUVzSG03bGpZOHRXTUdpN1QybEVOdjRmOWpDdjRyMGdSTE1XZGpNSElkX1dXZXpSandleWdKVkZqcVprR05faEEyRUwwbFpocHB1SEV0WnlJbDNlLUVVM0dJM2wyZw?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-17T08:18:19.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"배추 5천원, 김밥 4천원, 라면마저…\" 폭염·폭우에 '장보기 무섭다'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfTDhCRnAyUlFTem1wckhhMjJVUVZRQS1uOGRkRG1xQ0dadW9vdWc5SGNEcm1EMjdDT2JrV1V3ZXcwQ3ozZDF0TTlzQ2hGbUxybHhv?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-17T08:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[국제] JP모건체이스, 내년 상반기 식품 인플레이션 위기 경고",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRY2FzSGRnd1NtUEl0MFZpQ0l2U2dCMWdYczdaQmFRMmh0aU1fWTR5V29zWldrN3ZRb2lCZ2U5UjFvbm1kVmhpQ2dpcFpvTXppOHNDSjhzMXQxaHFkY2VJVklrT1BLdW1ZSzBNX9IBcEFVX3lxTE5KbW53R3dwVUE0SUNjZU5Ga0FEZUtoQ1pNVmtBZU8xN3FqM1RPTkZFMmlaUDc4dHQyM3lQV3JHd2FVNDdZZlpFOHQ3bFllazJxVzBLcHdaY0RtVm14dHFSUEFRRWIzTGNraHpGQW9MYjE?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-17T07:44:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -305,9 +311,9 @@
           "title": "김밥 싸기 무섭네…폭염에 시금치 2배, 오이·깻잎도 60%대 급등",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dmF2bktuWHlIMGVBSklBb1BaaXZ3b2RYUWdRRUhpcDVQaUJnZHJBQTNBUGh4VHBGbTJrc09abTFCdHhGaTFfVm84dGQwU3llYU8xdExURFpLQdIBX0FVX3lxTE1QOXAxY3hxcXdKTG9VaTNNMmlMU1pULVVQT2MyWDRpNkhvdDJMSjdTcHZQclNTZFRzZ20wMk16S3VBNWRwZXNFUmVrd0plSEJUdVdPcUNYNFd3U0xRRTZN?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T21:00:00.000Z",
           "tags": [],
           "price": null,
@@ -317,9 +323,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -336,14 +342,14 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVjNZVG1LZlU1blJYZWEyNFh4aDV6R1J0eFc5cWdiUGVYdjZDM3pkcWtEclc2V1B3RmswNTFLR0Jzb3Q2bFFQWGNHVHA1eGt3cHQ5NGVqdFI3ekJVQjl3b1B2cTZfVU82TVdCWHRXZmhlbVpFRmFmYnRR?oc=5",
-          "source": "로이슈",
-          "sourceInitial": "로이",
+          "source": "lawissue.co.kr",
+          "sourceInitial": "la",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T06:08:10.000Z",
           "tags": [
@@ -354,12 +360,26 @@
           "feat": true
         },
         {
+          "title": "세븐일레븐, ‘올뉴 간편식’ 2천만개 돌파...압도적 품질 차별화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdHItVUZFSUo1Tm9vRk8xSkprMlZleDducXdkZzRUTHFKLVloLUtQVmt4S3NxejVvNWdhM3gtcWw2UDVTUGJKZEtzdl9mUU5jV1hMMVl6VURVbVdyeWU5X0VTU0VqQQ?oc=5",
+          "source": "싱글리스트",
+          "sourceInitial": "싱글",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-17T22:31:57.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "SPC삼립, 50년 제면 노하우 기반 푸드테크·HMR 사업 구조 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SODNpZXdrR3VJVUZuVzN5NG9TekhfUkV6Q1ZmN3BfSzhQbmVreHBfYVJPSUVEa08xeE1JUUlKN2Jvc0tTM0lmYWlEVDdEeVhyQU92Q2tVUlBuOXNPa1FpZFR6R0lvM0VMOXR3bmloVEJTZkpiZnVr?oc=5",
-          "source": "하이뉴스",
-          "sourceInitial": "하이",
-          "sourceColor": "#c15a37",
+          "source": "hinews.co.kr",
+          "sourceInitial": "hi",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-16T06:10:39.000Z",
           "tags": [
             "HMR"
@@ -371,9 +391,9 @@
           "title": "CJ \"식품·콘텐츠·뷰티 시너지로 2028년 美 매출 12조원 확대\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSm52WVNpME9GQlJzczgya3Z5OEFJbU1RYlNueThtcVAxQ0ZRQjlWSDVTbjRTS3pNSVJfOGRWRGdpQW9sS1MtakdiRUt5bkc4WFIxbzZ3?oc=5",
-          "source": "zdnet.co.kr",
-          "sourceInitial": "zd",
-          "sourceColor": "#c15a37",
+          "source": "지디넷코리아",
+          "sourceInitial": "지디",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-17T00:00:03.000Z",
           "tags": [],
           "price": null,
