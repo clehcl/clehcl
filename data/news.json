@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:54:27.519Z",
+  "generatedAt": "2026-08-17T17:00:21.391Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "10평이면 문 연다…버거·피자 프랜차이즈, 창업 문턱 낮추는 소형 매장 모델 고도화",
@@ -59,21 +59,6 @@
           "tags": [
             "프랜차이즈",
             "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "인생아구찜, 215개 매장 넘어 3대 프랜차이즈 인증 완성",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OeVdTcE5nclYyOFp5VUhkM19uQTBsOUFKVzFfeWttSm5OS1hfUHQ0SXZRc1VQaEVPVzBiYXhiaDlPeEhhenB3ZUJLSk8ycWRoWkkwUnREMzdRMXhVckZ3WFFzc0pWTG5xcGFSSDdzYmVwdw?oc=5",
-          "source": "스페셜타임스",
-          "sourceInitial": "스페",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-15T16:59:13.000Z",
-          "tags": [
-            "프랜차이즈",
-            "매장"
           ],
           "price": null,
           "feat": false
@@ -133,6 +118,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "프랜차이즈 경영역량 강화 수요 반영…연세대 CEO 과정 48기 2차 모집 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWZvclNpSEZBZjRkR1c5QlZaQXo3ZVR2WXczcDZqVld3eklxM1RLYTg2bFdUM3VIemZrNGJOT0ZBbHNSTDFFQVN0VUZVT3A4dHZycnVOdWFZQ3E0NmhwVHQ5V1JkUGZFS0tlclJ6cXByR051d1gtcFRNRUtuLWhPLU1kT3B2dXFzWHRWU0pB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-16T12:02:51.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -145,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 14,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -220,9 +219,9 @@
           "title": "\"배추 5천원, 김밥 4천원, 라면마저…\" 폭염·폭우에 '장보기 무섭다'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfTDhCRnAyUlFTem1wckhhMjJVUVZRQS1uOGRkRG1xQ0dadW9vdWc5SGNEcm1EMjdDT2JrV1V3ZXcwQ3ozZDF0TTlzQ2hGbUxybHhv?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T08:13:00.000Z",
           "tags": [],
           "price": null,
@@ -241,13 +240,13 @@
           "feat": false
         },
         {
-          "title": "1500원 커피의 비밀...컴포즈 매출 84%·메가 94%가 '상품 공급'",
+          "title": "김밥 한 줄 4000원 육박…식재료값 오르자 외식비 부담↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPSDg2cHBzYkNVYXA2anV0VTBULUl5Z01DWnNPc292YWVDeTJpSGxFZmlId0tyOGtKWk9MeWZaOUMzSnpxWm1qNGRwVHQ3WkwtVWdTTnQyWFRXODhDLWJLM1EwQmRkRXRQMEE?oc=5",
-          "source": "월요신문",
-          "sourceInitial": "월요",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-17T03:47:11.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QdXVjZHdwb0pHTi1UdVZMX0t3cGU3VktITlRtc1ZNZExpQTBLZml0dWNmZHhXa2ZvSTVQMkdlRWp1RkpJUVNMRE1vQ0R3TnVieDBqQXlCYkYxeDNrWm1zd3ljWUM?oc=5",
+          "source": "디지털데일리",
+          "sourceInitial": "디지",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-17T05:02:32.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -332,9 +331,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
