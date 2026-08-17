@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:57:49.479Z",
+  "generatedAt": "2026-08-17T15:54:27.519Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 10,
+      "total": 12,
       "items": [
+        {
+          "title": "10평이면 문 연다…버거·피자 프랜차이즈, 창업 문턱 낮추는 소형 매장 모델 고도화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkaTZTaDdpd2lJYVJoUFQydGZiLWRLdFpCa3hnUThIQmo5bDZBRmJLdXFPaDlNeW5xT3JwZEMtWmZFOXBpbjh5eWpsSS0?oc=5",
+          "source": "TENANT news",
+          "sourceInitial": "TE",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-17T15:01:42.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "한솥도시락, 8월 한 달간 18종 메뉴 할인…가맹점 지원 병행 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
@@ -25,13 +40,13 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-17T09:27:21.000Z",
+          "publishedAt": "2026-08-17T09:28:21.000Z",
           "tags": [
             "가맹",
             "메뉴"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "“현금흐름에 해외 확장까지”…외식 프랜차이즈 M&A 다시 뛴다",
@@ -59,6 +74,20 @@
           "tags": [
             "프랜차이즈",
             "매장"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "외식비 올라 친구도 안 만나… 2030 덮친 ‘프렌드플레이션’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmFhSS1RWjZ5NlduZ2sxLXJfY1VzOGVaM2k1RjdhcmNuTmUtb2tCbmJjYnpvUklPVU9GdzhDMDIwRkhlS2MzaWQ0M1Fac0lKYUVpbUtuOXRtMlV5bkE2R2Y1SjFSVC16Rk5oNlBmU19wSGp4QlFBZmxFck5QbFFyMlhEaEpXdTNib0duUlhR?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-17T15:32:00.000Z",
+          "tags": [
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -104,34 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "프랜차이즈 경영역량 강화 수요 반영…연세대 CEO 과정 48기 2차 모집 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWZvclNpSEZBZjRkR1c5QlZaQXo3ZVR2WXczcDZqVld3eklxM1RLYTg2bFdUM3VIemZrNGJOT0ZBbHNSTDFFQVN0VUZVT3A4dHZycnVOdWFZQ3E0NmhwVHQ5V1JkUGZFS0tlclJ6cXByR051d1gtcFRNRUtuLWhPLU1kT3B2dXFzWHRWU0pB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-16T12:02:51.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "감동국밥, '얼큰국밥' 4종 세트…메뉴 다양화로 창업 경쟁력 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXBISnAybGlWQUFmYkNPNElxWWcxYU5XY3hOMzdWcDNzNzBrbVRwU0d5UERyeldDVWZfMWo5T0dyMjZ1Tk9NOHhXbnE3Q0lRaFg0OGE4cG9pdlU0SmtpZl9aYUtFXzhFQlNJczdqUkc?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-16T05:10:00.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,15 +145,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SM091N0ItOXU0RXd0TUVTMktPQldGUHlsT3BoSkdDN3JCYWkzZnkycjJDU3dpa3VYZEpQODRqR2M0TU0zZ1R2UTRTNDdxYlFaOVVGamlB?oc=5",
-          "source": "wikitree.co.kr",
-          "sourceInitial": "wi",
-          "sourceColor": "#8a5cc4",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T22:30:00.000Z",
           "tags": [
             "원가",
@@ -160,6 +161,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "日 소비 확대 프로틴 가격 급등…2년 만에 두 배 [KDF World]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUWtNN2pfZ2N4STJxTi1BTjQ5MGFuczJkRUdWNFRJVTNuWTFzWldibDMtRnJVaTNVNzc4bnB2UDRfemlzemdKcFY5bUMtWG9rYW4xeGQ1TERfV3NaZnpzcnNYQnhSeWoyMnc?oc=5",
+          "source": "한국면세뉴스",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-17T15:25:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "신동원 14.5억·함영준 5.4억…가격 올린 식품사, 상반기 보수도 늘었다",
@@ -193,9 +208,9 @@
           "title": "‘깜깜이 수산물 시가’ AI로 예측…글로벌 거래 플랫폼 노린다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfSUVzSG03bGpZOHRXTUdpN1QybEVOdjRmOWpDdjRyMGdSTE1XZGpNSElkX1dXZXpSandleWdKVkZqcVprR05faEEyRUwwbFpocHB1SEV0WnlJbDNlLUVVM0dJM2wyZw?oc=5",
-          "source": "sedaily.com",
-          "sourceInitial": "se",
-          "sourceColor": "#c15a37",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T08:18:19.000Z",
           "tags": [],
           "price": null,
@@ -205,9 +220,9 @@
           "title": "\"배추 5천원, 김밥 4천원, 라면마저…\" 폭염·폭우에 '장보기 무섭다'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfTDhCRnAyUlFTem1wckhhMjJVUVZRQS1uOGRkRG1xQ0dadW9vdWc5SGNEcm1EMjdDT2JrV1V3ZXcwQ3ozZDF0TTlzQ2hGbUxybHhv?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T08:13:00.000Z",
           "tags": [],
           "price": null,
@@ -221,18 +236,6 @@
           "sourceInitial": "서울",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-17T07:30:58.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "김밥 한 줄 4000원 육박…식재료값 오르자 외식비 부담↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QdXVjZHdwb0pHTi1UdVZMX0t3cGU3VktITlRtc1ZNZExpQTBLZml0dWNmZHhXa2ZvSTVQMkdlRWp1RkpJUVNMRE1vQ0R3TnVieDBqQXlCYkYxeDNrWm1zd3ljWUM?oc=5",
-          "source": "디지털데일리",
-          "sourceInitial": "디지",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-17T05:02:32.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -260,15 +263,15 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkb0ZDZmd3MXlzc0JIdUo0Zi10eHI4UktDYS1TQ29hZmxtM3hXckRrMHlSZERIMW1IUUdVWHFqZk9VbHJTYjJPUzFrcFg2a1AzZl9V?oc=5",
-          "source": "sedaily.com",
-          "sourceInitial": "se",
-          "sourceColor": "#c15a37",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T01:57:57.000Z",
           "tags": [],
           "price": null,
@@ -278,22 +281,10 @@
           "title": "학교 식중독 2년새 65% 폭증, 급식 안전 '빨간불' : 정책",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EUFJKcEh4am5ZaHR0Znd3bFBpa0xHMXJmTWh0WllySXYyakduMEdYWUo0T0ZBN2RMc2hycml5Qmx3eXZ1VVJBTlFtcGw5SnJRSV9N?oc=5",
-          "source": "medicaldaily.co.kr",
-          "sourceInitial": "me",
-          "sourceColor": "#1a7a5a",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-16T23:05:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에\"복날 특수 없었다\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Rld3ZE5NMTEtRmk0cWNwQU0wNUZWZVJHaElYaWFnUGRhdlBRckwtWFQyVFliekZuQUxWb1dFVmNZa2dHZnBZY1dLdnJ3VWRhdmhabFBHcTZMbG1JRHhrdFI1WHQ4ajFZWnfSAWpBVV95cUxNeEZXd2ROTTExLUZpNHFjcEFNMDVGVmVSR2hJWGlhZ1BkYXZQUXJMLVhUMlRZYnpGbkFMVm9XRVZjWWtnR2ZwWWNXS3Zyd1VkYXZoWmxQR3E2TGxtSUR4a3RSNVh0OGoxWVp3?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-15T21:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -341,9 +332,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -366,8 +357,8 @@
           "title": "SPC삼립 하이면, ‘홍비빔·들기름 막국수’ 출시...여름 HMR 시장 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wVjNZVG1LZlU1blJYZWEyNFh4aDV6R1J0eFc5cWdiUGVYdjZDM3pkcWtEclc2V1B3RmswNTFLR0Jzb3Q2bFFQWGNHVHA1eGt3cHQ5NGVqdFI3ekJVQjl3b1B2cTZfVU82TVdCWHRXZmhlbVpFRmFmYnRR?oc=5",
-          "source": "lawissue.co.kr",
-          "sourceInitial": "la",
+          "source": "로이슈",
+          "sourceInitial": "로이",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T06:08:10.000Z",
           "tags": [
