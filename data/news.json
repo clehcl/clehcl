@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T03:10:42.839Z",
+  "generatedAt": "2026-08-18T05:05:19.114Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 16,
       "items": [
         {
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
@@ -109,11 +109,11 @@
         {
           "title": "파주시, '2026년도 외식업체 전문경영 컨설팅' 본격 추진",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ydjh1Q2xaUGxGZEJ4ZS1DMTR3dU5BcV96SmM5cDV0WVk3N3hWejZhS2lMdGZDS0dhTERhUWNFbnpYT1U?oc=5",
-          "source": "뉴스후",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-17T23:22:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UR0Z3YU4wV2FPcExRcnFkZm1GdUZZSkdCVms1SjV0WUNmYWFoVGdlTy02RlBJTHFpeXBIOFNIb0lBdWFQNDZKZmx1V05oT3VVeXRYeGM0OThYMmc?oc=5",
+          "source": "한방통신사",
+          "sourceInitial": "한방",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-18T00:10:46.000Z",
           "tags": [
             "외식"
           ],
@@ -145,15 +145,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 20,
+      "total": 24,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SM091N0ItOXU0RXd0TUVTMktPQldGUHlsT3BoSkdDN3JCYWkzZnkycjJDU3dpa3VYZEpQODRqR2M0TU0zZ1R2UTRTNDdxYlFaOVVGamlB?oc=5",
-          "source": "wikitree.co.kr",
-          "sourceInitial": "wi",
-          "sourceColor": "#8a5cc4",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T22:30:00.000Z",
           "tags": [
             "원가",
@@ -219,12 +219,26 @@
           "feat": false
         },
         {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-17T08:20:11.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "신동원 14.5억·함영준 5.4억…가격 올린 식품사, 상반기 보수도 늘었다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSkZIaVNsNGhXRF9uaWpGS0FrWHh5TDdHLUx3VWRsVnJhVGhmS0RmUHZsLXdBeElzR1VHWWVGd1JlaUQ2dXB2SnBQOTUxWnhEWExsNDFpU2owbElUdHA0UUpfUHdNY0k5N3RJ?oc=5",
-          "source": "뉴스저널리즘",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
+          "source": "ngetnews.com",
+          "sourceInitial": "ng",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-16T22:20:00.000Z",
           "tags": [
             "가격"
@@ -245,18 +259,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "환율 1500원 뚫고 웃은 식품업계…해외서 번 돈으로 내수 부진 메웠다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VR1M1bkw2TEYwMnpDSHhlMHpKS1BXWmt1QVFkWDlWNmhNc2ZfbGdBdlJ2MGxROVU5dVdaRGdkcDV0WnNrTk9rdGdZTXV4QUZROXpkVzlkNDJaVHo0Q29NUk5QWkx2NnJBMFE?oc=5",
-          "source": "천지일보",
-          "sourceInitial": "천지",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-17T23:36:30.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -269,21 +271,33 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "급식 식재료 위생·원산지 위반 업체, 학교 납품 최대 6개월 제한",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LX0x2dTFGdlFEVk83NHBCdlZlSGFrUlM4dy1fS0NtWjIxVVo1NFRmRWh5aG0weTlfbVBwblJqZHJ4cS1XWXA5YXY4Q1RGUTIxbXJOSw?oc=5",
-          "source": "etoday.co.kr",
-          "sourceInitial": "et",
-          "sourceColor": "#1a7a5a",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T03:03:00.000Z",
           "tags": [
             "납품"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "전남광주 농업, 저탄소 농산물 인증 1위 보다 더 중요한 것",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SbzMtNUo1b2k1ejZXaF9sVkJ0WG11cGxvUDRJTVNCX0JmeW91RUVzOFF0Ymo1WU1sSE1wQzBEaldROGFhZW41MVlXS1B4ckpuLVMyOHlfbXBsYTR5?oc=5",
+          "source": "전남인터넷신문",
+          "sourceInitial": "전남",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-17T23:47:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
@@ -320,21 +334,33 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
         {
           "title": "1950년 이후 최강 엘니뇨 가능성…밥상물가·겨울재난 ‘암초’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NVVhCX1E5NERXZVFsdktDV3hoY3kyRUFZb2N6MEZpNlR1dV9qZ2swbnJ2bDZpV2l3R0ZWQ1Q4aENtaEx4ZkFLT3M3M1B0X0d0QVJr?oc=5",
-          "source": "dailian.co.kr",
-          "sourceInitial": "da",
-          "sourceColor": "#1a4d8f",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPQTlRU3FpY2RVNlpKS0pyejI5UmZoN1dMSVlSWllvQk0yNWFXZVRPNUEtbjJrTUNjUHFqTEVEdXFaMGhGNzV6NlVuQWVWUmNibXRJSA?oc=5",
+          "source": "데일리안",
+          "sourceInitial": "데일",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T01:27:00.000Z",
           "tags": [
             "물가"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "EU Good Food, 한국 시장에 유럽산 식품 생산기준 투명성 조명",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzQ0JSMDE2ZXRqR3N2N0k1TlcwVmMwT2NBV2IxRFFjU3JHVmdQNTIybkxIazREdkMwMnVPRU5fRVNxd0YxZXlOZEdxSUNMNVJjMm9ialZoNmFlZjJqR0tUV0VsV1FraFJadXZRN0dRZWV4UQ?oc=5",
+          "source": "스페셜타임스",
+          "sourceInitial": "스페",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-18T04:47:52.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
@@ -359,7 +385,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 10,
       "items": [
         {
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
@@ -392,48 +418,6 @@
           "feat": false
         },
         {
-          "title": "하림, 액상 치킨스톡 출시…국내산 닭가슴살 80% 함유",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92YjdxaWhqbFlwZVVNSzNSNnRBRW9pYjZkZzBYR1RVSWwyN3ZrbjIyZjVDX0hoTXBTS3lJZlRRcVhHN2NuMGFfNXNfTzR2dw?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-18T01:47:21.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "편스토랑 ‘깨 폭탄 순대전골’ 상품화…아워홈, HMR·급식 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JZ2FjbmxGZ0VYMzdxQjZLTzRtMFhFLWtOVFZ1dko0ODJISm5ocUQ0QVBLa21RQmdDZHFfOTE5ZFhwQ044aEFJYWJSUUtmTWgyREZaZG1hbWczMDNBNGo1Tm5HZ016LWlFOEt1ZWk0RQ?oc=5",
-          "source": "스마트경제",
-          "sourceInitial": "스마",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-18T00:37:45.000Z",
-          "tags": [
-            "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "세븐일레븐, ‘올뉴 간편식’ 2천만개 돌파...압도적 품질 차별화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdHItVUZFSUo1Tm9vRk8xSkprMlZleDducXdkZzRUTHFKLVloLUtQVmt4S3NxejVvNWdhM3gtcWw2UDVTUGJKZEtzdl9mUU5jV1hMMVl6VURVbVdyeWU5X0VTU0VqQQ?oc=5",
-          "source": "싱글리스트",
-          "sourceInitial": "싱글",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-17T22:31:57.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "SPC삼립, 50년 제면 노하우 기반 푸드테크·HMR 사업 구조 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SODNpZXdrR3VJVUZuVzN5NG9TekhfUkV6Q1ZmN3BfSzhQbmVreHBfYVJPSUVEa08xeE1JUUlKN2Jvc0tTM0lmYWlEVDdEeVhyQU92Q2tVUlBuOXNPa1FpZFR6R0lvM0VMOXR3bmloVEJTZkpiZnVr?oc=5",
@@ -444,6 +428,18 @@
           "tags": [
             "HMR"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "충남 농식품, 홍콩서 ‘수출 돌파구’…농촌융복합기업 5곳 판로개척",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iaXh0VDVGWFhEWUkxcURaWHlFVDRXZExkYmxVc0p6X1RfbXlYYVdqdmdCRXh5bWpxWmxDMjVLUDlVekhkanFJQzVZd3BNU3pMOEt3YUFZMGI1Y040UkRYQUVPdWJsS1hHRTln?oc=5",
+          "source": "충청시사신문",
+          "sourceInitial": "충청",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T03:36:26.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -463,10 +459,34 @@
           "title": "[잘먹잘살+]하이트진로·CJ제일제당·hy·제너시스BBQ·동서식품·대상그룹·롯데잇츠",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOTJKOGpHdlJhRzdmUnoxRWd1WklyeVYxQk9VZXI0UzExMmdXd3FXS0NfSFhtd19rX0t2dGpKbzVjbHhtQUpNYW1fTEU3UVJfQVdGc1JldFMzWXZJc1l2bW9LZFdMZTI4akNTNDZn?oc=5",
-          "source": "비즈니스플러스",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c98a2b",
+          "source": "businessplus.kr",
+          "sourceInitial": "bu",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-18T00:55:27.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서울 지역 소비자, ‘Yindii’ 앱으로 미판매 음식 50% 이상 할인 구매… 음식물 낭비도 줄인다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDlQTUhPZnJvcVlSTDdWZHVMZHlLeVMySDBiN01jWE9Gc1BkUWYtNzRTd0NEbGZQcFpDQ1JxZ1pnd1ZuUUNmNmtQX0EyWlhSbzFoRUQxVlMyaUt3MWZFXzdiYVRRSE5VcVhRZWRQRUxUQXBrUnBVQk5CRjFwZ2JfRS1WUGNJSHhiY0xVMFBOZnA2bWlFZUxsa3FYblZRMDVGNXEzRFV0T1pQc001b0ZuWVk2b0hqaHFUdjVZLTRYalBraEN0?oc=5",
+          "source": "SNS 타임즈",
+          "sourceInitial": "SN",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-18T00:45:15.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[유통갤러리] 풀무원 춘천 얼음공장, 식용 얼음 제조 공장 최초 글로벌 HACCP 인증 획득 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZZ1ZlVGtKZEtaTHhySDZOZE5xOXdjcDhTbVZwTVZBNm1HaWZyRF84Sk44TGVfcTV6ME5OaEllLWs3TmRmNk41VFNWa3lNaVVhVWdhaWJKM0E?oc=5",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-18T00:00:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
