@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:55:55.996Z",
+  "generatedAt": "2026-08-18T11:56:42.841Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 22,
       "items": [
         {
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
@@ -25,7 +25,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T05:15:34.000Z",
+          "publishedAt": "2026-08-17T23:42:34.000Z",
           "tags": [
             "가맹",
             "메뉴"
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "반찬가게 프랜차이즈 진이찬방, 본사 사업설명회 및 1:1 창업상담 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52ZE9HSGx4b01kYlRVVnRjZnZnYnNjZm5jQ25uaGMyOTkxTEUyeDlobFIwbHpPajRiNHZWNm0tQVJTZ0hwc1dQaUk1R0EwVEZYX0Vj?oc=5",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T11:15:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[ 2026년 8월 19일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0luTjBOUlJNT0p1STVIZmdOel9xdEJqODh2aE84QndzbVhabWNkaDl0SE9KVUt0NjZxREN3Q3ZETldTVWNqdi16OVctM2M2NXdMaXU3UnNONUttaXdIWjlUMnVTbEk2RXFWREV5QjBuU1VSN1lqVkFaNWotWGZXTmxubnJ2cld2VzUtcTJR?oc=5",
@@ -114,20 +128,6 @@
           "sourceInitial": "더코",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T07:18:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[수시 특집] 우송정보대학, 2027학년도 ‘외식조리학부 K-푸드(한식)전공’ 신설",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NTThPYXpOemttYW9CdzlvNk9ZUXE2MVRaRU12d1ZEY1NodWZqZDl1d0RCMExzVWFBNk1OWnZUYnNFYkpROHVpNXlmR24wZkFxcFFkOUZOQnBNWjdOMW04aEt2NS1uaHdw0gFsQVVfeXFMT1R3M0lqYUxTMjllbEozVXFHU2VEbmMwUGhucDI5Nno5clptc2N5WDh2amVuV1h4STEzSW80YTVZd1A5Y0N0R1FCRl9aQ1BIN2NCTTdlVGxSNjdVemNkUkttX2lWbHJKdzluQnA4?oc=5",
-          "source": "글로컬타임스",
-          "sourceInitial": "글로",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T04:46:09.000Z",
           "tags": [
             "외식"
           ],
@@ -271,7 +271,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
@@ -302,12 +302,24 @@
           "feat": false
         },
         {
+          "title": "건보·무상급식 등 가구당 926만원씩…'사회적 현물이전' 의료 늘고,교육 줄어",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4UFZwMThDNE5ZcXFfVVhyQWtaRl9hY282TlpjNjhjMFBmRUg4a1VfY0hZMXk1UHFTX0JzRUNNblNpckFhTUxXaFBlbk9DZDA2VjFNYzM4RER1QWNETGpqaWhjM0l6Qm9oQXRjWDVR?oc=5",
+          "source": "서울이코노미뉴스",
+          "sourceInitial": "서울",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T05:49:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJMG4yTmZhTHJ2R2VlUjV2YTh5OUQzYnhIV1RLaGpNSTVNNzY0Zk5QczVPNjNPM1MtT1lVMXNwTlpMYmZWUlcyQ0ZGUmhPME02cnc?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
+          "source": "sedaily.com",
+          "sourceInitial": "se",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T01:57:57.000Z",
           "tags": [],
           "price": null,
@@ -317,9 +329,9 @@
           "title": "학교 식중독 2년새 65% 폭증, 급식 안전 '빨간불' : 정책",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EUFJKcEh4am5ZaHR0Znd3bFBpa0xHMXJmTWh0WllySXYyakduMEdYWUo0T0ZBN2RMc2hycml5Qmx3eXZ1VVJBTlFtcGw5SnJRSV9N?oc=5",
-          "source": "의약일보",
-          "sourceInitial": "의약",
-          "sourceColor": "#333333",
+          "source": "medicaldaily.co.kr",
+          "sourceInitial": "me",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-16T23:05:00.000Z",
           "tags": [],
           "price": null,
@@ -368,9 +380,9 @@
           "title": "미국 식품의약국(FDA)은 베트남에 아세안 최초 사무소를 개설한 이유를 설명했습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1hWWFdKNG9JdnR2N0hrYzlJcld1MVN4RFQ1N2t0VXVsUGRHMEgycmJNN0lNblc5N3ktQjBwMmViWFBWUzBHN25FN2wtbXdHVERzeHBnZDFTcXVMT3hYYWx2ZVNWNTdLU2pmeXBGS3JTdWs4UEplUVc3TlY5dmhndUczTUgtWjBVRnYtQXZR?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T10:44:44.000Z",
           "tags": [],
           "price": null,
@@ -380,9 +392,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -399,15 +411,15 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 10,
       "items": [
         {
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UDRZY25yazN0Q1VCNFE4WkxUNDRSTXRFcTZLVnZhMzRYMHlLZ3NtaGdjamZPSm1neFRUZUxEdEhMcTd1RXNENzBuMEkxREs0ckQzbEhvaEh2QWVmMHZoZHdqa0laRl81bXNZZA?oc=5",
-          "source": "ksilbo.co.kr",
-          "sourceInitial": "ks",
-          "sourceColor": "#1a4d8f",
+          "source": "경상일보",
+          "sourceInitial": "경상",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T02:24:03.000Z",
           "tags": [
             "출시",
@@ -420,9 +432,9 @@
           "title": "[유통가 NOW] 풀무원 얼음공장 글로벌 HACCP·오리온 그래놀라 신제품…세븐일레븐·아웃백·BAT로스만스",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWE00bEN2bEc0bmdCYkdfTE5OcHJYcXl1anhVTHA3bWNnNGUxbFFzd2dLeTNKNG1SazRCeDdlYy16cUZKdGtsTHFidHlqd3VVU05UZ2ZfTEZOX1E?oc=5",
-          "source": "ekn.kr",
-          "sourceInitial": "ek",
-          "sourceColor": "#3a6ea5",
+          "source": "에너지경제신문",
+          "sourceInitial": "에너",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-18T09:56:20.000Z",
           "tags": [
             "신제품"
@@ -460,22 +472,10 @@
           "title": "[유통 HOT 뉴스] “2028년, 매출 12조원이 목표다”…CJ, 식품·콘텐츠·뷰티 앞세워 북미 매출 목표 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VOGFhVEhiMDI5R0ZWYU5aT2EtVldxMGN4OGFzaEJmUWR5Y2RFVWExS0JDNU1NNVB1U0U4bjBEN25BNWFZN1ZoQmFvazJoRFlIYlg0clhLeTJBdHBtMGFpUDROXzVBVVQxVmc?oc=5",
-          "source": "bizwnews.com",
-          "sourceInitial": "bi",
-          "sourceColor": "#b03a6a",
+          "source": "비즈월드",
+          "sourceInitial": "비즈",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T07:03:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[오늘의 식탁] CJ제일제당ㆍ대상ㆍ스타벅스ㆍ오리온ㆍ풀무원ㆍ동서식품ㆍ하림ㆍhyㆍ신세계푸드ㆍ더본코리아",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WOVJ6TGdnRG9RcEc5djVDMnNoN2RWVWFycGZ3Y2dkNVN6RDB3SDcwTDA5UENodU9GamtaU1ZKc3RXQzVpbHlXcDlWWVdqWkNrRnRnQjlZLWxfdGM2UHhFc2JWYTlRRGhZQ2pMdXd3SUdTMko4?oc=5",
-          "source": "대한경제",
-          "sourceInitial": "대한",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-18T04:32:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -484,9 +484,9 @@
           "title": "'AI 막내'가 일한다···유통업계, 업무 효율성 제고 위해 AI 도입 '속도'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaFF3ajBpZl9DUXktWFFKcXVhYUdoNi1TVC1MQ0duQzhLVWlmNlU3UHF0MGNGbnU0V2tGWEtHTk8wSU5YYVlUQ1dGVU5NRnhqblZF?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-18T01:12:00.000Z",
           "tags": [],
           "price": null,
@@ -500,6 +500,18 @@
           "sourceInitial": "SN",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-18T01:10:17.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[유통갤러리] 풀무원 춘천 얼음공장, 식용 얼음 제조 공장 최초 글로벌 HACCP 인증 획득 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZZ1ZlVGtKZEtaTHhySDZOZE5xOXdjcDhTbVZwTVZBNm1HaWZyRF84Sk44TGVfcTV6ME5OaEllLWs3TmRmNk41VFNWa3lNaVVhVWdhaWJKM0E?oc=5",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-18T00:00:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
