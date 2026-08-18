@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:56:42.841Z",
+  "generatedAt": "2026-08-18T14:06:27.444Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
@@ -79,12 +79,26 @@
           "feat": false
         },
         {
-          "title": "반찬가게 프랜차이즈 진이찬방, 본사 사업설명회 및 1:1 창업상담 강화",
+          "title": "자담치킨, 카카오페이 '굿딜' 도입…매장 결제 3% 즉시 할인 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52ZE9HSGx4b01kYlRVVnRjZnZnYnNjZm5jQ25uaGMyOTkxTEUyeDlobFIwbHpPajRiNHZWNm0tQVJTZ0hwc1dQaUk1R0EwVEZYX0Vj?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEYtbUM1NEstc1JHcUl6RzU4UnlNTU50MVZzY09BN1dYdHdGWHBnMTFKT1RWQzlHTnlEa0YtbllzUzBjRTRmMmplRlNzcmtJNXk4d3ROZ2FkaEZXbHN2cEFFdUVVM2Y1Skx6SnY1TE9Qa2VlTWkzSHg3bTg4N0dxRGp1TXRudXYtU2lZcHVn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-18T12:54:36.000Z",
+          "tags": [
+            "매장"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "반찬가게 프랜차이즈 진이찬방, 본사 사업설명회 및 1:1 창업상담 강화 - 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Q3RmNGYxcnBTbGdmWXZldlY5c0NrRk9KQmpJYUo4QU9JODEwN0RjaEZ1VXgyUlMxS3p4clgzQ2hfSzdPZy1tTjFDTWFhNTNKa09ZVGE5V25SZ0tOLWF0dk1faTBsd1RLZ05nQUsyWm5xd9IBckFVX3lxTE84Q3RmNGYxcnBTbGdmWXZldlY5c0NrRk9KQmpJYUo4QU9JODEwN0RjaEZ1VXgyUlMxS3p4clgzQ2hfSzdPZy1tTjFDTWFhNTNKa09ZVGE5V25SZ0tOLWF0dk1faTBsd1RLZ05nQUsyWm5xdw?oc=5",
+          "source": "머니투데이",
+          "sourceInitial": "머",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T11:15:00.000Z",
           "tags": [
             "프랜차이즈"
@@ -119,20 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "파주시, 2026년도 외식업체 전문경영 컨설팅 본격 추진해 소상공인 경쟁력 강화 도모 > 뉴스",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9JaGFVMWJ1ZFRfUFh0R3Qxck14N3N3ZFZIenlHODZaXzJWdjJRSDlVTV93YjJ3aUhyUTUxWTRtWHhJRGs?oc=5",
-          "source": "더코리아",
-          "sourceInitial": "더코",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-18T07:18:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 28,
+      "total": 26,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
@@ -222,8 +222,8 @@
           "title": "日 소비 확대 프로틴 가격 급등…2년 만에 두 배 [KDF World]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUWtNN2pfZ2N4STJxTi1BTjQ5MGFuczJkRUdWNFRJVTNuWTFzWldibDMtRnJVaTNVNzc4bnB2UDRfemlzemdKcFY5bUMtWG9rYW4xeGQ1TERfV3NaZnpzcnNYQnhSeWoyMnc?oc=5",
-          "source": "한국면세뉴스",
-          "sourceInitial": "한국",
+          "source": "kdfnews.com",
+          "sourceInitial": "kd",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-17T15:25:00.000Z",
           "tags": [
@@ -271,7 +271,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
@@ -302,12 +302,24 @@
           "feat": false
         },
         {
+          "title": "아워홈, 편스토랑 우승작 '찬또배기 고기듬뿍 순대전골' HMR 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yb3lkYWxkWFY4ODZTTS1uTmlNZmJOcDNRMWh6bEZpNGNyNHE4VElKSklWanhSQmVJakRvcW9aTFRqeGw5N2xBQ3JIemxMdXMyZTBvbGdndW4yMkpreEllM1NFUjNJQ1AyelHSAW5BVV95cUxPYjYza0hjSEpSVHhqVmZER05rVTlOT2NmOC1ucy1YSTctVFVSb3ZDNi1IT1hkRDI3aldyQkdwc1dEaGltODRMQTdyU1VycXo0VjhmZkQzek5oUTZJUEJ0VS1aLXh0OEZNdWl4Z2l5QQ?oc=5",
+          "source": "뉴스드림",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-18T06:48:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "건보·무상급식 등 가구당 926만원씩…'사회적 현물이전' 의료 늘고,교육 줄어",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4UFZwMThDNE5ZcXFfVVhyQWtaRl9hY282TlpjNjhjMFBmRUg4a1VfY0hZMXk1UHFTX0JzRUNNblNpckFhTUxXaFBlbk9DZDA2VjFNYzM4RER1QWNETGpqaWhjM0l6Qm9oQXRjWDVR?oc=5",
-          "source": "서울이코노미뉴스",
-          "sourceInitial": "서울",
-          "sourceColor": "#c15a37",
+          "source": "seouleconews.com",
+          "sourceInitial": "se",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-18T05:49:00.000Z",
           "tags": [],
           "price": null,
@@ -317,9 +329,9 @@
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJMG4yTmZhTHJ2R2VlUjV2YTh5OUQzYnhIV1RLaGpNSTVNNzY0Zk5QczVPNjNPM1MtT1lVMXNwTlpMYmZWUlcyQ0ZGUmhPME02cnc?oc=5",
-          "source": "sedaily.com",
-          "sourceInitial": "se",
-          "sourceColor": "#c15a37",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T01:57:57.000Z",
           "tags": [],
           "price": null,
@@ -329,9 +341,9 @@
           "title": "학교 식중독 2년새 65% 폭증, 급식 안전 '빨간불' : 정책",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EUFJKcEh4am5ZaHR0Znd3bFBpa0xHMXJmTWh0WllySXYyakduMEdYWUo0T0ZBN2RMc2hycml5Qmx3eXZ1VVJBTlFtcGw5SnJRSV9N?oc=5",
-          "source": "medicaldaily.co.kr",
-          "sourceInitial": "me",
-          "sourceColor": "#1a7a5a",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-16T23:05:00.000Z",
           "tags": [],
           "price": null,
@@ -348,7 +360,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "1950년 이후 최강 엘니뇨 가능성…밥상물가·겨울재난 ‘암초’",
@@ -377,24 +389,12 @@
           "feat": false
         },
         {
-          "title": "미국 식품의약국(FDA)은 베트남에 아세안 최초 사무소를 개설한 이유를 설명했습니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1hWWFdKNG9JdnR2N0hrYzlJcld1MVN4RFQ1N2t0VXVsUGRHMEgycmJNN0lNblc5N3ktQjBwMmViWFBWUzBHN25FN2wtbXdHVERzeHBnZDFTcXVMT3hYYWx2ZVNWNTdLU2pmeXBGS3JTdWs4UEplUVc3TlY5dmhndUczTUgtWjBVRnYtQXZR?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-17T10:44:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -411,7 +411,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 8,
       "items": [
         {
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
@@ -443,20 +443,6 @@
           "feat": false
         },
         {
-          "title": "하림, 냉장 닭가슴살 80% 담은 ‘오리지널 치킨스톡’ 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVk12aEcyYVprbDE5b3dXakUzTndkdC0teEMyUTVENUozdHM4d250YmFLNHNyZUhTT1NMZ3hPdjRnWHBWcVdRa21oMjZ1Ui13eWxzN0lIOFpDcGJ5Q0VHaVJiU0VQcW9xeXdUZQ?oc=5",
-          "source": "뉴스탭",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-18T07:25:04.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "18일 쌀의 날 맞아…K-쌀 가공식품 한류 타고 수출 쑥",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrcEpVU2N2UEdVZU1XR21ZbTdsSHBNblZpSHNFaTFqcFhmelVMc3pGcmV6aHp6WUt5a0lWY2l6SUhMSS1kX1RNSFN6VmhhcUU?oc=5",
@@ -469,24 +455,12 @@
           "feat": false
         },
         {
-          "title": "[유통 HOT 뉴스] “2028년, 매출 12조원이 목표다”…CJ, 식품·콘텐츠·뷰티 앞세워 북미 매출 목표 공개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VOGFhVEhiMDI5R0ZWYU5aT2EtVldxMGN4OGFzaEJmUWR5Y2RFVWExS0JDNU1NNVB1U0U4bjBEN25BNWFZN1ZoQmFvazJoRFlIYlg0clhLeTJBdHBtMGFpUDROXzVBVVQxVmc?oc=5",
-          "source": "비즈월드",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-18T07:03:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "'AI 막내'가 일한다···유통업계, 업무 효율성 제고 위해 AI 도입 '속도'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaFF3ajBpZl9DUXktWFFKcXVhYUdoNi1TVC1MQ0duQzhLVWlmNlU3UHF0MGNGbnU0V2tGWEtHTk8wSU5YYVlUQ1dGVU5NRnhqblZF?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-18T01:12:00.000Z",
           "tags": [],
           "price": null,
@@ -512,6 +486,30 @@
           "sourceInitial": "뷰어",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-18T00:00:17.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ \"식품·콘텐츠·뷰티 시너지로 2028년 美 매출 12조원 확대\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSm52WVNpME9GQlJzczgya3Z5OEFJbU1RYlNueThtcVAxQ0ZRQjlWSDVTbjRTS3pNSVJfOGRWRGdpQW9sS1MtakdiRUt5bkc4WFIxbzZ3?oc=5",
+          "source": "지디넷코리아",
+          "sourceInitial": "지디",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-17T00:00:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[CJ, 美를 넓히다] 김숙영 UCLA 교수 “美 잘파세대, ‘익숙한 새로움’에 빠졌다”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40emVsNG9ZQmRRVTRWTHNOTVhTS2pFNFZtaFlITmRUZU1TNVJyVUVISmRHOVJXTW56cTZ3R2ZHd05EMXVUNnBGUURpdGprNklMVFdubXY0RTU2akpIbHNKbnEzdl90b0N5V2duQUtJYkt3UdIBdkFVX3lxTFBCc1VtVFFENGFnR1dJNWpUMmRDc05kUXNyV1pHNlhxWEN0dnprbHI5VnUyeC1XdjRsYWpQRWYtVkZObG5ENVF1VVVQRndKN0FlcnFvZEh1aDF4bU83WlRoTnVBMnpGaU1MWDBkTTBUdDdjZFdDN2c?oc=5",
+          "source": "시사저널e",
+          "sourceInitial": "시사",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-17T00:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
