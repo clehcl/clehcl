@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:41:55.471Z",
+  "generatedAt": "2026-08-18T22:56:07.048Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -146,19 +146,18 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 28,
+      "total": 29,
       "items": [
         {
-          "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
+          "title": "[2026 한국소비자만족지수 1위] 식자재 유통 브랜드, 식자재왕",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SM091N0ItOXU0RXd0TUVTMktPQldGUHlsT3BoSkdDN3JCYWkzZnkycjJDU3dpa3VYZEpQODRqR2M0TU0zZ1R2UTRTNDdxYlFaOVVGamlB?oc=5",
-          "source": "위키트리",
-          "sourceInitial": "위키",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-16T22:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKa3hjSndabnpSNFB6c25rUXNSVFFpUWFVS1ItQ2V5c1l4M1BlNW8wZWdBTEdFeDUtdzE4OGNXckdwR00xMXVyMGhyZGFlTDFqQzRHR0pRRTlNQ0E5Mk1ZSzRJYTdDODJ3QXRZNw?oc=5",
+          "source": "한경매거진&북",
+          "sourceInitial": "한경",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-18T22:07:00.000Z",
           "tags": [
-            "원가",
-            "가격"
+            "식자재"
           ],
           "price": null,
           "feat": true
@@ -209,9 +208,9 @@
           "title": "[김+밥 경제학] 쌀·달걀·김 가격 줄줄이 상승…김밥 한 줄 3,838원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaFdUUFMwMFllR2dSYktLZmIwUHUwVEhYSzlOTzAzWW1kOHBvMkJhVENDNEQ2bS1CNEZCUEZUOU1FVHFtUmI2bmhhenJOOHltR0liclduMG9ubEhRaF80ZlRJaWRhMzBCUndsLdIBcEFVX3lxTE00WHA3bk83TE05bDNhY1E2UlpCcHpKTFhvSzRsV2xsMHRkcTBWRzJ0Y0ZvbzdjVFNFa0pmUE02bWloMTNpa2ZmZjIzSloxWjlLS3Rhb1k4YjRVQkR1MHVKU0wtTmV1Rm4tNDlGQklHc0c?oc=5",
-          "source": "newsedu.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#2f7d4f",
+          "source": "뉴스에듀신문",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T15:37:16.000Z",
           "tags": [
             "가격"
@@ -248,16 +247,14 @@
           "feat": false
         },
         {
-          "title": "신동원 14.5억·함영준 5.4억…가격 올린 식품사, 상반기 보수도 늘었다",
+          "title": "식품업계, 2분기 평균 이익률 6.12%…16곳 중 절반만 개선",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSkZIaVNsNGhXRF9uaWpGS0FrWHh5TDdHLUx3VWRsVnJhVGhmS0RmUHZsLXdBeElzR1VHWWVGd1JlaUQ2dXB2SnBQOTUxWnhEWExsNDFpU2owbElUdHA0UUpfUHdNY0k5N3RJ?oc=5",
-          "source": "뉴스저널리즘",
-          "sourceInitial": "뉴스",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVmluN0pWR1Fxek9EelJ1MENXTVZnd2RSWnpaTUIwZHliUlJjMi14dllHTFl2TzB2ZWszdjVDQ0YyNWxlREdWQWYxNEhtOEU5YWpGVjFoSXhvdGVkOHJlWjJHNUtydHl3T3ZzYWdvYnJUNzR2QTJ3TENpYUVaZ3VnZXhxNmt2dnFhTVo2T2NTaWE5R0JITTNHOS03S2VpNVQwVGJIcGxKU1dvb0FiTTZXcFgweU92SGszd1VEMzF2UlFBSm1tc2dxYVZqdjQ3X251djZmLVExR29HWFdpU3VBQmsydXZTTmxFNlJROWRn?oc=5",
+          "source": "데일리안",
+          "sourceInitial": "데일",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-16T22:20:00.000Z",
-          "tags": [
-            "가격"
-          ],
+          "publishedAt": "2026-08-18T22:17:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -381,9 +378,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -461,9 +458,9 @@
           "title": "'AI 막내'가 일한다···유통업계, 업무 효율성 제고 위해 AI 도입 '속도'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaFF3ajBpZl9DUXktWFFKcXVhYUdoNi1TVC1MQ0duQzhLVWlmNlU3UHF0MGNGbnU0V2tGWEtHTk8wSU5YYVlUQ1dGVU5NRnhqblZF?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-18T01:12:00.000Z",
           "tags": [],
           "price": null,
@@ -497,9 +494,9 @@
           "title": "CJ \"식품·콘텐츠·뷰티 시너지로 2028년 美 매출 12조원 확대\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSm52WVNpME9GQlJzczgya3Z5OEFJbU1RYlNueThtcVAxQ0ZRQjlWSDVTbjRTS3pNSVJfOGRWRGdpQW9sS1MtakdiRUt5bkc4WFIxbzZ3?oc=5",
-          "source": "지디넷코리아",
-          "sourceInitial": "지디",
-          "sourceColor": "#3a6ea5",
+          "source": "zdnet.co.kr",
+          "sourceInitial": "zd",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T00:00:03.000Z",
           "tags": [],
           "price": null,
