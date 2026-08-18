@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:06:38.190Z",
+  "generatedAt": "2026-08-18T10:55:55.996Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -145,15 +145,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 25,
+      "total": 28,
       "items": [
         {
           "title": "“원가 부담 누적” 9일 7일부터 가격 전격 인상되는 오뚜기 제품은 무엇?",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SM091N0ItOXU0RXd0TUVTMktPQldGUHlsT3BoSkdDN3JCYWkzZnkycjJDU3dpa3VYZEpQODRqR2M0TU0zZ1R2UTRTNDdxYlFaOVVGamlB?oc=5",
-          "source": "wikitree.co.kr",
-          "sourceInitial": "wi",
-          "sourceColor": "#8a5cc4",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-16T22:30:00.000Z",
           "tags": [
             "원가",
@@ -271,8 +271,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZWtNZmJuNm44X0VmZlB6blZDRGMwVHd3Qkd3aEc0UWl4RzFNZTdRYk95VGtQQ3FNdklNX0I4QVFsZ08zQnNSaU92aGYzY0M3SXFNYXRyaGs0djVaVGR3TFV4RHJQLWVySFhZemRWQQ?oc=5",
+          "source": "월드장애인사랑뉴스",
+          "sourceInitial": "월드",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-18T10:20:22.000Z",
+          "tags": [
+            "납품"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "“식중독 뿌리 뽑는다”…위생·원산지 위반 급식 납품업체, 최대 6개월 입찰 제한",
           "summary": "",
@@ -285,7 +299,7 @@
             "납품"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "급식 먹다 탈난 학생 1700명…학교 식중독 2년 새 65%↑",
@@ -342,9 +356,9 @@
           "title": "EU Good Food, 한국 시장에 유럽산 식품 생산기준 투명성 조명",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQnJ1Ykg2QXplUDZyRnRUNngzRUlpUTMxaGlUcVZLNkdXaEUzeGdJTUhNdGU2YkZlUjlFNHBLQnFieUI0ZGdRSF9ONU5QVl82ZzVzeFUtWUhDeGZ3VXZObFA1R2pPWWJTdzJJdXVJcGJRQWs?oc=5",
-          "source": "specialtimes.co.kr",
-          "sourceInitial": "sp",
-          "sourceColor": "#2f7d4f",
+          "source": "스페셜타임스",
+          "sourceInitial": "스페",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T04:47:52.000Z",
           "tags": [],
           "price": null,
@@ -391,9 +405,9 @@
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UDRZY25yazN0Q1VCNFE4WkxUNDRSTXRFcTZLVnZhMzRYMHlLZ3NtaGdjamZPSm1neFRUZUxEdEhMcTd1RXNENzBuMEkxREs0ckQzbEhvaEh2QWVmMHZoZHdqa0laRl81bXNZZA?oc=5",
-          "source": "경상일보",
-          "sourceInitial": "경상",
-          "sourceColor": "#b03a6a",
+          "source": "ksilbo.co.kr",
+          "sourceInitial": "ks",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-18T02:24:03.000Z",
           "tags": [
             "출시",
@@ -401,6 +415,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[유통가 NOW] 풀무원 얼음공장 글로벌 HACCP·오리온 그래놀라 신제품…세븐일레븐·아웃백·BAT로스만스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWE00bEN2bEc0bmdCYkdfTE5OcHJYcXl1anhVTHA3bWNnNGUxbFFzd2dLeTNKNG1SazRCeDdlYy16cUZKdGtsTHFidHlqd3VVU05UZ2ZfTEZOX1E?oc=5",
+          "source": "ekn.kr",
+          "sourceInitial": "ek",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-18T09:56:20.000Z",
+          "tags": [
+            "신제품"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "하림, 냉장 닭가슴살 80% 담은 ‘오리지널 치킨스톡’ 출시",
@@ -432,9 +460,9 @@
           "title": "[유통 HOT 뉴스] “2028년, 매출 12조원이 목표다”…CJ, 식품·콘텐츠·뷰티 앞세워 북미 매출 목표 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VOGFhVEhiMDI5R0ZWYU5aT2EtVldxMGN4OGFzaEJmUWR5Y2RFVWExS0JDNU1NNVB1U0U4bjBEN25BNWFZN1ZoQmFvazJoRFlIYlg0clhLeTJBdHBtMGFpUDROXzVBVVQxVmc?oc=5",
-          "source": "비즈월드",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c0392b",
+          "source": "bizwnews.com",
+          "sourceInitial": "bi",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T07:03:00.000Z",
           "tags": [],
           "price": null,
@@ -448,18 +476,6 @@
           "sourceInitial": "대한",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-18T04:32:58.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "충남 농식품, 홍콩서 ‘수출 돌파구’…농촌융복합기업 5곳 판로개척",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iaXh0VDVGWFhEWUkxcURaWHlFVDRXZExkYmxVc0p6X1RfbXlYYVdqdmdCRXh5bWpxWmxDMjVLUDlVekhkanFJQzVZd3BNU3pMOEt3YUFZMGI1Y040UkRYQUVPdWJsS1hHRTln?oc=5",
-          "source": "충청시사신문",
-          "sourceInitial": "충청",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-18T03:36:26.000Z",
           "tags": [],
           "price": null,
           "feat": false
