@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T17:03:33.057Z",
+  "generatedAt": "2026-08-18T19:16:04.263Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -380,9 +380,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -399,7 +399,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
@@ -431,6 +431,20 @@
           "feat": false
         },
         {
+          "title": "K-간편식 호주 공략…100만달러 수출계약",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeFZvOFNleHpad1I4YTBmR2FBRXY2RkxMNmltZDdjSjNZcEs3cmlIUmpvSDVVT09uWUo5TDF2X1Z0ZVlDZWhLemttSHZQTkV6WWVPX1NyV0RvRk81Tm9oMmhwZTlobjZVUnNpcdIBcEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXo?oc=5",
+          "source": "한국농업신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-18T09:48:11.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "18일 쌀의 날 맞아…K-쌀 가공식품 한류 타고 수출 쑥",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrcEpVU2N2UEdVZU1XR21ZbTdsSHBNblZpSHNFaTFqcFhmelVMc3pGcmV6aHp6WUt5a0lWY2l6SUhMSS1kX1RNSFN6VmhhcUU?oc=5",
@@ -446,9 +460,9 @@
           "title": "'AI 막내'가 일한다···유통업계, 업무 효율성 제고 위해 AI 도입 '속도'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaFF3ajBpZl9DUXktWFFKcXVhYUdoNi1TVC1MQ0duQzhLVWlmNlU3UHF0MGNGbnU0V2tGWEtHTk8wSU5YYVlUQ1dGVU5NRnhqblZF?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-18T01:12:00.000Z",
           "tags": [],
           "price": null,
@@ -458,9 +472,9 @@
           "title": "앱으로 미판매 음식 50% 이상 할인 구매… 음식물 낭비도 줄인다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDlQTUhPZnJvcVlSTDdWZHVMZHlLeVMySDBiN01jWE9Gc1BkUWYtNzRTd0NEbGZQcFpDQ1JxZ1pnd1ZuUUNmNmtQX0EyWlhSbzFoRUQxVlMyaUt3MWZFXzdiYVRRSE5VcVhRZWRQRUxUQXBrUnBVQk5CRjFwZ2JfRS1WUGNJSHhiY0xVMFBOZnA2bWlFZUxsa3FYblZRMDVGNXEzRFV0T1pQc001b0ZuWVk2b0hqaHFUdjVZLTRYalBraEN0?oc=5",
-          "source": "thesnstime.com",
-          "sourceInitial": "th",
-          "sourceColor": "#1a4d8f",
+          "source": "SNS 타임즈",
+          "sourceInitial": "SN",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-18T01:10:17.000Z",
           "tags": [],
           "price": null,
@@ -482,22 +496,10 @@
           "title": "CJ \"식품·콘텐츠·뷰티 시너지로 2028년 美 매출 12조원 확대\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSm52WVNpME9GQlJzczgya3Z5OEFJbU1RYlNueThtcVAxQ0ZRQjlWSDVTbjRTS3pNSVJfOGRWRGdpQW9sS1MtakdiRUt5bkc4WFIxbzZ3?oc=5",
-          "source": "지디넷코리아",
-          "sourceInitial": "지디",
-          "sourceColor": "#3a6ea5",
+          "source": "zdnet.co.kr",
+          "sourceInitial": "zd",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T00:00:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[CJ, 美를 넓히다] 김숙영 UCLA 교수 “美 잘파세대, ‘익숙한 새로움’에 빠졌다”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40emVsNG9ZQmRRVTRWTHNOTVhTS2pFNFZtaFlITmRUZU1TNVJyVUVISmRHOVJXTW56cTZ3R2ZHd05EMXVUNnBGUURpdGprNklMVFdubXY0RTU2akpIbHNKbnEzdl90b0N5V2duQUtJYkt3UdIBdkFVX3lxTFBCc1VtVFFENGFnR1dJNWpUMmRDc05kUXNyV1pHNlhxWEN0dnprbHI5VnUyeC1XdjRsYWpQRWYtVkZObG5ENVF1VVVQRndKN0FlcnFvZEh1aDF4bU83WlRoTnVBMnpGaU1MWDBkTTBUdDdjZFdDN2c?oc=5",
-          "source": "시사저널e",
-          "sourceInitial": "시사",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-17T00:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
