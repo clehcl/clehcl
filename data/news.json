@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:56:07.048Z",
+  "generatedAt": "2026-08-18T23:49:13.898Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 21,
       "items": [
+        {
+          "title": "딥핑소스, 프랜차이즈 창업박람회서 매장 운영 AI '사이(SAAI)' 선보인다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ONUhiUldzV2tSRkFIb2NXeDkzOWVQUjZQTEtxUVBGSHplTHdCdnFkNDFrY2NKMl9lNnF6dmU0RDVEUzltcnZvYjIxMmVrcmJ1eHNVNFVEdDlzd0ZTbktDeS1SYXlrQmo3TXNrellLdVJDdw?oc=5",
+          "source": "스페셜타임스",
+          "sourceInitial": "스페",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-18T23:33:15.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
           "summary": "",
@@ -31,7 +46,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
@@ -94,13 +109,13 @@
           "feat": false
         },
         {
-          "title": "[ 2026년 8월 19일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "title": "시흥 거북섬서 9월 창업박람회…프랜차이즈·금융 상담 한자리",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0luTjBOUlJNT0p1STVIZmdOel9xdEJqODh2aE84QndzbVhabWNkaDl0SE9KVUt0NjZxREN3Q3ZETldTVWNqdi16OVctM2M2NXdMaXU3UnNONUttaXdIWjlUMnVTbEk2RXFWREV5QjBuU1VSN1lqVkFaNWotWGZXTmxubnJ2cld2VzUtcTJR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T20:22:42.000Z",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSFdCNDUzLVJjbmFnblF3WTNsbmMtaG1GcWRpa1ZTQXVaMVVmT1Bzb0phbmplQjN5MnU1aE9ZVFpzc0loSlg5VzRDQlpNMjZ1Qlh0ajhUQy1KTmFEUURQMXAxR24xdV9iVEpkNVI1RHE?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T23:17:44.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -108,27 +123,13 @@
           "feat": false
         },
         {
-          "title": "자담치킨, 카카오페이 '굿딜' 도입…매장 결제 3% 즉시 할인 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "title": "[ 2026년 8월 19일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEYtbUM1NEstc1JHcUl6RzU4UnlNTU50MVZzY09BN1dYdHdGWHBnMTFKT1RWQzlHTnlEa0YtbllzUzBjRTRmMmplRlNzcmtJNXk4d3ROZ2FkaEZXbHN2cEFFdUVVM2Y1Skx6SnY1TE9Qa2VlTWkzSHg3bTg4N0dxRGp1TXRudXYtU2lZcHVn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0luTjBOUlJNT0p1STVIZmdOel9xdEJqODh2aE84QndzbVhabWNkaDl0SE9KVUt0NjZxREN3Q3ZETldTVWNqdi16OVctM2M2NXdMaXU3UnNONUttaXdIWjlUMnVTbEk2RXFWREV5QjBuU1VSN1lqVkFaNWotWGZXTmxubnJ2cld2VzUtcTJR?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T12:54:36.000Z",
-          "tags": [
-            "매장"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "반찬가게 프랜차이즈 진이찬방, 본사 사업설명회 및 1:1 창업상담 강화 - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Q3RmNGYxcnBTbGdmWXZldlY5c0NrRk9KQmpJYUo4QU9JODEwN0RjaEZ1VXgyUlMxS3p4clgzQ2hfSzdPZy1tTjFDTWFhNTNKa09ZVGE5V25SZ0tOLWF0dk1faTBsd1RLZ05nQUsyWm5xd9IBckFVX3lxTE84Q3RmNGYxcnBTbGdmWXZldlY5c0NrRk9KQmpJYUo4QU9JODEwN0RjaEZ1VXgyUlMxS3p4clgzQ2hfSzdPZy1tTjFDTWFhNTNKa09ZVGE5V25SZ0tOLWF0dk1faTBsd1RLZ05nQUsyWm5xdw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-18T11:15:00.000Z",
+          "publishedAt": "2026-08-18T20:22:42.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -166,9 +167,9 @@
           "title": "식품업계 가격 줄인상 속…김호연 빙그레 회장, 상반기 보수 24억 ‘최다’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zS2RUOVpHTDZwbHp6WVB4d3BadXhNTXozRTZ1RmZGOUtSb083U0ZSSlRiSTNvQTRZQlYzSk96Mk5QUm9FWGlLUkkxbHZBdkwtQjNiVFFEaUdZLTcwTVFNcnRIYzB0aFVx?oc=5",
-          "source": "CEO스코어데일리",
-          "sourceInitial": "CE",
-          "sourceColor": "#3a6ea5",
+          "source": "ceoscoredaily.com",
+          "sourceInitial": "ce",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-18T08:40:00.000Z",
           "tags": [
             "가격"
@@ -269,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
@@ -319,18 +320,6 @@
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-17T01:57:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "학교 식중독 2년새 65% 폭증, 급식 안전 '빨간불' : 정책",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EUFJKcEh4am5ZaHR0Znd3bFBpa0xHMXJmTWh0WllySXYyakduMEdYWUo0T0ZBN2RMc2hycml5Qmx3eXZ1VVJBTlFtcGw5SnJRSV9N?oc=5",
-          "source": "의약일보",
-          "sourceInitial": "의약",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-16T23:05:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -432,9 +421,9 @@
           "title": "K-간편식 호주 공략…100만달러 수출계약",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeFZvOFNleHpad1I4YTBmR2FBRXY2RkxMNmltZDdjSjNZcEs3cmlIUmpvSDVVT09uWUo5TDF2X1Z0ZVlDZWhLemttSHZQTkV6WWVPX1NyV0RvRk81Tm9oMmhwZTlobjZVUnNpcdIBcEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXo?oc=5",
-          "source": "한국농업신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
+          "source": "newsfarm.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T09:48:11.000Z",
           "tags": [
             "간편식"
@@ -494,9 +483,9 @@
           "title": "CJ \"식품·콘텐츠·뷰티 시너지로 2028년 美 매출 12조원 확대\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSm52WVNpME9GQlJzczgya3Z5OEFJbU1RYlNueThtcVAxQ0ZRQjlWSDVTbjRTS3pNSVJfOGRWRGdpQW9sS1MtakdiRUt5bkc4WFIxbzZ3?oc=5",
-          "source": "zdnet.co.kr",
-          "sourceInitial": "zd",
-          "sourceColor": "#c15a37",
+          "source": "지디넷코리아",
+          "sourceInitial": "지디",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-17T00:00:03.000Z",
           "tags": [],
           "price": null,
