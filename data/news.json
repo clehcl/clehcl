@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:00:21.398Z",
+  "generatedAt": "2026-08-18T21:41:55.471Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,6 +19,21 @@
       "total": 18,
       "items": [
         {
+          "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fd3NsbDNtVUNhc1ZqRExHRll6U3FMUXFJSGw3LVBpeXhxWEticURrT3gwV3B6a0FJaDBSRzBjeTdwck5aSXlNaklMRmdvMzdJQW5BUA?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-18T21:00:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjNWSXA2WURybU1FNE4yVVl3cnppMHlwSGwyM1VyVHFiV21DRmlaWDlKOFg1bS1sQktJNlZoTFNHZWx2TzVFWnowTDNhbmNJT1haSlhHcEpWNXZ4SFF5UkkyOTBJVkFaMTJYTlJLUW5ibjFLVm12enVhcDIzNDlEQ0l6SEt1UExGTmxpazJR?oc=5",
@@ -31,7 +46,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "10평이면 문 연다…버거·피자 프랜차이즈, 창업 문턱 낮추는 소형 매장 모델 고도화",
@@ -85,7 +100,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T14:22:42.000Z",
+          "publishedAt": "2026-08-18T20:22:42.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -114,20 +129,6 @@
           "sourceInitial": "머",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T11:15:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[마이스] 프랜차이즈 본사·예비창업자 한자리…‘제84회 프랜차이즈 창업박람회 2026’ 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhU3BnVmtFNmZVTWZUWTBfVnAtc3F0aUZyVGZaZzJuSlFNeWdFU2pvazJqS2gzSU1POFZOMV95aWlDQ09naElZTEVuMFRwQlUtdHlOVWdhQ3NWYzlITUZJQTFuNVN4Z3JvbEJ3?oc=5",
-          "source": "kmjournal.net",
-          "sourceInitial": "km",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T07:57:03.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -208,9 +209,9 @@
           "title": "[김+밥 경제학] 쌀·달걀·김 가격 줄줄이 상승…김밥 한 줄 3,838원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uaFdUUFMwMFllR2dSYktLZmIwUHUwVEhYSzlOTzAzWW1kOHBvMkJhVENDNEQ2bS1CNEZCUEZUOU1FVHFtUmI2bmhhenJOOHltR0liclduMG9ubEhRaF80ZlRJaWRhMzBCUndsLdIBcEFVX3lxTE00WHA3bk83TE05bDNhY1E2UlpCcHpKTFhvSzRsV2xsMHRkcTBWRzJ0Y0ZvbzdjVFNFa0pmUE02bWloMTNpa2ZmZjIzSloxWjlLS3Rhb1k4YjRVQkR1MHVKU0wtTmV1Rm4tNDlGQklHc0c?oc=5",
-          "source": "뉴스에듀신문",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
+          "source": "newsedu.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T15:37:16.000Z",
           "tags": [
             "가격"
@@ -236,9 +237,9 @@
           "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "kukinews.com",
-          "sourceInitial": "ku",
-          "sourceColor": "#c98a2b",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T08:20:11.000Z",
           "tags": [
             "식자재"
@@ -380,9 +381,9 @@
           "title": "美·EU 축산물 위생 현장 실사 못넘어…수출 문턱 여전히 높아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVlg1d1p0UVZCcEVSdkRtTVRrNGIwWU1rdTUweWh3VkRwRzhvZXRsZDVoeWVsZ3EwQW5PVjRPUkZnMG5iMWxhd2RvU0F0MGJZU280?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-17T06:43:00.000Z",
           "tags": [],
           "price": null,
@@ -460,9 +461,9 @@
           "title": "'AI 막내'가 일한다···유통업계, 업무 효율성 제고 위해 AI 도입 '속도'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaFF3ajBpZl9DUXktWFFKcXVhYUdoNi1TVC1MQ0duQzhLVWlmNlU3UHF0MGNGbnU0V2tGWEtHTk8wSU5YYVlUQ1dGVU5NRnhqblZF?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-18T01:12:00.000Z",
           "tags": [],
           "price": null,
