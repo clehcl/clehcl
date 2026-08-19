@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T03:14:08.904Z",
+  "generatedAt": "2026-08-19T05:05:41.713Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -22,9 +22,9 @@
           "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fd3NsbDNtVUNhc1ZqRExHRll6U3FMUXFJSGw3LVBpeXhxWEticURrT3gwV3B6a0FJaDBSRzBjeTdwck5aSXlNaklMRmdvMzdJQW5BUA?oc=5",
-          "source": "etoday.co.kr",
-          "sourceInitial": "et",
-          "sourceColor": "#1a7a5a",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T21:00:00.000Z",
           "tags": [
             "프랜차이즈",
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 30,
+      "total": 28,
       "items": [
         {
           "title": "“재료비 이렇게 비싼데 어떻게 남겨?”…‘원가율 44%’에도 돈 버는 日 초밥집 비결",
@@ -221,9 +221,9 @@
           "title": "[김+밥 경제학] 쌀·달걀·김 가격 줄줄이 상승…김밥 한 줄 3,838원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00WHA3bk83TE05bDNhY1E2UlpCcHpKTFhvSzRsV2xsMHRkcTBWRzJ0Y0ZvbzdjVFNFa0pmUE02bWloMTNpa2ZmZjIzSloxWjlLS3Rhb1k4YjRVQkR1MHVKU0wtTmV1Rm4tNDlGQklHc0fSAXBBVV95cUxNNFhwN25PN0xNOWwzYWNRNlJaQnB6SkxYb0s0bFdsbDB0ZHEwVkcydGNGb283Y1RTRWtKZlBNNm1paDEzaWtmZmYyM0paMVo5S0t0YW9ZOGI0VUJEdTB1SlNMLU5ldUZuLTQ5RkJJR3NH?oc=5",
-          "source": "뉴스에듀신문",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
+          "source": "newsedu.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T15:37:16.000Z",
           "tags": [
             "가격"
@@ -347,8 +347,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 6,
       "items": [
+        {
+          "title": "오유경 식약처장, 정제·캡슐 일반식품 생산 제한…GMO 표시 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcElmemN6QmZZU2xEN3N0TWVEaFRKTkxCV3hCLW1zaVVaSWtzMGJLQTZHcGthcXl5b3RTcVVabXZPdGY1REVYQWdZYlVrWlVRT1NDaDJ6YmN5VWRCT09OWXRmMTh6UQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T03:53:08.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "1950년 이후 최강 엘니뇨 가능성…밥상물가·겨울재난 ‘암초’",
           "summary": "",
@@ -361,7 +375,19 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "[영상] 한 달 새 100% 훅 올랐다…마트서 채소 몇 개 담았더니 가격 ‘무려’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mblJ4cVhKUnBVUW5wZUpIOTV3SHU3RHkwTEFqWEJHbHdLTGtVNzMyWVdoNk43ZFMyOVA0VE80M0U4QUttSWFYWS1NNklNemxPc0E?oc=5",
+          "source": "sedaily.com",
+          "sourceInitial": "se",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T10:16:36.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "EU Good Food, 한국 시장에 유럽산 식품 생산기준 투명성 조명",
@@ -379,9 +405,9 @@
           "title": "풀무원, 춘천 얼음공장 식품안전 '4관왕'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQmFxeFNmek02NEN0V2M1WVJreW81dlZmaGZpa3JrYkk4aktsaG82T21oS2ZOQkJjYzg5MU1EMHhOMUxxYm8ycFdLQk9ESHkxbzMweFBYaWlINmhaalVQVHJfUUdhYzFLUkVqaVA1ZTA?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T01:56:37.000Z",
           "tags": [],
           "price": null,
@@ -457,6 +483,18 @@
           "feat": false
         },
         {
+          "title": "“먹는 스킨부스터부터 1분 김치까지” 홍콩 사로잡은 K-푸드",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMm5QYkFQX0ZkdjVXT25HdXhhNmZKZUhhY1BLd09Ma294YWdzTHNsbjd4UlJJWmo0VDZwU3F4dnloS1V5NUZLZFFFUE95MGFCbnViRE42SW1CYnZVenYwLTIzdDVRbnZmVFFoLQ?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T03:51:26.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[굿모닝! 19일 식품업계 소식] 대상·동원F&B·농심·팔도·풀무원식품",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeFRXNFExQXNPWXdPZkFhTXh5ekZSYzZuY3JSRFViQUpvay16eF8wbUUyV19nTDdjcmJCRzd0bDNtOVUtWENNNi1vZ2JwZVk3ZjR5U1FSbXFSZFdfUHMwTkNuTzJGMHN2ck9KSQ?oc=5",
@@ -471,10 +509,10 @@
         {
           "title": "bhc 신메뉴 ‘커링클’ 초반 흥행…한 달간 75만개 팔렸다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCUUM5N1JBTWxuSlRma2Qxb21QblM3emZHTTgtSjl0V05aaDg0ZXk1VGhKX2VoMEVReTFQVVJIRmdKMGlNTzA0cTV6bjRaS1RrMVVTekNWYkVvOTRmd1lfUUpDTDZGTm96UlUzV2NGUHE?oc=5",
-          "source": "스마트경제",
-          "sourceInitial": "스마",
-          "sourceColor": "#3a6ea5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lXzA1N1RQUi01aVZESWhCMUhIVmptSDdTeTc1bEZxUW5LZmdlSkdKTEFGQjNRXzFOeEViRTVHLXh2bi1GVzVuT2Jtd3QtTzgxdzAyRE92NXZmbkQtWFBkWnJWQzRPcmRtUWFmTUEtbw?oc=5",
+          "source": "dailysmart.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-19T02:12:03.000Z",
           "tags": [],
           "price": null,
@@ -500,18 +538,6 @@
           "sourceInitial": "식품",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T01:55:59.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[잘먹잘살+]풀무원식품·동원F&B·팔도·농심·하이트진로·컬리·창고43",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ReFp1X3Ntd2Vzd2sxMzhIa19hLWtOVUlCLTZJNW1YYlRNMTFieVZob0tnTFpqOFBOSERUVUcyZG1JMEhScjBpZWRkRDhWbWhmdXZvTzlfOWJrZWdCVDNWTThwaUxMemo5OV9EZjlB?oc=5",
-          "source": "비즈니스플러스",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-19T01:22:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
