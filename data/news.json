@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T07:26:47.128Z",
+  "generatedAt": "2026-08-19T09:09:05.450Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
@@ -59,6 +59,20 @@
           "tags": [
             "프랜차이즈",
             "매장"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "샤브보트R, ‘월드전람 프랜차이즈 창업박람회’ 참가…예비 창업자 만난다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82cC1WM0Y3T3lWeDlSMU1hN1I2Zk9DNnp5NWR2dlpvNUN3UE5HUW9YZktfa3oxUy10T0p2ZExpYkhNR042TVFjUHlNVkVMNzBXVUlSY2ZxZk82cDRla0EyaGROejc?oc=5",
+          "source": "ppss.kr",
+          "sourceInitial": "pp",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-19T07:39:33.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -118,20 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 19일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0luTjBOUlJNT0p1STVIZmdOel9xdEJqODh2aE84QndzbVhabWNkaDl0SE9KVUt0NjZxREN3Q3ZETldTVWNqdi16OVctM2M2NXdMaXU3UnNONUttaXdIWjlUMnVTbEk2RXFWREV5QjBuU1VSN1lqVkFaNWotWGZXTmxubnJ2cld2VzUtcTJR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T20:22:42.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,8 +144,23 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 29,
+      "total": 26,
       "items": [
+        {
+          "title": "\"수산물 시세 잡는다\"…AI로 가격 예측·수급 이상 체크",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56aktiaG5NV0pjOEtCVVNmTWloSnlKdXRaalVYWGRnVEROYXRCVlRrMnItQlhMYmdEeGlKcDhPQW5LQTBLejJFUW9Nd2ZPblVrS3hJ?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-18T01:55:00.000Z",
+          "tags": [
+            "가격",
+            "시세"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "“재료비 이렇게 비싼데 어떻게 남겨?”…‘원가율 44%’에도 돈 버는 日 초밥집 비결",
           "summary": "",
@@ -158,7 +173,7 @@
             "원가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[2026 한국소비자만족지수 1위] 식자재 유통 브랜드, 식자재왕",
@@ -220,9 +235,9 @@
           "title": "[김+밥 경제학] 쌀·달걀·김 가격 줄줄이 상승…김밥 한 줄 3,838원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00WHA3bk83TE05bDNhY1E2UlpCcHpKTFhvSzRsV2xsMHRkcTBWRzJ0Y0ZvbzdjVFNFa0pmUE02bWloMTNpa2ZmZjIzSloxWjlLS3Rhb1k4YjRVQkR1MHVKU0wtTmV1Rm4tNDlGQklHc0fSAXBBVV95cUxNNFhwN25PN0xNOWwzYWNRNlJaQnB6SkxYb0s0bFdsbDB0ZHEwVkcydGNGb283Y1RTRWtKZlBNNm1paDEzaWtmZmYyM0paMVo5S0t0YW9ZOGI0VUJEdTB1SlNMLU5ldUZuLTQ5RkJJR3NH?oc=5",
-          "source": "뉴스에듀신문",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
+          "source": "newsedu.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-17T15:37:16.000Z",
           "tags": [
             "가격"
@@ -234,26 +249,12 @@
           "title": "日 소비 확대 프로틴 가격 급등…2년 만에 두 배 [KDF World]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUWtNN2pfZ2N4STJxTi1BTjQ5MGFuczJkRUdWNFRJVTNuWTFzWldibDMtRnJVaTNVNzc4bnB2UDRfemlzemdKcFY5bUMtWG9rYW4xeGQ1TERfV3NaZnpzcnNYQnhSeWoyMnc?oc=5",
-          "source": "한국면세뉴스",
-          "sourceInitial": "한국",
+          "source": "kdfnews.com",
+          "sourceInitial": "kd",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-17T15:25:00.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-17T08:20:11.000Z",
-          "tags": [
-            "식자재"
           ],
           "price": null,
           "feat": false
@@ -269,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
@@ -296,6 +297,18 @@
           "tags": [
             "납품"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "KT 수도권강남고객본부-마켓보로, 외식업 소상공인 AX 지원 ‘맞손’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRY1NuMTB5N24yQXM3eWNxcDdlZldRUUxlQnFpdjR0X0dIbVU4RkNKeVRsMzVLZmJUaXU1RVhmM0U0QjQwRGd5ekhZLWs0T0Zpdmc5X2w5RE5ES3M?oc=5",
+          "source": "경기일보",
+          "sourceInitial": "경기",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-19T08:03:48.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -346,7 +359,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "오유경 식약처장, 정제·캡슐 일반식품 생산 제한…GMO 표시 확대",
@@ -377,13 +390,25 @@
           "feat": false
         },
         {
-          "title": "식품산업협회, 인도 CEPA 사절단에 원산지 기준 완화 요청",
+          "title": "식품산업협회, 인도 사절단 초청…CEPA 원산지 기준 완화 건의",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2cHVvaklyMnA2U1RQR25vMWlGb0lNNnZsSG1aZC1XTms5Ylh5UmpNbXY0YWU4RkgydHEyUXdvOTlGdjdBNHpPbUtwUHFpQQ?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-19T07:15:49.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16c1ZsM2sxaTdLa18zakpQXzUxOGJ4SVR2MTVWUnpHa0QwZi1wMlI2anJBWll3UUh4Yk1hMTVLMl9OTkMwOU00djU1QkktLXJuNTNqcHh6b1FMVkhlZ2Q1WDNfcThuUQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T07:57:24.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한국식품안전관리인증원, 마른김 생산자연합회와 위생관리 강화 MOU 체결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RkQ5VE9oMjRIaXZxbFQ0QW55aHU2RnZqNFZ6emxOWkJOOWFBZXBFSjJDVFJmQW9jX3VCM0pxQVVZSFUwQU9FU2o5bE81MWRUR2d1WnRQd05LVW9IVmFtTTdmTUJoa00?oc=5",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-19T07:36:52.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -404,9 +429,9 @@
           "title": "EU Good Food, 한국 시장에 유럽산 식품 생산기준 투명성 조명",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQnJ1Ykg2QXplUDZyRnRUNngzRUlpUTMxaGlUcVZLNkdXaEUzeGdJTUhNdGU2YkZlUjlFNHBLQnFieUI0ZGdRSF9ONU5QVl82ZzVzeFUtWUhDeGZ3VXZObFA1R2pPWWJTdzJJdXVJcGJRQWs?oc=5",
-          "source": "specialtimes.co.kr",
-          "sourceInitial": "sp",
-          "sourceColor": "#2f7d4f",
+          "source": "스페셜타임스",
+          "sourceInitial": "스페",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T04:47:52.000Z",
           "tags": [],
           "price": null,
@@ -440,11 +465,11 @@
         {
           "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YME9ISnhNTHZqWE5oekhsbFgtX19QWmhkZVhEWGRBdUdVczVuazBnNkFEaW55TVZoaXIwUVJIaHlDN2FiNG56UFM5Y3p6VUw3cldzYUJvVmE0N2xVVXZSWjUtOGFSeUxMZFE?oc=5",
-          "source": "한국면세뉴스",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-19T01:22:01.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xaktsaFZVY0dEUmxtMVJBekJmVzUyem1UWTVqZ3JQdUIxdVBHRllYRzdvNnpzaUFqNE5zRV9BNWdySk01ZTRyMmplclJ4OFc1a2EyMWlqRmExUjJlQVd2UmVJdnM5Vm03N2tDSw?oc=5",
+          "source": "메디컬투데이",
+          "sourceInitial": "메디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T08:02:45.000Z",
           "tags": [
             "신제품",
             "출시"
@@ -456,9 +481,9 @@
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UDRZY25yazN0Q1VCNFE4WkxUNDRSTXRFcTZLVnZhMzRYMHlLZ3NtaGdjamZPSm1neFRUZUxEdEhMcTd1RXNENzBuMEkxREs0ckQzbEhvaEh2QWVmMHZoZHdqa0laRl81bXNZZA?oc=5",
-          "source": "ksilbo.co.kr",
-          "sourceInitial": "ks",
-          "sourceColor": "#1a4d8f",
+          "source": "경상일보",
+          "sourceInitial": "경상",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T02:24:03.000Z",
           "tags": [
             "출시",
@@ -485,13 +510,25 @@
           "title": "K-간편식 호주 공략…100만달러 수출계약",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeFZvOFNleHpad1I4YTBmR2FBRXY2RkxMNmltZDdjSjNZcEs3cmlIUmpvSDVVT09uWUo5TDF2X1Z0ZVlDZWhLemttSHZQTkV6WWVPX1NyV0RvRk81Tm9oMmhwZTlobjZVUnNpcdIBcEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXo?oc=5",
-          "source": "newsfarm.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#b03a6a",
+          "source": "한국농업신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-18T09:48:11.000Z",
           "tags": [
             "간편식"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-19T08:09:09.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -503,18 +540,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T06:07:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“먹는 스킨부스터부터 1분 김치까지” 홍콩 사로잡은 K-푸드",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMm5QYkFQX0ZkdjVXT25HdXhhNmZKZUhhY1BLd09Ma294YWdzTHNsbjd4UlJJWmo0VDZwU3F4dnloS1V5NUZLZFFFUE95MGFCbnViRE42SW1CYnZVenYwLTIzdDVRbnZmVFFoLQ?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T03:51:26.000Z",
           "tags": [],
           "price": null,
           "feat": false
