@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:56:09.731Z",
+  "generatedAt": "2026-08-19T23:50:18.263Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -22,9 +22,9 @@
           "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1X1dhNU1ZWFE0TWdjeWpyMHZwS1l6R0M3b1J3NDY1OXlrTE8ycC1UWTJqeUxtNlFUYTJDWjZWUkFoeXZnRHpibU52WVp0SDg?oc=5",
-          "source": "아이보스",
-          "sourceInitial": "아이",
-          "sourceColor": "#c0392b",
+          "source": "i-boss.co.kr",
+          "sourceInitial": "i-",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-19T07:22:31.000Z",
           "tags": [
             "프랜차이즈",
@@ -32,21 +32,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "가맹점 늘리고 싶다면 본부부터 키워야···맥세스 제44기 프랜차이즈 실무 교육",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeVh5RkhIS1BvZzR5VDJkVjlnMjFzR1dfWGxReV9IbFk3LVV2LXlkMUgxNFBwdHRZcnBIVE5oUXZJSkNSTFlVMTNHU2lqLWZ1SXlKOGpWREhGVlItWTRMc25STHo2WlpKVnpWNtIBcEFVX3lxTE41QkxxamNOcV9wdENIU251Z21YUUdPTHZYTkZsZWVlVVBiZnFMY0RhajRfbXRDZUFoTHdLMUhlQm0yZldScnZUQjl1eWFPUjRjd2RRYzk1NlcwajhUZElRN2UzZnV3RXVqcl83ZlBVaHo?oc=5",
-          "source": "이넷뉴스",
-          "sourceInitial": "이넷",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-19T02:36:40.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
@@ -133,6 +118,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "시흥 거북섬서 9월 창업박람회…프랜차이즈·금융 상담 한자리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSFdCNDUzLVJjbmFnblF3WTNsbmMtaG1GcWRpa1ZTQXVaMVVmT1Bzb0phbmplQjN5MnU1aE9ZVFpzc0loSlg5VzRDQlpNMjZ1Qlh0ajhUQy1KTmFEUURQMXAxR24xdV9iVEpkNVI1RHE?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T23:17:44.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -172,6 +171,20 @@
           "publishedAt": "2026-08-19T10:00:00.000Z",
           "tags": [
             "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "“재료비 이렇게 비싼데 어떻게 남겨?”…‘원가율 44%’에도 돈 버는 日 초밥집 비결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90b1FtS1Q2NVE4dm1BSER0WEVVT2JSNHBlaWN2emp2WkhlVmRLS1RiZU9IZFdRTkJjRWZYMFR4b3ltd3lLbWRuMy02X2dPbGU2ckE?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T01:19:59.000Z",
+          "tags": [
+            "원가"
           ],
           "price": null,
           "feat": false
@@ -219,37 +232,25 @@
           "feat": false
         },
         {
+          "title": "SSG닷컴, '쓱 장보기 페스타' 개최…제철 신선식품 최대 50% 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95TVBVU0Nzd3NVTWNXckRLeUVQd2xSX2puSkxLdjFpZDc4UHhKeEluLWtzQVlsdTFHekpFODNmeFlzRTUtMDVzaklpRU5WRThPaGRWdUhNRVR3YzF5WUhUZXdCNlhidmt1SEE0?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-19T23:27:35.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "농가도 소비자도 윈윈…신선식품까지 넓히는 ‘5K프라이스’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aZ2pndS1ONEFyREFZX0diVjYzcjRlZlFnMXhoZHVLZ2JCYnZOdjZpTGZWakg5VFYzekZBdmJkTGZyWjdDZ0VKVWJJMDBYcldxQlE?oc=5",
-          "source": "sedaily.com",
-          "sourceInitial": "se",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-19T09:07:30.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "소득 0.4% 오를 때 먹거리 최대 20%↑…장바구니도 유통사도 ‘부담’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTTJSMVJ2YnZGZENfYzRRcVVPT1BDWEEzV0xMMC1temhoWXBsQ1JHTzdyYTR5c01hVkRkMjlTLXRNMHBtWEM3WDhtNFZSTUZTb3Nlek9UZFZmdkszb1l5NFBn?oc=5",
-          "source": "디지털데일리",
-          "sourceInitial": "디지",
+          "source": "서울경제",
+          "sourceInitial": "서",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T06:10:42.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한 줄 4000원 육박하는데…치솟는 재료비에 김밥 가맹점 폐업률↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OT2lrRDRIMlVfSGV3VHpySHZzSEFZeWxLbFRnb20wdXdEZklyU29FXzMtNktSSEY3V3VjUERmNkpMVmZqQ2xSVmlDQUtoTlZMQUpBWFg3WkJ4OF92X1hIVlNkSzhsRXNjamxRemhWOFJucHptbE9pZtIBeEFVX3lxTE5OT2lrRDRIMlVfSGV3VHpySHZzSEFZeWxLbFRnb20wdXdEZklyU29FXzMtNktSSEY3V3VjUERmNkpMVmZqQ2xSVmlDQUtoTlZMQUpBWFg3WkJ4OF92X1hIVlNkSzhsRXNjamxRemhWOFJucHptbE9pZg?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-19T06:06:57.000Z",
+          "publishedAt": "2026-08-19T09:07:30.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -271,8 +272,8 @@
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZWtNZmJuNm44X0VmZlB6blZDRGMwVHd3Qkd3aEc0UWl4RzFNZTdRYk95VGtQQ3FNdklNX0I4QVFsZ08zQnNSaU92aGYzY0M3SXFNYXRyaGs0djVaVGR3TFV4RHJQLWVySFhZemRWQQ?oc=5",
-          "source": "youcandonews.com",
-          "sourceInitial": "yo",
+          "source": "월드장애인사랑뉴스",
+          "sourceInitial": "월드",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-18T10:20:22.000Z",
           "tags": [
@@ -285,8 +286,8 @@
           "title": "“식중독 뿌리 뽑는다”…위생·원산지 위반 급식 납품업체, 최대 6개월 입찰 제한",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hb3JkMGgxbExnMG9jOWM4MmtyaUtucUNzcm5OUTBtSHI2ajhnMmpzeGZqa2VvTzMwc2ljSnhjNFd6ZWRueFcyTXZkdEN6cWRNUkctS1hFSHdhTy0wbmR5RXB3bFF4WF9C?oc=5",
-          "source": "greened.kr",
-          "sourceInitial": "gr",
+          "source": "녹색경제신문",
+          "sourceInitial": "녹색",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-18T05:41:20.000Z",
           "tags": [
@@ -347,9 +348,9 @@
           "title": "삼성웰스토리, 본업 성장과 더불어 고객 매출 80%↑…‘급식 강자’ 넘어 식음 솔루션 선도",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbXF1czZDSWVyWUw1M3RwcmFWcE1ScVBLaXFlRXktYk9MSzd6STBHRUFlRkV6a1dmb1lxNDUzMFN5Sy1JdWh3a1F4Yk9JTGtCekZhT0xFZ2YwTVVma2pCWFduMWl4SmxuOGZlTQ?oc=5",
-          "source": "업코리아",
-          "sourceInitial": "업코",
-          "sourceColor": "#1a7a5a",
+          "source": "upkoreanews.kr",
+          "sourceInitial": "up",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-18T00:46:54.000Z",
           "tags": [],
           "price": null,
@@ -436,9 +437,9 @@
           "title": "[영상] 한 달 새 100% 훅 올랐다…마트서 채소 몇 개 담았더니 가격 ‘무려’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mblJ4cVhKUnBVUW5wZUpIOTV3SHU3RHkwTEFqWEJHbHdLTGtVNzMyWVdoNk43ZFMyOVA0VE80M0U4QUttSWFYWS1NNklNemxPc0E?oc=5",
-          "source": "sedaily.com",
-          "sourceInitial": "se",
-          "sourceColor": "#c15a37",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T10:16:36.000Z",
           "tags": [],
           "price": null,
@@ -479,7 +480,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
@@ -578,13 +579,13 @@
           "feat": false
         },
         {
-          "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
+          "title": "K-푸드, 홍콩서 2900만달러 수출상담…이너뷰티·신선농산물 공략",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-19T08:09:09.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yOFZJRzRpTEQwckt6OExlYUluOS1KajBTbXZCaUJOZlZVQVY3WlJBcDRxNzdtRXN5ZFVFSHVkaDJpN0NLNkQtUTlkZzBIOFpXMWdCdFlMTWZVVmNqaVc5OWhGUzR2UQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T06:07:18.000Z",
           "tags": [],
           "price": null,
           "feat": false
