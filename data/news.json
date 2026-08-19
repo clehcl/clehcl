@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:58:38.412Z",
+  "generatedAt": "2026-08-19T17:02:01.272Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -52,9 +52,9 @@
           "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fd3NsbDNtVUNhc1ZqRExHRll6U3FMUXFJSGw3LVBpeXhxWEticURrT3gwV3B6a0FJaDBSRzBjeTdwck5aSXlNaklMRmdvMzdJQW5BUA?oc=5",
-          "source": "etoday.co.kr",
-          "sourceInitial": "et",
-          "sourceColor": "#1a7a5a",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-18T21:00:00.000Z",
           "tags": [
             "프랜차이즈",
@@ -70,7 +70,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-17T23:42:34.000Z",
+          "publishedAt": "2026-08-18T11:15:34.000Z",
           "tags": [
             "가맹",
             "메뉴"
@@ -166,9 +166,9 @@
           "title": "금값된 시금치 한 달 새 73% 껑충...김밥 가격도 들썩",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPbXRpa2l4WGdaX1BndHhVY0JvZzltNkV1cVZ6QzBnQVdDLXFfcnJzd2JIal8wSVh6MDNySW9PNnRTbVltNmQzRXdDaFNOM3FOQlJ0N21PTzk1Q2VpbFNZVzFsbVE5QQ?oc=5",
-          "source": "jeonmin.co.kr",
-          "sourceInitial": "je",
-          "sourceColor": "#3a6ea5",
+          "source": "전민일보",
+          "sourceInitial": "전민",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-19T10:00:00.000Z",
           "tags": [
             "가격"
@@ -265,7 +265,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
@@ -299,9 +299,9 @@
           "title": "서울 여름철 농산물 97.9% ‘적합’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lTWhMYmxvb1R0LTJiOWFVbk5EZWJZRFVYOG94dDhpQVpNRko5ajlUV1JnNC05SFp3cHd4ZU1JNUJMLVBHeGFDUDhaV0NTX2VIU1N6QkUxYXlpVy1FYnI4SURzQUJoUlB6?oc=5",
-          "source": "대한급식신문",
-          "sourceInitial": "대한",
-          "sourceColor": "#b03a6a",
+          "source": "fsnews.co.kr",
+          "sourceInitial": "fs",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-19T09:59:31.000Z",
           "tags": [],
           "price": null,
@@ -327,6 +327,18 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-19T00:54:41.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "건보·무상급식 등 가구당 926만원씩…'사회적 현물이전' 의료 늘고,교육 줄어",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4UFZwMThDNE5ZcXFfVVhyQWtaRl9hY282TlpjNjhjMFBmRUg4a1VfY0hZMXk1UHFTX0JzRUNNblNpckFhTUxXaFBlbk9DZDA2VjFNYzM4RER1QWNETGpqaWhjM0l6Qm9oQXRjWDVR?oc=5",
+          "source": "서울이코노미뉴스",
+          "sourceInitial": "서울",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T05:49:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -467,7 +479,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 17,
+      "total": 16,
       "items": [
         {
           "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
@@ -517,9 +529,9 @@
           "title": "BBQ 간편식부터 LA 사로잡은 비비고...유통가, 막바지 여름·추석 마케팅 활발",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0N094WlBrenFWSHk3SUh6NU1Oa2FFbDUwX3Z0TlJoZWdzV2dxbGNXUEY2RDhSblFXelR1U3FnVThFcTZzMDM0bFBHUndmT0JjMzBkd1BZUm1YRms3eVhmcGZ2RTVVclRS?oc=5",
-          "source": "dailypop.kr",
-          "sourceInitial": "da",
-          "sourceColor": "#333333",
+          "source": "데일리팝",
+          "sourceInitial": "데일",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-19T05:25:00.000Z",
           "tags": [
             "간편식"
@@ -531,9 +543,9 @@
           "title": "K-간편식 호주 공략…100만달러 수출계약",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeFZvOFNleHpad1I4YTBmR2FBRXY2RkxMNmltZDdjSjNZcEs3cmlIUmpvSDVVT09uWUo5TDF2X1Z0ZVlDZWhLemttSHZQTkV6WWVPX1NyV0RvRk81Tm9oMmhwZTlobjZVUnNpcdIBcEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXo?oc=5",
-          "source": "한국농업신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
+          "source": "newsfarm.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T09:48:11.000Z",
           "tags": [
             "간편식"
@@ -554,18 +566,6 @@
           "feat": false
         },
         {
-          "title": "경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견 `363만 달러 수출 상담 결실`",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93ZGp1cGdNaEVpZWxYN2pSd1I0U21pb2NidEMzMjgzaDdDSXhjVkFNRTlLNlJvNThkOWp4YmMwLTRHZlFJZlJ6bno3WHExNEs4MFZN?oc=5",
-          "source": "CBN뉴스",
-          "sourceInitial": "CB",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-19T06:46:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "K-푸드, 홍콩서 2900만달러 수출상담…이너뷰티·신선농산물 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yOFZJRzRpTEQwckt6OExlYUluOS1KajBTbXZCaUJOZlZVQVY3WlJBcDRxNzdtRXN5ZFVFSHVkaDJpN0NLNkQtUTlkZzBIOFpXMWdCdFlMTWZVVmNqaVc5OWhGUzR2UQ?oc=5",
@@ -573,6 +573,18 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T06:07:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "먹는 스킨부스터부터 1분 김치까지…K-푸드, 홍콩서 2900만 달러 상담 잭팟",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qS3B3cDI1QWZQLUtfaElwbVpWTkxqTUZuZ2pWM0pENHpOTmYweE02VDg0cnpna2dpUmVDLXdfbVZ4MWVxdmxUdEFGNWJUOE5aVE13SEl1cG02QktsX3g1Rmc3WURXMERrNldN?oc=5",
+          "source": "더바이어",
+          "sourceInitial": "더바",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-19T05:02:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
