@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T19:43:54.085Z",
+  "generatedAt": "2026-08-19T20:58:44.891Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -124,9 +124,9 @@
           "title": "보드람치킨, 개봉1동점…후라이드 중심 메뉴 '가족과 함께'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16aHF1aU1lZHNON1JBdTYyUldXX29LbzUxdHNrMUFmb0tzdnFkc2ZCdXM5SUVoY3lYQlYtUHZlOHZLX0ZZNVphNUlvX2VXMlVZMmpOT3pvS2xiQ0ppNFVJR2s3clVsMzBhcmZVNzVRdDM?oc=5",
-          "source": "shinailbo.co.kr",
-          "sourceInitial": "sh",
-          "sourceColor": "#b03a6a",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-19T00:10:00.000Z",
           "tags": [
             "메뉴"
@@ -231,18 +231,6 @@
           "feat": false
         },
         {
-          "title": "2026년 멜라토닌 영양제, 가성비 TOP5 추천 구매 가이드 : 건강식품",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQbFlXZ2FabjJiQ25PVERWOXVVMnJtN2xIR1dGX1BjMGIxdW1qZ3hRLUhfMlgyS2JFcjZFU0h0QkFuTXZwbnNjbnc3U1hleVVVbHBN?oc=5",
-          "source": "의약일보",
-          "sourceInitial": "의약",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-19T07:35:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "소득 0.4% 오를 때 먹거리 최대 20%↑…장바구니도 유통사도 ‘부담’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTTJSMVJ2YnZGZENfYzRRcVVPT1BDWEEzV0xMMC1temhoWXBsQ1JHTzdyYTR5c01hVkRkMjlTLXRNMHBtWEM3WDhtNFZSTUZTb3Nlek9UZFZmdkszb1l5NFBn?oc=5",
@@ -250,6 +238,18 @@
           "sourceInitial": "디지",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T06:10:42.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한 줄 4000원 육박하는데…치솟는 재료비에 김밥 가맹점 폐업률↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OT2lrRDRIMlVfSGV3VHpySHZzSEFZeWxLbFRnb20wdXdEZklyU29FXzMtNktSSEY3V3VjUERmNkpMVmZqQ2xSVmlDQUtoTlZMQUpBWFg3WkJ4OF92X1hIVlNkSzhsRXNjamxRemhWOFJucHptbE9pZtIBeEFVX3lxTE5OT2lrRDRIMlVfSGV3VHpySHZzSEFZeWxLbFRnb20wdXdEZklyU29FXzMtNktSSEY3V3VjUERmNkpMVmZqQ2xSVmlDQUtoTlZMQUpBWFg3WkJ4OF92X1hIVlNkSzhsRXNjamxRemhWOFJucHptbE9pZg?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-19T06:06:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -299,9 +299,9 @@
           "title": "서울 여름철 농산물 97.9% ‘적합’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lTWhMYmxvb1R0LTJiOWFVbk5EZWJZRFVYOG94dDhpQVpNRko5ajlUV1JnNC05SFp3cHd4ZU1JNUJMLVBHeGFDUDhaV0NTX2VIU1N6QkUxYXlpVy1FYnI4SURzQUJoUlB6?oc=5",
-          "source": "fsnews.co.kr",
-          "sourceInitial": "fs",
-          "sourceColor": "#333333",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-19T09:59:31.000Z",
           "tags": [],
           "price": null,
@@ -372,9 +372,9 @@
           "title": "오유경 식약처장, 정제·캡슐 일반식품 생산 제한…GMO 표시 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcElmemN6QmZZU2xEN3N0TWVEaFRKTkxCV3hCLW1zaVVaSWtzMGJLQTZHcGthcXl5b3RTcVVabXZPdGY1REVYQWdZYlVrWlVRT1NDaDJ6YmN5VWRCT09OWXRmMTh6UQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-19T03:53:08.000Z",
           "tags": [
             "식약처"
@@ -412,9 +412,9 @@
           "title": "식품산업협회, 인도 사절단 초청…CEPA 원산지 기준 완화 건의",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16c1ZsM2sxaTdLa18zakpQXzUxOGJ4SVR2MTVWUnpHa0QwZi1wMlI2anJBWll3UUh4Yk1hMTVLMl9OTkMwOU00djU1QkktLXJuNTNqcHh6b1FMVkhlZ2Q1WDNfcThuUQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-19T07:57:24.000Z",
           "tags": [],
           "price": null,
@@ -424,9 +424,9 @@
           "title": "한국식품안전관리인증원, 마른김 생산자연합회와 위생관리 강화 MOU 체결",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RkQ5VE9oMjRIaXZxbFQ0QW55aHU2RnZqNFZ6emxOWkJOOWFBZXBFSjJDVFJmQW9jX3VCM0pxQVVZSFUwQU9FU2o5bE81MWRUR2d1WnRQd05LVW9IVmFtTTdmTUJoa00?oc=5",
-          "source": "파이낸스투데이",
-          "sourceInitial": "파이",
-          "sourceColor": "#2f7d4f",
+          "source": "fntoday.co.kr",
+          "sourceInitial": "fn",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-19T07:36:52.000Z",
           "tags": [],
           "price": null,
@@ -479,7 +479,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 17,
+      "total": 15,
       "items": [
         {
           "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
@@ -529,9 +529,9 @@
           "title": "BBQ 간편식부터 LA 사로잡은 비비고...유통가, 막바지 여름·추석 마케팅 활발",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0N094WlBrenFWSHk3SUh6NU1Oa2FFbDUwX3Z0TlJoZWdzV2dxbGNXUEY2RDhSblFXelR1U3FnVThFcTZzMDM0bFBHUndmT0JjMzBkd1BZUm1YRms3eVhmcGZ2RTVVclRS?oc=5",
-          "source": "데일리팝",
-          "sourceInitial": "데일",
-          "sourceColor": "#1a4d8f",
+          "source": "dailypop.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-19T05:25:00.000Z",
           "tags": [
             "간편식"
@@ -557,22 +557,10 @@
           "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
+          "source": "thinkfood.co.kr",
+          "sourceInitial": "th",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-19T08:09:09.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견 `363만 달러 수출 상담 결실`",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93ZGp1cGdNaEVpZWxYN2pSd1I0U21pb2NidEMzMjgzaDdDSXhjVkFNRTlLNlJvNThkOWp4YmMwLTRHZlFJZlJ6bno3WHExNEs4MFZN?oc=5",
-          "source": "CBN뉴스",
-          "sourceInitial": "CB",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-19T06:46:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -581,10 +569,22 @@
           "title": "K-푸드, 홍콩서 2900만달러 수출상담…이너뷰티·신선농산물 공략",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yOFZJRzRpTEQwckt6OExlYUluOS1KajBTbXZCaUJOZlZVQVY3WlJBcDRxNzdtRXN5ZFVFSHVkaDJpN0NLNkQtUTlkZzBIOFpXMWdCdFlMTWZVVmNqaVc5OWhGUzR2UQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-19T06:07:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "먹는 스킨부스터부터 1분 김치까지…K-푸드, 홍콩서 2900만 달러 상담 잭팟",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qS3B3cDI1QWZQLUtfaElwbVpWTkxqTUZuZ2pWM0pENHpOTmYweE02VDg0cnpna2dpUmVDLXdfbVZ4MWVxdmxUdEFGNWJUOE5aVE13SEl1cG02QktsX3g1Rmc3WURXMERrNldN?oc=5",
+          "source": "더바이어",
+          "sourceInitial": "더바",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-19T05:02:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
