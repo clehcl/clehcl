@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:56:53.094Z",
+  "generatedAt": "2026-08-19T22:56:09.731Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -67,9 +67,9 @@
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjNWSXA2WURybU1FNE4yVVl3cnppMHlwSGwyM1VyVHFiV21DRmlaWDlKOFg1bS1sQktJNlZoTFNHZWx2TzVFWnowTDNhbmNJT1haSlhHcEpWNXZ4SFF5UkkyOTBJVkFaMTJYTlJLUW5ibjFLVm12enVhcDIzNDlEQ0l6SEt1UExGTmxpazJR?oc=5",
-          "source": "blog.naver.com",
-          "sourceInitial": "bl",
-          "sourceColor": "#1a7a5a",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-18T11:15:34.000Z",
           "tags": [
             "가맹",
@@ -82,9 +82,9 @@
           "title": "[ 2026년 8월 20일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHZDUUxza0NWbjk0d0RVa1pwS0FGLXpCZHRGNWhOOTNEQ3dCZTN4MExYMXNYRDByMVdEM2Zha2dTUC1LTWlXaWpBUXZiTTNtdVlGV2JCT1QyTWdPMWU3cE9NVU5WM2tXaXhNWEtMR2tlT0FsTVhIOGg3eHNuM2Z0bTVmSHlYZ1FFb3g1bUdn?oc=5",
-          "source": "blog.naver.com",
-          "sourceInitial": "bl",
-          "sourceColor": "#1a7a5a",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-19T19:24:41.000Z",
           "tags": [
             "프랜차이즈"
@@ -166,9 +166,9 @@
           "title": "금값된 시금치 한 달 새 73% 껑충...김밥 가격도 들썩",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPbXRpa2l4WGdaX1BndHhVY0JvZzltNkV1cVZ6QzBnQVdDLXFfcnJzd2JIal8wSVh6MDNySW9PNnRTbVltNmQzRXdDaFNOM3FOQlJ0N21PTzk1Q2VpbFNZVzFsbVE5QQ?oc=5",
-          "source": "jeonmin.co.kr",
-          "sourceInitial": "je",
-          "sourceColor": "#3a6ea5",
+          "source": "전민일보",
+          "sourceInitial": "전민",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-19T10:00:00.000Z",
           "tags": [
             "가격"
@@ -191,13 +191,13 @@
           "feat": false
         },
         {
-          "title": "40도 넘긴 기록적 폭염에 채소 가격 급등",
+          "title": "식품업계 가격 줄인상 속…김호연 빙그레 회장, 상반기 보수 24억 ‘최다’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0cGVnaThoSV9lUFViazBmU3pxNDQxcHRaRE5DcTBQbld1a0ctTWppa3oydmJ1NkFyR05ackRvQ1FYNkY5bmgyeW84eExrQV9oRE1FbllhaWdOczU3VGc?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-18T04:53:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiVVdydm1DSVZlalJVRFZBd281RmxrdnN4b3kxZkdvU2VrS1VGWUZNT0xDMHBrR183bFRuSEJGSGtMSEJOMi1QTkdrdzh6bTZOYl9KWHpLNWt6VXBvLURFZ3FXNGtjbl9tTnFB?oc=5",
+          "source": "CEO스코어데일리",
+          "sourceInitial": "CE",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-18T08:40:00.000Z",
           "tags": [
             "가격"
           ],
@@ -219,26 +219,12 @@
           "feat": false
         },
         {
-          "title": "삼양식품, 해외 매출↑·원가 경쟁력↑…목표가 200만원 유지-유안타",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFpJejFQV0xjOFo3WmNFYVhjRjBaeWpjTU1ack44RUVpVWR4NkU5RnFMWFZKU1llQ3lCOW9YM0o0VEFwbVk4WG8zSkV2LXcwRFRxa0VhSDNqcFdnSTU5MHVpVHRETnVjLXptWkxEaUJtaEljVVhBRF9lT01DbTlHVA?oc=5",
-          "source": "edaily.co.kr",
-          "sourceInitial": "ed",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-17T22:42:29.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "농가도 소비자도 윈윈…신선식품까지 넓히는 ‘5K프라이스’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aZ2pndS1ONEFyREFZX0diVjYzcjRlZlFnMXhoZHVLZ2JCYnZOdjZpTGZWakg5VFYzekZBdmJkTGZyWjdDZ0VKVWJJMDBYcldxQlE?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
+          "source": "sedaily.com",
+          "sourceInitial": "se",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-19T09:07:30.000Z",
           "tags": [],
           "price": null,
@@ -252,6 +238,18 @@
           "sourceInitial": "디지",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T06:10:42.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한 줄 4000원 육박하는데…치솟는 재료비에 김밥 가맹점 폐업률↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OT2lrRDRIMlVfSGV3VHpySHZzSEFZeWxLbFRnb20wdXdEZklyU29FXzMtNktSSEY3V3VjUERmNkpMVmZqQ2xSVmlDQUtoTlZMQUpBWFg3WkJ4OF92X1hIVlNkSzhsRXNjamxRemhWOFJucHptbE9pZtIBeEFVX3lxTE5OT2lrRDRIMlVfSGV3VHpySHZzSEFZeWxLbFRnb20wdXdEZklyU29FXzMtNktSSEY3V3VjUERmNkpMVmZqQ2xSVmlDQUtoTlZMQUpBWFg3WkJ4OF92X1hIVlNkSzhsRXNjamxRemhWOFJucHptbE9pZg?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-19T06:06:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -273,8 +271,8 @@
           "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZWtNZmJuNm44X0VmZlB6blZDRGMwVHd3Qkd3aEc0UWl4RzFNZTdRYk95VGtQQ3FNdklNX0I4QVFsZ08zQnNSaU92aGYzY0M3SXFNYXRyaGs0djVaVGR3TFV4RHJQLWVySFhZemRWQQ?oc=5",
-          "source": "월드장애인사랑뉴스",
-          "sourceInitial": "월드",
+          "source": "youcandonews.com",
+          "sourceInitial": "yo",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-18T10:20:22.000Z",
           "tags": [
@@ -287,8 +285,8 @@
           "title": "“식중독 뿌리 뽑는다”…위생·원산지 위반 급식 납품업체, 최대 6개월 입찰 제한",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hb3JkMGgxbExnMG9jOWM4MmtyaUtucUNzcm5OUTBtSHI2ajhnMmpzeGZqa2VvTzMwc2ljSnhjNFd6ZWRueFcyTXZkdEN6cWRNUkctS1hFSHdhTy0wbmR5RXB3bFF4WF9C?oc=5",
-          "source": "녹색경제신문",
-          "sourceInitial": "녹색",
+          "source": "greened.kr",
+          "sourceInitial": "gr",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-18T05:41:20.000Z",
           "tags": [
@@ -325,9 +323,9 @@
           "title": "교촌치킨, 20대 대상 브랜드 체험 프로그램 참가자 모집 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFpVcE1ZLVVVcVcxYlZ0dUg1Wlh5aUI5QmhZd0hfb2g1RDhwQ3hYWlFnS29ybUV5bmhZV0dzNVc3Z1A0dElBUWZKSXRxcGx2SGJjQ1pvaXFKTWY5WlAyaFZKNlBKbjJJbFFhTXFJdVdHQjc3ZDk5LUxLc19OVU1DcWhOODJjX2hRMk1wOVdn?oc=5",
-          "source": "blog.naver.com",
-          "sourceInitial": "bl",
-          "sourceColor": "#1a7a5a",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-19T00:54:41.000Z",
           "tags": [],
           "price": null,
@@ -368,7 +366,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "오유경 식약처장, 정제·캡슐 일반식품 생산 제한…GMO 표시 확대",
@@ -425,7 +423,7 @@
         {
           "title": "한국식품안전관리인증원, 마른김 생산자연합회와 위생관리 강화 MOU 체결",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RkQ5VE9oMjRIaXZxbFQ0QW55aHU2RnZqNFZ6emxOWkJOOWFBZXBFSjJDVFJmQW9jX3VCM0pxQVVZSFUwQU9FU2o5bE81MWRUR2d1WnRQd05LVW9IVmFtTTdmTUJoa00?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03cWlvSExoMFFXTTFHcmtfbmtueGpIU1Jaa0NQUjEtVmdJSU1sblJOR1ZzSGstUGJ6QWliNGMxQ3RJTjR2bXZfYmpySWFoZXhodVpURG55MHFqNF93YTZQUHIwMkVNc1RCTERsOQ?oc=5",
           "source": "파이낸스투데이",
           "sourceInitial": "파이",
           "sourceColor": "#2f7d4f",
@@ -438,9 +436,9 @@
           "title": "[영상] 한 달 새 100% 훅 올랐다…마트서 채소 몇 개 담았더니 가격 ‘무려’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mblJ4cVhKUnBVUW5wZUpIOTV3SHU3RHkwTEFqWEJHbHdLTGtVNzMyWVdoNk43ZFMyOVA0VE80M0U4QUttSWFYWS1NNklNemxPc0E?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
+          "source": "sedaily.com",
+          "sourceInitial": "se",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-18T10:16:36.000Z",
           "tags": [],
           "price": null,
@@ -481,7 +479,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 18,
+      "total": 17,
       "items": [
         {
           "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
@@ -502,9 +500,9 @@
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥밥 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UDRZY25yazN0Q1VCNFE4WkxUNDRSTXRFcTZLVnZhMzRYMHlLZ3NtaGdjamZPSm1neFRUZUxEdEhMcTd1RXNENzBuMEkxREs0ckQzbEhvaEh2QWVmMHZoZHdqa0laRl81bXNZZA?oc=5",
-          "source": "ksilbo.co.kr",
-          "sourceInitial": "ks",
-          "sourceColor": "#1a4d8f",
+          "source": "경상일보",
+          "sourceInitial": "경상",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-18T02:24:03.000Z",
           "tags": [
             "출시",
