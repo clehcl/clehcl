@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:56:32.355Z",
+  "generatedAt": "2026-08-20T19:45:41.750Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
@@ -34,6 +34,21 @@
           "feat": true
         },
         {
+          "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTdpd0RsMElMVHp5eWg5dk5oSTVaTUR1OXB5N210T0Y2aFRLXzNieU96U1NkM25fWVpVN2wxbWRmSURLellaNmM1QkdzU0s4VWxVQ1I0UkgxTy1sQlVXZFJacnN3UDg0WWE0VXNId1VHbVFmVXdqc1FlR1B3QzVjd3J3MmJiWTJkODNXeUp3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-20T18:38:32.000Z",
+          "tags": [
+            "외식",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“프랜차이즈 본사 ‘기본 역할’에 충실할 것…9월부터 가맹사업 본격화”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdk1ReWlSNzZRc1RDR240Umd1WEZPM1FhOEttd0hhVFhhZ1BKQTh3RjY2WVNKbUlYVF9fcGtITk81R25TSVpqMlY2ZzJmNGJYNVM1bVluc2w5VDBpTDd5SHBRdEFCVThZNWVGWg?oc=5",
@@ -44,21 +59,6 @@
           "tags": [
             "프랜차이즈",
             "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTdpd0RsMElMVHp5eWg5dk5oSTVaTUR1OXB5N210T0Y2aFRLXzNieU96U1NkM25fWVpVN2wxbWRmSURLellaNmM1QkdzU0s4VWxVQ1I0UkgxTy1sQlVXZFJacnN3UDg0WWE0VXNId1VHbVFmVXdqc1FlR1B3QzVjd3J3MmJiWTJkODNXeUp3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T06:40:32.000Z",
-          "tags": [
-            "외식",
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -121,15 +121,15 @@
           "feat": false
         },
         {
-          "title": "[ 2026년 8월 20일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "title": "식봄, 지방 외식업소 개척 가속화...비수도권 거래액 50% 급증",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHZDUUxza0NWbjk0d0RVa1pwS0FGLXpCZHRGNWhOOTNEQ3dCZTN4MExYMXNYRDByMVdEM2Zha2dTUC1LTWlXaWpBUXZiTTNtdVlGV2JCT1QyTWdPMWU3cE9NVU5WM2tXaXhNWEtMR2tlT0FsTVhIOGg3eHNuM2Z0bTVmSHlYZ1FFb3g1bUdn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-19T19:24:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZ9IBckFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZw?oc=5",
+          "source": "팝콘뉴스",
+          "sourceInitial": "팝콘",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-20T01:33:59.000Z",
           "tags": [
-            "프랜차이즈"
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 18,
       "items": [
         {
           "title": "7월 유로존 소비자물가 2.9%↑ '가속'…\"에너지 가격 고공행진\"",
@@ -176,20 +176,6 @@
           "feat": false
         },
         {
-          "title": "외식업계도 온라인 식자재 구매 확산…식봄, 비수도권 거래액 50% 증가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbkUzQUdrMnN3RjBBM2N2TVhMMlNyN2sxa2RXY25FQWZVNVM4emdwVmlnck54bW5nMU9NVWtzWjhJSmpZWXpRSHVhTmdFYjlhcmhGbXdjUFNDYVd6WURZdFVBb3RLYlpXeXlaNdIBdEFVX3lxTFBhQXVqc2NLLWFYTVZVaGNTemM1Z3JOLW10NlB6cHBSM0Z5b0hpUktIWXROQlozUC1TZ1VjR3QtMUUxb2hFdEpXb0ZGU3ZJUkE1ZXQtVkpYdjVMQVh4RkxRVF9sU2FkNXozWTA2TFFmOXNNbWEz?oc=5",
-          "source": "더퍼스트미디어",
-          "sourceInitial": "더퍼",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T04:25:00.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "CJ프레시웨이, 식자재 오픈마켓 '식봄' 비수도권 거래액 증가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Zc3Z6TTVBLV84d0dscW1BLXl1dXp2V3FzM3dEMllYZ0xmMDJ3bm05OTFsMlUzc3Rqd2JLdmVaY0NwZi0xU3JPSU1iS05KRmNyTVJrX1E4R0FHZ9IBVEFVX3lxTE81M3lFSGFQS2paT3c1eWtVOGR5aGlQYTVzY29IWE5scTlvNnVuMXFKV0xEa0Q3MlJNXzNjZlBWakFfX09Oa1YwZUh1czFXRVY2c2Fnag?oc=5",
@@ -199,20 +185,6 @@
           "publishedAt": "2026-08-19T23:59:17.000Z",
           "tags": [
             "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "금값된 시금치 한 달 새 73% 껑충...김밥 가격도 들썩",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPbXRpa2l4WGdaX1BndHhVY0JvZzltNkV1cVZ6QzBnQVdDLXFfcnJzd2JIal8wSVh6MDNySW9PNnRTbVltNmQzRXdDaFNOM3FOQlJ0N21PTzk1Q2VpbFNZVzFsbVE5QQ?oc=5",
-          "source": "전민일보",
-          "sourceInitial": "전민",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-19T10:00:00.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -256,6 +228,30 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "맥도날드, '1000원 커피' 다시 꺼냈다…가성비 경쟁 승부수",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtd1EtUm9oTVFXYlFkcEh4bHpnZVRLeVhtTzcwWWpJQkxUNHY3Nk9sdVo5Z3NtVkE0V3R1dWE0UWRIbVZVN0ZQSm5rYWVKLWNCRFc4VnUxeXEwc1FIVzBrb1Z6WnA?oc=5",
+          "source": "포쓰저널",
+          "sourceInitial": "포쓰",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-20T04:48:59.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "식약처, 중국과 식품안전 협력문서 3건…고기 성분 라면 허용",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Xal93QmV1WXlrRHh3ZUZUR3JOanNrcWs0SDhxMXFyM0NnZGNZb2tpN3ZQUjNmNzBPa2duYU4wQ1kzb2FDSUdGY2lTdy14TFNPcTlkUw?oc=5",
+          "source": "바이오북미디어",
+          "sourceInitial": "바이",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-20T02:31:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -268,7 +264,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -283,18 +279,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "이정곤 밀양시 부시장, 30년 농정 경험 바탕으로 경제학 박사학위 취득",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tNUh4TlZmUVZTRU05RllrUlRPRTdwaFpidjFicXg2Z3JmelpIUmhKNTZFUDJVUU56a2ZuOTF1Wm1OR3dPSjEzMURjNjNXS2h6QWJxYjNza05wRkFkMjNIZ3EycmNBaklpd0VhN9IBcEFVX3lxTE1HakNxTGltWkhjYVVSbTcwelpBVU01bTRHa1lKdnU3VktmdlFVZnc5VDd6WTNHSmxRb0VUTHB4cXpsQUZRbXo4aUdwMmNERjA2S0hOWTFYUFFSeUFTMWd0Q3c0MElBS2VzNmdrQVc4MlA?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-20T08:40:13.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         },
         {
           "title": "급식 식단도 앱으로 관리…식약처, 혁신사례 8건 선정",
@@ -498,7 +482,7 @@
         {
           "title": "[똑똑한소비] 뚜레쥬르 가을 신제품 4종·웅진식품 빅토리아 기획팩…버거킹·bhc·아웃백·굽네몰·매드포갈릭·나라셀라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMTNQa05CVE05UUpqUE1UcDN0TktuTXowZkc5X0YxUGZiWGVuMm9oU3kxZm0tQXhPb3VrSjlwN2p0TEZrTjlmSXJmZ1BCVGY2T0E2a3FLdEUxY0JEeVktN3ZR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcDN2aE5rSkNNSFNlMmVZLWtCeWJvSTRTY2JUaTQ3T25XSjh5TFRoQllqLVhEX0Fsbm5uWnZJeTQ3OXlWX3BWb20zWW9XYW9RVnZYSlRrWFFEOGs?oc=5",
           "source": "에너지경제신문",
           "sourceInitial": "에너",
           "sourceColor": "#1a4d8f",
