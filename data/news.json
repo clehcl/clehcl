@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:45:41.750Z",
+  "generatedAt": "2026-08-20T21:01:57.345Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 16,
       "items": [
         {
           "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
@@ -64,28 +64,13 @@
           "feat": false
         },
         {
-          "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fd3NsbDNtVUNhc1ZqRExHRll6U3FMUXFJSGw3LVBpeXhxWEticURrT3gwV3B6a0FJaDBSRzBjeTdwck5aSXlNaklMRmdvMzdJQW5BUA?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-18T21:00:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02c01MbWNhNEdBOGREdlJfbWpGc2xvdTNxUHpkMDBnQ3J2amFyNG5ZcUhGT2tpQ01xYlBZNXVSTk1vckFsRnc?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T07:51:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCMFlTdi1RQVdVWlYzc196OWJtbzZUS2MyME9KaG8tRUVZbHFHSk1JTk5mNnVocFJmTGVHWlp3SlNvQzJFbURlQWpKTVc3WkE?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-20T07:54:01.000Z",
           "tags": [
             "외식"
           ],
@@ -100,6 +85,20 @@
           "sourceInitial": "헤",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-20T07:48:52.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "BBQ, 맞춤형 떡볶이 콘셉트 '올떡' 직영점 2곳 개점…메뉴 선택 시스템 도입 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0FGWmtuM0trOUJyek5xTWhqZERqYi1CRWJzblI1UHRGQURFeGdLM19ZYXI3ZDN0YkwtWnR0YzdpTTlWTnpzdGRQS2ZodWt0X0hUVmxta2VDOVhaeXktbG5WZkNZQWJpSjBzc1NNLTFHQk9nNjNEa3RERmFfdTFZdG5Sb3czeEliWVB1WXRB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-20T06:55:08.000Z",
           "tags": [
             "메뉴"
           ],
@@ -145,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 19,
       "items": [
         {
           "title": "7월 유로존 소비자물가 2.9%↑ '가속'…\"에너지 가격 고공행진\"",
@@ -264,7 +263,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -279,18 +278,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "급식 식단도 앱으로 관리…식약처, 혁신사례 8건 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaQTE1MkFWVEJCS2pPbXNiSExzQnNpbGgwX2R3Z0MtclFzWDdQcmViUkVIQ2s3cGNOYTJ3OHgxYUh3OXRrM09KMERjX0dKZFJZU09qRA?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T02:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         },
         {
           "title": "군위 소농 62%, 대구 109만 가구와 잇는다…먹거리 통합체계 추진",
@@ -462,7 +449,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -489,20 +476,6 @@
           "publishedAt": "2026-08-20T09:46:56.000Z",
           "tags": [
             "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "BBQ, '오븐구이 닭다리살' 롯데마트 입점…HMR 유통 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNG1fWm9xQVNnTTlQTF9tUnZ1RGJsUUYxV2F6akZzMDN1Vm9FTWozV0RxM1lMRURkUUJmelZ6UzBGbzg4R0lud2szQnJKODNKcC1EakcwRXk4eHdrQklWYW1xMXV6YU1ya3djUTNWUzZWSS10NWdkbGxCNGlnNUFHVGZybXZMLW1YZjZMLUx3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-19T06:27:36.000Z",
-          "tags": [
-            "HMR"
           ],
           "price": null,
           "feat": false
@@ -563,6 +536,18 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-20T02:16:24.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "경북경제진흥원, 경북 우수수산물 '일본 해외 시장개척단' 파견…363만 달러 수출",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GSTdvanA0eDZ5QVp1UlNHdkROdUUteVRTN0xmNkJtZ0syclBKYVhrMHhMbjZNX2RWQ1laSVBNRXFYM3JQd2JiSDZOY2JxNGd5dFY3V1U0cUVRNklYdi1sN0VMdWZmQQ?oc=5",
+          "source": "포커스데일리",
+          "sourceInitial": "포커",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-19T21:37:09.000Z",
           "tags": [],
           "price": null,
           "feat": false
