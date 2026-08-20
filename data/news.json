@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:03:10.243Z",
+  "generatedAt": "2026-08-20T16:01:34.326Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
@@ -121,15 +121,15 @@
           "feat": false
         },
         {
-          "title": "식봄, 지방 외식업소 개척 가속화...비수도권 거래액 50% 급증",
+          "title": "[ 2026년 8월 20일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZ9IBckFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZw?oc=5",
-          "source": "팝콘뉴스",
-          "sourceInitial": "팝콘",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-20T01:33:59.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHZDUUxza0NWbjk0d0RVa1pwS0FGLXpCZHRGNWhOOTNEQ3dCZTN4MExYMXNYRDByMVdEM2Zha2dTUC1LTWlXaWpBUXZiTTNtdVlGV2JCT1QyTWdPMWU3cE9NVU5WM2tXaXhNWEtMR2tlT0FsTVhIOGg3eHNuM2Z0bTVmSHlYZ1FFb3g1bUdn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-19T19:24:41.000Z",
           "tags": [
-            "외식"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -171,6 +171,20 @@
           "publishedAt": "2026-08-20T04:42:00.000Z",
           "tags": [
             "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "외식업계도 온라인 식자재 구매 확산…식봄, 비수도권 거래액 50% 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbkUzQUdrMnN3RjBBM2N2TVhMMlNyN2sxa2RXY25FQWZVNVM4emdwVmlnck54bW5nMU9NVWtzWjhJSmpZWXpRSHVhTmdFYjlhcmhGbXdjUFNDYVd6WURZdFVBb3RLYlpXeXlaNdIBdEFVX3lxTFBhQXVqc2NLLWFYTVZVaGNTemM1Z3JOLW10NlB6cHBSM0Z5b0hpUktIWXROQlozUC1TZ1VjR3QtMUUxb2hFdEpXb0ZGU3ZJUkE1ZXQtVkpYdjVMQVh4RkxRVF9sU2FkNXozWTA2TFFmOXNNbWEz?oc=5",
+          "source": "더퍼스트미디어",
+          "sourceInitial": "더퍼",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T04:25:00.000Z",
+          "tags": [
+            "식자재"
           ],
           "price": null,
           "feat": false
@@ -242,18 +256,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "김밥도 '금밥'…경북 한 줄 3500원 육박",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvelczV3ZRZm5oY0hhUnBDNUt3cy1pNjhhdENyVWZYUm5RcE9jcHhZdHZrQkZSUVpPS3dUMHFpVHpESjU5TEdSak9YV3BuY0N6a25SeGxrVW83UGdjdWp3aldheGhQeWdH?oc=5",
-          "source": "대경일보",
-          "sourceInitial": "대경",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-20T06:40:06.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -266,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -295,18 +297,6 @@
           "feat": false
         },
         {
-          "title": "급식 식단도 앱으로 관리…식약처, 혁신사례 8건 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaQTE1MkFWVEJCS2pPbXNiSExzQnNpbGgwX2R3Z0MtclFzWDdQcmViUkVIQ2s3cGNOYTJ3OHgxYUh3OXRrM09KMERjX0dKZFJZU09qRA?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T02:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "군위 소농 62%, 대구 109만 가구와 잇는다…먹거리 통합체계 추진",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlM25uQ0oyVk44Wi1HRUVRU0wzcWFLNTdDRUNTeHBndVdfWDJPQXZoejhGZmxCeVNXYmZaX2p5U0hFTDVVX1kzSHBqSFE0amRWQjdZWUluX1dfdzdUc2NQbQ?oc=5",
@@ -314,6 +304,18 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-20T01:20:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "교촌치킨, 20대 대상 브랜드 체험 프로그램 참가자 모집 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFpVcE1ZLVVVcVcxYlZ0dUg1Wlh5aUI5QmhZd0hfb2g1RDhwQ3hYWlFnS29ybUV5bmhZV0dzNVc3Z1A0dElBUWZKSXRxcGx2SGJjQ1pvaXFKTWY5WlAyaFZKNlBKbjJJbFFhTXFJdVdHQjc3ZDk5LUxLc19OVU1DcWhOODJjX2hRMk1wOVdn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-19T12:50:41.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -338,18 +340,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T03:53:08.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "교촌치킨, 20대 대상 브랜드 체험 프로그램 참가자 모집 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFpVcE1ZLVVVcVcxYlZ0dUg1Wlh5aUI5QmhZd0hfb2g1RDhwQ3hYWlFnS29ybUV5bmhZV0dzNVc3Z1A0dElBUWZKSXRxcGx2SGJjQ1pvaXFKTWY5WlAyaFZKNlBKbjJJbFFhTXFJdVdHQjc3ZDk5LUxLc19OVU1DcWhOODJjX2hRMk1wOVdn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-19T00:54:41.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -476,7 +466,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 19,
+      "total": 18,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -496,27 +486,13 @@
         {
           "title": "[똑똑한소비] 뚜레쥬르 가을 신제품 4종·웅진식품 빅토리아 기획팩…버거킹·bhc·아웃백·굽네몰·매드포갈릭·나라셀라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcDN2aE5rSkNNSFNlMmVZLWtCeWJvSTRTY2JUaTQ3T25XSjh5TFRoQllqLVhEX0Fsbm5uWnZJeTQ3OXlWX3BWb20zWW9XYW9RVnZYSlRrWFFEOGs?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMTNQa05CVE05UUpqUE1UcDN0TktuTXowZkc5X0YxUGZiWGVuMm9oU3kxZm0tQXhPb3VrSjlwN2p0TEZrTjlmSXJmZ1BCVGY2T0E2a3FLdEUxY0JEeVktN3ZR?oc=5",
           "source": "에너지경제신문",
           "sourceInitial": "에너",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-20T09:46:56.000Z",
           "tags": [
             "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[Food & NOW] 버거킹, 대용량 버거 '몬스터 맥시멈' 출시 등",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaamEwMDdKY2tWenFSbzF0bTM1QS03eW9jZnJWQ0l0Z3VZQUYtZzJvclhVODRDdHUtVWozaGo3a2FQekltWGlJaFBCNWFNU0Z6R2JGbW9vaElrcjVGVHFfMG1rdkV6b0V6?oc=5",
-          "source": "ebn.co.kr",
-          "sourceInitial": "eb",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T09:42:14.000Z",
-          "tags": [
-            "출시"
           ],
           "price": null,
           "feat": false
@@ -581,6 +557,18 @@
           "sourceInitial": "si",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-20T03:17:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[굿모닝! 20일 식품업계 소식] CJ제일제당·농심·오뚜기·동원F&B·삼립·서울우유",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43eXFjN2dRdUNRRW55WlJ3VW56cmhBUXhDOXFxV0d6MXdhNmlCYnZoR0ZKSTFqaFlxS19hakQxUjNyY29yZXg3TnQtUWxLTWo1VmpmRGpWUHg5WndtUkdrRGZoOXh1Y2JjUXpjbQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-20T02:33:16.000Z",
           "tags": [],
           "price": null,
           "feat": false
