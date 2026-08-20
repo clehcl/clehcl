@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:53:39.201Z",
+  "generatedAt": "2026-08-20T11:03:19.993Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,53 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 10,
       "items": [
-        {
-          "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1X1dhNU1ZWFE0TWdjeWpyMHZwS1l6R0M3b1J3NDY1OXlrTE8ycC1UWTJqeUxtNlFUYTJDWjZWUkFoeXZnRHpibU52WVp0SDg?oc=5",
-          "source": "아이보스",
-          "sourceInitial": "아이",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T07:22:31.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTdpd0RsMElMVHp5eWg5dk5oSTVaTUR1OXB5N210T0Y2aFRLXzNieU96U1NkM25fWVpVN2wxbWRmSURLellaNmM1QkdzU0s4VWxVQ1I0UkgxTy1sQlVXZFJacnN3UDg0WWE0VXNId1VHbVFmVXdqc1FlR1B3QzVjd3J3MmJiWTJkODNXeUp3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T06:38:32.000Z",
-          "tags": [
-            "외식",
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "단순 출점 넘어 현지 생산·메뉴 특화…美·캐나다 장악 나선 K프랜차이즈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fd3NsbDNtVUNhc1ZqRExHRll6U3FMUXFJSGw3LVBpeXhxWEticURrT3gwV3B6a0FJaDBSRzBjeTdwck5aSXlNaklMRmdvMzdJQW5BUA?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-18T21:00:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
         {
           "title": "bhc, 필리핀 현지 식문화 반영한 메뉴 도입…\"해외 가맹사업은 현지화가 핵심\" [ 신아일보 강동완 기자 ]",
           "summary": "",
@@ -76,21 +31,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": false
-        },
-        {
-          "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02c01MbWNhNEdBOGREdlJfbWpGc2xvdTNxUHpkMDBnQ3J2amFyNG5ZcUhGT2tpQ01xYlBZNXVSTk1vckFsRnc?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T07:51:12.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "21년 장수 브랜드 국수나무, 신메뉴 앞세워 경쟁력 강화",
@@ -100,20 +41,6 @@
           "sourceInitial": "헤",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-20T07:48:52.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "BBQ, 맞춤형 떡볶이 콘셉트 '올떡' 직영점 2곳 개점…메뉴 선택 시스템 도입 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0FGWmtuM0trOUJyek5xTWhqZERqYi1CRWJzblI1UHRGQURFeGdLM19ZYXI3ZDN0YkwtWnR0YzdpTTlWTnpzdGRQS2ZodWt0X0hUVmxta2VDOVhaeXktbG5WZkNZQWJpSjBzc1NNLTFHQk9nNjNEa3RERmFfdTFZdG5Sb3czeEliWVB1WXRB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T06:54:08.000Z",
           "tags": [
             "메뉴"
           ],
@@ -133,6 +60,76 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "식봄, 지방 외식업소 개척 가속화...비수도권 거래액 50% 급증",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZ9IBckFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZw?oc=5",
+          "source": "팝콘뉴스",
+          "sourceInitial": "팝콘",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-20T01:33:59.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 8월 20일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHZDUUxza0NWbjk0d0RVa1pwS0FGLXpCZHRGNWhOOTNEQ3dCZTN4MExYMXNYRDByMVdEM2Zha2dTUC1LTWlXaWpBUXZiTTNtdVlGV2JCT1QyTWdPMWU3cE9NVU5WM2tXaXhNWEtMR2tlT0FsTVhIOGg3eHNuM2Z0bTVmSHlYZ1FFb3g1bUdn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-19T19:24:41.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "샤브보트R, ‘월드전람 프랜차이즈 창업박람회’ 참가…예비 창업자 만난다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82cC1WM0Y3T3lWeDlSMU1hN1I2Zk9DNnp5NWR2dlpvNUN3UE5HUW9YZktfa3oxUy10T0p2ZExpYkhNR042TVFjUHlNVkVMNzBXVUlSY2ZxZk82cDRla0EyaGROejc?oc=5",
+          "source": "ppss.kr",
+          "sourceInitial": "pp",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-19T07:39:33.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "시흥시, 9월 12~13일 '거북섬 창업 박람회'…창업 상담·프랜차이즈 정보 제공 - 보도자료 | 기사",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUnFzdUlCek9Ib1lXUUU1UnhOQUlrd0Q4UzZ5WTFYX25kdEFMc2JjcV9ZRWVMYzhyZVpoY2o1cHU0cHpTYmdTQ2poTEFmQ3IwcG5nNk9NUmYtVHR0dHJZ?oc=5",
+          "source": "더팩트",
+          "sourceInitial": "더팩",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-19T01:35:46.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "시흥 거북섬서 9월 창업박람회…프랜차이즈·금융 상담 한자리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSFdCNDUzLVJjbmFnblF3WTNsbmMtaG1GcWRpa1ZTQXVaMVVmT1Bzb0phbmplQjN5MnU1aE9ZVFpzc0loSlg5VzRDQlpNMjZ1Qlh0ajhUQy1KTmFEUURQMXAxR24xdV9iVEpkNVI1RHE?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-18T23:17:44.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -145,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 20,
+      "total": 21,
       "items": [
         {
           "title": "7월 유로존 소비자물가 2.9%↑ '가속'…\"에너지 가격 고공행진\"",
@@ -268,7 +265,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -283,20 +280,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "학교급식 납품업체 ‘이것’ 위반하면 최대 6개월 퇴출…8월 20일부터 시행",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZWtNZmJuNm44X0VmZlB6blZDRGMwVHd3Qkd3aEc0UWl4RzFNZTdRYk95VGtQQ3FNdklNX0I4QVFsZ08zQnNSaU92aGYzY0M3SXFNYXRyaGs0djVaVGR3TFV4RHJQLWVySFhZemRWQQ?oc=5",
-          "source": "월드장애인사랑뉴스",
-          "sourceInitial": "월드",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-18T10:20:22.000Z",
-          "tags": [
-            "납품"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "급식 식단도 앱으로 관리…식약처, 혁신사례 8건 선정",
@@ -466,7 +449,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 19,
+      "total": 21,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -484,9 +467,24 @@
           "feat": true
         },
         {
+          "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xaktsaFZVY0dEUmxtMVJBekJmVzUyem1UWTVqZ3JQdUIxdVBHRllYRzdvNnpzaUFqNE5zRV9BNWdySk01ZTRyMmplclJ4OFc1a2EyMWlqRmExUjJlQVd2UmVJdnM5Vm03N2tDSw?oc=5",
+          "source": "메디컬투데이",
+          "sourceInitial": "메디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T08:02:45.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[똑똑한소비] 뚜레쥬르 가을 신제품 4종·웅진식품 빅토리아 기획팩…버거킹·bhc·아웃백·굽네몰·매드포갈릭·나라셀라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMTNQa05CVE05UUpqUE1UcDN0TktuTXowZkc5X0YxUGZiWGVuMm9oU3kxZm0tQXhPb3VrSjlwN2p0TEZrTjlmSXJmZ1BCVGY2T0E2a3FLdEUxY0JEeVktN3ZR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcDN2aE5rSkNNSFNlMmVZLWtCeWJvSTRTY2JUaTQ3T25XSjh5TFRoQllqLVhEX0Fsbm5uWnZJeTQ3OXlWX3BWb20zWW9XYW9RVnZYSlRrWFFEOGs?oc=5",
           "source": "에너지경제신문",
           "sourceInitial": "에너",
           "sourceColor": "#1a4d8f",
@@ -540,18 +538,6 @@
           "feat": false
         },
         {
-          "title": "한국식품콜드체인협회, ‘KOREA COLD CHAIN 2027’ 조기 참가기업 모집",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CaTBIY0dyN2xwQWY5R0NpQkVCNHM1eWtSazNCWnl4SU1fOFJXcEdUVlZDc09EWm5ELUFWUWw5RW5HRGI5Rjk2eDdlX0FpXzE1WUxHdzZQc0lLckU5X09GY00tVWJ5M3hPbU00cXRKWQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-20T08:46:26.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "웅진식품 ‘초록매실’, 제로 라인업 확대 후 매출 72% 증가 - 조선비즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUC0zWjBlVVdSb2djWlhwMDdOaXJENzhmWmhBcDVOTTBEaWdJTTVNNnF5djJOcDYyTFFsWkxTMVV0MTc1RWszNVkzclc2ajZPNTRFS2NpYnlJc0pnMW81b01XSUZoYVJOXy1CS3p3WlhaY29UVWNsbzVHLVNVeGpZSUoweU8yZ9IBmgFBVV95cUxPWnVrUFM4U2J3eWFrSTlOdy02djVxNl8wUnhiY1FlN0hIczJ2eDh6eG10MFdyOVlIV0JyY1o5Y0s2RXhBUHIwbUNtWE5zWElPanFUSUFZRzUxV1F0b2p5NjRYcnJjVUgwbWUxWkZCOXhFcllPeEo4eTZ2TVlLclItLUd4X1BIQ3pzT1hnVjlHR2hoUi1KQ2hSaXp3?oc=5",
@@ -564,13 +550,13 @@
           "feat": false
         },
         {
-          "title": "[라이프스타일 뉴스클리핑] 2026년 08월 20일(목): 2만원 넘은 배달 치킨…소비자가 냉동실 문을 열었다",
+          "title": "한국식품콜드체인협회, ‘KOREA COLD CHAIN 2027’ 조기 참가기업 모집",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IYlVwWkRlN3BiT2s4WU83VGlVUnJrVDV2M21GVkFOYUpZaTd3SGE3QU9WUUowN0lMMURyc2JuMkFrSnZWZVVfVy1MTEU1WUVN?oc=5",
-          "source": "sisa-n.com",
-          "sourceInitial": "si",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T03:17:47.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CaTBIY0dyN2xwQWY5R0NpQkVCNHM1eWtSazNCWnl4SU1fOFJXcEdUVlZDc09EWm5ELUFWUWw5RW5HRGI5Rjk2eDdlX0FpXzE1WUxHdzZQc0lLckU5X09GY00tVWJ5M3hPbU00cXRKWQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-20T04:59:27.000Z",
           "tags": [],
           "price": null,
           "feat": false
