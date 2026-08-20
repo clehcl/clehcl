@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:52:18.791Z",
+  "generatedAt": "2026-08-20T23:54:03.992Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -94,11 +94,11 @@
         {
           "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCMFlTdi1RQVdVWlYzc196OWJtbzZUS2MyME9KaG8tRUVZbHFHSk1JTk5mNnVocFJmTGVHWlp3SlNvQzJFbURlQWpKTVc3WkE?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-20T07:54:01.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02c01MbWNhNEdBOGREdlJfbWpGc2xvdTNxUHpkMDBnQ3J2amFyNG5ZcUhGT2tpQ01xYlBZNXVSTk1vckFsRnc?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T07:51:12.000Z",
           "tags": [
             "외식"
           ],
@@ -336,8 +336,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
+        {
+          "title": "식약처, WHO와 아시아·태평양 바이오시밀러 규제 워크숍 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ycmpLR0lqVW5CdjFncWZmd0xBeDVrNkQ5SDJMSk9TLVJnOU9nOVQzTVZOMERyYzlVSWhuV05SVWN2Rl9YSHg3UzhOSjNWcHRWWi1vbEU0bXhxa2daczZ6MWRraUg5UQ?oc=5",
+          "source": "충북뉴스",
+          "sourceInitial": "충북",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-20T23:21:43.000Z",
+          "tags": [
+            "규제",
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "국제유가 하락에 생산자물가 11개월 만에↓…\"8월엔 상승 압력\" - 머니투데이",
           "summary": "",
@@ -350,7 +365,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "\"14억 인도 시장 문 넓힌다\"… 식품산업협회, CEPA 원산지 규제 완화 건의",
@@ -425,18 +440,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "식품산업협회, 인도 사절단 초청…CEPA 원산지 기준 완화 건의",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16c1ZsM2sxaTdLa18zakpQXzUxOGJ4SVR2MTVWUnpHa0QwZi1wMlI2anJBWll3UUh4Yk1hMTVLMl9OTkMwOU00djU1QkktLXJuNTNqcHh6b1FMVkhlZ2Q1WDNfcThuUQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T07:57:24.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -477,6 +480,32 @@
           "tags": [
             "신제품"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[Food & NOW] 버거킹, 대용량 버거 '몬스터 맥시멈' 출시 등",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaamEwMDdKY2tWenFSbzF0bTM1QS03eW9jZnJWQ0l0Z3VZQUYtZzJvclhVODRDdHUtVWozaGo3a2FQekltWGlJaFBCNWFNU0Z6R2JGbW9vaElrcjVGVHFfMG1rdkV6b0V6?oc=5",
+          "source": "ebn.co.kr",
+          "sourceInitial": "eb",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-19T09:42:14.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "경상북도·경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견… 363만 달러 수출 상담 결실",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tX2d1RDh3elpCUUpVcFZXOTBlMWNxMndGVTNuaUJyM25CcjhhaVdzOTJ0aWhrNUpULWJ2YXE0M1BnQ3NW?oc=5",
+          "source": "다경뉴스",
+          "sourceInitial": "다경",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-20T17:24:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -524,30 +553,6 @@
           "sourceInitial": "굿모",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-20T02:33:16.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "NS홈쇼핑, 건강기능식품 PB 강화…락앤락, 산리오 협업 제품 선보여 [유통 PICK]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tQU5BX1k3djJyYkRuS0puakMzNU81QkZtMnpwb3VjVW5FM1dTek5kNENIS3F5Z0M2VU1JV1hZYVlmbmY5UkxhX1VHYUh6MUpDWWlJeFZqY25sZTVVaDZ5T21KQWlOdndCZ0E?oc=5",
-          "source": "뉴스포스트",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-20T02:16:24.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경북경제진흥원, 경북 우수수산물 '일본 해외 시장개척단' 파견…363만 달러 수출",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GSTdvanA0eDZ5QVp1UlNHdkROdUUteVRTN0xmNkJtZ0syclBKYVhrMHhMbjZNX2RWQ1laSVBNRXFYM3JQd2JiSDZOY2JxNGd5dFY3V1U0cUVRNklYdi1sN0VMdWZmQQ?oc=5",
-          "source": "포커스데일리",
-          "sourceInitial": "포커",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-19T21:37:09.000Z",
           "tags": [],
           "price": null,
           "feat": false
