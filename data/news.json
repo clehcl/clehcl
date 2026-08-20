@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:01:34.326Z",
+  "generatedAt": "2026-08-20T17:56:32.355Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 22,
       "items": [
         {
           "title": "7월 유로존 소비자물가 2.9%↑ '가속'…\"에너지 가격 고공행진\"",
@@ -268,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -292,6 +292,18 @@
           "sourceInitial": "내외",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-20T08:40:13.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "급식 식단도 앱으로 관리…식약처, 혁신사례 8건 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaQTE1MkFWVEJCS2pPbXNiSExzQnNpbGgwX2R3Z0MtclFzWDdQcmViUkVIQ2s3cGNOYTJ3OHgxYUh3OXRrM09KMERjX0dKZFJZU09qRA?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T02:13:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -466,7 +478,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 18,
+      "total": 16,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -507,20 +519,6 @@
           "publishedAt": "2026-08-19T06:27:36.000Z",
           "tags": [
             "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "K-간편식 호주 공략…100만달러 수출계약",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXrSAXBBVV95cUxORXA2Z25RMFlYSXgtdWdGdlJfSDItNV8wTHI1LWdkTEFOUmF2eFhKa1Q5WWZUNXZuSFM4T3JobXpMVnpzRTJMZ0ktam0zMGVDMXQtV3g2blU1ZWsxN0E1TXMtc3E4Zm9mSHNjLTIzTHl6?oc=5",
-          "source": "한국농업신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-18T16:04:51.000Z",
-          "tags": [
-            "간편식"
           ],
           "price": null,
           "feat": false
@@ -569,6 +567,18 @@
           "sourceInitial": "굿모",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-20T02:33:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "NS홈쇼핑, 건강기능식품 PB 강화…락앤락, 산리오 협업 제품 선보여 [유통 PICK]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tQU5BX1k3djJyYkRuS0puakMzNU81QkZtMnpwb3VjVW5FM1dTek5kNENIS3F5Z0M2VU1JV1hZYVlmbmY5UkxhX1VHYUh6MUpDWWlJeFZqY25sZTVVaDZ5T21KQWlOdndCZ0E?oc=5",
+          "source": "뉴스포스트",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-20T02:16:24.000Z",
           "tags": [],
           "price": null,
           "feat": false
