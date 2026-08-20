@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:57:47.578Z",
+  "generatedAt": "2026-08-20T09:53:39.201Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02c01MbWNhNEdBOGREdlJfbWpGc2xvdTNxUHpkMDBnQ3J2amFyNG5ZcUhGT2tpQ01xYlBZNXVSTk1vckFsRnc?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T07:51:12.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "21년 장수 브랜드 국수나무, 신메뉴 앞세워 경쟁력 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNW5JLTBUeVhSOTF3SHROcnBHcUlVa0FwVmpnaGhLcjlWWDlyZ1BORGNzOW9XM281a2RTeDJkaHpfeXBQRTZjRW0xOEJhbUtoUHFZRTBn?oc=5",
@@ -119,20 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "식봄, 지방 외식업소 개척 가속화...비수도권 거래액 50% 급증",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZ9IBckFVX3lxTE15Z0ZNZWdCQmwzYTJjRnIzWkNIRVJoU2RrOUJBcHktVVF0eDdWOWhYNkZxOXJmS0pMbG1tT1NPMWFxZHJiZG50WDRGdVFfenZyZEc2NTBZTkFFQ1B5c1k2dGVtdE9pTXlhc3FCYU1wVjlHZw?oc=5",
-          "source": "팝콘뉴스",
-          "sourceInitial": "팝콘",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-20T01:33:59.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
           "title": "7월 유로존 소비자물가 2.9%↑ '가속'…\"에너지 가격 고공행진\"",
@@ -246,16 +246,14 @@
           "feat": false
         },
         {
-          "title": "식품업계 가격 줄인상 속…김호연 빙그레 회장, 상반기 보수 24억 ‘최다’",
+          "title": "배민B마트 ‘최저가도전’ 주문 62% 증가…고물가 속 할인 상품 수요 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiVVdydm1DSVZlalJVRFZBd281RmxrdnN4b3kxZkdvU2VrS1VGWUZNT0xDMHBrR183bFRuSEJGSGtMSEJOMi1QTkdrdzh6bTZOYl9KWHpLNWt6VXBvLURFZ3FXNGtjbl9tTnFB?oc=5",
-          "source": "CEO스코어데일리",
-          "sourceInitial": "CE",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-18T08:40:00.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2U3Y2Z2dRRWhoMmtyQ2NKQUhodl9iUGs0a1ZLYjhIMGtVc1g1VG1nckpRdENyZFlrS1ZpX3FpbmZKM3lnSkpkLVJRQXJDdmxmeDBjMjBmVnp0T1gwSlBSOVZ0QmZsVk0?oc=5",
+          "source": "투데이e코노믹",
+          "sourceInitial": "투데",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T07:03:54.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -401,9 +399,9 @@
           "title": "9차 석유 최고가격 21일 발표…요소수 매점매석 금지 연장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaXpjbjJ4d0JfbldNa29LX2pPeFozRDdNcHNVT0lkVm5WcU5YeVNVU2J6aGFIQ0l5T3BWMG5CWE5oT0xETjhva0hJTHB2QkR2QTlR?oc=5",
-          "source": "dailian.co.kr",
-          "sourceInitial": "da",
-          "sourceColor": "#1a4d8f",
+          "source": "데일리안",
+          "sourceInitial": "데일",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T23:52:00.000Z",
           "tags": [],
           "price": null,
@@ -468,7 +466,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 22,
+      "total": 19,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -486,16 +484,15 @@
           "feat": true
         },
         {
-          "title": "동원F&B, 냉동 치킨 시장 진출…신제품 ‘케바삭’ 출시",
+          "title": "[똑똑한소비] 뚜레쥬르 가을 신제품 4종·웅진식품 빅토리아 기획팩…버거킹·bhc·아웃백·굽네몰·매드포갈릭·나라셀라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xaktsaFZVY0dEUmxtMVJBekJmVzUyem1UWTVqZ3JQdUIxdVBHRllYRzdvNnpzaUFqNE5zRV9BNWdySk01ZTRyMmplclJ4OFc1a2EyMWlqRmExUjJlQVd2UmVJdnM5Vm03N2tDSw?oc=5",
-          "source": "메디컬투데이",
-          "sourceInitial": "메디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T08:02:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMTNQa05CVE05UUpqUE1UcDN0TktuTXowZkc5X0YxUGZiWGVuMm9oU3kxZm0tQXhPb3VrSjlwN2p0TEZrTjlmSXJmZ1BCVGY2T0E2a3FLdEUxY0JEeVktN3ZR?oc=5",
+          "source": "에너지경제신문",
+          "sourceInitial": "에너",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-20T09:46:56.000Z",
           "tags": [
-            "신제품",
-            "출시"
+            "신제품"
           ],
           "price": null,
           "feat": false
@@ -529,27 +526,13 @@
           "feat": false
         },
         {
-          "title": "BBQ 간편식부터 LA 사로잡은 비비고...유통가, 막바지 여름·추석 마케팅 활발",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0N094WlBrenFWSHk3SUh6NU1Oa2FFbDUwX3Z0TlJoZWdzV2dxbGNXUEY2RDhSblFXelR1U3FnVThFcTZzMDM0bFBHUndmT0JjMzBkd1BZUm1YRms3eVhmcGZ2RTVVclRS?oc=5",
-          "source": "데일리팝",
-          "sourceInitial": "데일",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-19T05:25:00.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "K-간편식 호주 공략…100만달러 수출계약",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeFZvOFNleHpad1I4YTBmR2FBRXY2RkxMNmltZDdjSjNZcEs3cmlIUmpvSDVVT09uWUo5TDF2X1Z0ZVlDZWhLemttSHZQTkV6WWVPX1NyV0RvRk81Tm9oMmhwZTlobjZVUnNpcdIBcEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FcDZnblEwWVhJeC11Z0Z2Ul9IMi01XzBMcjUtZ2RMQU5SYXZ4WEprVDlZZlQ1dm5IUzhPcmhtekxWenNFMkxnSS1qbTMwZUMxdC1XeDZuVTVlazE3QTVNcy1zcThmb2ZIc2MtMjNMeXrSAXBBVV95cUxORXA2Z25RMFlYSXgtdWdGdlJfSDItNV8wTHI1LWdkTEFOUmF2eFhKa1Q5WWZUNXZuSFM4T3JobXpMVnpzRTJMZ0ktam0zMGVDMXQtV3g2blU1ZWsxN0E1TXMtc3E4Zm9mSHNjLTIzTHl6?oc=5",
           "source": "한국농업신문",
           "sourceInitial": "한국",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-18T09:48:11.000Z",
+          "publishedAt": "2026-08-18T16:04:51.000Z",
           "tags": [
             "간편식"
           ],
@@ -557,16 +540,14 @@
           "feat": false
         },
         {
-          "title": "아워홈, 이찬원 '순대전골' 제품화 \"HMR·외식·급식 공략\" |",
+          "title": "한국식품콜드체인협회, ‘KOREA COLD CHAIN 2027’ 조기 참가기업 모집",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81dTFfY1pMaUtlWEJGNG5GeGx2bTZjV2MyR0p0bFA2TmgxY2ZGZnRDZG95ckRUQ1d0aE9oLWhDLWJRTjFyS244VmxUM0RkU3JmR29QQUloNTlUd1JDOEQtTXJVTHVUWUdTd1ZF?oc=5",
-          "source": "현대경제신문",
-          "sourceInitial": "현대",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-18T08:36:41.000Z",
-          "tags": [
-            "HMR"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CaTBIY0dyN2xwQWY5R0NpQkVCNHM1eWtSazNCWnl4SU1fOFJXcEdUVlZDc09EWm5ELUFWUWw5RW5HRGI5Rjk2eDdlX0FpXzE1WUxHdzZQc0lLckU5X09GY00tVWJ5M3hPbU00cXRKWQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-20T08:46:26.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -578,6 +559,18 @@
           "sourceInitial": "Ch",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-20T07:38:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[라이프스타일 뉴스클리핑] 2026년 08월 20일(목): 2만원 넘은 배달 치킨…소비자가 냉동실 문을 열었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IYlVwWkRlN3BiT2s4WU83VGlVUnJrVDV2M21GVkFOYUpZaTd3SGE3QU9WUUowN0lMMURyc2JuMkFrSnZWZVVfVy1MTEU1WUVN?oc=5",
+          "source": "sisa-n.com",
+          "sourceInitial": "si",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T03:17:47.000Z",
           "tags": [],
           "price": null,
           "feat": false
