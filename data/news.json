@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:00:23.532Z",
+  "generatedAt": "2026-08-21T21:42:47.078Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 20,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "우아한형제들, 외식업주 자녀 대상 '2026년 우아한 사장님 자녀 장학금' 모집 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Hb3FrNEJfTTFsSGl0OGNsdlZoT2JNdmFabWZYdFBDMG4ySDNfWUh5UFQzMmRhWFB5eW1CSHktb3E0U2hNcDc3QVk3N1lIU24tdVpPRk9Zb3R6MW11b3FFTzRPcENYdEZqckdLU1RPTWROZ0FRYzFMSVY3MEJGUQ?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T09:41:56.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "부산 프랜차이즈 인력양성 AI 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyc0xoSEZxcC1TbDdrN21ZVTV0dS03OFM5aE91emRRUUdsbGM2bURjQlRLbUoyMEZlREZ3OWE4VE5xVEtYcU9KbEkxaGx1V2t3UzlMVEgwcURIR1gt?oc=5",
@@ -119,20 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "BBQ, 맞춤형 떡볶이 콘셉트 '올떡' 직영점 2곳 개점…메뉴 선택 시스템 도입 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZTDhPeG9KZW4weHN5WVU5M1ozOXNRQkR6aV8yWTlRTkFaT1NlS0J6RVB0VmlZbFZpRkthSjIyQjUtc3RnMFc1cnJlTC03QlNwV01JeDJR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T01:34:11.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,23 +145,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
-        {
-          "title": "팔도, 용기면 12종·음료 9종 평균 5%대 인상…\"원가 부담에 가격 조정 불가피\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ud0dmWXdZT0ZiUnZYWENNNXRTTHVvTjdVczJKUGhrOHZPZ09yNFJ3aTIwVHdpSkRQa2JuYUJ0dnJQX3UwTG95WWU4TFJITTRyTzFGaDdiVGJpbF9UZjJ2SjQ1RG1HUGx6Z2hTZzBwZGRyUQ?oc=5",
-          "source": "인더스트리뉴스",
-          "sourceInitial": "인더",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T02:54:33.000Z",
-          "tags": [
-            "원가",
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
           "summary": "",
@@ -174,7 +159,7 @@
             "가격"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
@@ -257,6 +242,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "팔도도 컵라면값 올린다…라면 4사 중 삼양식품만 동결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fQk1BRUg2aW90VmxqQmg1WFczZVpNZWYyUzlTbUhSRUQ3VmFXcTI2UmxEbHd1anAtME5OYmROdXd4Y2t5ZlJ2Z1Q0QV9ZVThVdzVB?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T06:21:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -269,7 +266,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -383,13 +380,13 @@
       "total": 4,
       "items": [
         {
-          "title": "식약처, WHO와 아태 바이오시밀러 규제 역량 강화",
+          "title": "바이오시밀러 심사기준 맞춘다…식약처·WHO, 아태 규제기관 집결",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zYldJV0tYTmJLTlloeG10OUZRLW43UkRTZ05KQnNjZDFMZW8zMHBiMEJGVFdXMkVRZWRzN19jN3RuZkp3TVVJczRfcGF4RHk2cW11Sm9LSVRxNUVTWnVGYXpISjdnQ0k?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-21T02:12:24.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCTUFlejE1d3pNdjJYOVdoc3lyZ19VdVg5anVMbzdsVVlFd0J4YnJOSWlucGF4NXpZNlBvZGdyZ0lhQmhQckdYbDVKUXlwdVptQkFkZlVzX0VlQ3MtclZUZ3paWjdhVkpablhGR3dB?oc=5",
+          "source": "뉴스후플러스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T00:31:21.000Z",
           "tags": [
             "규제",
             "식약처"
@@ -532,18 +529,6 @@
           "feat": false
         },
         {
-          "title": "경상북도·경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견… 363만 달러 수출 상담 결실",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tX2d1RDh3elpCUUpVcFZXOTBlMWNxMndGVTNuaUJyM25CcjhhaVdzOTJ0aWhrNUpULWJ2YXE0M1BnQ3NW?oc=5",
-          "source": "다경뉴스",
-          "sourceInitial": "다경",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-20T17:24:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
@@ -551,6 +536,18 @@
           "sourceInitial": "식품",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-20T09:03:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "웅진식품 ‘초록매실’, 제로 라인업 확대 후 매출 72% 증가 - 조선비즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUC0zWjBlVVdSb2djWlhwMDdOaXJENzhmWmhBcDVOTTBEaWdJTTVNNnF5djJOcDYyTFFsWkxTMVV0MTc1RWszNVkzclc2ajZPNTRFS2NpYnlJc0pnMW81b01XSUZoYVJOXy1CS3p3WlhaY29UVWNsbzVHLVNVeGpZSUoweU8yZ9IBmgFBVV95cUxPWnVrUFM4U2J3eWFrSTlOdy02djVxNl8wUnhiY1FlN0hIczJ2eDh6eG10MFdyOVlIV0JyY1o5Y0s2RXhBUHIwbUNtWE5zWElPanFUSUFZRzUxV1F0b2p5NjRYcnJjVUgwbWUxWkZCOXhFcllPeEo4eTZ2TVlLclItLUd4X1BIQ3pzT1hnVjlHR2hoUi1KQ2hSaXp3?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-20T07:38:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
