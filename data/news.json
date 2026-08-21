@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T10:03:33.331Z",
+  "generatedAt": "2026-08-21T11:47:23.595Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
+        {
+          "title": "“가맹점 10% 단체에 강제 협의권”…프랜차이즈업계 “상시 분쟁 제도화 우려”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdzhhMjNCX3k3VjRzNk9zRDZCM1JOajJmeURwOUM4UG5jUTVOVjRXZGQyYmVoUDVjR2o1Z0pTclB4YzNlTGlTU3FEeVFMTWEwQ09FMDdJQTZ6VXpYM05KOWJMMm9OcHZJY01ZSA?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T10:42:31.000Z",
+          "tags": [
+            "프랜차이즈",
+            "가맹"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
           "summary": "",
@@ -31,7 +46,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "“프랜차이즈 본사 ‘기본 역할’에 충실할 것…9월부터 가맹사업 본격화”",
@@ -91,20 +106,6 @@
           "feat": false
         },
         {
-          "title": "교촌치킨, 윙 메뉴 구성 확대…'반반윙박스 20p' 등 14종 운영 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VYzNRNExid1JBanZlMjZtbFZ4TG5NSnRZRk5icm5KUVM4MzhDRDNNOENWOVBGVDkzZ3k1QUpDWlEydGtHMlpSendCeGdGNDVzLVZpQXBYUmc?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T16:20:34.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 8월 21일 (금) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnRwNFJnZk5ORm1UUFM4NW91c0x4VzVmQ29KX2FOeG9SR0hQZDF3Ymc5MHZWTllQS2hlZkl1WVloak4yZlN6Y1ZxOUlwQWpvSmt5c1hJTUljbWtRQzBtX0c3ZUxCUV9EbGZoelhMdkdiWGZnb1Z0SlhNVHR1NnR0eWllOVNtN3VoYXhGUExR?oc=5",
@@ -119,15 +120,15 @@
           "feat": false
         },
         {
-          "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
+          "title": "[프랜차이즈의 명과 암] ②치킨집 3만 시대의 '자화상'...배달앱에 뜯기고 본사는 강매",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbldzRmRtRHAwMzBybW1NcXhnWXhTSUtfN0JhS3YzaERVU1FJbEF0RmNIMjI4a192ODk0NmFVYmNVR2VsaDRRdkRVcE1MVjlWaXRrcA?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T07:51:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3TjFPelJoNEJhUDBlY0UzeE5qV3lLNi11d05FT0tTMklZQkFUX25hQUFkeFZvTDFTY3ZYUURHcWZtVUV0bVI1SGJZc1RJcks0MENreXZBMlB6MXp6ZEdyWGN1eUlldEdNVEF3b2ctX2pUVUnSAXdBVV95cUxQRzB4X1ZXV3pGZjhYUTNoZWVDdkhwM2pIbE10QXk2M0pYXzFiT0RwS3VRaVZvR2kxLWdEanVXYnRqZ0pXYjkzeURxTGtpcUZ0UHhEQlZ2SGpjUm5ELWR0YWM4N05sdGM3R18yNy12MzhVMnZwdU1Gdw?oc=5",
+          "source": "스트레이트뉴스",
+          "sourceInitial": "스트",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-20T08:13:00.000Z",
           "tags": [
-            "외식"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -143,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 17,
       "items": [
         {
           "title": "팔도, 용기면 12종·음료 9종 평균 5%대 인상…\"원가 부담에 가격 조정 불가피\"",
@@ -269,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -284,6 +285,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "사조푸디스트, 상반기 매출 5,434억원…FS·급식식재 성장 견인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zamV5MTdrWjFlV3Utc2xpQ1dsYnRueG9xRGtEa1FrTWJlZkZ2d3pscVUtdl9WeDNqWjVJYlBRaHZWZU9JQTF4NGpkSWxoRmRXZ1FScTd0YS1DS0p4b3BsSHZ4TGxDUVlpc3JyVEt3M1hNOW1MOUFFWUV3?oc=5",
+          "source": "로이슈",
+          "sourceInitial": "로이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-21T10:00:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "사조푸디스트, 상반기 매출 5434억원 5.4%↑…단체급식·컨세션 성장",
@@ -368,7 +381,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "식약처, WHO와 아태 바이오시밀러 규제 역량 강화",
@@ -407,18 +420,6 @@
           "sourceInitial": "데일",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-19T23:52:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "인도 식품당국 칼끝에 선 롯데…'100%' 빼고 초코파이 특정 로트는 자진회수",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrcktXR3B4aGVhbUc0UkJDQS1renpTU0J4bXVTQVRVTXlQUnRSZlNockR5ZFpRZy1IajNNSU5pc0hJU3FjWHR0Sk9MUU9janJ6a1NZ?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-19T10:28:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -496,7 +497,7 @@
         {
           "title": "[똑똑한소비] 뚜레쥬르 가을 신제품 4종·웅진식품 빅토리아 기획팩…버거킹·bhc·아웃백·굽네몰·매드포갈릭·나라셀라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcDN2aE5rSkNNSFNlMmVZLWtCeWJvSTRTY2JUaTQ3T25XSjh5TFRoQllqLVhEX0Fsbm5uWnZJeTQ3OXlWX3BWb20zWW9XYW9RVnZYSlRrWFFEOGs?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMTNQa05CVE05UUpqUE1UcDN0TktuTXowZkc5X0YxUGZiWGVuMm9oU3kxZm0tQXhPb3VrSjlwN2p0TEZrTjlmSXJmZ1BCVGY2T0E2a3FLdEUxY0JEeVktN3ZR?oc=5",
           "source": "에너지경제신문",
           "sourceInitial": "에너",
           "sourceColor": "#1a4d8f",
