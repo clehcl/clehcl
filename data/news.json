@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:16:13.307Z",
+  "generatedAt": "2026-08-21T20:00:23.532Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 18,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -145,8 +145,23 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 15,
       "items": [
+        {
+          "title": "팔도, 용기면 12종·음료 9종 평균 5%대 인상…\"원가 부담에 가격 조정 불가피\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ud0dmWXdZT0ZiUnZYWENNNXRTTHVvTjdVczJKUGhrOHZPZ09yNFJ3aTIwVHdpSkRQa2JuYUJ0dnJQX3UwTG95WWU4TFJITTRyTzFGaDdiVGJpbF9UZjJ2SjQ1RG1HUGx6Z2hTZzBwZGRyUQ?oc=5",
+          "source": "인더스트리뉴스",
+          "sourceInitial": "인더",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T02:54:33.000Z",
+          "tags": [
+            "원가",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
           "summary": "",
@@ -159,7 +174,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
@@ -176,13 +191,13 @@
           "feat": false
         },
         {
-          "title": "흑해 공습에 멈춰선 곡물선… 세계 식품 가격 올해 11% 넘게 뛴다",
+          "title": "팔도, 왕뚜껑·도시락 등 다음달 1일 가격 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rekhhTmhfRFZTUnVEOFFBQzM4blc4T0dGaVlYUEpFNTV4cTdxWmExaU9kb1JBR0NOTWsxVTZxNkFaQ013Z1NFdHk0Qm1ydWFBdnBtODZrMHlZQ3BlSUp2QmEyZEVYT2hacEk4d1Q1S0nSAXBBVV95cUxOa3pIYU5oX0RWU1J1RDhRQUMzOG5XOE9HRmlZWFBKRTU1eHE3cVphMWlPZG9SQUdDTk1rMVU2cTZBWkNNd2dTRXR5NEJtcnVhQXZwbTg2azB5WUNwZUlKdkJhMmRFWE9oWnBJOHdUNUtJ?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-21T02:10:59.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lWTdaT0dRS3BRUWRxeHRUbnJnWVFNQzJLTS1qbHNvektOWE54X3Fhdm0yN015bWVkQ3dGMFMwTnl2ZUN2cEw4QzlqR3Z1YVZDSFNJaVExUGdYTENNMDhNN1ZoSlBBSXJ4MjFR?oc=5",
+          "source": "뉴스저널리즘",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T03:53:43.000Z",
           "tags": [
             "가격"
           ],
@@ -190,13 +205,13 @@
           "feat": false
         },
         {
-          "title": "팔도 ‘왕뚜껑’ 가격 오른다…용기면 12종·음료 9종 인상",
+          "title": "왕뚜껑 가격도 오른다... 팔도, 5.5% 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9taWNIX2s1VGV4MU9TT3JEQVJON3VSdk1qVEZpQnY0SUpycGhiOVZ6amZtU3VsRmUyYnBKREs3TUx6UWZ1bm04N3dxYmJqR3hMQ3AybFpVenlsa2RJel9hMXZOTUhEdHR0aFZpMGNB?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T01:28:49.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXczVEVpM2tmcWIwdlZEcElraEdETFRRTEExNkpLWFM3VFV5eExPb21wa1VTNERmdWZHN0t6SnczekZmNUFiYVFkNDZ0Rjd5eHNrekowZVhBSXAwMjF6dXNhSzdyWVBjNDVQT2hLN0J6bWpFcTY2Z2p1YnNzMmFGT1d4Z2c2UXl5ZHc?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T03:29:34.000Z",
           "tags": [
             "가격"
           ],
@@ -218,6 +233,20 @@
           "feat": false
         },
         {
+          "title": "설탕값 '4번 타자' 롯데…가격 담합은 제당 3사 [공정위 심판정 톡톡]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTVl6RmZlcWloR3BXR2Q1MDlWdFdIR1RHTm8yZ1NUb05aMXlRTk0zcDFETTdJbTdOa0VnRC1VcVFsVXkwQkZ3SVBIMjZLcG5FRVhwbkNDZnZtMnlfR21TNA?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-20T04:42:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "전분당 매각하는 CJ제일제당.SKU 축소하는 롯데웰푸드...식품업계 ‘선택과 집중’ 본격화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zX1BKUHZIcmtOT3NXSHAzWU85Q0I1T2JGdVpuclFtUVhiTlhGdXo0MU5SU1BKSVhiMFBzNzY5YVhlZy1WNlVIcGZwVTE5UHAwb2x5VmhKVXBXQy1LSHA0VGg4ZUJ2QQ?oc=5",
@@ -225,30 +254,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-21T08:51:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "팔도도 컵라면값 올린다…라면 4사 중 삼양식품만 동결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fQk1BRUg2aW90VmxqQmg1WFczZVpNZWYyUzlTbUhSRUQ3VmFXcTI2UmxEbHd1anAtME5OYmROdXd4Y2t5ZlJ2Z1Q0QV9ZVThVdzVB?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T06:21:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“계약보다 시식 먼저”… 닭볶음탕 배달 브랜드 ‘먹언니’, 식재료 자율구매·5분 조리 앞세워 가맹 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNy0xdm9kOW42OGp1N0tlUXV1Mmp5ZlpXRnRYcE1nNWNGOVJTbGpfdGg2X3E2ck9aSnF4YTFnTnVFTEJxemVDRg?oc=5",
-          "source": "얼리어답터뉴스",
-          "sourceInitial": "얼리",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-21T04:47:39.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -441,7 +446,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 13,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -457,21 +462,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "NS홈쇼핑, 건강기능식품 PB 강화…엔웰스 신제품 6종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FbklfYlhQT0IwWVlhN1pLT09kWVRpWHVFSEEtNzc3SmFIWm1mWlItdkFsMFlsYzRsUXpiRXRFRmpiUVJRMUozakdFRXM3QQ?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-20T01:07:32.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "[나눔트렌드] 서울아산병원 김효원 교수, ‘Folia Award’ 상금 전액 한국자폐인사랑협회 기부 外",
@@ -530,20 +520,6 @@
           "feat": false
         },
         {
-          "title": "\"신라면·불닭 1등 아니네\"…한국인 장바구니 열어보니 '반전' [권용훈의 트렌드워치]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOU3B4MkVSWFhnRGVyZzhEdUsyOFVEUGdRdmNrZHlLYXFuMjdKNFlOdWpYTW1tajZzRV9uZTZLbVVSUXhSeVVicWdJV2ZzSE5RSVlWVXBYc2I4dw?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-20T01:00:06.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "비비드키친 김치소스 2종 국내 상륙…아마존 매출 700%↑, 30% 할인 진행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UjY4TmpqbHQ0aFdURHlJSkpkN1dqeUl5SVViamZfaklmczA3a2tHRHVZSmZrU1lOV3lkUjBRUzlUNFBhSWtuX245SzhpZ3VraW94ZXJWM0F0WXdIc0VZSmJSVTk4SUNLS29HQWt3?oc=5",
@@ -551,6 +527,30 @@
           "sourceInitial": "gu",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-21T06:46:14.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "경상북도·경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견… 363만 달러 수출 상담 결실",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tX2d1RDh3elpCUUpVcFZXOTBlMWNxMndGVTNuaUJyM25CcjhhaVdzOTJ0aWhrNUpULWJ2YXE0M1BnQ3NW?oc=5",
+          "source": "다경뉴스",
+          "sourceInitial": "다경",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-20T17:24:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-20T09:03:31.000Z",
           "tags": [],
           "price": null,
           "feat": false
