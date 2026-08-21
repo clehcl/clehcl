@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:55:35.480Z",
+  "generatedAt": "2026-08-21T23:52:09.054Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 18,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -93,20 +93,6 @@
           "feat": false
         },
         {
-          "title": "우아한형제들, 외식업주 자녀 대상 '2026년 우아한 사장님 자녀 장학금' 모집 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Hb3FrNEJfTTFsSGl0OGNsdlZoT2JNdmFabWZYdFBDMG4ySDNfWUh5UFQzMmRhWFB5eW1CSHktb3E0U2hNcDc3QVk3N1lIU24tdVpPRk9Zb3R6MW11b3FFTzRPcENYdEZqckdLU1RPTWROZ0FRYzFMSVY3MEJGUQ?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T09:41:56.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "부산 프랜차이즈 인력양성 AI 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyc0xoSEZxcC1TbDdrN21ZVTV0dS03OFM5aE91emRRUUdsbGM2bURjQlRLbUoyMEZlREZ3OWE4VE5xVEtYcU9KbEkxaGx1V2t3UzlMVEgwcURIR1gt?oc=5",
@@ -133,6 +119,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "프랜차이즈 트렌드 2027…‘골목의 전문경영인’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sMm16S2NFWERLU3BsWWk0UXFkN1lRVThpa3hqOTRfcTJxS2VTaV9kTFp5M1NMTFdFU0RNQjBKRlktdFcyTkhPQUZ2X0ltT0xOV0tNTA?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T02:07:06.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
@@ -266,7 +266,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -377,7 +377,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "바이오시밀러 심사기준 맞춘다…식약처·WHO, 아태 규제기관 집결",
@@ -416,18 +416,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-21T00:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "9차 석유 최고가격 21일 발표…요소수 매점매석 금지 연장",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaXpjbjJ4d0JfbldNa29LX2pPeFozRDdNcHNVT0lkVm5WcU5YeVNVU2J6aGFIQ0l5T3BWMG5CWE5oT0xETjhva0hJTHB2QkR2QTlR?oc=5",
-          "source": "데일리안",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T23:52:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -529,18 +517,6 @@
           "feat": false
         },
         {
-          "title": "경상북도·경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견… 363만 달러 수출 상담 결실",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tX2d1RDh3elpCUUpVcFZXOTBlMWNxMndGVTNuaUJyM25CcjhhaVdzOTJ0aWhrNUpULWJ2YXE0M1BnQ3NW?oc=5",
-          "source": "다경뉴스",
-          "sourceInitial": "다경",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-20T17:24:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
@@ -548,6 +524,18 @@
           "sourceInitial": "식품",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-20T09:03:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "웅진식품 ‘초록매실’, 제로 라인업 확대 후 매출 72% 증가 - 조선비즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUC0zWjBlVVdSb2djWlhwMDdOaXJENzhmWmhBcDVOTTBEaWdJTTVNNnF5djJOcDYyTFFsWkxTMVV0MTc1RWszNVkzclc2ajZPNTRFS2NpYnlJc0pnMW81b01XSUZoYVJOXy1CS3p3WlhaY29UVWNsbzVHLVNVeGpZSUoweU8yZ9IBmgFBVV95cUxPWnVrUFM4U2J3eWFrSTlOdy02djVxNl8wUnhiY1FlN0hIczJ2eDh6eG10MFdyOVlIV0JyY1o5Y0s2RXhBUHIwbUNtWE5zWElPanFUSUFZRzUxV1F0b2p5NjRYcnJjVUgwbWUxWkZCOXhFcllPeEo4eTZ2TVlLclItLUd4X1BIQ3pzT1hnVjlHR2hoUi1KQ2hSaXp3?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-20T07:38:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
