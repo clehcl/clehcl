@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:04:31.496Z",
+  "generatedAt": "2026-08-21T10:03:33.331Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 16,
       "items": [
         {
           "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
@@ -119,13 +119,13 @@
           "feat": false
         },
         {
-          "title": "K-브랜드, 동남아 공략 본격화…외식·패션 현지화 전략 강화 EBN",
+          "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXg0VzhQaUEtcC1wTjhLcDNHcFNIcl9CMEFTX1g4QnNiV2FQMlBWeUdVa0xiRVRNMXk2ZkpWZnVIZjdsZHN1X05tMHpsSHNUTXVtRllJNm5Md1EwejdQVjZsMWRUZEY5NzFYNmtQUGRzZDBRdDBfamVFWWd6ektiSQ?oc=5",
-          "source": "Investing.com 한국어",
-          "sourceInitial": "In",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-20T08:11:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbldzRmRtRHAwMzBybW1NcXhnWXhTSUtfN0JhS3YzaERVU1FJbEF0RmNIMjI4a192ODk0NmFVYmNVR2VsaDRRdkRVcE1MVjlWaXRrcA?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-20T07:51:12.000Z",
           "tags": [
             "외식"
           ],
@@ -163,7 +163,7 @@
         {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tNnN6dlRYOFYyMUhHbWFqM2s4em1feG5LRG9KSi1LcXAtZmJLNFMxVjBTZ1dFNjduX2xWWDlEY1VWSTlUblFxVjl2Tm1uQ2Z0VG9WeGZUZnpHemQybnhFUtIBeEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TNIBeEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TA?oc=5",
           "source": "뉴시스",
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
@@ -209,7 +209,21 @@
           "source": "조선일보",
           "sourceInitial": "조선",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T03:25:00.000Z",
+          "publishedAt": "2026-08-21T03:29:34.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "팔도 ‘왕뚜껑’ 가격 오른다…용기면 12종·음료 9종 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZlo5OE1VM1FGV1RyZUt0Sy1ENExQX2N1ZUVFRmszMThpUkxQSkRBMm1CVnFfc3YwV0tKZ3NjcDdsRGo4VngxVDB6dHdvdXB0V1hLQWZRTE5WYnZQTmhyUEdMcE1pQnpycjQteA?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T01:28:49.000Z",
           "tags": [
             "가격"
           ],
@@ -243,20 +257,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "설탕값 '4번 타자' 롯데…가격 담합은 제당 3사 [공정위 심판정 톡톡]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTVl6RmZlcWloR3BXR2Q1MDlWdFdIR1RHTm8yZ1NUb05aMXlRTk0zcDFETTdJbTdOa0VnRC1VcVFsVXkwQkZ3SVBIMjZLcG5FRVhwbkNDZnZtMnlfR21TNA?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-20T04:42:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -356,18 +356,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "서울 여름철 농산물 97.9% ‘적합’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lTWhMYmxvb1R0LTJiOWFVbk5EZWJZRFVYOG94dDhpQVpNRko5ajlUV1JnNC05SFp3cHd4ZU1JNUJMLVBHeGFDUDhaV0NTX2VIU1N6QkUxYXlpVy1FYnI4SURzQUJoUlB6?oc=5",
-          "source": "대한급식신문",
-          "sourceInitial": "대한",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-19T09:59:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -383,13 +371,13 @@
       "total": 4,
       "items": [
         {
-          "title": "바이오시밀러 심사기준 맞춘다…식약처·WHO, 아태 규제기관 집결",
+          "title": "식약처, WHO와 아태 바이오시밀러 규제 역량 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCTUFlejE1d3pNdjJYOVdoc3lyZ19VdVg5anVMbzdsVVlFd0J4YnJOSWlucGF4NXpZNlBvZGdyZ0lhQmhQckdYbDVKUXlwdVptQkFkZlVzX0VlQ3MtclZUZ3paWjdhVkpablhGR3dB?oc=5",
-          "source": "뉴스후플러스",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T00:31:21.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zYldJV0tYTmJLTlloeG10OUZRLW43UkRTZ05KQnNjZDFMZW8zMHBiMEJGVFdXMkVRZWRzN19jN3RuZkp3TVVJczRfcGF4RHk2cW11Sm9LSVRxNUVTWnVGYXpISjdnQ0k?oc=5",
+          "source": "한국식품의약신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-21T02:12:24.000Z",
           "tags": [
             "규제",
             "식약처"
@@ -446,7 +434,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -520,20 +508,6 @@
           "feat": false
         },
         {
-          "title": "[Food & NOW] 버거킹, 대용량 버거 '몬스터 맥시멈' 출시 등",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaamEwMDdKY2tWenFSbzF0bTM1QS03eW9jZnJWQ0l0Z3VZQUYtZzJvclhVODRDdHUtVWozaGo3a2FQekltWGlJaFBCNWFNU0Z6R2JGbW9vaElrcjVGVHFfMG1rdkV6b0V6?oc=5",
-          "source": "ebn.co.kr",
-          "sourceInitial": "eb",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T09:42:14.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "비비드키친 김치소스 2종 국내 상륙…아마존 매출 700%↑, 30% 할인 진행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UjY4TmpqbHQ0aFdURHlJSkpkN1dqeUl5SVViamZfaklmczA3a2tHRHVZSmZrU1lOV3lkUjBRUzlUNFBhSWtuX245SzhpZ3VraW94ZXJWM0F0WXdIc0VZSmJSVTk4SUNLS29HQWt3?oc=5",
@@ -553,6 +527,18 @@
           "sourceInitial": "다경",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-20T17:24:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "이너뷰티·두부면·1분 김치 등 K-푸드 홍콩 사로잡다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bmVTWms3dktSajNTbmQ0cmJjT0RRRTctLVpubFI4LW9TeDU5ZnNhcWQwdFVkLWJEMlpRb2R2d1dLRVQ5NlZlcGNEcVZUcXRvTFBjMVR5NUsxelA1ZkNBWnFnVUctekxqUU1iX2tEWQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-20T09:03:31.000Z",
           "tags": [],
           "price": null,
           "feat": false
