@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T03:31:08.833Z",
+  "generatedAt": "2026-08-21T05:49:39.640Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,21 +19,6 @@
       "total": 19,
       "items": [
         {
-          "title": "외식 프랜차이즈 매장 LSM 제안 요청드립니다. - 대행의뢰 - 마케팅 대행",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1X1dhNU1ZWFE0TWdjeWpyMHZwS1l6R0M3b1J3NDY1OXlrTE8ycC1UWTJqeUxtNlFUYTJDWjZWUkFoeXZnRHpibU52WVp0SDg?oc=5",
-          "source": "아이보스",
-          "sourceInitial": "아이",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T07:22:31.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
           "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTdpd0RsMElMVHp5eWg5dk5oSTVaTUR1OXB5N210T0Y2aFRLXzNieU96U1NkM25fWVpVN2wxbWRmSURLellaNmM1QkdzU0s4VWxVQ1I0UkgxTy1sQlVXZFJacnN3UDg0WWE0VXNId1VHbVFmVXdqc1FlR1B3QzVjd3J3MmJiWTJkODNXeUp3?oc=5",
@@ -46,7 +31,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "“프랜차이즈 본사 ‘기본 역할’에 충실할 것…9월부터 가맹사업 본격화”",
@@ -92,6 +77,20 @@
           "feat": false
         },
         {
+          "title": "BBQ, 맞춤형 떡볶이 콘셉트 '올떡' 직영점 2곳 개점…메뉴 선택 시스템 도입 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZTDhPeG9KZW4weHN5WVU5M1ozOXNRQkR6aV8yWTlRTkFaT1NlS0J6RVB0VmlZbFZpRkthSjIyQjUtc3RnMFc1cnJlTC03QlNwV01JeDJR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T01:34:11.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "일본 찾는 외국인 관광객 급증…K-프랜차이즈도 현지 시장 공략 속도",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTWQ5NmdDd3J0MzdqME9qZnphRjFFeXhfWFloakFNallxTHVrMnRIOFdhSmwzSEo2NmtrRWtUTXRncFQyTkw5eXNudTV0T2JIb1pz?oc=5",
@@ -101,6 +100,20 @@
           "publishedAt": "2026-08-20T21:22:06.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "교촌치킨, 윙 메뉴 구성 확대…'반반윙박스 20p' 등 14종 운영 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VYzNRNExid1JBanZlMjZtbFZ4TG5NSnRZRk5icm5KUVM4MzhDRDNNOENWOVBGVDkzZ3k1QUpDWlEydGtHMlpSendCeGdGNDVzLVZpQXBYUmc?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-20T16:20:34.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -118,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "“프차가 음료 제조사를, 식품사는 외식 브랜드를”…F&B 인수합병 새 공식",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbldzRmRtRHAwMzBybW1NcXhnWXhTSUtfN0JhS3YzaERVU1FJbEF0RmNIMjI4a192ODk0NmFVYmNVR2VsaDRRdkRVcE1MVjlWaXRrcA?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T07:51:12.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "팔도, 용기면 12종·음료 9종 평균 5%대 인상…\"원가 부담에 가격 조정 불가피\"",
@@ -162,13 +161,13 @@
           "feat": true
         },
         {
-          "title": "왕뚜껑 가격도 오른다... 팔도, 5.5% 인상",
+          "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXczVEVpM2tmcWIwdlZEcElraEdETFRRTEExNkpLWFM3VFV5eExPb21wa1VTNERmdWZHN0t6SnczekZmNUFiYVFkNDZ0Rjd5eHNrekowZVhBSXAwMjF6dXNhSzdyWVBjNDVQT2hLN0J6bWpFcTY2Z2p1YnNzMmFGT1d4Z2c2UXl5ZHc?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YUlNOUNvZUJqUFNSMmNnRlUtWXpUV1MzOHZINW11Q21oYXc5U0dLRy00dXN1empMVHVmclJqX2s1LUNjcmhUamp0aFRKTTYydm9jdk82TkhTS3EtVFo0d1Y1aGl0ZC1GSWo1b1VR0gFuQVVfeXFMTXVhSU05Q29lQmpQU1IyY2dGVS1ZelRXUzM4dkg1bXVDbWhhdzlTR0tHLTR1c3V6akxUdWZyUmpfazUtQ2NyaFRqanRoVEpNNjJ2b2N2TzZOSFNLcS1UWjR3VjVoaXRkLUZJajVvVVE?oc=5",
+          "source": "뉴시안",
+          "sourceInitial": "뉴시",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T03:25:00.000Z",
+          "publishedAt": "2026-08-21T04:10:28.000Z",
           "tags": [
             "가격"
           ],
@@ -176,13 +175,27 @@
           "feat": false
         },
         {
-          "title": "팔도 ‘왕뚜껑’ 가격 오른다…용기면 12종·음료 9종 인상",
+          "title": "팔도, 왕뚜껑·도시락 등 다음달 1일 가격 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZlo5OE1VM1FGV1RyZUt0Sy1ENExQX2N1ZUVFRmszMThpUkxQSkRBMm1CVnFfc3YwV0tKZ3NjcDdsRGo4VngxVDB6dHdvdXB0V1hLQWZRTE5WYnZQTmhyUEdMcE1pQnpycjQteA?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lWTdaT0dRS3BRUWRxeHRUbnJnWVFNQzJLTS1qbHNvektOWE54X3Fhdm0yN015bWVkQ3dGMFMwTnl2ZUN2cEw4QzlqR3Z1YVZDSFNJaVExUGdYTENNMDhNN1ZoSlBBSXJ4MjFR?oc=5",
+          "source": "뉴스저널리즘",
+          "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T01:28:49.000Z",
+          "publishedAt": "2026-08-21T03:53:43.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "왕뚜껑 가격도 오른다... 팔도, 5.5% 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXczVEVpM2tmcWIwdlZEcElraEdETFRRTEExNkpLWFM3VFV5eExPb21wa1VTNERmdWZHN0t6SnczekZmNUFiYVFkNDZ0Rjd5eHNrekowZVhBSXAwMjF6dXNhSzdyWVBjNDVQT2hLN0J6bWpFcTY2Z2p1YnNzMmFGT1d4Z2c2UXl5ZHc?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T03:25:00.000Z",
           "tags": [
             "가격"
           ],
@@ -242,18 +255,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "유가 하락에 생산자물가 11개월 만에 꺾여…먹거리는 ‘고공행진’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEhic1llN1pmUWJiRVlsdXgxMkE3OV8xTXpxeG1MUGFoeE9seW05SFZjamZaR1hqRElaa0g2c2ZVQWZGVmR6dV9yM0dEREVMdEFoR0xQMXB0QmFISzczNHc4eld3R3hiU0FYNnBVVVpMMjZvaFljVGZFMjdYWFRQNg?oc=5",
-          "source": "edaily.co.kr",
-          "sourceInitial": "ed",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-20T21:00:07.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -266,7 +267,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -281,6 +282,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "사조푸디스트, 상반기 매출 5434억원 5.4%↑…단체급식·컨세션 성장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XOEx1SFZ4NG9kOHNBQjFkUmFCT0ZOeGVwOFNESlE5U0tPRmNLeW5Za2g0VS1fWGJERDdZSUpONjRnQUhYNzN2QUpacWNFaTVnaDBVczZKN1cydw?oc=5",
+          "source": "브릿지경제",
+          "sourceInitial": "브릿",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T05:03:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "산청군먹거리통합지원센터, 공공급식 26곳으로 확대",
@@ -307,13 +320,25 @@
           "feat": false
         },
         {
+          "title": "사조푸디스트, 5434억 매출… 급식 11.6% 뛰었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44dHJfZGFianBOS1Z4amNvTFFBa0ZHRGg3MjRzZ3pEVjFTUmRTR0d3Qlh5N0d5djNYUGhIZFQ0NFJEYXZVaHJQZHN3b1BybDQxV3pjSUxxWVNqVXdVeUYtMjBfY0xtb081M2c?oc=5",
+          "source": "프레스맨",
+          "sourceInitial": "프레",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T01:16:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "한화 아워홈, 상반기 매출 1.4조 … '단체급식·B2C·해외' 성장축 넓힌다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KN1NLQ3pQeE1BYTItMWE1TGJIb2xLYnh2bkRpMExHZUllLWpEYWRYYkt1ejVta0FPS182ZVhGRklnXzE0d2VMWDNyZTJ1eERlYTMtNUVXc0dicDV5U0s4d0JyQ3JEdlVWUVZwZ3dZV0FsWG1Qd1hHMWxpQdIBgAFBVV95cUxNVGd1cUxZanlzQkdRdHh5SjM2OFNLSlZRTHB3U2lNRUdDUmh2czg3ZXdhWTRqSTRVSGY0aGdZMUlwR1ptVnl2OVNnQW1OSWVSRFpHQnViOHBIZ3VlM2MtWDRHVl9aZFRlQkhMUnB3N1QyRndxMDRaenA5R0VsZklWMA?oc=5",
           "source": "뉴데일리",
           "sourceInitial": "뉴데",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T01:01:47.000Z",
+          "publishedAt": "2026-08-20T23:59:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -326,18 +351,6 @@
           "sourceInitial": "아",
           "sourceColor": "#3a7a3a",
           "publishedAt": "2026-08-20T23:38:15.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "군위 소농 62%, 대구 109만 가구와 잇는다…먹거리 통합체계 추진",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlM25uQ0oyVk44Wi1HRUVRU0wzcWFLNTdDRUNTeHBndVdfWDJPQXZoejhGZmxCeVNXYmZaX2p5U0hFTDVVX1kzSHBqSFE0amRWQjdZWUluX1dfdzdUc2NQbQ?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-20T01:20:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -365,16 +378,16 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 5,
       "items": [
         {
-          "title": "\"바이오시밀러 규제역량 강화\"…식약처·WHO '맞손'",
+          "title": "바이오시밀러 심사기준 맞춘다…식약처·WHO, 아태 규제기관 집결",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51VzFHVXlUZThGVG9ZNGNtekkwVHVwRVNlYkVVRF9hWENqQ1ItZzZXSzg1TFRWZ3ZnSHh1VVo0cWpoZ2dPbHFORUlXb01lNDQ0VmU1c3N0VFIxOWNJVFRYaWJhMlBMM3B0bm93UjRSZmJxSGIwN2ZSeNIBeEFVX3lxTE51VzFHVXlUZThGVG9ZNGNtekkwVHVwRVNlYkVVRF9hWENqQ1ItZzZXSzg1TFRWZ3ZnSHh1VVo0cWpoZ2dPbHFORUlXb01lNDQ0VmU1c3N0VFIxOWNJVFRYaWJhMlBMM3B0bm93UjRSZmJxSGIwN2ZSeA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-21T00:01:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCTUFlejE1d3pNdjJYOVdoc3lyZ19VdVg5anVMbzdsVVlFd0J4YnJOSWlucGF4NXpZNlBvZGdyZ0lhQmhQckdYbDVKUXlwdVptQkFkZlVzX0VlQ3MtclZUZ3paWjdhVkpablhGR3dB?oc=5",
+          "source": "뉴스후플러스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T00:31:21.000Z",
           "tags": [
             "규제",
             "식약처"
@@ -407,46 +420,6 @@
           "tags": [
             "물가"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"14억 인도 시장 문 넓힌다\"… 식품산업협회, CEPA 원산지 규제 완화 건의",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13YjR5aXdxU3k5b0ZVTGY3aHhqbjJ0MHJEd3NQRERXcDBLcmNMakZnR04yYUwtTk1EVWltX0oyVmJqa1dKb1BKUlpGRENRWThYQlZQV21CNWFVOUt0UWNSWlBLY0xxT1F3eUpn?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-20T07:05:38.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "오유경 식약처장, 정제·캡슐 일반식품 생산 제한…GMO 표시 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcElmemN6QmZZU2xEN3N0TWVEaFRKTkxCV3hCLW1zaVVaSWtzMGJLQTZHcGthcXl5b3RTcVVabXZPdGY1REVYQWdZYlVrWlVRT1NDaDJ6YmN5VWRCT09OWXRmMTh6UQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-19T03:53:08.000Z",
-          "tags": [
-            "식약처"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계 “원산지 기준 완화해야 K-푸드 인도 수출 증가” CEPA 개선 건의",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVXh3dHNWQktXQVNQMkFUUG45LXhVVWVrRGM2TElUVDJseFA5ZDNHOHRGT1VCNjBvWHl5MngxQVBVWW9zSFhpLTd2eVJqRFRhcXV2bGdXUE1EbFJYRmVWSmhCRjllaG5wMUNnZQ?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T01:21:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -485,7 +458,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "NS홈쇼핑, 건강기능식품 신제품 6종 출시…판매 채널 확대",
@@ -501,6 +474,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[나눔트렌드] 서울아산병원 김효원 교수, ‘Folia Award’ 상금 전액 한국자폐인사랑협회 기부 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUXlTaGVqTXBpLTZCek9HeWxvR0Q4UmFJbGlzSFFOV0NDcUVmbFJySlBRLVBXYzRzNkJlTkliZlZsd2JyS19KNkdiYmszVzRBU0ZYUzE5b1lUSEpqREpDRk5naEh5Ykp5enZ2Xw?oc=5",
+          "source": "베이비뉴스",
+          "sourceInitial": "베이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-21T04:45:38.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "“미국이 먼저 반한 K-김치소스”…동원홈푸드, 비비드키친 김치소스 2종 국내 출시",
@@ -540,20 +527,6 @@
           "publishedAt": "2026-08-20T09:46:56.000Z",
           "tags": [
             "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"신라면·불닭 1등 아니네\"…한국인 장바구니 열어보니 '반전' [권용훈의 트렌드워치]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOU3B4MkVSWFhnRGVyZzhEdUsyOFVEUGdRdmNrZHlLYXFuMjdKNFlOdWpYTW1tajZzRV9uZTZLbVVSUXhSeVVicWdJV2ZzSE5RSVlWVXBYc2I4dw?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-20T01:00:06.000Z",
-          "tags": [
-            "트렌드"
           ],
           "price": null,
           "feat": false
