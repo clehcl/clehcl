@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T11:47:23.595Z",
+  "generatedAt": "2026-08-21T14:06:51.594Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 19,
       "items": [
+        {
+          "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoUC1RQzJfU0NzVWRIejRjVjJHVHQ4Nk40SFVkZUt0Uk9lQXJrS0RLMjJJbVBlNl81V1RoUUJVd2dNRFRwSWxZR3c5QzlIOHBfNEgzUjliTVhyQQ?oc=5",
+          "source": "농민신문",
+          "sourceInitial": "농",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T13:00:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "“가맹점 10% 단체에 강제 협의권”…프랜차이즈업계 “상시 분쟁 제도화 우려”",
           "summary": "",
@@ -31,16 +46,16 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTdpd0RsMElMVHp5eWg5dk5oSTVaTUR1OXB5N210T0Y2aFRLXzNieU96U1NkM25fWVpVN2wxbWRmSURLellaNmM1QkdzU0s4VWxVQ1I0UkgxTy1sQlVXZFJacnN3UDg0WWE0VXNId1VHbVFmVXdqc1FlR1B3QzVjd3J3MmJiWTJkODNXeUp3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtcGVpTm8xb3FCTTlNdnVUajdwTW81QmdETUVNaXBZNmUyNlBiclRSY0VmdXJ4dEI5QnJIR09xem1STGF5aFZPYktGcE9KOVhLX3R1VzZ3?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T18:38:32.000Z",
+          "publishedAt": "2026-08-20T19:46:46.000Z",
           "tags": [
             "외식",
             "메뉴"
@@ -59,6 +74,20 @@
           "tags": [
             "프랜차이즈",
             "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "부산 프랜차이즈 인력양성 AI 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyc0xoSEZxcC1TbDdrN21ZVTV0dS03OFM5aE91emRRUUdsbGM2bURjQlRLbUoyMEZlREZ3OWE4VE5xVEtYcU9KbEkxaGx1V2t3UzlMVEgwcURIR1gt?oc=5",
+          "source": "선데이뉴스신문",
+          "sourceInitial": "선데",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-21T03:21:34.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -92,43 +121,15 @@
           "feat": false
         },
         {
-          "title": "일본 찾는 외국인 관광객 급증…K-프랜차이즈도 현지 시장 공략 속도",
+          "title": "BBQ, 맞춤형 떡볶이 콘셉트 '올떡' 직영점 2곳 개점…메뉴 선택 시스템 도입 [ 신아일보 강동완 기자 ]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTWQ5NmdDd3J0MzdqME9qZnphRjFFeXhfWFloakFNallxTHVrMnRIOFdhSmwzSEo2NmtrRWtUTXRncFQyTkw5eXNudTV0T2JIb1pz?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-20T21:22:06.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 21일 (금) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnRwNFJnZk5ORm1UUFM4NW91c0x4VzVmQ29KX2FOeG9SR0hQZDF3Ymc5MHZWTllQS2hlZkl1WVloak4yZlN6Y1ZxOUlwQWpvSmt5c1hJTUljbWtRQzBtX0c3ZUxCUV9EbGZoelhMdkdiWGZnb1Z0SlhNVHR1NnR0eWllOVNtN3VoYXhGUExR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZTDhPeG9KZW4weHN5WVU5M1ozOXNRQkR6aV8yWTlRTkFaT1NlS0J6RVB0VmlZbFZpRkthSjIyQjUtc3RnMFc1cnJlTC03QlNwV01JeDJR?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T10:35:07.000Z",
+          "publishedAt": "2026-08-21T01:34:11.000Z",
           "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[프랜차이즈의 명과 암] ②치킨집 3만 시대의 '자화상'...배달앱에 뜯기고 본사는 강매",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3TjFPelJoNEJhUDBlY0UzeE5qV3lLNi11d05FT0tTMklZQkFUX25hQUFkeFZvTDFTY3ZYUURHcWZtVUV0bVI1SGJZc1RJcks0MENreXZBMlB6MXp6ZEdyWGN1eUlldEdNVEF3b2ctX2pUVUnSAXdBVV95cUxQRzB4X1ZXV3pGZjhYUTNoZWVDdkhwM2pIbE10QXk2M0pYXzFiT0RwS3VRaVZvR2kxLWdEanVXYnRqZ0pXYjkzeURxTGtpcUZ0UHhEQlZ2SGpjUm5ELWR0YWM4N05sdGM3R18yNy12MzhVMnZwdU1Gdw?oc=5",
-          "source": "스트레이트뉴스",
-          "sourceInitial": "스트",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T08:13:00.000Z",
-          "tags": [
-            "프랜차이즈"
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -144,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 15,
       "items": [
         {
           "title": "팔도, 용기면 12종·음료 9종 평균 5%대 인상…\"원가 부담에 가격 조정 불가피\"",
@@ -218,20 +219,6 @@
           "feat": false
         },
         {
-          "title": "팔도 ‘왕뚜껑’ 가격 오른다…용기면 12종·음료 9종 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZlo5OE1VM1FGV1RyZUt0Sy1ENExQX2N1ZUVFRmszMThpUkxQSkRBMm1CVnFfc3YwV0tKZ3NjcDdsRGo4VngxVDB6dHdvdXB0V1hLQWZRTE5WYnZQTmhyUEdMcE1pQnpycjQteA?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T01:28:49.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "한화투자 \"CJ제일제당 하반기 식품 원가 부담 지속, 바이오 회복 가능성은 긍정적\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYLU5MU3RKVEw1TmF2Z1l0TU5Mc3VfcTFwbHhxNjEtVTMtbVhhYU0xb2d2NVF6bzZLQXJfNW44YURteDd2eVBmMWtHQUJnMkpjTnltWk12OVNkcmpDQVJNejFJOVZhQVl6d3hCRjU0TmZYYWM?oc=5",
@@ -246,16 +233,28 @@
           "feat": false
         },
         {
-          "title": "7월 유로존 소비자물가 2.9%↑ '가속'…\"에너지 가격 고공행진\"",
+          "title": "설탕값 '4번 타자' 롯데…가격 담합은 제당 3사 [공정위 심판정 톡톡]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOFRVODgzNWN2N3dtajFjYVhMUmkxVE9OazFaR055WWtEeW9KdWZnOENHelVxVGd4bFpUa05NQlhrUkpPcDhuZlN2WEtidWhZMGxzSVhZSHlmaFJhdHlIMdIBeEFVX3lxTFBpWnRXUVZtdm50WnRPRjJQSGRqcjZ4cGFHSHdGNVRMSXVZNDNOOXdVVEdCVlVaZ05BQzVGVWNzd1VjMXFnQWhZUUxUOS11bzgybUtKWHRiZExsVVcxMk54YlJNWkR3RXZyVi1ES1BsLUJzc1I2OVN0Ug?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-20T07:40:08.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTVl6RmZlcWloR3BXR2Q1MDlWdFdIR1RHTm8yZ1NUb05aMXlRTk0zcDFETTdJbTdOa0VnRC1VcVFsVXkwQkZ3SVBIMjZLcG5FRVhwbkNDZnZtMnlfR21TNA?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-20T04:42:00.000Z",
           "tags": [
             "가격"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "전분당 매각하는 CJ제일제당.SKU 축소하는 롯데월푸드...식품업계 ‘선택과 집중’ 본격화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zX1BKUHZIcmtOT3NXSHAzWU85Q0I1T2JGdVpuclFtUVhiTlhGdXo0MU5SU1BKSVhiMFBzNzY5YVhlZy1WNlVIcGZwVTE5UHAwb2x5VmhKVXBXQy1LSHA0VGg4ZUJ2QQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T08:51:57.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -270,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "KT, 식자재 유통 플랫폼 '식봄' 운영사 마켓보로와 손잡았다",
@@ -301,11 +300,11 @@
         {
           "title": "사조푸디스트, 상반기 매출 5434억원 5.4%↑…단체급식·컨세션 성장",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XOEx1SFZ4NG9kOHNBQjFkUmFCT0ZOeGVwOFNESlE5U0tPRmNLeW5Za2g0VS1fWGJERDdZSUpONjRnQUhYNzN2QUpacWNFaTVnaDBVczZKN1cydw?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T05:03:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xblZSM3JoMll4NHpIdTJwRkFnOHMzdzZpNVdFVmhNdnhSY09rd2N4SWtkcGxmenEyY2E3RXBqaThvanl2Mm93VUpsczNGdGE0NkpB?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T05:04:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -381,7 +380,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "식약처, WHO와 아태 바이오시밀러 규제 역량 강화",
@@ -409,6 +408,18 @@
           "tags": [
             "물가"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "대중 식품수출 ‘3대 장벽’ 풀렸다…기업 등록 3개월서 10일로 단축",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VnlCTnl4MEU1d3hsVl9LZkNtY18xNWxIZHFxOUZtcjZRSDhjVngwOUR2VWl1UGF0UVNIaGhkU1ZhLUpJdjhzR1ZENHhWTUE3STRZWUhIa1F6NHA0YUZaZm1TeDVncDdhMTJhUQ?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T00:13:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
