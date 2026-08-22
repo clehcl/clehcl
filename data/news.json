@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:57:17.043Z",
+  "generatedAt": "2026-08-22T20:54:09.147Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -146,20 +146,6 @@
       "total": 11,
       "items": [
         {
-          "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11aktxTVpqZThGRm1VVldaYmNLaDJNaHA2N2l2bXNRSXlpNDd1UWtQa1Z5NmJuZ1czSUQ4dEl4VUgtLTN1TUZ2Y1NWMmw1cEhsLWJKV01JRdIBXEFVX3lxTE8tWXhvci1PZWtUU3VscEFiSjcxaldUV2lwT3oxV1RLUUo2NDM0RFJ2WjhvVGNjLVBTWTg4TUYyUVBKYzdRNUZ4ODF6cjd5NWpRQ3NyaC1laUlPYVJ5?oc=5",
-          "source": "christiandaily.co.kr",
-          "sourceInitial": "ch",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-22T01:54:19.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TNIBeEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TA?oc=5",
@@ -171,44 +157,16 @@
             "가격"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
-          "title": "팔도, 9월부터 용기면·음료 일부 제품 가격 인상",
+          "title": "‘먹거리 물가’ 다시 꿈틀....팔도, 9월부터 용기면·음료 가격 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2TF9tRnRUTk0zQ2hpQ2JYWHZydGRvNnMzdC1YX3gyV2YzTmppYTRneERUcUxVZURCTnh2VHRTSkozYjFUdEZQX0NCOEYyYUNGQnQ0NWt3a3ZBUFNaRnRRVXRqcXFGd2Y1Qk5weTh3?oc=5",
-          "source": "아시아투데이",
-          "sourceInitial": "아시",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T05:35:48.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YUlNOUNvZUJqUFNSMmNnRlUtWXpUV1MzOHZINW11Q21oYXc5U0dLRy00dXN1empMVHVmclJqX2s1LUNjcmhUamp0aFRKTTYydm9jdk82TkhTS3EtVFo0d1Y1aGl0ZC1GSWo1b1VR0gFuQVVfeXFMTXVhSU05Q29lQmpQU1IyY2dGVS1ZelRXUzM4dkg1bXVDbWhhdzlTR0tHLTR1c3V6akxUdWZyUmpfazUtQ2NyaFRqanRoVEpNNjJ2b2N2TzZOSFNLcS1UWjR3VjVoaXRkLUZJajVvVVE?oc=5",
-          "source": "뉴시안",
-          "sourceInitial": "뉴시",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T04:10:28.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "팔도, 왕뚜껑·도시락 등 다음달 1일 가격 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lWTdaT0dRS3BRUWRxeHRUbnJnWVFNQzJLTS1qbHNvektOWE54X3Fhdm0yN015bWVkQ3dGMFMwTnl2ZUN2cEw4QzlqR3Z1YVZDSFNJaVExUGdYTENNMDhNN1ZoSlBBSXJ4MjFR?oc=5",
-          "source": "뉴스저널리즘",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zOWU1M0Y0akFma2pHYm9ZUnNVYkhpay1Nblh4YlpQLUtobHQzZUZ6dUxiSnFwemlDTC02aG5PbVJNMG53ZGRBSHlKR3dyaXZwZ2xCSmxlRWhrR0pzdHotZEY4YzZUVW85ZHc?oc=5",
+          "source": "뉴스티앤티",
           "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T03:53:43.000Z",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T05:18:17.000Z",
           "tags": [
             "가격"
           ],
@@ -223,6 +181,48 @@
           "sourceInitial": "조선",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-21T03:29:34.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qd0IwYk5LT2tQNmRHV2cxeVdUWUdEMTMxQ1RiNlN6alJTcWlEMFRBSnNOVUtFLVgxZlc1NGw2SlpjMGlJd2ZjSk1nTnlrVHFCOXBuQzhUYVk4a0N2R3Nrc0tCS1plUFo0eUxB0gFuQVVfeXFMTXVhSU05Q29lQmpQU1IyY2dGVS1ZelRXUzM4dkg1bXVDbWhhdzlTR0tHLTR1c3V6akxUdWZyUmpfazUtQ2NyaFRqanRoVEpNNjJ2b2N2TzZOSFNLcS1UWjR3VjVoaXRkLUZJajVvVVE?oc=5",
+          "source": "뉴시안",
+          "sourceInitial": "뉴시",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T02:58:47.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "흑해 공습에 멈춰선 곡물선… 세계 식품 가격 올해 11% 넘게 뛴다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rekhhTmhfRFZTUnVEOFFBQzM4blc4T0dGaVlYUEpFNTV4cTdxWmExaU9kb1JBR0NOTWsxVTZxNkFaQ013Z1NFdHk0Qm1ydWFBdnBtODZrMHlZQ3BlSUp2QmEyZEVYT2hacEk4d1Q1S0nSAXBBVV95cUxOa3pIYU5oX0RWU1J1RDhRQUMzOG5XOE9HRmlZWFBKRTU1eHE3cVphMWlPZG9SQUdDTk1rMVU2cTZBWkNNd2dTRXR5NEJtcnVhQXZwbTg2azB5WUNwZUlKdkJhMmRFWE9oWnBJOHdUNUtJ?oc=5",
+          "source": "내외뉴스통신",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-21T02:10:59.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "팔도 ‘왕뚜껑’ 가격 오른다…용기면 12종·음료 9종 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9taWNIX2s1VGV4MU9TT3JEQVJON3VSdk1qVEZpQnY0SUpycGhiOVZ6amZtU3VsRmUyYnBKREs3TUx6UWZ1bm04N3dxYmJqR3hMQ3AybFpVenlsa2RJel9hMXZOTUhEdHR0aFZpMGNB?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T01:28:49.000Z",
           "tags": [
             "가격"
           ],
@@ -375,7 +375,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "식약처·WHO, 아태 바이오시밀러 규제조화 논의 워크숍 공동 개최",
@@ -391,20 +391,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhTnEtYlh3ZWRuOWRadUItWmNQRVR2UjNGVWstVm5zX0w5U3NsbUZBVzFxcVdWT3g4V1E1RWppMGNjT3JmT3BTcGRVbnhZWmt6U3VzUHo1cGZGZTNidFZLa1BYZ1RZdjVKQVI2Z3JOLXl5dGVNY1U00gF3QVVfeXFMUGFOcS1iWHdlZG45ZFp1Qi1aY1BFVHZSM0ZVay1WbnNfTDlTc2xtRkFXMXFxV1ZPeDhXUTVFamkwY2NPcmZPcFNwZFVueFlaa3pTdXNQejVwZkZlM2J0VktrUFhnVFl2NUpBUjZnck4teXl0ZU1jVTQ?oc=5",
-          "source": "뉴스프리존",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-22T12:48:43.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "국제유가 하락에 생산자물가 11개월 만에↓…\"8월엔 상승 압력\" - 머니투데이",
@@ -461,20 +447,6 @@
           "feat": true
         },
         {
-          "title": "단백질·저당 식품 인기…정식품·오리온·동원F&B·샘표, 건강 간편식 경쟁",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qNm9SMXUxVlB1b2pzQUIxTklqUENuZS05Sk9TbXh4WnhzdlRNcmR6RENFUXQ2UzNoQjFEaEpScktwRjRFNF8xT3lNNUtsMzRQdmxYdE8xNkFsMFA1VVNxckVCTlhXbjJ0TlpqVw?oc=5",
-          "source": "나눔경제뉴스",
-          "sourceInitial": "나눔",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-21T21:43:25.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼양식품, 태국 ‘러브 코리아’ 참가…남양유업 백미당, ‘바른식혜’ RTD 출시 [식품오늘]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43SzJSZ3dkVHBGRmxhTE9NSG5nRjhabW9IdUFUQS1XRU80OEVZZEM3YWRoTDNwNEtQdEp4dmlPOXZMNXM4MHlQUFRsQkl4Yml6dk1QVzNnTE5QS0M0QTlvZlRST0lUdk1TRHlj?oc=5",
@@ -499,6 +471,18 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaHRwUkkzTVFqNTlQVm4zTTYyUlR6TFlnZDkwWDFaUzJfM0hDR0tsaDIwajRsMkczalloLXZmWE14eHBxZjZ3NGxWWjlaRWdUTElwUWZjSnlTdDNTZUtLeHIyYXNaZXJOQlHSAW9BVV95cUxQU1V6QmNRY21DNk56UUVIdDZSZ2g2SFJ2TUpNRngwQTNfOUk4OU94VmN3RFRGeUY3YnM1a3FiQlRHaFRVYXB0Q0Q4QS1sX2pQR1dJVUdLLVRiQ3VZaG4zckRPbHFWZ3l3NGtCbmNhb2s?oc=5",
+          "source": "머니투데이",
+          "sourceInitial": "머",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-21T22:00:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
