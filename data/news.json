@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:49:03.925Z",
+  "generatedAt": "2026-08-22T19:02:42.776Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -120,13 +120,13 @@
           "feat": false
         },
         {
-          "title": "플러스82, ‘2026 소비자만족 브랜드 대상’ 커피 프랜차이즈 부문 1위 수상",
+          "title": "부산 프랜차이즈 인력양성 AI 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWm9NdEZBM2Y3aVZ5bmhuSlNNemJFZVFDS2tPOWZ5a0FnZi1tU1pIcndTamJrcEFCbl9zNDJqdGdTNkhjdERJTGJ1Qzg5RHQ0aWF2NUNIck8wWUZFa3ptdzhLLWxRZ9IBZkFVX3lxTE1pWm9NdEZBM2Y3aVZ5bmhuSlNNemJFZVFDS2tPOWZ5a0FnZi1tU1pIcndTamJrcEFCbl9zNDJqdGdTNkhjdERJTGJ1Qzg5RHQ0aWF2NUNIck8wWUZFa3ptdzhLLWxRZw?oc=5",
-          "source": "동아일보",
-          "sourceInitial": "동아",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-21T03:29:42.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyc0xoSEZxcC1TbDdrN21ZVTV0dS03OFM5aE91emRRUUdsbGM2bURjQlRLbUoyMEZlREZ3OWE4VE5xVEtYcU9KbEkxaGx1V2t3UzlMVEgwcURIR1gt?oc=5",
+          "source": "선데이뉴스신문",
+          "sourceInitial": "선데",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-21T03:21:34.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -444,7 +444,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -462,6 +462,34 @@
           "feat": true
         },
         {
+          "title": "단백질·저당 식품 인기…정식품·오리온·동원F&B·샘표, 건강 간편식 경쟁",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qNm9SMXUxVlB1b2pzQUIxTklqUENuZS05Sk9TbXh4WnhzdlRNcmR6RENFUXQ2UzNoQjFEaEpScktwRjRFNF8xT3lNNUtsMzRQdmxYdE8xNkFsMFA1VVNxckVCTlhXbjJ0TlpqVw?oc=5",
+          "source": "나눔경제뉴스",
+          "sourceInitial": "나눔",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-21T21:43:25.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 태국 ‘러브 코리아’ 참가…남양유업 백미당, ‘바른식혜’ RTD 출시 [식품오늘]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43SzJSZ3dkVHBGRmxhTE9NSG5nRjhabW9IdUFUQS1XRU80OEVZZEM3YWRoTDNwNEtQdEp4dmlPOXZMNXM4MHlQUFRsQkl4Yml6dk1QVzNnTE5QS0M0QTlvZlRST0lUdk1TRHlj?oc=5",
+          "source": "sisaon.co.kr",
+          "sourceInitial": "si",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-21T01:38:48.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“미국이 먼저 반한 K-김치소스”…동원홈푸드, 비비드키친 김치소스 2종 국내 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNSi1ac0dxeTFmXzVzeDNTZGo4b3pRUmxrUUZ2Z0ZPZ1Y0YnM2V3B0dHY4M1BEQVF5Z2ROYWpwUGIxeWFwLUF2N3kzal9KcDd4dG1FSHkwS3drLWpPV19DNDVEbTlrNmFVeHlGYQ?oc=5",
@@ -472,18 +500,6 @@
           "tags": [
             "출시"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaHRwUkkzTVFqNTlQVm4zTTYyUlR6TFlnZDkwWDFaUzJfM0hDR0tsaDIwajRsMkczalloLXZmWE14eHBxZjZ3NGxWWjlaRWdUTElwUWZjSnlTdDNTZUtLeHIyYXNaZXJOQlHSAW9BVV95cUxQU1V6QmNRY21DNk56UUVIdDZSZ2g2SFJ2TUpNRngwQTNfOUk4OU94VmN3RFRGeUY3YnM1a3FiQlRHaFRVYXB0Q0Q4QS1sX2pQR1dJVUdLLVRiQ3VZaG4zckRPbHFWZ3l3NGtCbmNhb2s?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T22:00:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
