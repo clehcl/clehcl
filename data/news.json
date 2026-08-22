@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:02:42.776Z",
+  "generatedAt": "2026-08-22T19:57:17.043Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -44,21 +44,6 @@
           "tags": [
             "프랜차이즈",
             "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼성웰스토리 360솔루션, 오설록 말차 누들바 메뉴 확장 지원…외식 경쟁력 강화 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtcGVpTm8xb3FCTTlNdnVUajdwTW81QmdETUVNaXBZNmUyNlBiclRSY0VmdXJ4dEI5QnJIR09xem1STGF5aFZPYktGcE9KOVhLX3R1VzZ3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-20T19:46:46.000Z",
-          "tags": [
-            "외식",
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -115,6 +100,20 @@
           "publishedAt": "2026-08-21T09:41:56.000Z",
           "tags": [
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "플러스82, ‘2026 소비자만족 브랜드 대상’ 커피 프랜차이즈 부문 1위 수상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWm9NdEZBM2Y3aVZ5bmhuSlNNemJFZVFDS2tPOWZ5a0FnZi1tU1pIcndTamJrcEFCbl9zNDJqdGdTNkhjdERJTGJ1Qzg5RHQ0aWF2NUNIck8wWUZFa3ptdzhLLWxRZ9IBZkFVX3lxTE1pWm9NdEZBM2Y3aVZ5bmhuSlNNemJFZVFDS2tPOWZ5a0FnZi1tU1pIcndTamJrcEFCbl9zNDJqdGdTNkhjdERJTGJ1Qzg5RHQ0aWF2NUNIck8wWUZFa3ptdzhLLWxRZw?oc=5",
+          "source": "동아일보",
+          "sourceInitial": "동아",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-21T03:29:42.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -444,7 +443,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -523,6 +522,18 @@
           "sourceInitial": "통신",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-21T06:28:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 문체부와 K-푸드·한국 관광 잇는다…태국 ‘Love Korea 2026’ 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55UlVxN1dsbzFzS3ZuUVUtWWRocmluSmo4eEFiX2RPQnlCNWNYcGZUSG9wMVZER1BpT09Fci1BcHc1M2tRYXFpRVB1bkwxZXgxbjZHOXlLM0VBUS1jRDA2VWJOUF9NbUZqbDhpZFVnT2JUcWs?oc=5",
+          "source": "오늘경제",
+          "sourceInitial": "오늘",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-21T02:44:01.000Z",
           "tags": [],
           "price": null,
           "feat": false
