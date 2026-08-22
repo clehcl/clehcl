@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:43:56.326Z",
+  "generatedAt": "2026-08-22T14:52:05.457Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -70,7 +70,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-22T10:31:17.000Z",
+          "publishedAt": "2026-08-22T10:30:48.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -84,7 +84,7 @@
           "source": "파이낸스투데이",
           "sourceInitial": "파이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-22T07:57:11.000Z",
+          "publishedAt": "2026-08-22T07:57:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
@@ -267,7 +267,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "사조푸디스트, 상반기 매출 5,434억원…FS·급식식재 성장 견인",
@@ -342,6 +342,18 @@
           "feat": false
         },
         {
+          "title": "사조푸디스트, '단체급식' 성과… 상반기 매출 전년 대비 5.4%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9icldnUHdpUjI5MXRNcWVqWV9RR2VHLWlRRnNDQWJGcHVMTE9pS0JWLXBJbU40ZGlwamNZQTdNbkpYOUFST1RCSFBTaW9HTlBNekstUWxQeVByTkozVm4ydA?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-08-20T23:38:15.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "급식 3사, 상반기 외형 키웠지만 …수익성은 현대그린푸드만 챙겼다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yOXhMLUNoTWZGdTFxSk56YU9STlhfUW5rcVZjeTBMeHlWa1AwMHUxQ1o0M0UyeWNEUGgySzNjSDRlRkxHd3RCV2loNUZPTkdtZU9QUWtpdi1KWksxcUgyNk93dXM1M1NRUzNR?oc=5",
@@ -349,18 +361,6 @@
           "sourceInitial": "CE",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-20T22:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "KT 수도권강남고객본부, 외식업·소상공인 AI 전환 및 경영 효율화 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EcW5jT2dUZzJCUk56bmdGVE52TzNhTl9LMnN3V2ZhendMdjA3N1IxS2wwSXAtV3VKX3Nzc2tLYlJYdjZYSm9ZWlQ5dnRwWjZoN3ctdFVLd2RiWERvbHRmSnd6Nmw?oc=5",
-          "source": "경기신문",
-          "sourceInitial": "경기",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-20T15:58:20.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -396,11 +396,11 @@
         {
           "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVk9tYnZ5aUpUU2xzZ3F2bzFUTk9CcmgxeWt3dlI4WkJra2UtTmlyX2l3a0N4aUZKRnY0U2V2NHExT2NCVXdGWExsTnN0YldxSjdtZkt1T3hlWTVNYlIwWFVuZVVydW1DVTBCMFdPUzdfUEnSAXdBVV95cUxQYU5xLWJYd2VkbjlkWnVCLVpjUEVUdlIzRlVrLVZuc19MOVNzbG1GQVcxcXFXVk94OFdRNUVqaTBjY09yZk9wU3BkVW54WVprelN1c1B6NXBmRmUzYnRWS2tQWGdUWXY1SkFSNmdyTi15eXRlTWNVNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhTnEtYlh3ZWRuOWRadUItWmNQRVR2UjNGVWstVm5zX0w5U3NsbUZBVzFxcVdWT3g4V1E1RWppMGNjT3JmT3BTcGRVbnhZWmt6U3VzUHo1cGZGZTNidFZLa1BYZ1RZdjVKQVI2Z3JOLXl5dGVNY1U00gF3QVVfeXFMUGFOcS1iWHdlZG45ZFp1Qi1aY1BFVHZSM0ZVay1WbnNfTDlTc2xtRkFXMXFxV1ZPeDhXUTVFamkwY2NPcmZPcFNwZFVueFlaa3pTdXNQejVwZkZlM2J0VktrUFhnVFl2NUpBUjZnck4teXl0ZU1jVTQ?oc=5",
           "source": "뉴스프리존",
           "sourceInitial": "뉴스",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-22T12:38:50.000Z",
+          "publishedAt": "2026-08-22T12:48:43.000Z",
           "tags": [
             "물가"
           ],
@@ -529,9 +529,9 @@
           "title": "정관장·삼양식품 '2026 국립중앙박물관 분장놀이'와 협업·태국 'Love Korea 2026' 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FYXNyMF9xdUlIMEZ1X3BmQ1EwOXVGeGR4YUlabWdVSjRWNXNITms3OGx4VUczUTZBTUVmaWlWR2c3S3FMTzkxbUdua01VUHYzTmNoUEhNX1VsNFdud0I2bWo2MzdwQQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
+          "source": "통신일보",
+          "sourceInitial": "통신",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-21T06:28:37.000Z",
           "tags": [],
           "price": null,
