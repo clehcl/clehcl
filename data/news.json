@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:52:20.551Z",
+  "generatedAt": "2026-08-22T23:43:49.072Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
@@ -158,6 +158,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[Q2 분석] 롯데웰푸드's 어닝 서프라이즈…\"H2 변수=해외 캐시카우·비용 환골탈태·내수·원가·날씨\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcnlKOUV3ZFdCcEV4UDdnaFNWUDdyNVhPNzZkdDcxWXFvSjUzXzVKR1ladXBmN2htM1M4dG10TUFjMkp5WlVTUEhGajRzbE95WDAyUlJETVJWV3NCd1FKTGJ5WjRDQkUzS29Idg?oc=5",
+          "source": "이코노미톡뉴스",
+          "sourceInitial": "이코",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-22T01:17:06.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
@@ -242,18 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "전분당 매각하는 CJ제일제당.SKU 축소하는 롯데웰푸드...식품업계 ‘선택과 집중’ 본격화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zX1BKUHZIcmtOT3NXSHAzWU85Q0I1T2JGdVpuclFtUVhiTlhGdXo0MU5SU1BKSVhiMFBzNzY5YVhlZy1WNlVIcGZwVTE5UHAwb2x5VmhKVXBXQy1LSHA0VGg4ZUJ2QQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T08:51:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -266,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "사조푸디스트, 상반기 매출 5,434억원…FS·급식식재 성장 견인",
@@ -339,18 +341,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "사조푸디스트, '단체급식' 성과… 상반기 매출 전년 대비 5.4%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9icldnUHdpUjI5MXRNcWVqWV9RR2VHLWlRRnNDQWJGcHVMTE9pS0JWLXBJbU40ZGlwamNZQTdNbkpYOUFST1RCSFBTaW9HTlBNekstUWxQeVByTkozVm4ydA?oc=5",
-          "source": "아시아경제",
-          "sourceInitial": "아",
-          "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-08-20T23:38:15.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -417,7 +407,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -433,20 +423,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "삼양식품, 태국 ‘러브 코리아’ 참가…남양유업 백미당, ‘바른식혜’ RTD 출시 [식품오늘]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43SzJSZ3dkVHBGRmxhTE9NSG5nRjhabW9IdUFUQS1XRU80OEVZZEM3YWRoTDNwNEtQdEp4dmlPOXZMNXM4MHlQUFRsQkl4Yml6dk1QVzNnTE5QS0M0QTlvZlRST0lUdk1TRHlj?oc=5",
-          "source": "sisaon.co.kr",
-          "sourceInitial": "si",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-21T01:38:48.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "“미국이 먼저 반한 K-김치소스”…동원홈푸드, 비비드키친 김치소스 2종 국내 출시",
@@ -490,9 +466,9 @@
           "title": "정관장·삼양식품 '2026 국립중앙박물관 분장놀이'와 협업·태국 'Love Korea 2026' 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FYXNyMF9xdUlIMEZ1X3BmQ1EwOXVGeGR4YUlabWdVSjRWNXNITms3OGx4VUczUTZBTUVmaWlWR2c3S3FMTzkxbUdua01VUHYzTmNoUEhNX1VsNFdud0I2bWo2MzdwQQ?oc=5",
-          "source": "통신일보",
-          "sourceInitial": "통신",
-          "sourceColor": "#8a5cc4",
+          "source": "여성소비자신문",
+          "sourceInitial": "여성",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-21T06:28:37.000Z",
           "tags": [],
           "price": null,
