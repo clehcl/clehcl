@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:53:03.046Z",
+  "generatedAt": "2026-08-22T11:44:21.219Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -267,7 +267,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "사조푸디스트, 상반기 매출 5,434억원…FS·급식식재 성장 견인",
@@ -301,6 +301,18 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-21T02:34:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "고물가에도 웃은 사조푸디스트…상반기 매출 5434억 달성",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyTWtBVXRLSFlFdjJNYW5JWWdVME1XN1pTSi14aUswRTZqVk5lMVlBV1FlTWZlNVlzYUVIRUc2T3JQRHNkOWY1MDltbHlweUgzcHlsRWZmMlJuSmFXMnBSMDd3U3M?oc=5",
+          "source": "매일일보",
+          "sourceInitial": "매일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-21T01:25:40.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -418,7 +430,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -490,18 +502,6 @@
           "feat": false
         },
         {
-          "title": "50년 노하우에 18가지 취향 담았다…동서식품, '카누 바리스타'로 홈카페 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdExkTXc3V29pRDcxWVMwcEFLRHZuLUdLeGYyTE1QSFUyUDE1NnozOU5vZ1AwT1pHVnUwaEl5YXJIYTFueVBOWDBfeEo5SXlZam8yc9IBVEFVX3lxTFBQdExkTXc3V29pRDcxWVMwcEFLRHZuLUdLeGYyTE1QSFUyUDE1NnozOU5vZ1AwT1pHVnUwaEl5YXJIYTFueVBOWDBfeEo5SXlZam8ycw?oc=5",
-          "source": "더팩트",
-          "sourceInitial": "더팩",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-21T09:02:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "비비드키친 김치소스 2종 국내 상륙…아마존 매출 700%↑, 30% 할인 진행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UjY4TmpqbHQ0aFdURHlJSkpkN1dqeUl5SVViamZfaklmczA3a2tHRHVZSmZrU1lOV3lkUjBRUzlUNFBhSWtuX245SzhpZ3VraW94ZXJWM0F0WXdIc0VZSmJSVTk4SUNLS29HQWt3?oc=5",
@@ -521,6 +521,18 @@
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-21T06:28:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "경상북도·경북경제진흥원, 경북 우수수산물 일본 해외 시장개척단 파견… 363만 달러 수출 상담 결실",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tX2d1RDh3elpCUUpVcFZXOTBlMWNxMndGVTNuaUJyM25CcjhhaVdzOTJ0aWhrNUpULWJ2YXE0M1BnQ3NW?oc=5",
+          "source": "다경뉴스",
+          "sourceInitial": "다경",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-20T17:24:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
