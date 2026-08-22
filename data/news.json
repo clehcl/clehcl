@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:58:32.080Z",
+  "generatedAt": "2026-08-22T09:54:14.707Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -267,7 +267,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "사조푸디스트, 상반기 매출 5,434억원…FS·급식식재 성장 견인",
@@ -301,18 +301,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-21T02:34:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "고물가에도 웃은 사조푸디스트…상반기 매출 5434억 달성",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2RUljcDRvTDVGMzJ1RktZa2VtY01NdHM1LXRLelNNVEd6ZUlldjNXNEdHVjUyVXlPRVhMNjNQemljcFNNd24wWjk2VGs2T2NaYVo1TEtnTGo2bFBFNTNVd1JhUQ?oc=5",
-          "source": "매일일보",
-          "sourceInitial": "매일",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-21T01:25:40.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -430,7 +418,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -490,23 +478,9 @@
           "feat": false
         },
         {
-          "title": "[똑똑한소비] 뚜레쥬르 가을 신제품 4종·웅진식품 빅토리아 기획팩…버거킹·bhc·아웃백·굽네몰·매드포갈릭·나라셀라",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcDN2aE5rSkNNSFNlMmVZLWtCeWJvSTRTY2JUaTQ3T25XSjh5TFRoQllqLVhEX0Fsbm5uWnZJeTQ3OXlWX3BWb20zWW9XYW9RVnZYSlRrWFFEOGs?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-20T09:46:56.000Z",
-          "tags": [
-            "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaHRwUkkzTVFqNTlQVm4zTTYyUlR6TFlnZDkwWDFaUzJfM0hDR0tsaDIwajRsMkczalloLXZmWE14eHBxZjZ3NGxWWjlaRWdUTElwUWZjSnlTdDNTZUtLeHIyYXNaZXJOQlHSAW9BVV95cUxQU1V6QmNRY21DNk56UUVIdDZSZ2g2SFJ2TUpNRngwQTNfOUk4OU94VmN3RFRGeUY3YnM1a3FiQlRHaFRVYXB0Q0Q4QS1sX2pQR1dJVUdLLVRiQ3VZaG4zckRPbHFWZ3l3NGtCbmNhb2s?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTVXpCY1FjbUM2TnpRRUh0NlJnaDZIUnZNSk1GeDBBM185STg5T3hWY3dEVEZ5RjdiczVrcWJCVEdoVFVhcHRDRDhBLWxfalBHV0lVR0stVGJDdVlobjNyRE9scVZneXc0a0JuY2Fva9IBb0FVX3lxTFBTVXpCY1FjbUM2TnpRRUh0NlJnaDZIUnZNSk1GeDBBM185STg5T3hWY3dEVEZ5RjdiczVrcWJCVEdoVFVhcHRDRDhBLWxfalBHV0lVR0stVGJDdVlobjNyRE9scVZneXc0a0JuY2Fvaw?oc=5",
           "source": "머니투데이",
           "sourceInitial": "머",
           "sourceColor": "#c0392b",
@@ -535,6 +509,18 @@
           "sourceInitial": "gu",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-21T06:46:14.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "정관장·삼양식품 '2026 국립중앙박물관 분장놀이'와 협업·태국 'Love Korea 2026' 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FYXNyMF9xdUlIMEZ1X3BmQ1EwOXVGeGR4YUlabWdVSjRWNXNITms3OGx4VUczUTZBTUVmaWlWR2c3S3FMTzkxbUdua01VUHYzTmNoUEhNX1VsNFdud0I2bWo2MzdwQQ?oc=5",
+          "source": "여성소비자신문",
+          "sourceInitial": "여성",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-21T06:28:37.000Z",
           "tags": [],
           "price": null,
           "feat": false
