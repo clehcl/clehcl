@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:54:09.147Z",
+  "generatedAt": "2026-08-22T21:47:52.420Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
@@ -174,41 +174,13 @@
           "feat": false
         },
         {
-          "title": "왕뚜껑 가격도 오른다... 팔도, 5.5% 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXczVEVpM2tmcWIwdlZEcElraEdETFRRTEExNkpLWFM3VFV5eExPb21wa1VTNERmdWZHN0t6SnczekZmNUFiYVFkNDZ0Rjd5eHNrekowZVhBSXAwMjF6dXNhSzdyWVBjNDVQT2hLN0J6bWpFcTY2Z2p1YnNzMmFGT1d4Z2c2UXl5ZHc?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T03:29:34.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qd0IwYk5LT2tQNmRHV2cxeVdUWUdEMTMxQ1RiNlN6alJTcWlEMFRBSnNOVUtFLVgxZlc1NGw2SlpjMGlJd2ZjSk1nTnlrVHFCOXBuQzhUYVk4a0N2R3Nrc0tCS1plUFo0eUxB0gFuQVVfeXFMTXVhSU05Q29lQmpQU1IyY2dGVS1ZelRXUzM4dkg1bXVDbWhhdzlTR0tHLTR1c3V6akxUdWZyUmpfazUtQ2NyaFRqanRoVEpNNjJ2b2N2TzZOSFNLcS1UWjR3VjVoaXRkLUZJajVvVVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YUlNOUNvZUJqUFNSMmNnRlUtWXpUV1MzOHZINW11Q21oYXc5U0dLRy00dXN1empMVHVmclJqX2s1LUNjcmhUamp0aFRKTTYydm9jdk82TkhTS3EtVFo0d1Y1aGl0ZC1GSWo1b1VR0gFuQVVfeXFMTXVhSU05Q29lQmpQU1IyY2dGVS1ZelRXUzM4dkg1bXVDbWhhdzlTR0tHLTR1c3V6akxUdWZyUmpfazUtQ2NyaFRqanRoVEpNNjJ2b2N2TzZOSFNLcS1UWjR3VjVoaXRkLUZJajVvVVE?oc=5",
           "source": "뉴시안",
           "sourceInitial": "뉴시",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T02:58:47.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "흑해 공습에 멈춰선 곡물선… 세계 식품 가격 올해 11% 넘게 뛴다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rekhhTmhfRFZTUnVEOFFBQzM4blc4T0dGaVlYUEpFNTV4cTdxWmExaU9kb1JBR0NOTWsxVTZxNkFaQ013Z1NFdHk0Qm1ydWFBdnBtODZrMHlZQ3BlSUp2QmEyZEVYT2hacEk4d1Q1S0nSAXBBVV95cUxOa3pIYU5oX0RWU1J1RDhRQUMzOG5XOE9HRmlZWFBKRTU1eHE3cVphMWlPZG9SQUdDTk1rMVU2cTZBWkNNd2dTRXR5NEJtcnVhQXZwbTg2azB5WUNwZUlKdkJhMmRFWE9oWnBJOHdUNUtJ?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-21T02:10:59.000Z",
+          "publishedAt": "2026-08-21T04:10:28.000Z",
           "tags": [
             "가격"
           ],
@@ -251,6 +223,30 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-21T08:51:57.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "팔도도 컵라면값 올린다…라면 4사 중 삼양식품만 동결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fQk1BRUg2aW90VmxqQmg1WFczZVpNZWYyUzlTbUhSRUQ3VmFXcTI2UmxEbHd1anAtME5OYmROdXd4Y2t5ZlJ2Z1Q0QV9ZVThVdzVB?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T06:21:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "“계약보다 시식 먼저”… 닭볶음탕 배달 브랜드 ‘먹언니’, 식재료 자율구매·5분 조리 앞세워 가맹 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByNy0xdm9kOW42OGp1N0tlUXV1Mmp5ZlpXRnRYcE1nNWNGOVJTbGpfdGg2X3E2ck9aSnF4YTFnTnVFTEJxemVDRg?oc=5",
+          "source": "얼리어답터뉴스",
+          "sourceInitial": "얼리",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-21T04:47:39.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -331,11 +327,11 @@
         {
           "title": "한화 아워홈, 상반기 매출 1.4조 … '단체급식·B2C·해외' 성장축 넓힌다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KN1NLQ3pQeE1BYTItMWE1TGJIb2xLYnh2bkRpMExHZUllLWpEYWRYYkt1ejVta0FPS182ZVhGRklnXzE0d2VMWDNyZTJ1eERlYTMtNUVXc0dicDV5U0s4d0JyQ3JEdlVWUVZwZ3dZV0FsWG1Qd1hHMWxpQdIBgAFBVV95cUxNVGd1cUxZanlzQkdRdHh5SjM2OFNLSlZRTHB3U2lNRUdDUmh2czg3ZXdhWTRqSTRVSGY0aGdZMUlwR1ptVnl2OVNnQW1OSWVSRFpHQnViOHBIZ3VlM2MtWDRHVl9aZFRlQkhMUnB3N1QyRndxMDRaenA5R0VsZklWMA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGd1cUxZanlzQkdRdHh5SjM2OFNLSlZRTHB3U2lNRUdDUmh2czg3ZXdhWTRqSTRVSGY0aGdZMUlwR1ptVnl2OVNnQW1OSWVSRFpHQnViOHBIZ3VlM2MtWDRHVl9aZFRlQkhMUnB3N1QyRndxMDRaenA5R0VsZklWMNIBgAFBVV95cUxNVGd1cUxZanlzQkdRdHh5SjM2OFNLSlZRTHB3U2lNRUdDUmh2czg3ZXdhWTRqSTRVSGY0aGdZMUlwR1ptVnl2OVNnQW1OSWVSRFpHQnViOHBIZ3VlM2MtWDRHVl9aZFRlQkhMUnB3N1QyRndxMDRaenA5R0VsZklWMA?oc=5",
           "source": "뉴데일리",
           "sourceInitial": "뉴데",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T23:59:25.000Z",
+          "publishedAt": "2026-08-21T01:01:47.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -393,13 +389,13 @@
           "feat": true
         },
         {
-          "title": "국제유가 하락에 생산자물가 11개월 만에↓…\"8월엔 상승 압력\" - 머니투데이",
+          "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45dDVRMWtHNXlPSUFrSGttUmFpcTdsOUR5Y0hWN1ctV2ExMThwZ2xDdGJiRU1rZGk3SFl3dzBOTFJubXp4WDM4clo1X3lYNWg4aTVfUTFBdzNhaXZIdnV2V2pUQmNPTmpKY0ZSdlZ5a0zSAXBBVV95cUxOOXQ1UTFrRzV5T0lBa0hrbVJhaXE3bDlEeWNIVjdXLVdhMTE4cGdsQ3RiYkVNa2RpN0hZd3cwTkxSbm16eFgzOHJaNV95WDVoOGk1X1ExQXczYWl2SHZ1dldqVEJjT05qSmNGUnZWeWtM?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-20T21:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhTnEtYlh3ZWRuOWRadUItWmNQRVR2UjNGVWstVm5zX0w5U3NsbUZBVzFxcVdWT3g4V1E1RWppMGNjT3JmT3BTcGRVbnhZWmt6U3VzUHo1cGZGZTNidFZLa1BYZ1RZdjVKQVI2Z3JOLXl5dGVNY1U00gF3QVVfeXFMUGFOcS1iWHdlZG45ZFp1Qi1aY1BFVHZSM0ZVay1WbnNfTDlTc2xtRkFXMXFxV1ZPeDhXUTVFamkwY2NPcmZPcFNwZFVueFlaa3pTdXNQejVwZkZlM2J0VktrUFhnVFl2NUpBUjZnck4teXl0ZU1jVTQ?oc=5",
+          "source": "뉴스프리존",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-22T12:48:43.000Z",
           "tags": [
             "물가"
           ],
@@ -429,7 +425,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 5,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -475,30 +471,6 @@
           "feat": false
         },
         {
-          "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaHRwUkkzTVFqNTlQVm4zTTYyUlR6TFlnZDkwWDFaUzJfM0hDR0tsaDIwajRsMkczalloLXZmWE14eHBxZjZ3NGxWWjlaRWdUTElwUWZjSnlTdDNTZUtLeHIyYXNaZXJOQlHSAW9BVV95cUxQU1V6QmNRY21DNk56UUVIdDZSZ2g2SFJ2TUpNRngwQTNfOUk4OU94VmN3RFRGeUY3YnM1a3FiQlRHaFRVYXB0Q0Q4QS1sX2pQR1dJVUdLLVRiQ3VZaG4zckRPbHFWZ3l3NGtCbmNhb2s?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T22:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "비비드키친 김치소스 2종 국내 상륙…아마존 매출 700%↑, 30% 할인 진행",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UjY4TmpqbHQ0aFdURHlJSkpkN1dqeUl5SVViamZfaklmczA3a2tHRHVZSmZrU1lOV3lkUjBRUzlUNFBhSWtuX245SzhpZ3VraW94ZXJWM0F0WXdIc0VZSmJSVTk4SUNLS29HQWt3?oc=5",
-          "source": "gukjenews.com",
-          "sourceInitial": "gu",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-21T06:46:14.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "정관장·삼양식품 '2026 국립중앙박물관 분장놀이'와 협업·태국 'Love Korea 2026' 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FYXNyMF9xdUlIMEZ1X3BmQ1EwOXVGeGR4YUlabWdVSjRWNXNITms3OGx4VUczUTZBTUVmaWlWR2c3S3FMTzkxbUdua01VUHYzTmNoUEhNX1VsNFdud0I2bWo2MzdwQQ?oc=5",
@@ -506,18 +478,6 @@
           "sourceInitial": "통신",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-21T06:28:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 문체부와 K-푸드·한국 관광 잇는다…태국 ‘Love Korea 2026’ 참가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55UlVxN1dsbzFzS3ZuUVUtWWRocmluSmo4eEFiX2RPQnlCNWNYcGZUSG9wMVZER1BpT09Fci1BcHc1M2tRYXFpRVB1bkwxZXgxbjZHOXlLM0VBUS1jRDA2VWJOUF9NbUZqbDhpZFVnT2JUcWs?oc=5",
-          "source": "오늘경제",
-          "sourceInitial": "오늘",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-21T02:44:01.000Z",
           "tags": [],
           "price": null,
           "feat": false
