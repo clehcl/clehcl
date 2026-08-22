@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T09:54:14.707Z",
+  "generatedAt": "2026-08-22T10:53:03.046Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 15,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -64,6 +64,34 @@
           "feat": false
         },
         {
+          "title": "[ 2026년 8월 23일(일) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTV2am4xd2J3T05vYWFYcU02MGowZ1N2c1JBWUc4WVluTS16QTJOdHBqRjZ0emtJRmVTdFk0c21FbDFLVkJRNU5jUUU0RzVQX0JBOWNTVGVVWVRTSUkxSmpNemxkRFBaMkJnNjFqQU12U1VYRHE3cTRUNU1PTzlHTU9XZFV5ZkZIc3RaQ2tR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-22T10:31:17.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "멍키호두, 제84회 프랜차이즈 창업박람회 코엑스 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01UGktYkZxXzAtTDItSGhNc2Rvd2VIYW5uaUhqaUxEMnFZWUdPQ0xGTVZQZ0lMOUxYTjdRTlV5cW1sRkpTRHZDbWFSU212RUJ4UTlpMVhDVk5UclV0LWdmQmE5dTQ5Skk?oc=5",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-22T07:57:11.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "\"동남아 찍고 북미·중남미로\"…세계 지도 넓히는 K-프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zR25xdzV4Q3BMRlVXSVNjT2VQb254M2FuT09QVHBQaXBtV0VJQzhsdXZzLVlaRktYeXRZM0lNWnZ2cUhjXzdFTzRTeEVuNlk?oc=5",
@@ -99,34 +127,6 @@
           "sourceInitial": "선데",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-21T03:21:34.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "월드전람, 제84회 프랜차이즈 창업박람회 개최…코엑스 25일 개막",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcGx1TWNhcDRwLU41T24zejFhREROY2J4TURvNlhvSWFOREtWNUszNDgzV24zSlJPek44WnpkcExzajJUbU1ha2NENHNGWXhwYUZMZHc1QTZkYWswMmVtYUwtWUZTRkZfWHdVYTcwOVM?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-21T02:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "프랜차이즈 트렌드 2027…‘골목의 전문경영인’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sMm16S2NFWERLU3BsWWk0UXFkN1lRVThpa3hqOTRfcTJxS2VTaV9kTFp5M1NMTFdFU0RNQjBKRlktdFcyTkhPQUZ2X0ltT0xOV0tNTA?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T02:07:06.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -480,7 +480,7 @@
         {
           "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTVXpCY1FjbUM2TnpRRUh0NlJnaDZIUnZNSk1GeDBBM185STg5T3hWY3dEVEZ5RjdiczVrcWJCVEdoVFVhcHRDRDhBLWxfalBHV0lVR0stVGJDdVlobjNyRE9scVZneXc0a0JuY2Fva9IBb0FVX3lxTFBTVXpCY1FjbUM2TnpRRUh0NlJnaDZIUnZNSk1GeDBBM185STg5T3hWY3dEVEZ5RjdiczVrcWJCVEdoVFVhcHRDRDhBLWxfalBHV0lVR0stVGJDdVlobjNyRE9scVZneXc0a0JuY2Fvaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaHRwUkkzTVFqNTlQVm4zTTYyUlR6TFlnZDkwWDFaUzJfM0hDR0tsaDIwajRsMkczalloLXZmWE14eHBxZjZ3NGxWWjlaRWdUTElwUWZjSnlTdDNTZUtLeHIyYXNaZXJOQlHSAW9BVV95cUxQU1V6QmNRY21DNk56UUVIdDZSZ2g2SFJ2TUpNRngwQTNfOUk4OU94VmN3RFRGeUY3YnM1a3FiQlRHaFRVYXB0Q0Q4QS1sX2pQR1dJVUdLLVRiQ3VZaG4zckRPbHFWZ3l3NGtCbmNhb2s?oc=5",
           "source": "머니투데이",
           "sourceInitial": "머",
           "sourceColor": "#c0392b",
