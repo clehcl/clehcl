@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:44:21.219Z",
+  "generatedAt": "2026-08-22T13:43:56.326Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -376,7 +376,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "식약처·WHO, 아태 바이오시밀러 규제조화 논의 워크숍 공동 개최",
@@ -392,6 +392,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVk9tYnZ5aUpUU2xzZ3F2bzFUTk9CcmgxeWt3dlI4WkJra2UtTmlyX2l3a0N4aUZKRnY0U2V2NHExT2NCVXdGWExsTnN0YldxSjdtZkt1T3hlWTVNYlIwWFVuZVVydW1DVTBCMFdPUzdfUEnSAXdBVV95cUxQYU5xLWJYd2VkbjlkWnVCLVpjUEVUdlIzRlVrLVZuc19MOVNzbG1GQVcxcXFXVk94OFdRNUVqaTBjY09yZk9wU3BkVW54WVprelN1c1B6NXBmRmUzYnRWS2tQWGdUWXY1SkFSNmdyTi15eXRlTWNVNA?oc=5",
+          "source": "뉴스프리존",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-22T12:38:50.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "국제유가 하락에 생산자물가 11개월 만에↓…\"8월엔 상승 압력\" - 머니투데이",
@@ -476,20 +490,6 @@
           "feat": false
         },
         {
-          "title": "NS홈쇼핑, 건강기능식품 PB ‘엔웰스’ 6종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZFkweERFR0NnMF82UWp2RzJnN2VjSGVjS1RsTWVhWTlfVmFYamY5STdDTE1pbnpSNUZMT1RmaDExbmpVYXIzLVVWZjVZRUNqamh6ZmhxLXRUZU9QSGRES25kaEtvbkhIb1YtSVVBekNvYkNK0gF0QVVfeXFMUDBkWTB4REVHQ2cwXzZRanZHMmc3ZWNIZWNLVGxNZWFZOV9WYVhqZjlJN0NMTWluelI1RkxPVGZoMTFualVhcjMtVVZmNVlFQ2pqaHpmaHEtdFRlT1BIZERLbmRoS29uSEhvVi1JVUF6Q29iQ0o?oc=5",
-          "source": "주간한국",
-          "sourceInitial": "주간",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-20T13:04:39.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaHRwUkkzTVFqNTlQVm4zTTYyUlR6TFlnZDkwWDFaUzJfM0hDR0tsaDIwajRsMkczalloLXZmWE14eHBxZjZ3NGxWWjlaRWdUTElwUWZjSnlTdDNTZUtLeHIyYXNaZXJOQlHSAW9BVV95cUxQU1V6QmNRY21DNk56UUVIdDZSZ2g2SFJ2TUpNRngwQTNfOUk4OU94VmN3RFRGeUY3YnM1a3FiQlRHaFRVYXB0Q0Q4QS1sX2pQR1dJVUdLLVRiQ3VZaG4zckRPbHFWZ3l3NGtCbmNhb2s?oc=5",
@@ -497,6 +497,18 @@
           "sourceInitial": "머",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-21T22:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "50년 노하우에 18가지 취향 담았다…동서식품, '카누 바리스타'로 홈카페 공략",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdExkTXc3V29pRDcxWVMwcEFLRHZuLUdLeGYyTE1QSFUyUDE1NnozOU5vZ1AwT1pHVnUwaEl5YXJIYTFueVBOWDBfeEo5SXlZam8yc9IBVEFVX3lxTFBQdExkTXc3V29pRDcxWVMwcEFLRHZuLUdLeGYyTE1QSFUyUDE1NnozOU5vZ1AwT1pHVnUwaEl5YXJIYTFueVBOWDBfeEo5SXlZam8ycw?oc=5",
+          "source": "더팩트",
+          "sourceInitial": "더팩",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-21T09:02:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
