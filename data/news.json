@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T23:43:49.072Z",
+  "generatedAt": "2026-08-23T03:30:52.296Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 8,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -119,16 +119,14 @@
           "feat": false
         },
         {
-          "title": "플러스82, ‘2026 소비자만족 브랜드 대상’ 커피 프랜차이즈 부문 1위 수상",
+          "title": "자담치킨, 8월 배달 플랫폼 할인 행사 운영…고객 혜택 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWm9NdEZBM2Y3aVZ5bmhuSlNNemJFZVFDS2tPOWZ5a0FnZi1tU1pIcndTamJrcEFCbl9zNDJqdGdTNkhjdERJTGJ1Qzg5RHQ0aWF2NUNIck8wWUZFa3ptdzhLLWxRZ9IBZkFVX3lxTE1pWm9NdEZBM2Y3aVZ5bmhuSlNNemJFZVFDS2tPOWZ5a0FnZi1tU1pIcndTamJrcEFCbl9zNDJqdGdTNkhjdERJTGJ1Qzg5RHQ0aWF2NUNIck8wWUZFa3ptdzhLLWxRZw?oc=5",
-          "source": "동아일보",
-          "sourceInitial": "동아",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-21T03:29:42.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPaUtXNGxhazlFamtGeHJBYkluSS1MVERCN0taOUEtSVdWNjV6T29NZWJrZzBBZU9ickwzM1pZSEg2NEV2NHFPODd2bWhwUG9ETTB3Y2tB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-21T08:23:48.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -143,7 +141,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
@@ -202,6 +200,20 @@
           "feat": false
         },
         {
+          "title": "'왕뚜껑' 컵라면 가격 오른다…팔도, 평균 5.5% 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTjlUVWM0TFlBWmJnS2ZvSUE4aDdRYlc1YVZqdFJpYjh6c1JDakVwTTdROVFzMWxCVkhES2t6Z3lkaUhtbXdMbEN2alV6OTd3TXZGVzgwRFhlbXM?oc=5",
+          "source": "경기일보",
+          "sourceInitial": "경기",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-21T04:46:35.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "라면 가격 줄인상… 팔도도 9월부터 평균 5.5% 인상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YUlNOUNvZUJqUFNSMmNnRlUtWXpUV1MzOHZINW11Q21oYXc5U0dLRy00dXN1empMVHVmclJqX2s1LUNjcmhUamp0aFRKTTYydm9jdk82TkhTS3EtVFo0d1Y1aGl0ZC1GSWo1b1VR0gFuQVVfeXFMTXVhSU05Q29lQmpQU1IyY2dGVS1ZelRXUzM4dkg1bXVDbWhhdzlTR0tHLTR1c3V6akxUdWZyUmpfazUtQ2NyaFRqanRoVEpNNjJ2b2N2TzZOSFNLcS1UWjR3VjVoaXRkLUZJajVvVVE?oc=5",
@@ -230,30 +242,14 @@
           "feat": false
         },
         {
-          "title": "왕뚜껑 가격도 오른다... 팔도, 5.5% 인상",
+          "title": "해수부, 추석 물가 안정위해 정부 비축 수산물 ‘역대 최대’ 2만톤 공급",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXczVEVpM2tmcWIwdlZEcElraEdETFRRTEExNkpLWFM3VFV5eExPb21wa1VTNERmdWZHN0t6SnczekZmNUFiYVFkNDZ0Rjd5eHNrekowZVhBSXAwMjF6dXNhSzdyWVBjNDVQT2hLN0J6bWpFcTY2Z2p1YnNzMmFGT1d4Z2c2UXl5ZHc?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T03:29:34.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한화투자 \"CJ제일제당 하반기 식품 원가 부담 지속, 바이오 회복 가능성은 긍정적\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYLU5MU3RKVEw1TmF2Z1l0TU5Mc3VfcTFwbHhxNjEtVTMtbVhhYU0xb2d2NVF6bzZLQXJfNW44YURteDd2eVBmMWtHQUJnMkpjTnltWk12OVNkcmpDQVJNejFJOVZhQVl6d3hCRjU0TmZYYWM?oc=5",
-          "source": "비즈니스포스트",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-21T00:52:36.000Z",
-          "tags": [
-            "원가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWnJ3bGtYcVVYTUprMWg0NHNXYW1xVlJ5RjR5ZHFuWmhobXAyLTR5bVBxSzd3d0RhclB4ek82NDNCUHpNeGpId25xQ3hpVElfSHliZmJmQmZjTER4ZzFYRUZHamVhOGZmOVVJ?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-23T02:04:08.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -271,6 +267,46 @@
       "total": 6,
       "items": [
         {
+          "title": "[M&A 딜보드]요양·식품 유통 매물…시설관리·건설사 볼트온 채비",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55andSSkxXSDZ0dm5xbHdEcDd0eG1jLUFwWXoyS3J6S1JxWTRJUTV6UEFzLXZXMjYzZG5fSlE2RTRJYmItTVRlOUhBVzhHOGl3d2Nv?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-23T02:02:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "'발품' 팔던 식자재 유통, 온라인으로…CJ, 산업의 판 바꾼다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11c1dOcGpFbTYySk9INHRDZjRDaUVhN1VSY3M5SXVhYThyanhtbjZBSVlnd0NtVnc0MW82NE9WSmQ5OEpreThVVEx5YVdWVzMzVFM4QTBwSmJ6MDhZZklTYUluN1liRTRKaXM3cTBxUG0wNm14?oc=5",
+          "source": "파이낸셜포스트",
+          "sourceInitial": "파이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-21T07:20:03.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'통합특별시 출범' 전남 친환경 농산물 날개 달까? (뉴스투데이 2026.06.08 광주MBC) Supermercato (M1DJeIEOus)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DYXVsVVlHWUJkUkJZVXRXZVBweU45UDMxM0hJaTlrLUdsYnA5M1BBNE9qTnZLYUJVREQyZFpHUmx0MFVBQ1VxaUtaT0NDRGMtYnpSQ0dzMWZHMW8?oc=5",
+          "source": "Mshale",
+          "sourceInitial": "Ms",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-22T14:30:50.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "사조푸디스트, 상반기 매출 5,434억원…FS·급식식재 성장 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zamV5MTdrWjFlV3Utc2xpQ1dsYnRueG9xRGtEa1FrTWJlZkZ2d3pscVUtdl9WeDNqWjVJYlBRaHZWZU9JQTF4NGpkSWxoRmRXZ1FScTd0YS1DS0p4b3BsSHZ4TGxDUVlpc3JyVEt3M1hNOW1MOUFFWUV3?oc=5",
@@ -280,7 +316,19 @@
           "publishedAt": "2026-08-21T10:00:47.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "CJ씨푸드, 신임 대표에 김동환 CJ제일제당 B2B솔루션담당 선임",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WQnprNEJseE1DTjAtdjlrZ0I5M1RQWUJXX0x5eTcxMXVQNTNkM1hMNnZqZFREeGY2M2wzMmdtWWVkNXJYSlotXzhxR0FERXV4V2Fv?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-21T08:02:07.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "사조푸디스트, 상반기 매출 5434억원 5.4%↑…단체급식·컨세션 성장",
@@ -290,54 +338,6 @@
           "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-21T05:03:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "산청군먹거리통합지원센터, 공공급식 26곳으로 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYUxzMGlxMllwbmZjYTN4dnBkNzJFLTNSc1lwUzFKd3FRODRSMGx5MkpoRFVJTmh0bkUzQkJvZkRxZWtza09yREJYWGxyaV9jdkNtTS1obEVMZEpYekFPZWlQUWVpTGZZS09uenVSSVhWcGfSAXdBVV95cUxQeThnOXFDTDhnSHBIQ2FsdGhrTEMzcmlJTy1wN09lSXFldGVVY04tb3NoeDJQN0xLVXJUVmQ5ZzZ5QlYyOTNYR3JuQTJFOTBDRWJua0hJWndJNXhTNHRhdXlyaW1KS0Z0TUMzbndsU2syLTlob3ZFcw?oc=5",
-          "source": "뉴스프리존",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T02:34:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "고물가에도 웃은 사조푸디스트…상반기 매출 5434억 달성",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyTWtBVXRLSFlFdjJNYW5JWWdVME1XN1pTSi14aUswRTZqVk5lMVlBV1FlTWZlNVlzYUVIRUc2T3JQRHNkOWY1MDltbHlweUgzcHlsRWZmMlJuSmFXMnBSMDd3U3M?oc=5",
-          "source": "매일일보",
-          "sourceInitial": "매일",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-21T01:25:40.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "사조푸디스트, 5434억 매출… 급식 11.6% 뛰었다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44dHJfZGFianBOS1Z4amNvTFFBa0ZHRGg3MjRzZ3pEVjFTUmRTR0d3Qlh5N0d5djNYUGhIZFQ0NFJEYXZVaHJQZHN3b1BybDQxV3pjSUxxWVNqVXdVeUYtMjBfY0xtb081M2c?oc=5",
-          "source": "프레스맨",
-          "sourceInitial": "프레",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T01:16:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한화 아워홈, 상반기 매출 1.4조 … '단체급식·B2C·해외' 성장축 넓힌다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGd1cUxZanlzQkdRdHh5SjM2OFNLSlZRTHB3U2lNRUdDUmh2czg3ZXdhWTRqSTRVSGY0aGdZMUlwR1ptVnl2OVNnQW1OSWVSRFpHQnViOHBIZ3VlM2MtWDRHVl9aZFRlQkhMUnB3N1QyRndxMDRaenA5R0VsZklWMNIBgAFBVV95cUxNVGd1cUxZanlzQkdRdHh5SjM2OFNLSlZRTHB3U2lNRUdDUmh2czg3ZXdhWTRqSTRVSGY0aGdZMUlwR1ptVnl2OVNnQW1OSWVSRFpHQnViOHBIZ3VlM2MtWDRHVl9aZFRlQkhMUnB3N1QyRndxMDRaenA5R0VsZklWMA?oc=5",
-          "source": "뉴데일리",
-          "sourceInitial": "뉴데",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T01:01:47.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -356,13 +356,13 @@
       "total": 3,
       "items": [
         {
-          "title": "식약처·WHO, 아태 바이오시밀러 규제조화 논의 워크숍 공동 개최",
+          "title": "식약처, WHO와 아태지역 바이오시밀러 규제 워크숍 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KZy1hZHY1ekl1MmxvT0VlWkxQaVc2OF9QU0I0QnJEZ0lqbFhES1M0TDlheWN0TE1wMGx2MWZ0VjlPT196OHpHcC04MWJXdw?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-21T05:30:20.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RE1rbElaSG9SeWRrckZjZ1JvbzJqV0txbURORWF4eXoxZkpaR3FXM0Y4V3hUaE9paXR0ajVhZ0RHZjlaRTZBYVlPWjlTZF9KUWk2NENtMmJpTnAyVXFPSDVHR2ZHTm8tbjdlUFFXUdIBc0FVX3lxTE1ueVBkTGpyVEF3djg1SEZ2YjN4c2xTRG9ueHo3a01qcklsYkpFSWR2VlA2ZG9Eam9LeURMTmxiXzY2SmN4bmNsdzZZRFlxQmxxSTZ6SDJfb0xIczhjYzlFMGtvYU9KQ2ZVRnk0eUhIaEZvSnc?oc=5",
+          "source": "청년의사",
+          "sourceInitial": "청년",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-21T21:34:52.000Z",
           "tags": [
             "규제",
             "식약처"
@@ -371,28 +371,31 @@
           "feat": true
         },
         {
-          "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
+          "title": "식약처, 'WHO와 함께 아시아․태평양지역 바이오시밀러 규제 역량 강화' 지원…식약처·WHO '바이오시밀러 평가 가이드라인 이행 워크숍' 공동 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhTnEtYlh3ZWRuOWRadUItWmNQRVR2UjNGVWstVm5zX0w5U3NsbUZBVzFxcVdWT3g4V1E1RWppMGNjT3JmT3BTcGRVbnhZWmt6U3VzUHo1cGZGZTNidFZLa1BYZ1RZdjVKQVI2Z3JOLXl5dGVNY1U00gF3QVVfeXFMUGFOcS1iWHdlZG45ZFp1Qi1aY1BFVHZSM0ZVay1WbnNfTDlTc2xtRkFXMXFxV1ZPeDhXUTVFamkwY2NPcmZPcFNwZFVueFlaa3pTdXNQejVwZkZlM2J0VktrUFhnVFl2NUpBUjZnck4teXl0ZU1jVTQ?oc=5",
-          "source": "뉴스프리존",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-22T12:48:43.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxTTZ5ZXQ4QTh1MTlCOU5QdGVRYmlaVUdxV0VldWVIaE5Rem5ZZjV1SlZ5RmQxbzUwLXFpMWlvc0hqLWpXVHJxMFlucXBJQUl6MGR5RldleXAyU2RwUW16bExiMjJMbkxlV1Yw0gFvQVVfeXFMUEhQZEQ1TVpIVDhKdUloQTVSWk13elc2U2l1QklxVGdSdllMZmxkaEZickVicE1BaG5zcnBuNHNmMGJlWXNJNExGQUtHMktyeDcxaG1xaXYzeTNyQm5GOC1XM29mUFoxb0ZubndxNEVV?oc=5",
+          "source": "메디컬헤럴드",
+          "sourceInitial": "메디",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-21T05:32:40.000Z",
           "tags": [
-            "물가"
+            "규제",
+            "식약처"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "대중 식품수출 ‘3대 장벽’ 풀렸다…기업 등록 3개월서 10일로 단축",
+          "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VnlCTnl4MEU1d3hsVl9LZkNtY18xNWxIZHFxOUZtcjZRSDhjVngwOUR2VWl1UGF0UVNIaGhkU1ZhLUpJdjhzR1ZENHhWTUE3STRZWUhIa1F6NHA0YUZaZm1TeDVncDdhMTJhUQ?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T00:13:00.000Z",
-          "tags": [],
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVk9tYnZ5aUpUU2xzZ3F2bzFUTk9CcmgxeWt3dlI4WkJra2UtTmlyX2l3a0N4aUZKRnY0U2V2NHExT2NCVXdGWExsTnN0YldxSjdtZkt1T3hlWTVNYlIwWFVuZVVydW1DVTBCMFdPUzdfUEnSAXdBVV95cUxQYU5xLWJYd2VkbjlkWnVCLVpjUEVUdlIzRlVrLVZuc19MOVNzbG1GQVcxcXFXVk94OFdRNUVqaTBjY09yZk9wU3BkVW54WVprelN1c1B6NXBmRmUzYnRWS2tQWGdUWXY1SkFSNmdyTi15eXRlTWNVNA?oc=5",
+          "source": "뉴스프리존",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-22T12:38:50.000Z",
+          "tags": [
+            "물가"
+          ],
           "price": null,
           "feat": false
         }
@@ -407,7 +410,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -425,15 +428,15 @@
           "feat": true
         },
         {
-          "title": "“미국이 먼저 반한 K-김치소스”…동원홈푸드, 비비드키친 김치소스 2종 국내 출시",
+          "title": "[나눔트렌드] 서울아산병원 김효원 교수, ‘Folia Award’ 상금 전액 한국자폐인사랑협회 기부 外",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNSi1ac0dxeTFmXzVzeDNTZGo4b3pRUmxrUUZ2Z0ZPZ1Y0YnM2V3B0dHY4M1BEQVF5Z2ROYWpwUGIxeWFwLUF2N3kzal9KcDd4dG1FSHkwS3drLWpPV19DNDVEbTlrNmFVeHlGYQ?oc=5",
-          "source": "나눔경제뉴스",
-          "sourceInitial": "나눔",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-21T01:13:42.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUXlTaGVqTXBpLTZCek9HeWxvR0Q4UmFJbGlzSFFOV0NDcUVmbFJySlBRLVBXYzRzNkJlTkliZlZsd2JyS19KNkdiYmszVzRBU0ZYUzE5b1lUSEpqREpDRk5naEh5Ykp5enZ2Xw?oc=5",
+          "source": "베이비뉴스",
+          "sourceInitial": "베이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-21T04:45:38.000Z",
           "tags": [
-            "출시"
+            "트렌드"
           ],
           "price": null,
           "feat": false
@@ -465,23 +468,11 @@
         {
           "title": "정관장·삼양식품 '2026 국립중앙박물관 분장놀이'와 협업·태국 'Love Korea 2026' 참가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FYXNyMF9xdUlIMEZ1X3BmQ1EwOXVGeGR4YUlabWdVSjRWNXNITms3OGx4VUczUTZBTUVmaWlWR2c3S3FMTzkxbUdua01VUHYzTmNoUEhNX1VsNFdud0I2bWo2MzdwQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWRlNBRm8xczQ2SWlSaDhSSS1xZGlOTjFwN1MxUW9ZUFVhQ25KVk1QYVdKZUoyZHBlc1Q0Sjh3ZldfMzI0Q25GVjN0ejJnY1hOUTN5VldfNWxGQVY4cXZIbkRsMA?oc=5",
           "source": "여성소비자신문",
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-21T06:28:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "aT 농수산식품유통교육원, 하반기 아카데미 개강",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKLThtUXoxZUUzMWtxb0NVYzJlbkZmT3gzQmZna19DQXNvSDRMeXJweFV2aUtwbFdzSEljM1NKWE9DaEotYVJuVkxSazREeF9JTGw5Nkw0S1Q4NFVZM1Jr?oc=5",
-          "source": "보건신문",
-          "sourceInitial": "보건",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-21T01:37:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
