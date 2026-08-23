@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:21:25.120Z",
+  "generatedAt": "2026-08-23T08:59:13.188Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -44,6 +44,20 @@
           "tags": [
             "프랜차이즈",
             "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 8월 24일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdEdoMFZIdUx5bHUtbnhpSjBtQTViOW9WelRLZThkVU5RRG9qV0RfaEdBVGJFWUdYYU1zcVd0Z2VOTHlUYXZWYmF1MTBGZll2Mk9GOW5ZbTNKMTNIcUUwLUw0Q2QyQ1o4bGpMQm9KcDVjT1c0X05ZUGtwSm4wVnJxbi1rcnRWRjBMWDZWaThB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-23T08:34:39.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -117,18 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "자담치킨, 8월 배달 플랫폼 할인 행사 운영…고객 혜택 확대 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPaUtXNGxhazlFamtGeHJBYkluSS1MVERCN0taOUEtSVdWNjV6T29NZWJrZzBBZU9ickwzM1pZSEg2NEV2NHFPODd2bWhwUG9ETTB3Y2tB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T08:23:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -141,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 6,
+      "total": 3,
       "items": [
         {
           "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
@@ -172,34 +174,6 @@
           "feat": false
         },
         {
-          "title": "왕뚜껑도 가격 인상...팔도, 용기면 평균 5.5%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44ZVlQQTRtTGZkX3VMMTVtVnA2RkUwZWhYZnJsTV92MGlaYmxpQW9tSGhxUHpmM19Ibk1sbFZVMHo3cXc2Q1dwMWhrZExoQ1NIZURrcDZzQVoxbVhEaFJUMmM3RTZ6aTJMUFBqeWdFVQ?oc=5",
-          "source": "비즈트리뷴",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T08:34:18.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "7월 일본 소비자물가 1.8%↑…\"에너지 가격 반등에 가속\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TNIBeEFVX3lxTFBfX2RmeVdHMUw3TEJMT0lqREk0SUVWNlA3MjBQbHpxdlFPU1JwYXFEckg2elB1blkwdXByYWpGWUhoMTFGTWhGUkpURUNIOWhuaWlLRW9nRnQza19jUHFtZzJ1ZXAyWktfbk1pcWdjdy1sY1QxWWx1TA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-21T07:37:06.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "해수부, 추석 물가 안정위해 정부 비축 수산물 ‘역대 최대’ 2만톤 공급",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWnJ3bGtYcVVYTUprMWg0NHNXYW1xVlJ5RjR5ZHFuWmhobXAyLTR5bVBxSzd3d0RhclB4ek82NDNCUHpNeGpId25xQ3hpVElfSHliZmJmQmZjTER4ZzFYRUZHamVhOGZmOVVJ?oc=5",
@@ -207,18 +181,6 @@
           "sourceInitial": "BB",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-23T02:04:08.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "전분당 매각하는 CJ제일제당.SKU 축소하는 롯데웰푸드...식품업계 ‘선택과 집중’ 본격화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zX1BKUHZIcmtOT3NXSHAzWU85Q0I1T2JGdVpuclFtUVhiTlhGdXo0MU5SU1BKSVhiMFBzNzY5YVhlZy1WNlVIcGZwVTE5UHAwb2x5VmhKVXBXQy1LSHA0VGg4ZUJ2QQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T08:51:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -251,6 +213,18 @@
           "feat": true
         },
         {
+          "title": "사조푸디스트, 사조그룹 편입 2년차 성장세…B2B 식품축 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNTUNKZ0RoSHp2RFpxdkNHR0ZBSGxZZ1VWNGNHYkhZcDhpOXBUUVJoRkpDbF9TOWQzeFY1RG8wS3E3bW9HQmFJMzBtR1p2WWpKTjdz?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-23T08:01:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "'통합특별시 출범' 전남 친환경 농산물 날개 달까? (뉴스투데이 2026.06.08 광주MBC) Supermercato (M1DJeIEOus)",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DYXVsVVlHWUJkUkJZVXRXZVBweU45UDMxM0hJaTlrLUdsYnA5M1BBNE9qTnZLYUJVREQyZFpHUmx0MFVBQ1VxaUtaT0NDRGMtYnpSQ0dzMWZHMW8?oc=5",
@@ -273,18 +247,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ씨푸드, 신임 대표에 김동환 CJ제일제당 B2B솔루션담당 선임",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WQnprNEJseE1DTjAtdjlrZ0I5M1RQWUJXX0x5eTcxMXVQNTNkM1hMNnZqZFREeGY2M2wzMmdtWWVkNXJYSlotXzhxR0FERXV4V2Fv?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T08:02:07.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -300,6 +262,21 @@
       "total": 3,
       "items": [
         {
+          "title": "식약처, WHO와 아태지역 바이오시밀러 규제 워크숍 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RE1rbElaSG9SeWRrckZjZ1JvbzJqV0txbURORWF4eXoxZkpaR3FXM0Y4V3hUaE9paXR0ajVhZ0RHZjlaRTZBYVlPWjlTZF9KUWk2NENtMmJpTnAyVXFPSDVHR2ZHTm8tbjdlUFFXUdIBc0FVX3lxTE1ueVBkTGpyVEF3djg1SEZ2YjN4c2xTRG9ueHo3a01qcklsYkpFSWR2VlA2ZG9Eam9LeURMTmxiXzY2SmN4bmNsdzZZRFlxQmxxSTZ6SDJfb0xIczhjYzlFMGtvYU9KQ2ZVRnk0eUhIaEZvSnc?oc=5",
+          "source": "청년의사",
+          "sourceInitial": "청년",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-21T21:34:52.000Z",
+          "tags": [
+            "규제",
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVk9tYnZ5aUpUU2xzZ3F2bzFUTk9CcmgxeWt3dlI4WkJra2UtTmlyX2l3a0N4aUZKRnY0U2V2NHExT2NCVXdGWExsTnN0YldxSjdtZkt1T3hlWTVNYlIwWFVuZVVydW1DVTBCMFdPUzdfUEnSAXdBVV95cUxQYU5xLWJYd2VkbjlkWnVCLVpjUEVUdlIzRlVrLVZuc19MOVNzbG1GQVcxcXFXVk94OFdRNUVqaTBjY09yZk9wU3BkVW54WVprelN1c1B6NXBmRmUzYnRWS2tQWGdUWXY1SkFSNmdyTi15eXRlTWNVNA?oc=5",
@@ -311,7 +288,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "수입식품부터 의료기기까지…식약처 법안 4건 본회의 통과",
@@ -321,20 +298,6 @@
           "sourceInitial": "식약",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-22T09:25:00.000Z",
-          "tags": [
-            "식약처"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식약처ㆍWHO, 아태 바이오시밀러 평가 가이드라인 워크숍 개최 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95ejFLVzdkalBkOEw0VVU1aGptZTZ0bU1zMDlMeHR1SmpEcjlITEVtMThzbkYxVnhQeGJ3dDZ2TEtsR2ZBcjZ3MWZlUjZFdmpEZ3R2LVY4Q2pYRHdNSTFXU1V4SUlKcWc?oc=5",
-          "source": "의약뉴스",
-          "sourceInitial": "의약",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-21T08:55:48.000Z",
           "tags": [
             "식약처"
           ],
