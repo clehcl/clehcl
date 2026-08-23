@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:45:35.961Z",
+  "generatedAt": "2026-08-23T22:51:09.999Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -75,16 +75,14 @@
           "feat": false
         },
         {
-          "title": "\"동남아 찍고 북미·중남미로\"…세계 지도 넓히는 K-프랜차이즈",
+          "title": "코트라·농식품부, 아르헨티나서 역대 최대 'K푸드 판촉전' 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zR25xdzV4Q3BMRlVXSVNjT2VQb254M2FuT09QVHBQaXBtV0VJQzhsdXZzLVlaRktYeXRZM0lNWnZ2cUhjXzdFTzRTeEVuNlk?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sNUlIWlAzNkRnSEQweDVkbmx6NjluWWN5LUxfZXBVdnE1Y3M4SG4yd1draWJLUmJXUFZPb3dHdVYwRXltQUdiVzRDc080MnR3MnJB?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T22:01:04.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
+          "publishedAt": "2026-08-23T21:01:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -118,7 +116,7 @@
         {
           "title": "빵·라면 줄인상…\"원가 상승에 불가피\" vs \"왜 추석 앞두고\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTU3Zkc25NMnItMVA5LUVYQkhDbU5YR1g0NmV5YS1qdXg2VEhveVpHY3E5OFRnNWtNUGo5RW5rZkxYSzY4bG4zVXljNGZ2dTFRMzAwRDQwUnhnN3BVclZJNG5aUUNHTldYeTdrZUgxZ1VQRGZMU1lObQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWbFFfbF9tQWVEUmhzYmxUWkxxQXJ0UFh6bURSb19DaU9VVXRpNE1zQ1RRUnlhU2FMeDFzb2JlS1NmaDZxcGtuRUhYdm05OEdBN0Nz?oc=5",
           "source": "네이트",
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
@@ -208,8 +206,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 7,
       "items": [
+        {
+          "title": "[유통人터뷰]\"소규모 식당도 고객\"…'식봄 효과' 쉐프의정원 매출 500%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBia0JtcS1CQ21FWk9wNjhXd09GcEc3TFNpR3JWUTQwOUc1dnVHVWZMbVdhdl8xT0dQSVFIMGx4TUh6VV9pZWhpNjlUSjVibVVOQWZ1MHNQN2FOSEkxM0tV0gFkQVVfeXFMTVFPM1dJUmJkM1N1WW9xZTAtZk5hMHlocFZ3Q0xOdjB4Y1d1TlNYZkloNTZaMnFwZkp2Nk00WEZSY09yZVVhem9tYTFvMXZYTU5BT0YyWnpZOWpQUGszU0phVm80bQ?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-23T22:00:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[M&A 딜보드]요양·식품 유통 매물…시설관리·건설사 볼트온 채비",
           "summary": "",
@@ -222,12 +234,36 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "K-FOOD 세계화, 이제 ‘글로벌 비즈니스 아키텍트’가 필요하다-함선옥 교수의 급식·외식 인사이트(19)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oa3huLVlzaE82ZGJiZnVUZkVhcnB6YWNMU2drUFE3bHhXZlZpa2lGNzJKaWJTbE9WMm5YdERNa3RmZGdhQUhWYUM0c18wX3hFLWJjbmFkWFRjN1ZEV3Fkc1ZEcjd4X09CTFhab2k0bw?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-23T22:46:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "축평원, 학교급식 검수 업무 편의성 UP…’축산물원패스’ 기능 개선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oMW9pZWJfclVBWmFEN1pLa1FKdEVGdkFiWGpkb2praEdocW55MzVhT2hsX2FpMFlUbnpOX0tRMXNhVHppVjlOeWJGZVpyT2RsM0NWVjVwTDRlLVFHT1BDRjQzSTdJYzhENjNRRA?oc=5",
+          "source": "농수축산신문",
+          "sourceInitial": "농수",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-23T22:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "예산 학교급식 지역농산물 공급률 46.8%…충남 평균보다 7.6%p 높아",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11M1J0Wi1CRVY4T3NWaWpxUUJSSmNyaHN5b05hWXJDYTdWZ1JXRldxX0s5R0dZTWtsLUNPT1VPVWZXZHlMT2FzZld6Y1BVRWNyaEN1U08xb0lnaFBpMHYtMG41MlA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ZHpLdi1KR01CUVdJYmRkMC1jSkM5ZkhvLUFkZVJ0aTF1aEMzN2Y0YkNoaHRhY3hTVTMyNzdfRl8wdnA1cGZ0RlN4cWFXSk4tcThvTW1ReXdfdHFfTFFUTlRnTHZPbDA0TjhhVw?oc=5",
           "source": "중도일보",
           "sourceInitial": "중도",
           "sourceColor": "#8a5cc4",
@@ -327,7 +363,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
@@ -366,18 +402,6 @@
           "sourceInitial": "대구",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-23T12:31:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTVXpCY1FjbUM2TnpRRUh0NlJnaDZIUnZNSk1GeDBBM185STg5T3hWY3dEVEZ5RjdiczVrcWJCVEdoVFVhcHRDRDhBLWxfalBHV0lVR0stVGJDdVlobjNyRE9scVZneXc0a0JuY2Fva9IBb0FVX3lxTFBTVXpCY1FjbUM2TnpRRUh0NlJnaDZIUnZNSk1GeDBBM185STg5T3hWY3dEVEZ5RjdiczVrcWJCVEdoVFVhcHRDRDhBLWxfalBHV0lVR0stVGJDdVlobjNyRE9scVZneXc0a0JuY2Fvaw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-21T22:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
