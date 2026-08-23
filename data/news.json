@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T08:59:13.188Z",
+  "generatedAt": "2026-08-23T09:55:48.898Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
@@ -117,20 +117,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "우아한형제들, 외식업주 자녀 대상 '2026년 우아한 사장님 자녀 장학금' 모집 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Hb3FrNEJfTTFsSGl0OGNsdlZoT2JNdmFabWZYdFBDMG4ySDNfWUh5UFQzMmRhWFB5eW1CSHktb3E0U2hNcDc3QVk3N1lIU24tdVpPRk9Zb3R6MW11b3FFTzRPcENYdEZqckdLU1RPTWROZ0FRYzFMSVY3MEJGUQ?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T09:41:56.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,8 +129,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "2026 곤약 젤리 추천: 가격 대비 최고의 만족을 위한 선택 : 건강식품",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BWU9ZU3BuSHdtTGVjVUdfeFdZa29seFpoTkZyWVFZVzVDZmxMMWFSdU1NT1BvZ0hHak9BWUV4ZExBXzJpQ1FYOUFTTnJNTXlfa3VJ?oc=5",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-22T04:05:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
           "summary": "",
@@ -157,7 +157,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[Q2 분석] 롯데웰푸드's 어닝 서프라이즈…\"H2 변수=해외 캐시카우·비용 환골탈태·내수·원가·날씨\"",
@@ -201,11 +201,11 @@
         {
           "title": "[M&A 딜보드]요양·식품 유통 매물…시설관리·건설사 볼트온 채비",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjJuejgtNlZtOXpFOXNPVEZEYVJsdUpMNEhuRXdYOGxyR0tBS05rOU93cm5xTk4wNFFyc3ZvR1BjYm1oREYyX2t0U211Mlh2eG1MUWNqTVFOcUppN2hYcHFaVGQ2aWd2N0xVbmY4MVpwanlIZDdsYndZdDRQejRvSA?oc=5",
-          "source": "edaily.co.kr",
-          "sourceInitial": "ed",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-23T02:01:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55andSSkxXSDZ0dm5xbHdEcDd0eG1jLUFwWXoyS3J6S1JxWTRJUTV6UEFzLXZXMjYzZG5fSlE2RTRJYmItTVRlOUhBVzhHOGl3d2Nv?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-23T02:02:00.000Z",
           "tags": [
             "유통"
           ],
@@ -215,11 +215,11 @@
         {
           "title": "사조푸디스트, 사조그룹 편입 2년차 성장세…B2B 식품축 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNTUNKZ0RoSHp2RFpxdkNHR0ZBSGxZZ1VWNGNHYkhZcDhpOXBUUVJoRkpDbF9TOWQzeFY1RG8wS3E3bW9HQmFJMzBtR1p2WWpKTjdz?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-23T08:01:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jY3NMR01fWU5wUGh2MGpqZVZWRGRjaVJNVHZBZTJmemExMDZlODV6bTBZaW9VNnBFM3lPQUJHVWpVb0hLWWpGcUdMLWZJdHh3Q1lzQ0hWaWQtZF9Eb3dXWXhaTUY3WjNtLVBCctIBbEFVX3lxTE1jY3NMR01fWU5wUGh2MGpqZVZWRGRjaVJNVHZBZTJmemExMDZlODV6bTBZaW9VNnBFM3lPQUJHVWpVb0hLWWpGcUdMLWZJdHh3Q1lzQ0hWaWQtZF9Eb3dXWXhaTUY3WjNtLVBCcg?oc=5",
+          "source": "블로터",
+          "sourceInitial": "블로",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-23T08:03:02.000Z",
           "tags": [],
           "price": null,
           "feat": false
