@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:57:00.989Z",
+  "generatedAt": "2026-08-23T20:53:59.845Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -25,7 +25,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-23T14:34:39.000Z",
+          "publishedAt": "2026-08-23T14:37:39.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -316,8 +316,23 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "군산대 앵커사업단, 지역 수산물 활용 신제품 7종 출시…로컬푸드 직매장 입점",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jTmhlVHZXQ2JuUDlvNm5sdzlvUGRaa3g1eUlTMXpfeC1mcUltWmFsUk5JQU9mWk1NdUVuNU5TZmNpd0Jpd3BtQUh1czRfTlVnZkpqaTd2ZHJLQ19IcEhMbWFuRURQcmhhZW1NQk9B?oc=5",
+          "source": "gukjenews.com",
+          "sourceInitial": "gu",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-22T00:22:58.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[뉴컬트렌드] BTS·불닭볶음면이 연 273조 시장 여는 법",
           "summary": "",
@@ -330,7 +345,7 @@
             "트렌드"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[2027 大入 수시모집] 대구한의대학교, 자율전공학부·식품산업학과 신설 ‘눈길 ’",
