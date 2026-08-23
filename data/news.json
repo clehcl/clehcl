@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T14:54:54.020Z",
+  "generatedAt": "2026-08-23T15:49:27.822Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -99,8 +99,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
+        {
+          "title": "빵·라면 줄인상…\"원가 상승에 불가피\" vs \"왜 추석 앞두고\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWbFFfbF9tQWVEUmhzYmxUWkxxQXJ0UFh6bURSb19DaU9VVXRpNE1zQ1RRUnlhU2FMeDFzb2JlS1NmaDZxcGtuRUhYdm05OEdBN0Nz?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-23T15:03:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "팔도, 9월부터 라면·음료 제품 가격 인상",
           "summary": "",
@@ -113,7 +127,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "2026 곤약 젤리 추천: 가격 대비 최고의 만족을 위한 선택 : 건강식품",
