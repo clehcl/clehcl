@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:45:20.522Z",
+  "generatedAt": "2026-08-23T14:54:54.020Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "[ 2026년 8월 24일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -25,7 +25,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-23T08:34:39.000Z",
+          "publishedAt": "2026-08-23T14:34:39.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -87,18 +87,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "'10주년' 이디야커피랩, 봄맞이 다이닝 코스로 이색 경험 [ 신아일보 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVEV4Y3FMVlRtUDhxNlFycnI4TFJQRGFGMlhrVTM5NEJSZzBiT24zZWhoT2p2aWlDLUdCM2JxN09sWnFpcTE4a2dvNVdzUzZWd05tWFZqejNCLWFPVHhic082QVAtbXNGcHl4cDVDSEJyYWNFU3VISUx3ZTJ3T1FZWW13d0VNaDl5alhwdjA1V08yT3RheUpadDQ2cTlEUDFTNXhwX3YtZ3JwbGkzanFRQ2c1S2U2Z180RTN3dDVQZWdzYkhrTmoySFJmcGVDR1pvWVNVbW9xYkhCTktEdWVGYlVvMmM3YlRMYlNDQ1N4Y1F4Qm1lbWMwUg?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-21T14:05:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -111,8 +99,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
+        {
+          "title": "팔도, 9월부터 라면·음료 제품 가격 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPWmIyT2YtU3BxZTk5V1ZkV0tuYlhIOWRPR1UwdVFwcUdHSjRfeXVYbnAtY1k1SUtDTTRNTVBYajJLdERqLUV5cXZzSDBpbmVoM1ZJaE5YeGM?oc=5",
+          "source": "세계일보",
+          "sourceInitial": "세계",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-23T09:58:05.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "2026 곤약 젤리 추천: 가격 대비 최고의 만족을 위한 선택 : 건강식품",
           "summary": "",
@@ -125,7 +127,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "추석 먹거리 물가 비상… 시금치 95% 급등·서울 김밥 가격 4000원 육박",
@@ -229,8 +231,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "추석 앞 정부 비축 수산물 2만톤 푼다…\"최대 40% 저렴\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWGYwZjhqRjBpdkgwNDVJMmlaVjNwN0JNa1lwTlFzc252U0FBNmdjVjNTSHhDRVJMNTRjZl9obDFTNEIzWVkyWnR3TXJfWXJLVko4eDBrNzFKSkNfU2wwOdIBeEFVX3lxTFBSdHhyWjZMX3V5TGtvSG5ONURpZlBlc0kzVTVkYUJLbmJmZVFqUGxucktNLWd3MTlmQUdnSTFqeWJQQ1JoaHhOUlM3NGhUelNncmM0V0hudWtrQzZpNG9EM0F5VWFLM1hXUVR4bl9zSkdWNDZxQVNmMQ?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-23T02:00:00.000Z",
+          "tags": [
+            "비축",
+            "정부"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "식약처, WHO와 아태지역 바이오시밀러 규제 워크숍 개최",
           "summary": "",
@@ -244,7 +261,7 @@
             "식약처"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
