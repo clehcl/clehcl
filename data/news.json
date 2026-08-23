@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:54:03.778Z",
+  "generatedAt": "2026-08-23T11:45:38.310Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -193,16 +193,16 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
         {
           "title": "[M&A 딜보드]요양·식품 유통 매물…시설관리·건설사 볼트온 채비",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55andSSkxXSDZ0dm5xbHdEcDd0eG1jLUFwWXoyS3J6S1JxWTRJUTV6UEFzLXZXMjYzZG5fSlE2RTRJYmItTVRlOUhBVzhHOGl3d2Nv?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-23T02:02:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjJuejgtNlZtOXpFOXNPVEZEYVJsdUpMNEhuRXdYOGxyR0tBS05rOU93cm5xTk4wNFFyc3ZvR1BjYm1oREYyX2t0U211Mlh2eG1MUWNqTVFOcUppN2hYcHFaVGQ2aWd2N0xVbmY4MVpwanlIZDdsYndZdDRQejRvSA?oc=5",
+          "source": "edaily.co.kr",
+          "sourceInitial": "ed",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-23T02:01:03.000Z",
           "tags": [
             "유통"
           ],
@@ -220,6 +220,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "'통합특별시 출범' 전남 친환경 농산물 날개 달까? (뉴스투데이 2026.06.08 광주MBC) Supermercato (M1DJeIEOus)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DYXVsVVlHWUJkUkJZVXRXZVBweU45UDMxM0hJaTlrLUdsYnA5M1BBNE9qTnZLYUJVREQyZFpHUmx0MFVBQ1VxaUtaT0NDRGMtYnpSQ0dzMWZHMW8?oc=5",
+          "source": "Mshale",
+          "sourceInitial": "Ms",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-22T14:30:50.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -232,8 +244,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "추석 앞 정부 비축 수산물 2만톤 푼다…\"최대 40% 저렴\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWGYwZjhqRjBpdkgwNDVJMmlaVjNwN0JNa1lwTlFzc252U0FBNmdjVjNTSHhDRVJMNTRjZl9obDFTNEIzWVkyWnR3TXJfWXJLVko4eDBrNzFKSkNfU2wwOdIBeEFVX3lxTFBSdHhyWjZMX3V5TGtvSG5ONURpZlBlc0kzVTVkYUJLbmJmZVFqUGxucktNLWd3MTlmQUdnSTFqeWJQQ1JoaHhOUlM3NGhUelNncmM0V0hudWtrQzZpNG9EM0F5VWFLM1hXUVR4bl9zSkdWNDZxQVNmMQ?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-23T02:00:00.000Z",
+          "tags": [
+            "비축",
+            "정부"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "식약처, WHO와 아태지역 바이오시밀러 규제 워크숍 개최",
           "summary": "",
@@ -247,7 +274,7 @@
             "식약처"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
