@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T11:45:38.310Z",
+  "generatedAt": "2026-08-23T13:45:20.522Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
-        {
-          "title": "서울지역 김밥 한줄 3800원대…김밥 프랜차이즈 매장수도 25% ↓",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoUC1RQzJfU0NzVWRIejRjVjJHVHQ4Nk40SFVkZUt0Uk9lQXJrS0RLMjJJbVBlNl81V1RoUUJVd2dNRFRwSWxZR3c5QzlIOHBfNEgzUjliTVhyQQ?oc=5",
-          "source": "농민신문",
-          "sourceInitial": "농",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-21T13:00:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "매장"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[ 2026년 8월 24일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -45,7 +30,7 @@
             "프랜차이즈"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "맥도날드, 美 테크노믹 프랜차이즈 선정 '반세기 독주'…매출 550억弗 1위",
@@ -244,27 +229,12 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
-        {
-          "title": "추석 앞 정부 비축 수산물 2만톤 푼다…\"최대 40% 저렴\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWGYwZjhqRjBpdkgwNDVJMmlaVjNwN0JNa1lwTlFzc252U0FBNmdjVjNTSHhDRVJMNTRjZl9obDFTNEIzWVkyWnR3TXJfWXJLVko4eDBrNzFKSkNfU2wwOdIBeEFVX3lxTFBSdHhyWjZMX3V5TGtvSG5ONURpZlBlc0kzVTVkYUJLbmJmZVFqUGxucktNLWd3MTlmQUdnSTFqeWJQQ1JoaHhOUlM3NGhUelNncmM0V0hudWtrQzZpNG9EM0F5VWFLM1hXUVR4bl9zSkdWNDZxQVNmMQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-23T02:00:00.000Z",
-          "tags": [
-            "비축",
-            "정부"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "식약처, WHO와 아태지역 바이오시밀러 규제 워크숍 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50NVhDT0pEeGNSdGxQRzkzU3Y4SkFOT3VJMlpWTGo5RXhjTjFzLVpPRmJsbzlOUEtMODFwNU1tTU9RUXNkaURfODhzVEREbk5ocWFvVllGWkpfQXhaaHp3bkJQTkpMMUxZZHhFTnlrZmjSAXNBVV95cUxNbnlQZExqclRBd3Y4NUhGdmIzeHNsU0Rvbnh6N2tNanJJbGJKRUlkdlZQNmRvRGpvS3lETE5sYl82NkpjeG5jbHc2WURZcUJscUk2ekgyX29MSHM4Y2M5RTBrb2FPSkNmVUZ5NHlISGhGb0p3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RE1rbElaSG9SeWRrckZjZ1JvbzJqV0txbURORWF4eXoxZkpaR3FXM0Y4V3hUaE9paXR0ajVhZ0RHZjlaRTZBYVlPWjlTZF9KUWk2NENtMmJpTnAyVXFPSDVHR2ZHTm8tbjdlUFFXUdIBc0FVX3lxTE1ueVBkTGpyVEF3djg1SEZ2YjN4c2xTRG9ueHo3a01qcklsYkpFSWR2VlA2ZG9Eam9LeURMTmxiXzY2SmN4bmNsdzZZRFlxQmxxSTZ6SDJfb0xIczhjYzlFMGtvYU9KQ2ZVRnk0eUhIaEZvSnc?oc=5",
           "source": "청년의사",
           "sourceInitial": "청년",
           "sourceColor": "#8a5cc4",
@@ -274,7 +244,7 @@
             "식약처"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[한은] 생산자물가 11개월 만에 하락…전북 ‘비용 반등’ 경계",
@@ -315,7 +285,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
         {
           "title": "[뉴컬트렌드] BTS·불닭볶음면이 연 273조 시장 여는 법",
@@ -330,6 +300,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[2027 大入 수시모집] 대구한의대학교, 자율전공학부·식품산업학과 신설 ‘눈길 ’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zeTFlWTZkT0VuREpHN0x5QWJhZV9DMGxzLVBGMlFDUmduNHVGWlZRZmRRRG9YTEwxMXlTN0p5VnZhbVl3YThLWDVNbzN1M3ZDdXFYTmcwTzkyanQybEZNN2hER0owd05uLVdF?oc=5",
+          "source": "대구신문",
+          "sourceInitial": "대구",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-23T12:31:20.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "삼겹살에 쌈장 대신 꼬깔콘?…F&B 시장 흔드는 '이색변주' [핑거푸드] - 머니투데이",
