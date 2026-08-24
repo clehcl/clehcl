@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:48:45.264Z",
+  "generatedAt": "2026-08-24T23:48:58.356Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 16,
       "items": [
         {
           "title": "리드플래닛, 제84회 프랜차이즈창업박람회 참가…가맹본사용 ERP 소개",
@@ -49,6 +49,20 @@
           "feat": false
         },
         {
+          "title": "더블유디(WD), 몽골 'UB그룹'과 마스터프랜차이즈 계약 체결… '인쌩맥주·브샤브샤' 몽골 진출",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BWWNXbm5MOXIwQjVxZUQ3R1FzOTNrNTE5R3pTWnZod0o5UzVpeU81TmduTmVsSVVVYjQ3TnNKeFgwaVhRTDlVamk2enZKMGlVWnc?oc=5",
+          "source": "유스연합",
+          "sourceInitial": "유스",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-24T23:13:53.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[ 2026년 8월 25일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFRsNk1ZbGZOZUVNNE5pLUljTXRFNVB6bFZ3cE95OUVoVUF1YnJqOEoyNGpaVi02M1RaTDVBTEpHSHAzTWwzbEJ0RTFldlFBT3VsRWp5cllvZVYtMWZJUVZ6M3dYTDF0b1ZMSUV1djFYRFBFTHdMYjBhZWJ3SGstOWQ2S3RyNVN1V1ppemtB?oc=5",
@@ -70,20 +84,6 @@
           "sourceInitial": "창업",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-24T09:41:37.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 24일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ucTRMXzhLcGxrZ2NkbmFyemFGSnN0cmJha1RDdExlVmNyRlAzYXpwSEItbE1uLWc4OHJkYzZjYUFWVEdtbTBmY2gwdVRkNHdfbGtXRklR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T09:01:52.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -234,7 +234,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
@@ -261,6 +261,18 @@
           "tags": [
             "유통"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[단독] CJ제일제당, '비비고 만두' 일본 B2B 시장 출사표…급식까지 넘본다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NaUg1TjM3UjViLUxldDNHenhSc2VUeVV4QmJDSXN6YUlsb1diUFg4U2hIZ21TR2F4THdyeTdBQW1ZZllYTnZ2bU9CaEVuWmRfOFZOeXN4dHBiOVZ5M1gtdlJjWQ?oc=5",
+          "source": "더구루",
+          "sourceInitial": "더구",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-24T22:50:51.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -335,7 +347,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "추석 앞 정부 비축 수산물 2만톤 푼다…\"최대 40% 저렴\"",
@@ -363,6 +375,18 @@
           "tags": [
             "수급"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "뷔페·급식업체 219곳 위생점검…7곳 법 위반 적발",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZnBLMEtTXzc3Nko1cTNlR1V0U082YjBZVDQ0ajQzS191Wlk2M2FRandwQmR3TjVtbnp1QmJ3aWdVYXF4d252T0Voc09lYjlsNGpz?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-24T23:18:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -425,18 +449,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "성남시, 169억 원 재산세 감액·체납 단속·어린이 먹거리 점검 ‘행정 총력’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3T0Nka2RESGVidW5GcVVORG5vTE1yUDI0QVpXSEJjV05ZT3RWXzdmRDNFUVQtaHZWWEpBamIwZEFmVzF6bmZaS1FUWQ?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-24T01:40:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -449,7 +461,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "제주산 닭·무가 간편식으로…‘동결건조 닭곰국·삼계탕’ 9월 출시",
@@ -465,6 +477,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[유통갤러리] 남양유업, ‘당류 0g’ 루카스나인 시그니처 라떼 제로슈거 4종 출시 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iM1R5NnhaSnRHYTFlaURLM1NNSHNfNkVJbE83WDRKT2hkQWtsblZjMjRvaHVBblhzR08zUmRudXhheGliR2Fud1Vhc2Q4SmU5WVdjYnNrMnY?oc=5",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-24T23:45:21.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "’美 유통망 구축’ 컬리, 북미 간편식 공략…셰프 정호영과 맞손 The Guru",
@@ -491,6 +517,18 @@
           "tags": [
             "트렌드"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'K라면' R&D 주춤한데…삼양식품은 상반기 2배 이상 늘렸다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vV1FSWG03TUJ6MlIyMnlfb2ZSb05VUzJTY2NGVDRiblFYanUtbV9PcnFUdnJLNXdlMXZMeFhuUTNxMEJySVJLdDlwLWpzWXN1UV9ROGY3SE1fZWlwM3VnbVQ3NlDSAWRBVV95cUxPb1dRUlhtN01CejJSMjJ5X29mUm9OVVMyU2NjRlQ0Ym5RWGp1LW1fT3JxVHZySzV3ZTF2THhYblEzcTBCcklSS3Q5cC1qc1lzdVFfUThmN0hNX2VpcDN1Z21UNzZQ?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-24T21:30:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -526,30 +564,6 @@
           "sourceInitial": "데일",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-24T03:37:53.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 24일 식품업계 소식] 대상·오뚜기·풀무원·hy·CJ프레시웨이·창고43",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15dkVxTEdEeWtOLUhmcGJwWW5WbDJaYmdwX2JqU3NoRVUyZWttZ1VXTEx2ZVI4dlNCZWFEV25WV21VNlc1bUZ3Y2dCUzFsY3Zjd012RTdXM1lhaHhIeWRQc3d0cG9FQk1kTFBZZg?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-24T02:37:06.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[민주 식품가] hy·LG생활건강·CJ프레시웨이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pcV9ZTFNvNUxIdllMWld4NWVnWGpDZ0VVRXp6TE9vczJtdVd4RlNLSGJyaHRXTDRjZjg5REw5Mmh2dnpVR2Y1U3RwU1hJS0VZODVHX1o2aHA2YkR4NUEtQ2k3aDZLXzjSAWtBVV95cUxNZW5aM25zLUs1bVBnRTh6bkhpaG52OUQtNHlxZWNneTVUZXcySWZ5RkNSNy1WdFE1SkRoT0lTbW9Jcndab25rUUlleWV1NTRLZkpfemhKSmV0bDIySjhnV3FqSGpscEhMQWZwUQ?oc=5",
-          "source": "민주신문",
-          "sourceInitial": "민주",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-24T02:19:14.000Z",
           "tags": [],
           "price": null,
           "feat": false
