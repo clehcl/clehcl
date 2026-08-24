@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:07:24.813Z",
+  "generatedAt": "2026-08-24T18:00:50.657Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
@@ -174,20 +174,6 @@
           "feat": false
         },
         {
-          "title": "파리바게뜨, 25일부터 가격 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aMDMzMGhQUGNWVnV1SFJsVWlwT1F3TFlwTHVBbFNvellTbnozVGJCT0JfZG51b192R0R4Sm9YNE1NVk1IMHhFc1BZTQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-23T05:51:12.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "XOXO핫도그앤커피, ‘엑스오 치폴레소스’ 리뉴얼 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40aVRNZjNZdTVLLV9od0JWWDNRYlpCVm0xcExPSTdtZ0xWRFVtYVVpaURrZ3EwSEVGYXMxTU5XaTRYaWtVX2c4anBvYUgtRldxQ0JoUENB0gFWQVVfeXFMTjRpVE1mM1l1NUstX2h3QlZYM1FiWkJWbTFwTE9JN21nTFZEVW1hVWlpRGtncTBIRUZhczFNTldpNFhpa1VfZzhqcG9hSC1GV3FDQmhQQ0E?oc=5",
@@ -202,11 +188,11 @@
         {
           "title": "[드림&CEO] '전략통' 김태원 대표 체제 2년… 아워홈, '글로벌 푸드테크' 엔진 달았다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SNi1LSDJzWnJncmNYVV9XYUlRanVpY2E0bVgzaWgxbFZZd25EbEhxc0ljUmF6SWJCVURvQ0hPUHVLd2xGME1CaHREZk1ZMTBOdWY0WXdoTGtVdUxaSkdBdE5Xay00eWJHVFNwZnBn0gFuQVVfeXFMT1I2LUtIMnNacmdyY1hVX1dhSVFqdWljYTRtWDNpaDFsVll3bkRsSHFzSWNSYXpJYkJVRG9DSE9QdUt3bEYwTUJodERmTVkxME51ZjRZd2hMa1V1TFpKR0F0TldrLTR5YkdUU3BmcGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xc3I5dU1remtkOGNaTWNqOWpnZGpHQjJaU2NjOUlaT0hHMElCdkduR3d4UXNyTEFsZWFxQmNFQVpFd255d05NY1hseFQyQmJpYTR4WURzMGZVQlQ1alkyWnl2M0NhdWpkaWfSAW5BVV95cUxPUjYtS0gyc1pyZ3JjWFVfV2FJUWp1aWNhNG1YM2loMWxWWXduRGxIcXNJY1JhekliQlVEb0NIT1B1S3dsRjBNQmh0RGZNWTEwTnVmNFl3aExrVXVMWkpHQXROV2stNHliR1RTcGZwZw?oc=5",
           "source": "뉴스드림",
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-24T06:30:28.000Z",
+          "publishedAt": "2026-08-24T06:18:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -428,14 +414,15 @@
       "total": 8,
       "items": [
         {
-          "title": "’美 유통망 구축’ 컬리, 북미 간편식 공략…셰프 정호영과 맞손 The Guru",
+          "title": "제주산 닭·무가 간편식으로…‘동결건조 닭곰국·삼계탕’ 9월 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmVsamRLNGhUMUpzYlRMaERNTGltdUdsRnJPQndLVm9JN2g1c3VzMlZ3YW5XRXJHOXcxeUxWX3M5UG1qR09EMFNfZ1VTLTFud0VWT0xZdFJ6S2JUZ1pvakRPbmtFZl9JMHRZUXJab0JuaVJYLWNLVjFOSjB5UkJWWA?oc=5",
-          "source": "Investing.com 한국어",
-          "sourceInitial": "In",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-23T23:41:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZGlYUzk2MG5rdXQ1QVBfTjd0WjEzbjNEVEVuTWVBWWpjc1J2bEdVWEdkZFczd3RNNVFJdmFQSzFXQ29XQ1otVmtHMm1DRE5fZWt4TTZ5MlBKN1cyR1kxdlZQR0Rta3JHbFHSAW5BVV95cUxPc2VIcTRVWVBVVGdTZWRiMWQ3RFlja3FCcGlLSDhjWnA4N0F1LVhhS3VGdnNyNktrWE9HRkZFVFRnQmE2Y1Q4Skh2SHBnV29fVEoyUGZna2dPc0hyRmpicURwbVBFVGVyTzZKbFl0Zw?oc=5",
+          "source": "제주뉴스",
+          "sourceInitial": "제주",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-24T13:38:17.000Z",
           "tags": [
+            "출시",
             "간편식"
           ],
           "price": null,
