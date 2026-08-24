@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:23:43.784Z",
+  "generatedAt": "2026-08-24T11:49:17.574Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "리드플래닛, 제84회 프랜차이즈창업박람회 참가…가맹본사용 ERP 소개",
@@ -79,10 +79,10 @@
         {
           "title": "‘200억대 사기대출’ 한의원 프랜차이즈 대표, 항소심도 징역 4년",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53OHZBcWRqTS1uV25yMVlaOWhjQm91X3Q4dFNZWHZYeEcxYTNfWF9kM2xOMFFZRDRzODJndTFlRGYycmV2ZXZEeW1kcmFVajcxODJlTw?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QU1pMRFJZSWU5aEZ6U1Q2a203cVVDWTFzWnRJYnRLX0txT1JHWTQyYkNNVmZxUUljUlFsQ0VobUs2cWRsNUpfUUJ4WGJ3M1QtcU9XdUJQRUJ0OHp4?oc=5",
+          "source": "supple.kr",
+          "sourceInitial": "su",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-24T06:55:00.000Z",
           "tags": [
             "프랜차이즈"
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
@@ -200,6 +200,18 @@
           "feat": false
         },
         {
+          "title": "[드림&CEO] '전략통' 김태원 대표 체제 2년… 아워홈, '글로벌 푸드테크' 엔진 달았다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xc3I5dU1remtkOGNaTWNqOWpnZGpHQjJaU2NjOUlaT0hHMElCdkduR3d4UXNyTEFsZWFxQmNFQVpFd255d05NY1hseFQyQmJpYTR4WURzMGZVQlQ1alkyWnl2M0NhdWpkaWfSAW5BVV95cUxPUjYtS0gyc1pyZ3JjWFVfV2FJUWp1aWNhNG1YM2loMWxWWXduRGxIcXNJY1JhekliQlVEb0NIT1B1S3dsRjBNQmh0RGZNWTEwTnVmNFl3aExrVXVMWkpHQXROV2stNHliR1RTcGZwZw?oc=5",
+          "source": "뉴스드림",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-24T06:18:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "\"시금치 한단 7000원\" 폭염·호우에 치솟는 채솟값…가공식품도 '도미노 인상'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZZGZRYnpOaEM1Q0VGMmZFVTZkc1B6TmpvTEJ2bE83NHRtRHljbmU0QnR2NEhMOTZ5QzFNb05sSVBBSFFXaERXa3VET1RVZDZGMHpBamhHZUlmd21LdjE1cw?oc=5",
@@ -222,7 +234,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
@@ -274,18 +286,6 @@
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-24T07:38:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[드림&CEO] '전략통' 김태원 대표 체제 2년… 아워홈, '글로벌 푸드테크' 엔진 달았다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xc3I5dU1remtkOGNaTWNqOWpnZGpHQjJaU2NjOUlaT0hHMElCdkduR3d4UXNyTEFsZWFxQmNFQVpFd255d05NY1hseFQyQmJpYTR4WURzMGZVQlQ1alkyWnl2M0NhdWpkaWfSAW5BVV95cUxPUjYtS0gyc1pyZ3JjWFVfV2FJUWp1aWNhNG1YM2loMWxWWXduRGxIcXNJY1JhekliQlVEb0NIT1B1S3dsRjBNQmh0RGZNWTEwTnVmNFl3aExrVXVMWkpHQXROV2stNHliR1RTcGZwZw?oc=5",
-          "source": "뉴스드림",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-24T06:18:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
