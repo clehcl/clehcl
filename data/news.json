@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T08:29:32.485Z",
+  "generatedAt": "2026-08-24T10:23:43.784Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -44,6 +44,34 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "스코랩스, AI 학습관리 시스템 앞세워 프랜차이즈 창업박람회 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5idlFUbHk5RG1DeUl6WFNmN3c5V0dLdUhQQVZoejhYSXlGem5WNEY4NDRST0lMY3J0RW1XX2xTN1RHWkctdnctejBOUEJzMVFEUTVZekFfTWxxbFV0YTZIT3NEZ3h0bUxu?oc=5",
+          "source": "창업일보",
+          "sourceInitial": "창업",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-24T09:41:37.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 8월 25일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFRsNk1ZbGZOZUVNNE5pLUljTXRFNVB6bFZ3cE95OUVoVUF1YnJqOEoyNGpaVi02M1RaTDVBTEpHSHAzTWwzbEJ0RTFldlFBT3VsRWp5cllvZVYtMWZJUVZ6M3dYTDF0b1ZMSUV1djFYRFBFTHdMYjBhZWJ3SGstOWQ2S3RyNVN1V1ppemtB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-24T08:52:44.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -103,34 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "맘스터치·노랑통닭·버거킹…외식업 M&A ‘3연전’, 누구 품에 안기나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54TE9FS0FmTmVpS1Nxc2c2ZmJ5V21jbkxScWJNdmU2U1d6MUxEY2tuU2dITUp2ck0zUl9hZVp0TXFuaXp5MnZQYk5WLVRaN1BuaEZPMF84SGpZTGJMUUVjMDlVNXVLTm01OHN1Qm5LNXA5Z9IBckFVX3lxTE54TE9FS0FmTmVpS1Nxc2c2ZmJ5V21jbkxScWJNdmU2U1d6MUxEY2tuU2dITUp2ck0zUl9hZVp0TXFuaXp5MnZQYk5WLVRaN1BuaEZPMF84SGpZTGJMUUVjMDlVNXVLTm01OHN1Qm5LNXA5Zw?oc=5",
-          "source": "더 이코노미",
-          "sourceInitial": "더이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-24T01:11:50.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "프랜차이즈 본부 경영 배우는 연세대 프랜차이즈 최고경영자과정 FCEO, 창업박람회 참가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JaUptZXJYMkdZRlFIREVCOWxVc2U1Z0ZBei0ydDNJbk84WG9jdzZqTVc2TVhxeFgtR3Q5VDl2ZERMV3dHLWZZY0ZHOUFqRHVhOTZ5MXZ2WmxHODNGWWNZUXRpbEZNeWdJZm52TFJWbGM?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-24T00:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
@@ -174,20 +174,6 @@
           "feat": false
         },
         {
-          "title": "팔도, 9월부터 라면·음료 제품 가격 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPWmIyT2YtU3BxZTk5V1ZkV0tuYlhIOWRPR1UwdVFwcUdHSjRfeXVYbnAtY1k1SUtDTTRNTVBYajJLdERqLUV5cXZzSDBpbmVoM1ZJaE5YeGM?oc=5",
-          "source": "세계일보",
-          "sourceInitial": "세계",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-23T09:58:05.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "파리바게뜨 빵값 오른다…127종 가격 조정",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01MG9BWnM1YXV1dHhrXzI3M0Z0bTNZYUhlOU91SHVRSXBwdVY1MVpWV3RzSk5ZUmRfVy1hb0NDYlRISkNMOC1VQ0lTVQ?oc=5",
@@ -198,6 +184,30 @@
           "tags": [
             "가격"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "XOXO핫도그앤커피, ‘엑스오 치폴레소스’ 리뉴얼 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40aVRNZjNZdTVLLV9od0JWWDNRYlpCVm0xcExPSTdtZ0xWRFVtYVVpaURrZ3EwSEVGYXMxTU5XaTRYaWtVX2c4anBvYUgtRldxQ0JoUENB0gFWQVVfeXFMTjRpVE1mM1l1NUstX2h3QlZYM1FiWkJWbTFwTE9JN21nTFZEVW1hVWlpRGtncTBIRUZhczFNTldpNFhpa1VfZzhqcG9hSC1GV3FDQmhQQ0E?oc=5",
+          "source": "피앤피뉴스",
+          "sourceInitial": "피앤",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-24T06:50:55.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"시금치 한단 7000원\" 폭염·호우에 치솟는 채솟값…가공식품도 '도미노 인상'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZZGZRYnpOaEM1Q0VGMmZFVTZkc1B6TmpvTEJ2bE83NHRtRHljbmU0QnR2NEhMOTZ5QzFNb05sSVBBSFFXaERXa3VET1RVZDZGMHpBamhHZUlmd21LdjE1cw?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-08-24T01:04:18.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -212,7 +222,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
@@ -259,11 +269,23 @@
         {
           "title": "예산군, 학교급식 공급 지역산 식재료 비율 46.8%…충남 1위",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qRnVzeDg5dTAwbVlfQ0FYRmlTeDBLVE5XSWw4QXV6akZYMk9pZk80QVhlWDM4bWNZRkk4b3pUVERPTTFYa1kzNkkzdDh6bnJRMkxnOHdjdDhrRzFPaFgwatIBeEFVX3lxTE5pRk84OEhQcW95WnRrYk5MVHd1cTBiZ0VGTXYySThtNEhsN2E0OWZTQU1tSHJYcUFGamZuY1lmcjNycnRZdUNHYmlqcUMwXzBReV9QanpvcExncUtHM3dwODE4QkNJcXJQX0pnd3JzMWVJQk1LdWZldw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pRk84OEhQcW95WnRrYk5MVHd1cTBiZ0VGTXYySThtNEhsN2E0OWZTQU1tSHJYcUFGamZuY1lmcjNycnRZdUNHYmlqcUMwXzBReV9QanpvcExncUtHM3dwODE4QkNJcXJQX0pnd3JzMWVJQk1LdWZld9IBeEFVX3lxTE5pRk84OEhQcW95WnRrYk5MVHd1cTBiZ0VGTXYySThtNEhsN2E0OWZTQU1tSHJYcUFGamZuY1lmcjNycnRZdUNHYmlqcUMwXzBReV9QanpvcExncUtHM3dwODE4QkNJcXJQX0pnd3JzMWVJQk1LdWZldw?oc=5",
           "source": "뉴시스",
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-24T07:38:48.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[드림&CEO] '전략통' 김태원 대표 체제 2년… 아워홈, '글로벌 푸드테크' 엔진 달았다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xc3I5dU1remtkOGNaTWNqOWpnZGpHQjJaU2NjOUlaT0hHMElCdkduR3d4UXNyTEFsZWFxQmNFQVpFd255d05NY1hseFQyQmJpYTR4WURzMGZVQlQ1alkyWnl2M0NhdWpkaWfSAW5BVV95cUxPUjYtS0gyc1pyZ3JjWFVfV2FJUWp1aWNhNG1YM2loMWxWWXduRGxIcXNJY1JhekliQlVEb0NIT1B1S3dsRjBNQmh0RGZNWTEwTnVmNFl3aExrVXVMWkpHQXROV2stNHliR1RTcGZwZw?oc=5",
+          "source": "뉴스드림",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-24T06:18:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -295,11 +317,11 @@
         {
           "title": "사조푸디스트, 사조그룹 편입 2년차 성장세…B2B 식품축 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xOGdfNVY5dDRiUnFBWF81OTBRU1liODhnZjRBdjFUQUdtdTV4MmlsaE83WmlwNks0RTg2TE5ueTFxUjl0YjRWRlk3Zw?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-23T10:39:01.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fdGJ1Tkd6dEthMGk3bVpVVTlzUmlsSWJGNm5yZHNKWXFfbjlDRVhZaUlDQmMyQk1lck01MnF4dkNORld6a2FCc2RwUDJ3SzhQZXFnQ08yekQwSE1QQzFZMlB0YXVQR1hU0gFsQVVfeXFMTWNjc0xHTV9ZTnBQaHYwamplVlZEZGNpUk1UdkFlMmZ6YTEwNmU4NXptMFlpb1U2cEUzeU9BQkdValVvSEtZakZxR0wtZkl0eHdDWXNDSFZpZC1kX0Rvd1dZeFpNRjdaM20tUEJy?oc=5",
+          "source": "블로터",
+          "sourceInitial": "블로",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-23T08:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -407,7 +429,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "’美 유통망 구축’ 컬리, 북미 간편식 공략…셰프 정호영과 맞손 The Guru",
@@ -434,6 +456,18 @@
           "tags": [
             "트렌드"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농식품부·aT, 뉴욕서 'K-푸드페어' 성료…1200만 달러 수출 성과",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54VGVLd25XNDRZMndRbXhZZmJaTVlraGd2VGdSNmdxaE5tclg2ZlduS1hVWUp5UzR6M3V1M3FoOThwc3FaWEJFUEdFWWVKU3BiUU5TWnRibGY3RWs3SlkxR1djSnZPM2dQMEh3?oc=5",
+          "source": "내외경제TV",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-24T08:41:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
