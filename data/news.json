@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:00:23.554Z",
+  "generatedAt": "2026-08-25T22:52:10.579Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -64,6 +64,20 @@
           "feat": false
         },
         {
+          "title": "'이젠 배달 대신 냉동?'…CJ·동원, 치킨 프랜차이즈에 도전장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53YjBtTXFySG1JN2ZudGIwZklBb2NYdjd5a253UlIxa1VrMlJGUGRXd0VEeFNEZTRKVGF0OEljRk96alBXQTlUSU4xczZsb016aFBWMTBSLWJCWThiOUhlSnNHWlNVX2dIeEVB0gFvQVVfeXFMTkNvWGpDYW5HMzh3ZWFTNkxkZGZQMm9PMmpTYWNpeVpLV1RVQnJDWm1KTVBaUGdMandERTh1Z2RHVEtHSVdvZWNPZVVJQWJfUkZla0pNZTN6aXFmTExVcmVpUmRTbzBMVDdSbUlfWTI4?oc=5",
+          "source": "한국아이닷컴",
+          "sourceInitial": "한국",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T21:30:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[ 2026년 8월 26일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVjN6V0N6c2JEX3lFVmFfRmhqVVRONUxyX2pCdnE2Y1VncDFlX0hLZTZCNTNfSWdoWFpKM1BTWlZvMElUMzFwUVJwOTRxcU1ab1lRSk1VbkhLeW9Ec2NMS0JKcGtIZGZiaWpNTDA3OUpaUDhRZVE0NWVtVHVYWFp5dEJNX0loaFJzVVlHX2Nn?oc=5",
@@ -113,20 +127,6 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-25T04:48:28.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[현장] 막 오른 프랜차이즈 창업박랍회...카페 등 140여 브랜드 운영 노하우 공유 눈길",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZWpIZTFiTFJuaDZrVHlwTHduQVA2VHFoSV91UThxSUx0c0JuZDVoM3hkVnlfYjZmbm5WNEkxWENBa0ZVTWJBb0NwMHZzZWg5NVViT0tnMzV1UFJmZDc4RDdVV2UwUjdw?oc=5",
-          "source": "ebn.co.kr",
-          "sourceInitial": "eb",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-25T04:36:11.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -203,6 +203,20 @@
           "feat": false
         },
         {
+          "title": "원가 상승에 발목잡힌 K푸드…연구개발 예산부터 줄였다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50SHhyZmkwVGNTS3VMaFh0WVlOUFFEd1ZiLWpISlZFanVNQ0lDWnJMX0huU0ZObVNMNktqVUJxeWt4eUotSmtROVJpa0hyRC1yRzRB?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-24T09:43:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NdkI0Ul9tZE9XcVBLZGF4S0hqVDFUaWhkVldsRG40U056MC05UHB3OGN2VlJ6MGZIN1cya0c1OUR2ek1HaF9nRl92VUgxS2JpVG5PNE1DZ0lxc2NEN09tWFlsdDY2OTJqTGpnUkNWWmh5eUU?oc=5",
@@ -239,18 +253,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"40년 만에 최악\"…미국 곡물 농가, 이란 전쟁에 비용 폭등",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSVDZ4UnY2amR4T1BOU3dfMHV4bVgxWkN6ekF4bFJDVkZ6TktDVUdwcnpHTEgyZHNXUXBGeC16WlR0NFpwdV90ZjFDSUVuaFhFRXNiNW1GNlhxSWk5b0ZZVDRjVEJ3RmZqTGJ3aXpMLWpMdGI2dDBjedIBeEFVX3lxTFBSVDZ4UnY2amR4T1BOU3dfMHV4bVgxWkN6ekF4bFJDVkZ6TktDVUdwcnpHTEgyZHNXUXBGeC16WlR0NFpwdV90ZjFDSUVuaFhFRXNiNW1GNlhxSWk5b0ZZVDRjVEJ3RmZqTGJ3aXpMLWpMdGI2dDBjeQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-25T08:17:30.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -263,7 +265,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 14,
+      "total": 12,
       "items": [
         {
           "title": "농수산식품유통공사(aT), 충남과 상생협력·K푸드 북미 진출·온라인도매 판로 확대",
@@ -308,16 +310,14 @@
           "feat": false
         },
         {
-          "title": "[유통人터뷰]\"소규모 식당도 고객\"…'식봄 효과' 쉐프의정원 매출 500%↑",
+          "title": "충남 농산물 500톤 급식·외식에···현대그린푸드, 상생사업 첫 주자",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RTzNXSVJiZDNTdVlvcWUwLWZOYTB5aHBWd0NMTnYweGNXdU5TWGZJaDU2WjJxcGZKdjZNNFhGUmNPcmVVYXpvbWExbzF2WE1OQU9GMlp6WTlqUFBrM1NKYVZvNG3SAWRBVV95cUxNUU8zV0lSYmQzU3VZb3FlMC1mTmEweWhwVndDTE52MHhjV3VOU1hmSWg1NloycXBmSnY2TTRYRlJjT3JlVWF6b21hMW8xdlhNTkFPRjJaelk5alBQazNTSmFWbzRt?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-23T22:00:00.000Z",
-          "tags": [
-            "유통"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wemFlM1pIdVhLWm9BRlJZa3k4VnVnbVVBdGc1dGk1RDRqdlg3WmNvSDgwVllrXzh0Vl9oU0NzTlRyc2JFNHFWa0YxblBObTBhZWpSLWphemxIZkZyNmRaYWhhQm1HSE8z0gFrQVVfeXFMT2NZd0dWWkY5UFduSDlSU2JKZE9ldktYSjRPUGRVTGFuM182YVNIcUlHaFRKMVNFOEFBaFByQnpUdklWOExPa1I5bU9pVWh4emhCdGQwLTExTUNYTVhzYXJJUnVOYjVpODhOZEk?oc=5",
+          "source": "현대경제신문",
+          "sourceInitial": "현대",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-25T10:23:06.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -380,7 +380,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "토마토 3만원·시금치 5만원…추석 앞두고 장바구니 물가 ‘비상’",
@@ -465,18 +465,6 @@
           "feat": false
         },
         {
-          "title": "식품안전 함께 챙긴다…CJ푸드빌, 협력업체 대상 세미나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jd0NPYVpuenJwTTlyNDRiaGo0dGhPVmVuelNSMk1lUFU1TVVwTDRlM1l2T1B6T1FhRnJkN2V1R0txbjFnUEx2WVdvaTc3b0l3WkRVVkpibkR0dllyOF9uUXRZbDlDdkxSZVcyTg?oc=5",
-          "source": "ER 이코노믹리뷰",
-          "sourceInitial": "ER",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-25T01:25:52.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[마켓트렌드] ‘프로틴 갭’이 깨운 14억 인도…단백질이 ‘헬스장 보충제’에서 일상식품으로",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eWVTR21zMHQwYVBoTVBBMHhMTEJzZGx0TFZuaWhzcjRaclgtc0I1aEgxLXVLR21xb0UwRmhEVE5DZXFmOHFTY2dHcTNyYU9rMUVDZUU2Z1VvQzJmQ1ZtQjhxTkY5VDc5dzFrSg?oc=5",
@@ -484,6 +472,18 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-24T22:11:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "성남시, 2학기 개학 맞아 학교·학원가 어린이 기호식품 업소 498곳 위생 점검",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oRUpFRUNqMnllel9CNkZ3VTRGU2JVWkVWMHh3cVRKSnNvMk1HbGwyaDU0M1NZZ0U4R2NhREtzc1JkQVZ2cGRzVjd0RUVtZ2NrSHZPbVUzSkhSYWpBX3M3NWRXbmgzcWpTRm1EWFlR0gFyQVVfeXFMTlhtT29wTE9LSkFvcklJZVEwX1h0Y2tjQ3Z2SW9RLXJGVUlnMnBvWkMwa0V6eU1JX2lDYVhTSHJpSmMwMFYtUFlKQnpZWUpFT0tnZDlQVzVJRGdJRWN4WkdfNnVJVVVmUmFRM09SSmkxYnN3?oc=5",
+          "source": "경인종합일보",
+          "sourceInitial": "경인",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-24T04:24:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
