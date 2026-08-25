@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:19:27.476Z",
+  "generatedAt": "2026-08-25T17:55:43.537Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 24,
       "items": [
+        {
+          "title": "프랜차이즈 창업 브랜드 탄탄면공방, 2026년 상반기 우수가맹점 3개 지점 시상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qdkxtd3ExQm9iSWdjQzRldXlJZ0NGSE9EbTFrYk41ZTJRcWVyOFdEekVaejFhdFJuWmlpck5WV3ZmWmxZVGJoUU8tV2VGMnlGcmdZLW9FUWlmcFF5QklNSWtGX3lWZnFaYW9HdtIBcEFVX3lxTE1nakpkQlZwSkRuUEZsU1NyYmpLT3djMjFIWkZzUWdWa2pBeGZlemNheUd3cFl0R2JLS25HNmFVeV9KMnMzem9KVjBnYnFPc3M0NTNfYWtXQkxVZjdRV1ZfQTh6eFJSVWY3aTZvTjJ6Xzg?oc=5",
+          "source": "이넷뉴스",
+          "sourceInitial": "이넷",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-25T00:34:15.000Z",
+          "tags": [
+            "프랜차이즈",
+            "가맹"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "리드플래닛, 제84회 프랜차이즈창업박람회 참가…가맹본사용 ERP 소개",
           "summary": "",
@@ -31,7 +46,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "제때, 외식 프랜차이즈 2곳과 맞손…식자재 물류 지원",
@@ -77,6 +92,20 @@
           "feat": false
         },
         {
+          "title": "프랜차이즈 본부 경영 배우는 연세대 프랜차이즈 최고경영자과정 FCEO, 창업박람회 참가 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGJqaTRGUXZ0ekZja0U5NGIxczAxb1Zja1FvNXEySEIxVU5tbC02MExndmdlbGhrTVBUZ2FoemNVcnNMVkdacDRsSmRTZGI3SmhMN2ZyYmhRSkh1M3BaVFpycDcxU0ZPUTRUSGxKSWlqQTBPNWFrcHpvcnE0dWFSQWYzdnUtUDF6ZWlUMWZR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T04:48:28.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[현장] 막 오른 프랜차이즈 창업박랍회...카페 등 140여 브랜드 운영 노하우 공유 눈길",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZWpIZTFiTFJuaDZrVHlwTHduQVA2VHFoSV91UThxSUx0c0JuZDVoM3hkVnlfYjZmbm5WNEkxWENBa0ZVTWJBb0NwMHZzZWg5NVViT0tnMzV1UFJmZDc4RDdVV2UwUjdw?oc=5",
@@ -98,34 +127,6 @@
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-25T04:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "월드전람, 제84회 프랜차이즈 창업박람회 개최…코엑스 25일 개막",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODBsNnI2WTE5S2VlemV2V1FEWjhrSkZxYVpZTFgxeHRHc0FBMDhpS1p2dnZtZk5MOUJwT2t6ZUtVVDVqUWpPLTZxNi15M0dWM3h4MzFyWklDc1pvVDRNVEFCR242VGlPVmgteURPbVFwS2xHOXVNOXpWeENhLXdaT2NVTXF3SURudTduYzB3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-25T01:14:17.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "더블유디(WD), 몽골 'UB그룹'과 마스터프랜차이즈 계약 체결… '인쌩맥주·브샤브샤' 몽골 진출",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBpSmZuYURKUUJ5b1dyTGRZQjJwbUw3QndrdlVIS2lsenlkVTRoV0dQT0N2djlrMzliUktaNW5CeUgzTmM?oc=5",
-          "source": "knpp.co.kr",
-          "sourceInitial": "kn",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-24T23:13:53.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -264,8 +265,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
+        {
+          "title": "농수산식품유통공사(aT), 충남과 상생협력·K푸드 북미 진출·온라인도매 판로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENXBlZW5YOWNubEZIOXlfcE9pUVN4NEJld01LdGZQYThUV21vZnpaN0lOcjhGbDdWY0dQTnFyRHNQS0xVZUNkdWMtTGJoaE5XUFBJdlJKaEpPeWRQekdKRG45STdjcUdTVVE?oc=5",
+          "source": "컨슈머타임스",
+          "sourceInitial": "컨슈",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T11:17:48.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
           "summary": "",
@@ -278,7 +293,7 @@
             "배송"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[유통人터뷰]\"소규모 식당도 고객\"…'식봄 효과' 쉐프의정원 매출 500%↑",
@@ -353,18 +368,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, tvN ‘스트릿 레스토랑 파이터’ 협업 메뉴 인천공항서 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUmMtaHYwdDVoTEFmNWU4WjNnSUhPUmM4MkNIQzgwa3hqMjJoWE1oMThZT3Ryb1V3Z0lOTFVfQVlHLXpveVl2OXBEN1M5aENVaEtBb3pYblcxaUFRMU1uSnRQb2hmMl96akVUcw?oc=5",
-          "source": "식품외식경제",
-          "sourceInitial": "식품",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-24T11:56:05.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -377,7 +380,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "토마토 3만원·시금치 5만원…추석 앞두고 장바구니 물가 ‘비상’",
@@ -450,6 +453,18 @@
           "feat": false
         },
         {
+          "title": "건강기능식품 산업 미래 전략 논의 ‘K-Health Conference’ 개막",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TWkl0MUdENlhTcExhaXMxaEs1Qk9iN3h0b3E2OHpPdHhjblk3cjZTMUUyRVJ6Ui10V0VtS1RvLU5hWnQ1dU1aM0x2V2EwbVhrOUxBZTA5RTdBdmdFYkI0T1E0MXZVRzk1bW5ocQ?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T06:06:43.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품안전 함께 챙긴다…CJ푸드빌, 협력업체 대상 세미나",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jd0NPYVpuenJwTTlyNDRiaGo0dGhPVmVuelNSMk1lUFU1TVVwTDRlM1l2T1B6T1FhRnJkN2V1R0txbjFnUEx2WVdvaTc3b0l3WkRVVkpibkR0dllyOF9uUXRZbDlDdkxSZVcyTg?oc=5",
@@ -472,18 +487,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[마켓트렌드] ‘프로틴 갭’이 깨운 14억 인도…단백질이 ‘헬스장 보충제’에서 일상식품으로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eWVTR21zMHQwYVBoTVBBMHhMTEJzZGx0TFZuaWhzcjRaclgtc0I1aEgxLXVLR21xb0UwRmhEVE5DZXFmOHFTY2dHcTNyYU9rMUVDZUU2Z1VvQzJmQ1ZtQjhxTkY5VDc5dzFrSg?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-24T22:11:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -496,7 +499,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 21,
+      "total": 19,
       "items": [
         {
           "title": "‘K-발효·간편식’ 6개, 美 아시안 식품 유통망 ‘JFC’에 입점",
@@ -513,20 +516,6 @@
           "feat": true
         },
         {
-          "title": "유통·식품업계 AX 진풍경···CJ는 신제품 찾고, 팔도는 면발 잰다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXWEUweXRPMnBvRndpR0pvMlJmWHRDT1lFbm5lWUtick1yemdvZEZINndtS3RJdjczWnJFWlhYWEpTTXZRUWdMUklyTHRDTkpaamZaeEJXeTRJR3l6NDNIUGZTTnZFOXFGdlFsa0hjNHh0TlBJVXo00gF3QVVfeXFMUFdYRTB5dE8ycG9Gd2lHSm8yUmZYdENPWUVubmVZS2JyTXJ6Z29kRkg2d21LdEl2NzNackVaWFhYSlNNdlFRZ0xSSXJMdENOSlpqZlp4Qld5NElHeXo0M0hQZlNOdkU5cUZ2UWxrSGM0eHROUElVejQ?oc=5",
-          "source": "여성경제신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-25T09:04:12.000Z",
-          "tags": [
-            "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[Insight] SIAL 광저우가 꼽은 아시아 식품시장 ‘7대 트렌드’...“다음 베스트셀러를 먼저 잡아라”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUFUzTXRzVlRuNy1KV2ZWQU54a2pabEw3bEk0MHdmQzE0U3IzdkszSTRIdDhxU1pjVDR1ZVc4cm1LOW1wem9pN3RzenpiRVAySjV5WGFDT2FfNnBnUEplbF81VEFnemlPdFJ6OQ?oc=5",
@@ -536,20 +525,6 @@
           "publishedAt": "2026-08-25T06:50:18.000Z",
           "tags": [
             "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "aT, K-발효·간편식으로 북미 주력시장 진출 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aWVg5RTBwb2V1N1Q2YUhRR0ZXMGRtRzdNeWhSOXZmTUQ2WXV3ZzQyaDM4Q2NDUERtNFN5YS16VWFVTTJ1eW9ZSF93b0VXQncwR3FLalNxTS1VNFNNV3Jqc3MtNjA3S1hO?oc=5",
-          "source": "투데이안",
-          "sourceInitial": "투데",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-25T02:07:40.000Z",
-          "tags": [
-            "간편식"
           ],
           "price": null,
           "feat": false
@@ -607,6 +582,30 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "제주TP, 제주산 닭·무 활용 ‘동결건조 닭곰국·삼계탕’ 첫선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RVGRFS213aDRqQzNsSjZlWUV1ZHQ1cHMzbkdsd0czRVExLVEtSjRNNkFxdUlfZFJVLWxlS3dBOEZwWVNwMUJrTV92ZkprQ2ZrY3JMRW0tZ2J1VkxCWUFLcEN3bUFiYnNHOW45YThn?oc=5",
+          "source": "지금제주",
+          "sourceInitial": "지금",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T09:46:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[오늘의 브랜드] 삼양식품 ‘삼양1963’·‘불닭소스’, 레드닷 디자인 어워드 2026 수상 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM2RCMHpScDFfd2JrcjhCTEpQTXR6bnJzS0ZRQkduS1ZEZjJRcnNGNTBEWS1BWG1LLW9TV3Y2Wms3SlBtRDE4dVhUNVh0a3RpOExqMWtWUWJod21XMlFIRHMwOGJjXzE3ZVFucA?oc=5",
+          "source": "베이비뉴스",
+          "sourceInitial": "베이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-25T07:31:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
