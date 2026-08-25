@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:16:04.871Z",
+  "generatedAt": "2026-08-25T05:17:46.453Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -49,13 +49,27 @@
           "feat": false
         },
         {
-          "title": "청년다방, 홀·배달 병행 창업모델 선봬…제84회 프랜차이즈 창업박람회 참가",
+          "title": "[현장] 막 오른 프랜차이즈 창업박랍회...카페 등 140여 브랜드 운영 노하우 공유 눈길",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWdqRHFlcjRzYnBSalYwLW9KVlJka0NGZmo3TV9ha05qd3A1ZmFpQktRVGxObFloS0tJcjVWaHktQnQ4RGpWQTdadjFJczNfeGs3anZwNzgtUGs2SU52MDZhb0hkd3J2VlJMcmRncTI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZWpIZTFiTFJuaDZrVHlwTHduQVA2VHFoSV91UThxSUx0c0JuZDVoM3hkVnlfYjZmbm5WNEkxWENBa0ZVTWJBb0NwMHZzZWg5NVViT0tnMzV1UFJmZDc4RDdVV2UwUjdw?oc=5",
+          "source": "ebn.co.kr",
+          "sourceInitial": "eb",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T04:36:11.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "호영식품, 제84회 프랜차이즈창업박람회서 '분모자' 우수성 알려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03RnZqRUpQMWpUZGJhQkpYNmRpMV96MXJOdkN1d29fNldUZ1kwN2JZV3dUOGxqUWJFQXBnaFA5SXItRU1qS1NpdFoyUWxkOFc1QzNyamZoc3NrRF9HM2RDRlo1WW14aXRmUVZidEp2alA?oc=5",
           "source": "신아일보",
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-25T02:10:00.000Z",
+          "publishedAt": "2026-08-25T04:10:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -79,9 +93,9 @@
         {
           "title": "더블유디(WD), 몽골 'UB그룹'과 마스터프랜차이즈 계약 체결… '인쌩맥주·브샤브샤' 몽골 진출",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BWWNXbm5MOXIwQjVxZUQ3R1FzOTNrNTE5R3pTWnZod0o5UzVpeU81TmduTmVsSVVVYjQ3TnNKeFgwaVhRTDlVamk2enZKMGlVWnc?oc=5",
-          "source": "유스연합",
-          "sourceInitial": "유스",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBpSmZuYURKUUJ5b1dyTGRZQjJwbUw3QndrdlVIS2lsenlkVTRoV0dQT0N2djlrMzliUktaNW5CeUgzTmM?oc=5",
+          "source": "한국공공정책신문",
+          "sourceInitial": "한국",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-24T23:13:53.000Z",
           "tags": [
@@ -117,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 24일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ucTRMXzhLcGxrZ2NkbmFyemFGSnN0cmJha1RDdExlVmNyRlAzYXpwSEItbE1uLWc4OHJkYzZjYUFWVEdtbTBmY2gwdVRkNHdfbGtXRklR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T09:01:52.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
@@ -184,6 +184,18 @@
           "tags": [
             "가격"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "부산 냉면 1만2000원 시대…1년새 외식비 일제히 상승",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNzhOZFVqSUVNeWRIMVhOZXZ3TXNlRWdYREppZ0lKM2lJZVdKcENBY1BVbExpVDdCSUVvLWxZbDZVWUpYMkNyd3dqYUpLXzB3NWhPUVI1eGtMdUtUSU5RQWhmcHhuemNtSXRSSlZ4NkRNOWFw?oc=5",
+          "source": "부산일보",
+          "sourceInitial": "부산",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T04:07:07.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -231,18 +243,6 @@
           "sourceInitial": "피앤",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-24T06:50:55.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[드림&CEO] '전략통' 김태원 대표 체제 2년… 아워홈, '글로벌 푸드테크' 엔진 달았다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SNi1LSDJzWnJncmNYVV9XYUlRanVpY2E0bVgzaWgxbFZZd25EbEhxc0ljUmF6SWJCVURvQ0hPUHVLd2xGME1CaHREZk1ZMTBOdWY0WXdoTGtVdUxaSkdBdE5Xay00eWJHVFNwZnBn0gFuQVVfeXFMT1I2LUtIMnNacmdyY1hVX1dhSVFqdWljYTRtWDNpaDFsVll3bkRsSHFzSWNSYXpJYkJVRG9DSE9QdUt3bEYwTUJodERmTVkxME51ZjRZd2hMa1V1TFpKR0F0TldrLTR5YkdUU3BmcGc?oc=5",
-          "source": "뉴스드림",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-24T06:30:28.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -390,11 +390,11 @@
         {
           "title": "뷔페·급식업체 219곳 위생점검…7곳 법 위반 적발",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MQjJGbjVKcHFIdURlNWxtVHpacDFXTUJXUDViV1dSNnFpdUNyeEMwSmViNkJzUVZJOUl2SHVpX0VzOFBjeWtLd1FZdVVPcTNFOWc?oc=5",
-          "source": "매일경제 마켓",
-          "sourceInitial": "매일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-24T23:17:51.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yTF9zbXh2cXdYUUFDRlFtemtuS09LZXFmd083YnR6cExxaERUdFo3N19IN3ZzZU9senNsdkpZcHNTRlpFMkM1enpoczlFWlJjUkkxTGRGdFpSVTB0YU9kTWRKR3hLWDBvUGVaWWN3?oc=5",
+          "source": "세무사신문",
+          "sourceInitial": "세무",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-25T00:21:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -482,7 +482,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 21,
+      "total": 22,
       "items": [
         {
           "title": "제주산 닭·무가 간편식으로…‘동결건조 닭곰국·삼계탕’ 9월 출시",
@@ -500,20 +500,6 @@
           "feat": true
         },
         {
-          "title": "aT, K-발효·간편식으로 북미 주력시장 진출 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aWVg5RTBwb2V1N1Q2YUhRR0ZXMGRtRzdNeWhSOXZmTUQ2WXV3ZzQyaDM4Q2NDUERtNFN5YS16VWFVTTJ1eW9ZSF93b0VXQncwR3FLalNxTS1VNFNNV3Jqc3MtNjA3S1hO?oc=5",
-          "source": "투데이안",
-          "sourceInitial": "투데",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-25T02:07:40.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "aT, K-발효·간편식 앞세워 북미 공략…JFC 유통망 뚫었다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IeGRPYlRJTUJsTXd0ZzUyemhFaVdSVEtWWlc1aEdxMkJwamFZc2pHVjlPTFltU1ZQRl96UDcxcW5ZSE1xeTc2dw?oc=5",
@@ -521,6 +507,20 @@
           "sourceInitial": "소비",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-25T01:26:00.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "aT, K-발효·간편식으로 북미시장 공략",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43bVQ1OUdKV195bEg1TFJKSlIydklPYy1xR1VnOF9ObW9fcl9DcHBRVXVwZzhWU19GSC1PWU1zVkR2dThqY3VDVEVDOVU2SDZuNlpjcnhlSzM2czhfYjQ0NG9RYw?oc=5",
+          "source": "보건신문",
+          "sourceInitial": "보건",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-25T01:17:34.000Z",
           "tags": [
             "간편식"
           ],
@@ -570,20 +570,6 @@
           "feat": false
         },
         {
-          "title": "’美 유통망 구축’ 컬리, 북미 간편식 공략…셰프 정호영과 맞손 The Guru",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmVsamRLNGhUMUpzYlRMaERNTGltdUdsRnJPQndLVm9JN2g1c3VzMlZ3YW5XRXJHOXcxeUxWX3M5UG1qR09EMFNfZ1VTLTFud0VWT0xZdFJ6S2JUZ1pvakRPbmtFZl9JMHRZUXJab0JuaVJYLWNLVjFOSjB5UkJWWA?oc=5",
-          "source": "Investing.com 한국어",
-          "sourceInitial": "In",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-23T23:41:00.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[뉴컬트렌드] BTS·불닭볶음면이 연 273조 시장 여는 법",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tMEtaNHFtQ01wckVleTM3Z19zMVN6QUFKeEF2UnFtMTBaWUVFSkVTS3VmendnMHUway03Qk9HQjFGV2FIWGhwekFBekxqZDU2R3FKbHdKYlJKV24wZ3k1T1pkbFhDUQ?oc=5",
@@ -594,6 +580,18 @@
           "tags": [
             "트렌드"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "제주TP, 제주산 닭·무 활용 ‘동결건조 닭곰국·삼계탕’ 첫선",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzYm9pd1hNMERzelRRSnF2OEFDWVUyVG5BSjc1Nzg3c3RpajExQzEtMW5GVGJUMEdUZ0F5RzFnSTBmMUQzUjVUNlNOR2dPbFE4WU1lekJYQUJRcUstVHN1Mjc1Mm9pRUhrVDlLeQ?oc=5",
+          "source": "삼다일보",
+          "sourceInitial": "삼다",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-25T04:07:38.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
