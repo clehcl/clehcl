@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:28:26.649Z",
+  "generatedAt": "2026-08-25T16:19:27.476Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -91,13 +91,13 @@
           "feat": false
         },
         {
-          "title": "청년다방, 홀·배달 병행 창업모델 선봬…제84회 프랜차이즈 창업박람회 참가",
+          "title": "호영식품, 제84회 프랜차이즈창업박람회서 '분모자' 우수성 알려",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWdqRHFlcjRzYnBSalYwLW9KVlJka0NGZmo3TV9ha05qd3A1ZmFpQktRVGxObFloS0tJcjVWaHktQnQ4RGpWQTdadjFJczNfeGs3anZwNzgtUGs2SU52MDZhb0hkd3J2VlJMcmRncTI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03RnZqRUpQMWpUZGJhQkpYNmRpMV96MXJOdkN1d29fNldUZ1kwN2JZV3dUOGxqUWJFQXBnaFA5SXItRU1qS1NpdFoyUWxkOFc1QzNyamZoc3NrRF9HM2RDRlo1WW14aXRmUVZidEp2alA?oc=5",
           "source": "신아일보",
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-25T02:10:00.000Z",
+          "publishedAt": "2026-08-25T04:10:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -146,6 +146,20 @@
       "total": 20,
       "items": [
         {
+          "title": "삼양식품, 4년간 라면 가격 올리지 않은 비결은",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmc4YlAzSnZwaExqR0p5Ynhrb1FzSEVLWV8ySzhJZC1XSFI4dExxOER6RVJnZnVWbThfZGw2enBTU29Pd08xVUtQd3dmcUdITUdrM3VFaHhPYUhlRldpT1pUSjI0U0ZQRFZVSmdhanljQVBYcXRQU3c3dWgwMng4bDVva0tGZTM3eGc?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-25T15:33:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "원가 다이어트 성공한 웅진식품…상반기 영업익 214% 폭증",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45TWdfX3l5NnA2THRfWXM2eHVhWXE0eU95Qk1UQ1dVLXdoZDB3U0I4SEJUMUoxaFlRRU9xRmFhWkJscjdmSGZVNTdTbW54SkU?oc=5",
@@ -157,7 +171,7 @@
             "원가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "참치캔도 가격 오른다…동원F&B, 최대 10% 인상",
@@ -216,20 +230,6 @@
           "feat": false
         },
         {
-          "title": "삼양식품, 고ASP 지역 비중 확대에 원가율 개선…주가 재평가 시동",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zbXozZDlaVm9aTGhIS25rbGh6YUtGQldrVnZuaVpkQlVhc1N4dER4QzlFX1BabkJvSFlRWHVFZ1g4bUdYQVQ1STVDTFV0bGhLb2h4SVRCQV9tbGU1ZkVNYlVyNXdKdjZxcjBVN0oxT2htSG1MVkhV0gF3QVVfeXFMT3NtejNkOVpWb1pMaEhLbmtsaHphS0ZCV2tWdm5pWmRCVWFzU3h0RHhDOUVfUFpuQm9IWVFYdUVnWDhtR1hBVDVJNUNMVXRsaEtvaHhJVEJBX21sZTVmRU1iVXI1d0p2NnFyMFU3SjFPaG1IbUxWSFU?oc=5",
-          "source": "핀포인트뉴스",
-          "sourceInitial": "핀포",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-23T15:54:14.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "김밥 한 줄 평균값 3869원, 비싼 곳은 6000원까지 치솟아…왜?",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMRWNVRlprUV9tRTZhMTF6SlJXWHY3Rm1jN2p2cTRsQ0RBdmdBWURKUS1NTjhIaFJZN0dMUHJ5NEVHLUFQR1Q1QU1MbFM0bkZLejQwYkNOMS3SAVRBVV95cUxOdlJFbzV4LTJMMFJZcUN4UDRZazc1RmQySzQ4bklsQVBfYXhORlhYaGhSbGxDbVc5OGhNRE1Vem1xMEsxbDJwTHhTS3VmWjFlYk5zN3k?oc=5",
@@ -264,22 +264,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
-        {
-          "title": "aT, ‘Taste of Korea 2026’ 참가… K-발효·간편식 북미 주류 유통망 공략 가속화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUdIBckFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUQ?oc=5",
-          "source": "경인종합일보",
-          "sourceInitial": "경인",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-25T05:03:40.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
           "summary": "",
@@ -292,7 +278,7 @@
             "배송"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[유통人터뷰]\"소규모 식당도 고객\"…'식봄 효과' 쉐프의정원 매출 500%↑",
@@ -367,6 +353,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, tvN ‘스트릿 레스토랑 파이터’ 협업 메뉴 인천공항서 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUmMtaHYwdDVoTEFmNWU4WjNnSUhPUmM4MkNIQzgwa3hqMjJoWE1oMThZT3Ryb1V3Z0lOTFVfQVlHLXpveVl2OXBEN1M5aENVaEtBb3pYblcxaUFRMU1uSnRQb2hmMl96akVUcw?oc=5",
+          "source": "식품외식경제",
+          "sourceInitial": "식품",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-24T11:56:05.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -379,7 +377,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "토마토 3만원·시금치 5만원…추석 앞두고 장바구니 물가 ‘비상’",
@@ -452,20 +450,6 @@
           "feat": false
         },
         {
-          "title": "토마토값 한 달 새 4배로…폭염·소나기에 채소 수급 불안 우려",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyQndpWUJNMl9HN2FJMHptNzVYdXBLblR0X1p5Qno3UmRvTEtTYWVzSGhBSVhHN1A5cWZCMTYxVnRzTFpGb0NWaGJlSVdLWWIzeUxhelNiU044b1I4ZE84REdHNXh5OXVwd2hHMVVEZHF0WmlWMHpEMNIBeEFVX3lxTFAyQndpWUJNMl9HN2FJMHptNzVYdXBLblR0X1p5Qno3UmRvTEtTYWVzSGhBSVhHN1A5cWZCMTYxVnRzTFpGb0NWaGJlSVdLWWIzeUxhelNiU044b1I4ZE84REdHNXh5OXVwd2hHMVVEZHF0WmlWMHpEMA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-24T01:02:00.000Z",
-          "tags": [
-            "수급"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "식품안전 함께 챙긴다…CJ푸드빌, 협력업체 대상 세미나",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jd0NPYVpuenJwTTlyNDRiaGo0dGhPVmVuelNSMk1lUFU1TVVwTDRlM1l2T1B6T1FhRnJkN2V1R0txbjFnUEx2WVdvaTc3b0l3WkRVVkpibkR0dllyOF9uUXRZbDlDdkxSZVcyTg?oc=5",
@@ -485,6 +469,18 @@
           "sourceInitial": "세무",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-25T00:21:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[마켓트렌드] ‘프로틴 갭’이 깨운 14억 인도…단백질이 ‘헬스장 보충제’에서 일상식품으로",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eWVTR21zMHQwYVBoTVBBMHhMTEJzZGx0TFZuaWhzcjRaclgtc0I1aEgxLXVLR21xb0UwRmhEVE5DZXFmOHFTY2dHcTNyYU9rMUVDZUU2Z1VvQzJmQ1ZtQjhxTkY5VDc5dzFrSg?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-24T22:11:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
