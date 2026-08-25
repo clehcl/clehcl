@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:17:46.453Z",
+  "generatedAt": "2026-08-25T08:01:38.987Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 20,
       "items": [
         {
           "title": "리드플래닛, 제84회 프랜차이즈창업박람회 참가…가맹본사용 ERP 소개",
@@ -94,9 +94,9 @@
           "title": "더블유디(WD), 몽골 'UB그룹'과 마스터프랜차이즈 계약 체결… '인쌩맥주·브샤브샤' 몽골 진출",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBpSmZuYURKUUJ5b1dyTGRZQjJwbUw3QndrdlVIS2lsenlkVTRoV0dQT0N2djlrMzliUktaNW5CeUgzTmM?oc=5",
-          "source": "한국공공정책신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#333333",
+          "source": "knpp.co.kr",
+          "sourceInitial": "kn",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-24T23:13:53.000Z",
           "tags": [
             "프랜차이즈"
@@ -143,8 +143,50 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 15,
       "items": [
+        {
+          "title": "원가 다이어트 성공한 웅진식품…상반기 영업익 214% 폭증",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45TWdfX3l5NnA2THRfWXM2eHVhWXE0eU95Qk1UQ1dVLXdoZDB3U0I4SEJUMUoxaFlRRU9xRmFhWkJscjdmSGZVNTdTbW54SkU?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-25T07:43:04.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "참치캔도 가격 오른다…동원F&B, 최대 10% 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CQzRwSTVHQnphYXlFN3pjMm5WZ3FzTnp2bEwzdVNEeFlzZk1RNU15MkUxSW5lVDA4YVo0VnhVNUJSSk1UQ25mNWVJQzVtOGNoQktZUk1SRl96WEdXLXNGek04UWZnaXhMYzRiQllfUFY?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-25T06:09:12.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "동원참치도 오른다···동원F&B, 내달 참치캔·음료 가격 9~10% ↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aUzRZdWhpTTlzUkxiNXhsOFB3ZEtpZ0RoM09yS25lSzBkc3FxSGYxU2xkYktHdmlBalEwZTVoQjZJd25HMkRBbE9pMHIzempLa2tlb2x5U1Znd3k1TzFmaFFlWU00MWhLLVZxcQ?oc=5",
+          "source": "스마트비즈",
+          "sourceInitial": "스마",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-25T04:53:01.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
           "summary": "",
@@ -157,7 +199,7 @@
             "원가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "삼양식품, 고ASP 지역 비중 확대에 원가율 개선…주가 재평가 시동",
@@ -174,13 +216,13 @@
           "feat": false
         },
         {
-          "title": "파리바게뜨, 25일부터 가격 인상",
+          "title": "팔도, 9월부터 라면·음료 제품 가격 인상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aMDMzMGhQUGNWVnV1SFJsVWlwT1F3TFlwTHVBbFNvellTbnozVGJCT0JfZG51b192R0R4Sm9YNE1NVk1IMHhFc1BZTQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-23T05:51:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPWmIyT2YtU3BxZTk5V1ZkV0tuYlhIOWRPR1UwdVFwcUdHSjRfeXVYbnAtY1k1SUtDTTRNTVBYajJLdERqLUV5cXZzSDBpbmVoM1ZJaE5YeGM?oc=5",
+          "source": "세계일보",
+          "sourceInitial": "세계",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-23T09:58:05.000Z",
           "tags": [
             "가격"
           ],
@@ -200,49 +242,13 @@
           "feat": false
         },
         {
-          "title": "냉면 1만2692원·삼계탕 1만8192원…여름 외식물가 일제히 상승[물가 돋보기]",
+          "title": "고물가에 8월 휴가철 할인행사로 고객혜택 제공… 한솥도시락, 29년째 할인 행사",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQQkVoZ2EwWldRR2JZM1JYTGp4VXFxdVh0UVdiSmxXZFpPNEVja0pWY1RuQ2l0TnhiZ0VTakxheDlhLVNVQ0tXRkt3VXNJazNkU0Ezcy1wWlNYVzRn?oc=5",
-          "source": "supple.kr",
-          "sourceInitial": "su",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-25T01:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼계탕 1만8000원대·냉면 1만2000원대…하반기 외식물가 ‘줄인상’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyWE9zQU1rcDBTREtpMmlicWdtM3FDTC1CdnBZMXUwSDJvQ09tb2FoV21HVFF6Vk1UZ0JMY3V1U1RCYUFEMGk5bHRoS1ZmejM1S01taFFoYnVVZTh1Xy0wZDF1S1NjV1Ay?oc=5",
-          "source": "강원도민일보",
-          "sourceInitial": "강원",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-24T23:15:26.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "서울 외식비 7월에도 상승…폭염에 식재료 부담",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HelktbVU5TUhLa0JDR05vQm1WWmN5eXNPMGQ4b1RRTG5JeUU1OVhFRDJPc3pwYXJ0ckF5VnNXMS1VUU94TlBRUWY5MmVmbWtDT3RoWnFRRk5IWl9HOE1KM2NvRml1emxwN2JoRzZ0TkNJbzDSAXdBVV95cUxNQXNQaU9LZzg3c2RxWlc5Y3dkMU50bnVWcFpYTE1GWE9rNVdjQmVXTDJxVmh1VWNJUU1KeXJ0TVpUbE5FdjRxTE1NcVZlOUVqaVZQcDFwX05zOHl2OHNDamdhaHBXOHFlcHAwOUl2T0hVZzRtMFAzdw?oc=5",
-          "source": "스트레이트뉴스",
-          "sourceInitial": "스트",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T23:14:51.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "XOXO핫도그앤커피, ‘엑스오 치폴레소스’ 리뉴얼 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40aVRNZjNZdTVLLV9od0JWWDNRYlpCVm0xcExPSTdtZ0xWRFVtYVVpaURrZ3EwSEVGYXMxTU5XaTRYaWtVX2c4anBvYUgtRldxQ0JoUENB0gFWQVVfeXFMTjRpVE1mM1l1NUstX2h3QlZYM1FiWkJWbTFwTE9JN21nTFZEVW1hVWlpRGtncTBIRUZhczFNTldpNFhpa1VfZzhqcG9hSC1GV3FDQmhQQ0E?oc=5",
-          "source": "피앤피뉴스",
-          "sourceInitial": "피앤",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-24T06:50:55.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fbVlHR0tSdFY5aFdVeDJKSjR3dF9odDlTUWJJUDhqd2NBeC1iYU8zVDVLOUJPdkpzVkJQQXg2SVZvYWZwbkU4NWZ6SUhpZWhZZEY5LXZPNFdxS0ZJVFVGd254dnpMY2s?oc=5",
+          "source": "바끄로뉴스",
+          "sourceInitial": "바끄",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T03:18:33.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -258,7 +264,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
@@ -289,6 +295,18 @@
           "feat": false
         },
         {
+          "title": "aT·현대그린푸드, 충남 농특산물 급식·온라인 판로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MWHlCZVBaZkNFTWpkUXhYRVZVcl9CMUtKQ2NWbU9kR3ROYlpZMnFxWnZERDZHU1FqRFB4dU9yaFA2eko2eUVoX0xMQzVJaUltS3N1T2w5NUhKamdKR0JCNEI0ZGZUUQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T07:05:33.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[단독] CJ제일제당, '비비고 만두' 일본 B2B 시장 출사표…급식까지 넘본다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NaUg1TjM3UjViLUxldDNHenhSc2VUeVV4QmJDSXN6YUlsb1diUFg4U2hIZ21TR2F4THdyeTdBQW1ZZllYTnZ2bU9CaEVuWmRfOFZOeXN4dHBiOVZ5M1gtdlJjWQ?oc=5",
@@ -303,7 +321,7 @@
         {
           "title": "'런치플레이션'에 활짝 웃은 급식 빅3…수익성은 현대그린푸드 '독주'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IVGgzYmN4VjkxVGhqOW96ejJXUlVlSXVBem1DenIwWUk2RFlnOFpvbVpSd0h2dEFLc0pMZEx4dWFsUmo5TW5hOVZqOUhXTE96VlB5VA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrUnVFODBlR1ZseHM0bVFCU2ZvY2c1aFo3eUU5TzV0cWpTUmhfY1FVN2JwYzFjaWw3OTRSY2hoM3NfMUttX3pEZXBXMA?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
@@ -347,18 +365,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "사조푸디스트, 사조그룹 편입 2년차 성장세…B2B 식품축 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fdGJ1Tkd6dEthMGk3bVpVVTlzUmlsSWJGNm5yZHNKWXFfbjlDRVhZaUlDQmMyQk1lck01MnF4dkNORld6a2FCc2RwUDJ3SzhQZXFnQ08yekQwSE1QQzFZMlB0YXVQR1hU0gFsQVVfeXFMTWNjc0xHTV9ZTnBQaHYwamplVlZEZGNpUk1UdkFlMmZ6YTEwNmU4NXptMFlpb1U2cEUzeU9BQkdValVvSEtZakZxR0wtZkl0eHdDWXNDSFZpZC1kX0Rvd1dZeFpNRjdaM20tUEJy?oc=5",
-          "source": "블로터",
-          "sourceInitial": "블로",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-23T08:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -371,8 +377,64 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 13,
       "items": [
+        {
+          "title": "토마토 3만원·시금치 5만원…추석 앞두고 장바구니 물가 ‘비상’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PT3Zkc3o3SU1VcFR5UWNyVnNGcGVrcnlleDM5LWZoaEVZZlFEdGgwZUZXZ3UyTXJjSDM5UUExdkpSNDBYeVR3RjdSYlNlQkU4VlNDNVB3aFdPNWFNcmk2TW5NdG5sNXJ3eGpXSTJRNVFmQ3M?oc=5",
+          "source": "코리아이글뉴스",
+          "sourceInitial": "코리",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T06:19:31.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "日 근원물가 2.3% 상승…BOJ 9월 금리 인상 전망 힘 실려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Q3RnR29BV2JhaGJnVmw0aFoydkJfSE53UHNNWmFPZUJfalFCVkxJWnZmLU1aT0xPV1lkZDVFY3FsdWxEV21UNVF0dmZpZ3Jn?oc=5",
+          "source": "블루밍비트",
+          "sourceInitial": "블루",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-25T05:45:52.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "채솟값 폭등에 상인·소비자 부담…토마토 237%↑, 추석 물가 비상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVGpyS2FMNU5LQVRkcXA0bV8zZU80Y19UcU5VTWZsNnhHakFVRlV2UkpwT2pLZnRVR2djWXpNYWJCdjRVUlRnU2t6alBSSE9WdFp1Zkx6c9IBXEFVX3lxTFBoVjdBSFdlRllsY1Zqb2V2YjhqX1pGUEE1dUVBYVhTSVJ6bXVpaUpvbWJyaTVPRTkwd1U2MWJsckpmX2ZwZG5USEhjUmlkNkFmOW1ZOG15RmhVbjFK?oc=5",
+          "source": "christiandaily.co.kr",
+          "sourceInitial": "ch",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-25T05:32:53.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "식약처, 2027년 건강기능식품 원료 10종 재평가 착수∙∙∙ 빌베리·보이차 포함",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Y3ZjUllkblBJam5FOTNnNHZ0bDg3SmNlOG5maEdyOERnSHRWbDdfc1plWUw2aG9SVFFxQ0pBZjk1UkFTTzlOei03N2owN0lIaE9OVA?oc=5",
+          "source": "바이오북미디어",
+          "sourceInitial": "바이",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-25T01:10:42.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "토마토값 한 달 새 4배로…폭염·소나기에 채소 수급 불안 우려",
           "summary": "",
@@ -385,7 +447,19 @@
             "수급"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "건강기능식품 산업 미래 전략 논의 ‘K-Health Conference’ 개막",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TWkl0MUdENlhTcExhaXMxaEs1Qk9iN3h0b3E2OHpPdHhjblk3cjZTMUUyRVJ6Ui10V0VtS1RvLU5hWnQ1dU1aM0x2V2EwbVhrOUxBZTA5RTdBdmdFYkI0T1E0MXZVRzk1bW5ocQ?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T06:06:43.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "뷔페·급식업체 219곳 위생점검…7곳 법 위반 적발",
@@ -410,66 +484,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "GMO 표시 확대 앞둔 식품업계…준비 분주",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBReEJsZmxKOHZaVjdXV0pueUZuRFlmS2ZDSjZRLWt4eFRVSzdWNUNBWlV3TjJONGFYaVRPT1BWQ3V5eFZVel9mSFh3c0RfSkIyR0dlU0JVblluNW5HMy1jSFhHU04zRWtTNDEzStIBb0FVX3lxTE40TElTcXE2VEprRnpyWU1xWXhMZGxXTmsyVnZJSmVPc0hNZ18xWGFOQUREOVRmbjVzMlMxRTYyZDZ2SXdPQTBRRmhiVVIyWmtob0VpMTVKeXNtcFJtRGVjbUpsUXlSdjdUOElqMHdjSQ?oc=5",
-          "source": "한스경제",
-          "sourceInitial": "한스",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-24T21:51:55.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2026년 중추절 연휴 기간 동안 더욱 엄격한 식품 안전 검사가 시행될 예정입니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFRIY3BuWFB5VUE3ZzB0cmx5bmpVSWkxVGN4NWJtbVBrQXFrdmFsWTU3YlJLcnNkRmUzcEZ5d2NkLWdDd0tGM2M3M1c2WWdIRW85TThMaUlsLTIzV2Q2WnhsajRwZWtSSm1tS2RxVF91TGRhdzBxd3NyRlpwOHVJMG1zZ2t3azRqY1JoMnRR?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T14:48:10.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "미 FDA의 식품 원료 'GRAS(안전원료인정) 의무 통지제' 도입과 대미 수출 기업의 대응 전략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qUktYRGxZaWx6QWw2ZjJmQzMtYXJEMTdpcmZfTm1ZbTZLNi0tYlhueFFESDN2TWFmcE9UWm5kWjVQMmhIcTc0djVXMkVBckc0ajFuS2lnRlRRX0ozZzIyRkhOUGZFemlaRHVDS1Rn0gFyQVVfeXFMTkRGRHFEczlDQUpMZTZTdmt2ellfQmp6RXVTME5BS3hEVUtTcGsxeUFMWUE0SkpvaW9tSi1qSVVMMEhLeFFBeXJjbjcxMEw3VlgwekxFU2dJODZRUGk2QmVhSEQ0T0NwcWhYcWNUZ1h6WDVn?oc=5",
-          "source": "법률신문",
-          "sourceInitial": "법률",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-24T08:04:43.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "성남시, 2학기 개학 맞아 학교·학원가 어린이 기호식품 업소 498곳 위생 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oRUpFRUNqMnllel9CNkZ3VTRGU2JVWkVWMHh3cVRKSnNvMk1HbGwyaDU0M1NZZ0U4R2NhREtzc1JkQVZ2cGRzVjd0RUVtZ2NrSHZPbVUzSkhSYWpBX3M3NWRXbmgzcWpTRm1EWFlR0gFyQVVfeXFMTlhtT29wTE9LSkFvcklJZVEwX1h0Y2tjQ3Z2SW9RLXJGVUlnMnBvWkMwa0V6eU1JX2lDYVhTSHJpSmMwMFYtUFlKQnpZWUpFT0tnZDlQVzVJRGdJRWN4WkdfNnVJVVVmUmFRM09SSmkxYnN3?oc=5",
-          "source": "경인종합일보",
-          "sourceInitial": "경인",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-24T04:24:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "성남시, 169억 원 재산세 감액·체납 단속·어린이 먹거리 점검 ‘행정 총력’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFV1dSOGxEQ29jRS15cTNwMC1sYl9icjd6Uk9faXJ2NGM1UWt3WVlLOTBNX0p5a19MbEZwNG1UYnItQVNpNkdTZ3JSZDJRcjJZYjhTdTExWU5TVzFJSVU2Q3RwdXRRVHpnckVMb0NVMjc?oc=5",
-          "source": "인천일보",
-          "sourceInitial": "인천",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T01:32:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -482,22 +496,35 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 22,
+      "total": 23,
       "items": [
         {
-          "title": "제주산 닭·무가 간편식으로…‘동결건조 닭곰국·삼계탕’ 9월 출시",
+          "title": "[Insight] SIAL 광저우가 꼽은 아시아 식품시장 ‘7대 트렌드’...“다음 베스트셀러를 먼저 잡아라”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZGlYUzk2MG5rdXQ1QVBfTjd0WjEzbjNEVEVuTWVBWWpjc1J2bEdVWEdkZFczd3RNNVFJdmFQSzFXQ29XQ1otVmtHMm1DRE5fZWt4TTZ5MlBKN1cyR1kxdlZQR0Rta3JHbFHSAW5BVV95cUxPc2VIcTRVWVBVVGdTZWRiMWQ3RFlja3FCcGlLSDhjWnA4N0F1LVhhS3VGdnNyNktrWE9HRkZFVFRnQmE2Y1Q4Skh2SHBnV29fVEoyUGZna2dPc0hyRmpicURwbVBFVGVyTzZKbFl0Zw?oc=5",
-          "source": "제주뉴스",
-          "sourceInitial": "제주",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-24T13:38:17.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UUFUzTXRzVlRuNy1KV2ZWQU54a2pabEw3bEk0MHdmQzE0U3IzdkszSTRIdDhxU1pjVDR1ZVc4cm1LOW1wem9pN3RzenpiRVAySjV5WGFDT2FfNnBnUEplbF81VEFnemlPdFJ6OQ?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-25T06:50:18.000Z",
           "tags": [
-            "출시",
-            "간편식"
+            "트렌드"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "aT, K-발효·간편식으로 북미 주력시장 진출 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aWVg5RTBwb2V1N1Q2YUhRR0ZXMGRtRzdNeWhSOXZmTUQ2WXV3ZzQyaDM4Q2NDUERtNFN5YS16VWFVTTJ1eW9ZSF93b0VXQncwR3FLalNxTS1VNFNNV3Jqc3MtNjA3S1hO?oc=5",
+          "source": "투데이안",
+          "sourceInitial": "투데",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T02:07:40.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "aT, K-발효·간편식 앞세워 북미 공략…JFC 유통망 뚫었다",
@@ -507,20 +534,6 @@
           "sourceInitial": "소비",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-25T01:26:00.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "aT, K-발효·간편식으로 북미시장 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43bVQ1OUdKV195bEg1TFJKSlIydklPYy1xR1VnOF9ObW9fcl9DcHBRVXVwZzhWU19GSC1PWU1zVkR2dThqY3VDVEVDOVU2SDZuNlpjcnhlSzM2czhfYjQ0NG9RYw?oc=5",
-          "source": "보건신문",
-          "sourceInitial": "보건",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-25T01:17:34.000Z",
           "tags": [
             "간편식"
           ],
@@ -570,16 +583,14 @@
           "feat": false
         },
         {
-          "title": "[뉴컬트렌드] BTS·불닭볶음면이 연 273조 시장 여는 법",
+          "title": "[오늘의 브랜드] 삼양식품 ‘삼양1963’·‘불닭소스’, 레드닷 디자인 어워드 2026 수상 外",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tMEtaNHFtQ01wckVleTM3Z19zMVN6QUFKeEF2UnFtMTBaWUVFSkVTS3VmendnMHUway03Qk9HQjFGV2FIWGhwekFBekxqZDU2R3FKbHdKYlJKV24wZ3k1T1pkbFhDUQ?oc=5",
-          "source": "뉴스컬처",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-23T06:11:52.000Z",
-          "tags": [
-            "트렌드"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM2RCMHpScDFfd2JrcjhCTEpQTXR6bnJzS0ZRQkduS1ZEZjJRcnNGNTBEWS1BWG1LLW9TV3Y2Wms3SlBtRDE4dVhUNVh0a3RpOExqMWtWUWJod21XMlFIRHMwOGJjXzE3ZVFucA?oc=5",
+          "source": "베이비뉴스",
+          "sourceInitial": "베이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-25T07:31:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
