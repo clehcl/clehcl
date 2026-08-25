@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:45:42.217Z",
+  "generatedAt": "2026-08-25T21:00:23.554Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -163,7 +163,7 @@
         {
           "title": "원가 다이어트 성공한 웅진식품…상반기 영업익 214% 폭증",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45TWdfX3l5NnA2THRfWXM2eHVhWXE0eU95Qk1UQ1dVLXdoZDB3U0I4SEJUMUoxaFlRRU9xRmFhWkJscjdmSGZVNTdTbW54SkU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nbEdTS0JjWmFsNW9Xb1kyTXI5SklZbG1LUE1NVXRZOF9MdG05TU9BRmY2RU5KckRwUXNMT1p1YzhYNktGV0E?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
@@ -263,7 +263,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "농수산식품유통공사(aT), 충남과 상생협력·K푸드 북미 진출·온라인도매 판로 확대",
@@ -278,6 +278,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "aT, ‘Taste of Korea 2026’ 참가… K-발효·간편식 북미 주류 유통망 공략 가속화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TdnZLOVRjSEtGTGJqbXJ0NE4tVEh2dFZKeHpKcnBOWUJwUDZfWU9aNmNENm5lOVN6bE9KNGNMTDdsS3RJRS1uSDRDaUxvbTRPSlBXUGNzRTZVeDFsMnp1QzhwZUpPVkhKX0k5Zldkd9IBckFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUQ?oc=5",
+          "source": "경인종합일보",
+          "sourceInitial": "경인",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-25T04:10:19.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "20년 채소 외길 이근호 쉐프의정원 대표, ‘배송의 벽’ 넘어 전국 판로 넓히다",
@@ -351,18 +365,6 @@
           "sourceInitial": "더구",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-24T22:50:51.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "외국인이 줄 서서 먹는 K푸드가 있다?…해외로 가는 'K급식'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aMWxhOHQyaUhSTkl0a3BlUTM4aExaT3RId0hHb3EtQ2JTNnVzU1FnYXpKeFI1MUl5M3JkSWRpS21aU1h4SE9GbzNqV3Q3TFdCWDlxWV9EcDFOeERReV9kWmlhNEZJMnhKSFl4Xw?oc=5",
-          "source": "비즈워치",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-24T22:30:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -497,7 +499,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 20,
+      "total": 19,
       "items": [
         {
           "title": "할리스, ‘K-무드’ 가득한 가을 메뉴 5종 출시",
