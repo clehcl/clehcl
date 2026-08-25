@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:48:58.356Z",
+  "generatedAt": "2026-08-25T03:16:04.871Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 19,
       "items": [
         {
           "title": "리드플래닛, 제84회 프랜차이즈창업박람회 참가…가맹본사용 ERP 소개",
@@ -44,6 +44,34 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "청년다방, 홀·배달 병행 창업모델 선봬…제84회 프랜차이즈 창업박람회 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWdqRHFlcjRzYnBSalYwLW9KVlJka0NGZmo3TV9ha05qd3A1ZmFpQktRVGxObFloS0tJcjVWaHktQnQ4RGpWQTdadjFJczNfeGs3anZwNzgtUGs2SU52MDZhb0hkd3J2VlJMcmRncTI?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-25T02:10:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "월드전람, 제84회 프랜차이즈 창업박람회 개최…코엑스 25일 개막",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODBsNnI2WTE5S2VlemV2V1FEWjhrSkZxYVpZTFgxeHRHc0FBMDhpS1p2dnZtZk5MOUJwT2t6ZUtVVDVqUWpPLTZxNi15M0dWM3h4MzFyWklDc1pvVDRNVEFCR242VGlPVmgteURPbVFwS2xHOXVNOXpWeENhLXdaT2NVTXF3SURudTduYzB3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T01:14:17.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -91,43 +119,15 @@
           "feat": false
         },
         {
-          "title": "창업도, 8월 넷째 주 인기 프랜차이즈 순위 공개",
+          "title": "[ 2026년 8월 24일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QbU5VY3Y2RG5wZTB6TnRvYmVsVk9veklmTE5BNE40aWlITEprU2l0Mjc4MlhybmlzWEZ6NEVWdW51Uy1oRzdFWnFJRQ?oc=5",
-          "source": "프랜차이즈월드",
-          "sourceInitial": "프랜",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ucTRMXzhLcGxrZ2NkbmFyemFGSnN0cmJha1RDdExlVmNyRlAzYXpwSEItbE1uLWc4OHJkYzZjYUFWVEdtbTBmY2gwdVRkNHdfbGtXRklR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T07:35:11.000Z",
+          "publishedAt": "2026-08-24T09:01:52.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘200억대 사기대출’ 한의원 프랜차이즈 대표, 항소심도 징역 4년",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QU1pMRFJZSWU5aEZ6U1Q2a203cVVDWTFzWnRJYnRLX0txT1JHWTQyYkNNVmZxUUljUlFsQ0VobUs2cWRsNUpfUUJ4WGJ3M1QtcU9XdUJQRUJ0OHp4?oc=5",
-          "source": "supple.kr",
-          "sourceInitial": "su",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-24T06:55:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "연제구, 청년 외식 창업 돕는 ‘F&B 예비창업학교’ 운영",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjNQZ0hGblFCeHZFdjlseEoyQ0ZGYnZFMXdFRFN3VGJUWklNRGNXbl9QOGtMX1ZNUzE3Q3JJR0tfYXVrZElzNE84OV9USU8xc182aEg2LThjTzN5d1pSVUlPOXhtRnk1cHIzVFlBVVpUQkxNVHUySXBlZHZOampYTE14QmVzSzFfYk85RGt3?oc=5",
-          "source": "국제신문",
-          "sourceInitial": "국제",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-24T06:04:00.000Z",
-          "tags": [
-            "외식"
           ],
           "price": null,
           "feat": false
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 6,
+      "total": 9,
       "items": [
         {
           "title": "추석 앞두고 식품값 또 뛴다···\"원가 올랐다\" vs \"실적은 호조\"",
@@ -188,6 +188,42 @@
           "feat": false
         },
         {
+          "title": "냉면 1만2692원·삼계탕 1만8192원…여름 외식물가 일제히 상승[물가 돋보기]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQQkVoZ2EwWldRR2JZM1JYTGp4VXFxdVh0UVdiSmxXZFpPNEVja0pWY1RuQ2l0TnhiZ0VTakxheDlhLVNVQ0tXRkt3VXNJazNkU0Ezcy1wWlNYVzRn?oc=5",
+          "source": "supple.kr",
+          "sourceInitial": "su",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-25T01:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼계탕 1만8000원대·냉면 1만2000원대…하반기 외식물가 ‘줄인상’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyWE9zQU1rcDBTREtpMmlicWdtM3FDTC1CdnBZMXUwSDJvQ09tb2FoV21HVFF6Vk1UZ0JMY3V1U1RCYUFEMGk5bHRoS1ZmejM1S01taFFoYnVVZTh1Xy0wZDF1S1NjV1Ay?oc=5",
+          "source": "강원도민일보",
+          "sourceInitial": "강원",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-24T23:15:26.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서울 외식비 7월에도 상승…폭염에 식재료 부담",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HelktbVU5TUhLa0JDR05vQm1WWmN5eXNPMGQ4b1RRTG5JeUU1OVhFRDJPc3pwYXJ0ckF5VnNXMS1VUU94TlBRUWY5MmVmbWtDT3RoWnFRRk5IWl9HOE1KM2NvRml1emxwN2JoRzZ0TkNJbzDSAXdBVV95cUxNQXNQaU9LZzg3c2RxWlc5Y3dkMU50bnVWcFpYTE1GWE9rNVdjQmVXTDJxVmh1VWNJUU1KeXJ0TVpUbE5FdjRxTE1NcVZlOUVqaVZQcDFwX05zOHl2OHNDamdhaHBXOHFlcHAwOUl2T0hVZzRtMFAzdw?oc=5",
+          "source": "스트레이트뉴스",
+          "sourceInitial": "스트",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-24T23:14:51.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "XOXO핫도그앤커피, ‘엑스오 치폴레소스’ 리뉴얼 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40aVRNZjNZdTVLLV9od0JWWDNRYlpCVm0xcExPSTdtZ0xWRFVtYVVpaURrZ3EwSEVGYXMxTU5XaTRYaWtVX2c4anBvYUgtRldxQ0JoUENB0gFWQVVfeXFMTjRpVE1mM1l1NUstX2h3QlZYM1FiWkJWbTFwTE9JN21nTFZEVW1hVWlpRGtncTBIRUZhczFNTldpNFhpa1VfZzhqcG9hSC1GV3FDQmhQQ0E?oc=5",
@@ -207,18 +243,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-24T06:30:28.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"시금치 한단 7000원\" 폭염·호우에 치솟는 채솟값…가공식품도 '도미노 인상'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GUF9RUllDaEN3Vml4V1Zyd2Fwa3FrZ24wdldPZkNzVlRLMllCUVRlbUZ4VWZNc1VxV01nMGdzcllCRF9wTGRlSThmTE9MXzBWdFFCTg?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-24T01:05:49.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -347,23 +371,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
-        {
-          "title": "추석 앞 정부 비축 수산물 2만톤 푼다…\"최대 40% 저렴\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWGYwZjhqRjBpdkgwNDVJMmlaVjNwN0JNa1lwTlFzc252U0FBNmdjVjNTSHhDRVJMNTRjZl9obDFTNEIzWVkyWnR3TXJfWXJLVko4eDBrNzFKSkNfU2wwOdIBeEFVX3lxTFBSdHhyWjZMX3V5TGtvSG5ONURpZlBlc0kzVTVkYUJLbmJmZVFqUGxucktNLWd3MTlmQUdnSTFqeWJQQ1JoaHhOUlM3NGhUelNncmM0V0hudWtrQzZpNG9EM0F5VWFLM1hXUVR4bl9zSkdWNDZxQVNmMQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-23T02:00:00.000Z",
-          "tags": [
-            "비축",
-            "정부"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "토마토값 한 달 새 4배로…폭염·소나기에 채소 수급 불안 우려",
           "summary": "",
@@ -376,16 +385,16 @@
             "수급"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "뷔페·급식업체 219곳 위생점검…7곳 법 위반 적발",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZnBLMEtTXzc3Nko1cTNlR1V0U082YjBZVDQ0ajQzS191Wlk2M2FRandwQmR3TjVtbnp1QmJ3aWdVYXF4d252T0Voc09lYjlsNGpz?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-24T23:18:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MQjJGbjVKcHFIdURlNWxtVHpacDFXTUJXUDViV1dSNnFpdUNyeEMwSmViNkJzUVZJOUl2SHVpX0VzOFBjeWtLd1FZdVVPcTNFOWc?oc=5",
+          "source": "매일경제 마켓",
+          "sourceInitial": "매일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-24T23:17:51.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -449,6 +458,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "성남시, 169억 원 재산세 감액·체납 단속·어린이 먹거리 점검 ‘행정 총력’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFV1dSOGxEQ29jRS15cTNwMC1sYl9icjd6Uk9faXJ2NGM1UWt3WVlLOTBNX0p5a19MbEZwNG1UYnItQVNpNkdTZ3JSZDJRcjJZYjhTdTExWU5TVzFJSVU2Q3RwdXRRVHpnckVMb0NVMjc?oc=5",
+          "source": "인천일보",
+          "sourceInitial": "인천",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-24T01:32:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -461,7 +482,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 21,
       "items": [
         {
           "title": "제주산 닭·무가 간편식으로…‘동결건조 닭곰국·삼계탕’ 9월 출시",
@@ -477,6 +498,62 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "aT, K-발효·간편식으로 북미 주력시장 진출 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aWVg5RTBwb2V1N1Q2YUhRR0ZXMGRtRzdNeWhSOXZmTUQ2WXV3ZzQyaDM4Q2NDUERtNFN5YS16VWFVTTJ1eW9ZSF93b0VXQncwR3FLalNxTS1VNFNNV3Jqc3MtNjA3S1hO?oc=5",
+          "source": "투데이안",
+          "sourceInitial": "투데",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T02:07:40.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "aT, K-발효·간편식 앞세워 북미 공략…JFC 유통망 뚫었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IeGRPYlRJTUJsTXd0ZzUyemhFaVdSVEtWWlc1aEdxMkJwamFZc2pHVjlPTFltU1ZQRl96UDcxcW5ZSE1xeTc2dw?oc=5",
+          "source": "소비자를 위한 신문",
+          "sourceInitial": "소비",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-25T01:26:00.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "aT, 북미 유통망에 K-발효·간편식 안착…6개사 입점",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWTFdwNWF4SXR3aktSNjd5N1BvemhCT29iYUM4R0Q3aHNKSll2Rjh1blhQTGtiOXB2OWx2Q3VYWDFZbVhoU2I1MDN4bFhBODJaZ3dXY2lhSlllNFpLTWhpSXVJYjJhUjRfSGQ3RlJWc016anJHdWZBdtIBeEFVX3lxTFBWTFdwNWF4SXR3aktSNjd5N1BvemhCT29iYUM4R0Q3aHNKSll2Rjh1blhQTGtiOXB2OWx2Q3VYWDFZbVhoU2I1MDN4bFhBODJaZ3dXY2lhSlllNFpLTWhpSXVJYjJhUjRfSGQ3RlJWc016anJHdWZBdg?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-25T00:04:35.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "김단단, 소스 50% 늘린 한입 닭가슴살 2종 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqRlZmMklvLTNNRlRITFBLd0hFc1hkZUZYYjhaOVhvcDJuZVVxN3FGeldUWWJmdTVBMGFRTy1xdkpiTEFidzBIWHR1Q3JMYi0xMjFLNldHZ3ZXOVhv?oc=5",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[유통갤러리] 남양유업, ‘당류 0g’ 루카스나인 시그니처 라떼 제로슈거 4종 출시 外",
@@ -517,54 +594,6 @@
           "tags": [
             "트렌드"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'K라면' R&D 주춤한데…삼양식품은 상반기 2배 이상 늘렸다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vV1FSWG03TUJ6MlIyMnlfb2ZSb05VUzJTY2NGVDRiblFYanUtbV9PcnFUdnJLNXdlMXZMeFhuUTNxMEJySVJLdDlwLWpzWXN1UV9ROGY3SE1fZWlwM3VnbVQ3NlDSAWRBVV95cUxPb1dRUlhtN01CejJSMjJ5X29mUm9OVVMyU2NjRlQ0Ym5RWGp1LW1fT3JxVHZySzV3ZTF2THhYblEzcTBCcklSS3Q5cC1qc1lzdVFfUThmN0hNX2VpcDN1Z21UNzZQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-24T21:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "제주TP, 제주산 닭·무 활용 ‘동결건조 닭곰국·삼계탕’ 첫선",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KX2NXYThvdWhydTZkSmtleXRDdkVvcEtHUkhyYXFuaVZHeVhIVnNZcE9sRXpXT0pyc3RMMnRfdEZQeXNTV2laYlhYbUgxclNjNVpNaVFmWl9oMS1Dc3ZaOFJYTzh6eVNpZGVF?oc=5",
-          "source": "일간제주",
-          "sourceInitial": "일간",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T09:30:17.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농식품부·aT, 뉴욕서 'K-푸드페어' 성료…1200만 달러 수출 성과",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54VGVLd25XNDRZMndRbXhZZmJaTVlraGd2VGdSNmdxaE5tclg2ZlduS1hVWUp5UzR6M3V1M3FoOThwc3FaWEJFUEdFWWVKU3BiUU5TWnRibGY3RWs3SlkxR1djSnZPM2dQMEh3?oc=5",
-          "source": "내외경제TV",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-24T08:41:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농식품부·aT, 뉴욕서 수출기업 38개사·미주 바이어 70여 개사 매칭",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mel9CdkVWUGQ3NGloRkxIUTlKN1RBUUs4eTVUMzNibm5DM1M4V0hKekVYVzN6VngzejQwQXVCZG53VFRKaVFXclVva2stcVBoOS1wWURHaHJldlB3Rnl4WEg4LTFTNkdkR09uX3ZzTdIBc0FVX3lxTE5nQnlZRVZqaVhubkd4WnhXYmxyYVdTNzBGVkFGbU5pZXY5WHVtYUpMTDF3bU9JQ3ljRFZuTlNRSzlOdGNtNEkzTUMyYzNXMVUzNFVIUEwzYWNieFBZVUJTb2dMUlMtWTJzbGpJTXBZdFhOMzg?oc=5",
-          "source": "데일리한국",
-          "sourceInitial": "데일",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-24T03:37:53.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
