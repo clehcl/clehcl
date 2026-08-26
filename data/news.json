@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:56:10.901Z",
+  "generatedAt": "2026-08-26T14:27:12.333Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -230,20 +230,6 @@
           "feat": false
         },
         {
-          "title": "사조푸디스트, B2B 식자재 경쟁력 인정…‘식자재왕’ 7년 연속 1위",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNGNWdXRzZjc3TXdfNVRyeXNmdURXZnp4UXo5WkdlTVV0Q3hRSzFCTHowblBWX19Kam9pUGQ4R09iRHlmczY5Rm1naWdLUHI2NDJGeGRzOGJ1YmJGcmVOOUN2R1NuQ0E4d1hV?oc=5",
-          "source": "물류신문",
-          "sourceInitial": "물류",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-26T00:42:41.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "이케아 코리아, 161개 제품 평균 15% 가격 인하",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kTkRWRkFraFF5VHQ0a1RpLUZxSDB5REM5LXdiTl9GT3l0Y3hFbm9EMUhGZkhrMnYtaXZ2M1E0MkpYQQ?oc=5",
@@ -251,6 +237,20 @@
           "sourceInitial": "브레",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-26T00:20:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 4년간 라면 가격 올리지 않은 비결은",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmc4YlAzSnZwaExqR0p5Ynhrb1FzSEVLWV8ySzhJZC1XSFI4dExxOER6RVJnZnVWbThfZGw2enBTU29Pd08xVUtQd3dmcUdITUdrM3VFaHhPYUhlRldpT1pUSjI0U0ZQRFZVSmdhanljQVBYcXRQU3c3dWgwMng4bDVva0tGZTM3eGc?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-25T21:45:52.000Z",
           "tags": [
             "가격"
           ],
@@ -285,16 +285,14 @@
           "feat": true
         },
         {
-          "title": "aT, ‘Taste of Korea 2026’ 참가… K-발효·간편식 북미 주류 유통망 공략 가속화",
+          "title": "보레알리스 푸즈, 상반기 美 학교 급식 매출 110% 급증",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUdIBckFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUQ?oc=5",
-          "source": "경인종합일보",
-          "sourceInitial": "경인",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-25T05:03:40.000Z",
-          "tags": [
-            "유통"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxQTJvdE5sTWthV1hFYW9WOVQxUzYxR2REOHFSX29oSy05NEpSSDZ2bUlZOUV6R2VoZmY4dnlPckJ3ZWNEV2RnTDVXdDlRNmRkMXRnRU5LcHhpaGJ5X2QyYk1HTXlmNjlsV0FpTF9aRmNSZw?oc=5",
+          "source": "데이터투자",
+          "sourceInitial": "데이",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-26T12:16:37.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -386,7 +384,7 @@
         {
           "title": "쌀·농산물 수급·가격, 앞으론 정부가 사전에 관리···직불금 농외소득 제한 17년만에 상향",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qaERUbDZYLU9Jc2J3SC1aQXp2WWJsNkhrSVFxVVRfN3htMTR2bFEzZXNpSnJWbnhqaVdmcm9EbzNubDlla1ZuM2lYeTlqQldFSndFeENLZDRFUdIBX0FVX3lxTE5lcW44MUNuVkZhdlZ5NDhIY19ydjZJaXRBZ1pBY2V0MktkbTF4UTVjSWVZai0zMk1zbEpDNHhlRHFQUTh6NzRzU1IyZEw5ODdoYTE0QjlLRXBVaWZHZ2cw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lcW44MUNuVkZhdlZ5NDhIY19ydjZJaXRBZ1pBY2V0MktkbTF4UTVjSWVZai0zMk1zbEpDNHhlRHFQUTh6NzRzU1IyZEw5ODdoYTE0QjlLRXBVaWZHZ2cw0gFfQVVfeXFMTmVxbjgxQ25WRmF2Vnk0OEhjX3J2NklpdEFnWkFjZXQyS2RtMXhRNWNJZVlqLTMyTXNsSkM0eGVEcVBROHo3NHNTUjJkTDk4N2hhMTRCOUtFcFVpZkdnZzA?oc=5",
           "source": "경향신문",
           "sourceInitial": "경향",
           "sourceColor": "#c0392b",
@@ -469,6 +467,18 @@
           "feat": false
         },
         {
+          "title": "바코드 하나로 식품 안전 확인…'내손안(安)과 1399 스마트 서비스'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mN29zZTBzZ1dFNkNXNFRxNENlQV9oOEF1a283X3gyQnpkY2RaRXA2SkZOWk96UnpYSjV5ZGZhdXhYU2pVdnN4R1g4S3JkTjJfdjkxNTlyc0RJalk3dVNUenIxNGYtVGd2d0E?oc=5",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-26T10:40:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품안전정보원, K-푸드 수출기업 대응 가이드 공개 : Packnet",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoS1pnR3JEdWFaZnB2Q3lhVUh4MC1aX0N2TE1hdWdDeGFDNHFfczB1QWVDRnVlR25oMjRRalBOUEdVUldDWkc3RmtOSGFuMFZvZ1BxeTV0azIwUURORGVSMVc0UQ?oc=5",
@@ -476,18 +486,6 @@
           "sourceInitial": "월간",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-25T13:54:40.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2026년 중추절 연휴 기간 동안 더욱 엄격한 식품 안전 검사가 시행될 예정입니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFRIY3BuWFB5VUE3ZzB0cmx5bmpVSWkxVGN4NWJtbVBrQXFrdmFsWTU3YlJLcnNkRmUzcEZ5d2NkLWdDd0tGM2M3M1c2WWdIRW85TThMaUlsLTIzV2Q2WnhsajRwZWtSSm1tS2RxVF91TGRhdzBxd3NyRlpwOHVJMG1zZ2t3azRqY1JoMnRR?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-24T14:48:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
