@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:35:17.884Z",
+  "generatedAt": "2026-08-26T05:53:26.344Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -144,8 +144,23 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 23,
+      "total": 21,
       "items": [
+        {
+          "title": "나홀로 4년간 가격 동결… 삼양식품의 ‘압도적 원가 경쟁력’ 비결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FcU53QmV4RnRPa1lDczYzbFdscTNLWUVFODFubklQZ3RwRzk0aDVKNjQzVkdNUWhqVjROWFk1WWxNbk9rUTF5Z19ZUjF3Z2VGU0dER2ZDajhzUk1PMTJyaERDalpZM3pzSklV?oc=5",
+          "source": "더바이어",
+          "sourceInitial": "더바",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-26T00:15:53.000Z",
+          "tags": [
+            "원가",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "삼계탕·냉면·김밥 가격 일제히 상승…냉면 1그릇 얼마까지 올랐을까?",
           "summary": "",
@@ -158,7 +173,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "사조푸디스트, 식자재왕 7년 연속 ‘2026 한국소비자만족지수 1위’ 수상",
@@ -210,20 +225,6 @@
           "sourceInitial": "브레",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-26T00:20:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 4년간 라면 가격 올리지 않은 비결은",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmc4YlAzSnZwaExqR0p5Ynhrb1FzSEVLWV8ySzhJZC1XSFI4dExxOER6RVJnZnVWbThfZGw2enBTU29Pd08xVUtQd3dmcUdITUdrM3VFaHhPYUhlRldpT1pUSjI0U0ZQRFZVSmdhanljQVBYcXRQU3c3dWgwMng4bDVva0tGZTM3eGc?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-25T15:33:00.000Z",
           "tags": [
             "가격"
           ],
@@ -286,9 +287,23 @@
           "feat": true
         },
         {
+          "title": "aT, ‘Taste of Korea 2026’ 참가… K-발효·간편식 북미 주류 유통망 공략 가속화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TdnZLOVRjSEtGTGJqbXJ0NE4tVEh2dFZKeHpKcnBOWUJwUDZfWU9aNmNENm5lOVN6bE9KNGNMTDdsS3RJRS1uSDRDaUxvbTRPSlBXUGNzRTZVeDFsMnp1QzhwZUpPVkhKX0k5Zldkd9IBckFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUQ?oc=5",
+          "source": "경인종합일보",
+          "sourceInitial": "경인",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-25T04:10:19.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "의성군, 경북광역급식센터 안계면 유치…2027년 하반기 이전",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TbU44b1ZVWFNWU1FaZ3gwSEhCd3FjeFBLbEl0akZIVTg2d0VoaE1JYzVpT3daTUYwX3ljcTFDWjRJRjhweEdFelpqWjh0NDhldHdLTDhOVlFKT3ZyZHlkc0RTd1Q?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04U05DT2Voa2hzd0tUVnlVSkQ2S0N0cXJiZGpMU1F1OW1ocGp1RXgxaENuU1IxRGZCVnk0N0tLLXJlVDhLbVNaS2pURXRZMDYzTmZtNmloa09fZTh1c2lGdkw2QQ?oc=5",
           "source": "매일일보",
           "sourceInitial": "매일",
           "sourceColor": "#b03a6a",
@@ -356,18 +371,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "외국인이 줄 서서 먹는 K푸드가 있다?…해외로 가는 'K급식'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aMWxhOHQyaUhSTkl0a3BlUTM4aExaT3RId0hHb3EtQ2JTNnVzU1FnYXpKeFI1MUl5M3JkSWRpS21aU1h4SE9GbzNqV3Q3TFdCWDlxWV9EcDFOeERReV9kWmlhNEZJMnhKSFl4Xw?oc=5",
-          "source": "비즈워치",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-24T22:30:10.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -380,8 +383,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 6,
       "items": [
+        {
+          "title": "양곡법·농안법 27일 시행…농산물 수급관리 ‘사후 대응→선제 조절’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MldmWnBZdXRtYUwzbjdLRFNEd2dHWTB0bVozbUgzUFZjWXZWdzAzdzJLLTlxUld4Wm9ic0RfMWdXeWlBMGZ6NkVCajVjWkROdkJhcFRDR2wzZGc?oc=5",
+          "source": "경기일보",
+          "sourceInitial": "경기",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-26T05:25:50.000Z",
+          "tags": [
+            "수급"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "쌀수급 사전조절·가격안정제 도입…직불금 농외소득 4천700만원",
           "summary": "",
@@ -394,7 +411,7 @@
             "수급"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "토마토 3만원·시금치 5만원…추석 앞두고 장바구니 물가 ‘비상’",
@@ -418,20 +435,6 @@
           "sourceInitial": "블루",
           "sourceColor": "#333333",
           "publishedAt": "2026-08-25T05:45:52.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "채솟값 폭등에 상인·소비자 부담…토마토 237%↑, 추석 물가 비상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOVGpyS2FMNU5LQVRkcXA0bV8zZU80Y19UcU5VTWZsNnhHakFVRlV2UkpwT2pLZnRVR2djWXpNYWJCdjRVUlRnU2t6alBSSE9WdFp1Zkx6c9IBXEFVX3lxTFBoVjdBSFdlRllsY1Zqb2V2YjhqX1pGUEE1dUVBYVhTSVJ6bXVpaUpvbWJyaTVPRTkwd1U2MWJsckpmX2ZwZG5USEhjUmlkNkFmOW1ZOG15RmhVbjFK?oc=5",
-          "source": "christiandaily.co.kr",
-          "sourceInitial": "ch",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-25T05:32:53.000Z",
           "tags": [
             "물가"
           ],
@@ -463,30 +466,6 @@
           "tags": [
             "규제"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농산물값 기준 밑돌면 차액 일부 지원…'농안법' 27일 시행",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tMUtqX1QwR2xFT1BXOHQxZlNxZjhyWm52aG5kdmcwXzNNMlVaWjdFWTM3cU1hOUEtSmJsZFNYYmlFc0NZMjBLNGswX0VhZDhrVWhn?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-26T02:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "성남시, 2학기 개학 맞아 학교·학원가 어린이 기호식품 업소 498곳 위생 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oRUpFRUNqMnllel9CNkZ3VTRGU2JVWkVWMHh3cVRKSnNvMk1HbGwyaDU0M1NZZ0U4R2NhREtzc1JkQVZ2cGRzVjd0RUVtZ2NrSHZPbVUzSkhSYWpBX3M3NWRXbmgzcWpTRm1EWFlR0gFyQVVfeXFMTlhtT29wTE9LSkFvcklJZVEwX1h0Y2tjQ3Z2SW9RLXJGVUlnMnBvWkMwa0V6eU1JX2lDYVhTSHJpSmMwMFYtUFlKQnpZWUpFT0tnZDlQVzVJRGdJRWN4WkdfNnVJVVVmUmFRM09SSmkxYnN3?oc=5",
-          "source": "경인종합일보",
-          "sourceInitial": "경인",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-24T04:24:03.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -574,6 +553,20 @@
           "feat": false
         },
         {
+          "title": "GS25 전용 하림 ‘한입쏙 닭가슴살’ 2종 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlejFlNWc0QWpGZU0yOGJLYTdYMGpqT0lJcmo0eUdLYkpLdFpncnk0cG9fUFB4blp3YkhPU0Q0N1JjYVliX0NMOHBlQnhnMzB0MkxVbVp5TWVpTldZM1lsN3hn?oc=5",
+          "source": "쿡앤셰프",
+          "sourceInitial": "쿡앤",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-25T06:01:36.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "aT, K-발효·간편식 앞세워 북미 공략…JFC 유통망 뚫었다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IeGRPYlRJTUJsTXd0ZzUyemhFaVdSVEtWWlc1aEdxMkJwamFZc2pHVjlPTFltU1ZQRl96UDcxcW5ZSE1xeTc2dw?oc=5",
@@ -597,20 +590,6 @@
           "publishedAt": "2026-08-25T00:04:35.000Z",
           "tags": [
             "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "김단단, 소스 50% 늘린 한입 닭가슴살 2종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqRlZmMklvLTNNRlRITFBLd0hFc1hkZUZYYjhaOVhvcDJuZVVxN3FGeldUWWJmdTVBMGFRTy1xdkpiTEFidzBIWHR1Q3JMYi0xMjFLNldHZ3ZXOVhv?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-25T00:00:00.000Z",
-          "tags": [
-            "출시"
           ],
           "price": null,
           "feat": false
