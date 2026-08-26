@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:18:44.486Z",
+  "generatedAt": "2026-08-26T11:56:10.901Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -49,6 +49,20 @@
           "feat": false
         },
         {
+          "title": "[ 2026년 8월 27일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0FQSTNTbDJfZEpITWotdXRPSEZVb3BvV0h4TnVMSmdpWk43Tm1YRV8ySVFRYUo4VWkxc0NyNVFCYnp5RlpsZFJmZjl1SGkzMC1KZGlMakxSdFF4VjM5SEpFQjduXzU1dUtxY0ZuWi1hU0hPNktENmx0cVk3VVI0emdNQWtkTzd5ODRFVVdB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-26T11:07:42.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "카페24, 프랜차이즈창업박람회 참가…온라인 쇼핑몰 창업 지원 소개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yQmZvQW81cmZQWVNiWUZwZXBkNldhRzZycENxMk1xQzA4NDZCTy1iQU5HN3cwUEktVmJ5LUg5Mkt6UXJPSDBBbEVoVk9FVVRua1YzSXJCVUpHVFVuLW9MYXJB?oc=5",
@@ -72,20 +86,6 @@
           "publishedAt": "2026-08-26T07:00:00.000Z",
           "tags": [
             "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2025년 12월 15일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMzRnaEI2d3FWaTJTODRHdmJfS3Y0N2hiM21saWRnU01JT3JWSGNudzhpdmktZ3VRcmViYzM5czJoeXZaLXJkYUJTNEVBNnA1YmFiZG9hMnIxWWtKaG5rTnRfdHBxTzg5YUd5UE0xVDIwTTVZUEFIelVrQWdkbjNIR0kxUFlGbkxOQXFkUzNZWGJwWVcwelN2SjcyUExjSnBZNE15VUoxcUdpbnBHYXM3Rm1WS1c1Y3Z1cEJSc1JHYmdtTk8wa2U5TEFwMFN4UUdXWHVFNWtjQW9XcERFZzBGdXZ1N1pUR01iWkJXR25YMHNSZVJPcEJMVA?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-26T02:27:36.000Z",
-          "tags": [
-            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -146,6 +146,20 @@
       "total": 22,
       "items": [
         {
+          "title": "대규모 가격 조사로 살펴보는 북한 경제 (4) 식량과 식품… 엄청난 가격 폭등 지속 백미 1~2kg이 한 달치 노임 러시아산 밀과 콩이 대량 유입",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQSEF6ZzAwZHZOS1RneThibFltaEpHRS1KNlNOcXY3X2VfaVV5c0JsQ042bXBIa2FadS1GOVJYY1F2WTR2N21uUUpBX3c2YkZQbi1rdGJaY0dOUllVZVhNX2hjakxDaWkxdHoxdDhIUHBqa1lXTElR?oc=5",
+          "source": "アジアプレス・インターナショナル",
+          "sourceInitial": "アジ",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-26T07:44:57.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "사조푸디스트, ‘한국소비자만족지수 1위’ 2개 부문 수상…식자재왕 7년 연속",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FR0l1eUkzVzZ6TENaWVlmSlB3OUZjenZzcDU4d2V1cFR0NUk3X3FpUUMweVVPN09kYmtZVkZaMm9zcll6Nko5M3RhLU5tU0lSRFFQYV8zbjc3OC05OEl1Z21qNFJWOHhCTGYzUQ?oc=5",
@@ -157,7 +171,7 @@
             "식자재"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "사조푸디스트, '식자재왕' 한국소비자만족지수 7년 연속 1위",
@@ -242,20 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "삼양식품, 4년간 라면 가격 올리지 않은 비결은",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmc4YlAzSnZwaExqR0p5Ynhrb1FzSEVLWV8ySzhJZC1XSFI4dExxOER6RVJnZnVWbThfZGw2enBTU29Pd08xVUtQd3dmcUdITUdrM3VFaHhPYUhlRldpT1pUSjI0U0ZQRFZVSmdhanljQVBYcXRQU3c3dWgwMng4bDVva0tGZTM3eGc?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-25T21:45:52.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -268,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "농수산식품유통공사(aT), 충남과 상생협력·K푸드 북미 진출·온라인도매 판로 확대",
@@ -287,11 +287,11 @@
         {
           "title": "aT, ‘Taste of Korea 2026’ 참가… K-발효·간편식 북미 주류 유통망 공략 가속화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TdnZLOVRjSEtGTGJqbXJ0NE4tVEh2dFZKeHpKcnBOWUJwUDZfWU9aNmNENm5lOVN6bE9KNGNMTDdsS3RJRS1uSDRDaUxvbTRPSlBXUGNzRTZVeDFsMnp1QzhwZUpPVkhKX0k5Zldkd9IBckFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUdIBckFVX3lxTE50MDZaVFpNZmVzYlNCeHFGQnhUc1pXLUdyNVg0d2txZ2k5MW5nNzdTN2I0b0VzRGZtOVNOMFVfMUYtZi14cTJQS1ZFUTltVHBodFhtY0ZQemJBV012SFZyWVdsOEwzM240eFZmQnVLaDRtUQ?oc=5",
           "source": "경인종합일보",
           "sourceInitial": "경인",
           "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-25T04:10:19.000Z",
+          "publishedAt": "2026-08-25T05:03:40.000Z",
           "tags": [
             "유통"
           ],
@@ -386,11 +386,11 @@
         {
           "title": "쌀·농산물 수급·가격, 앞으론 정부가 사전에 관리···직불금 농외소득 제한 17년만에 상향",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Z2pRUmZ2T2JTa2hZVWYtWTJnbGxud2FFOWIzV3hZbVdld3BSUy1MNHhBV1FaenBaY2tuVF9TZ0lleXpIYW92NDc5MVNUdGdyZ0ZQUXE4bzRzWGtiUEt3bURaSmdKV0hrTUpWbzFIeHo1bzFvaW4xRA?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-26T08:05:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qaERUbDZYLU9Jc2J3SC1aQXp2WWJsNkhrSVFxVVRfN3htMTR2bFEzZXNpSnJWbnhqaVdmcm9EbzNubDlla1ZuM2lYeTlqQldFSndFeENLZDRFUdIBX0FVX3lxTE5lcW44MUNuVkZhdlZ5NDhIY19ydjZJaXRBZ1pBY2V0MktkbTF4UTVjSWVZai0zMk1zbEpDNHhlRHFQUTh6NzRzU1IyZEw5ODdoYTE0QjlLRXBVaWZHZ2cw?oc=5",
+          "source": "경향신문",
+          "sourceInitial": "경향",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-26T08:04:00.000Z",
           "tags": [
             "수급",
             "정부"
@@ -469,20 +469,6 @@
           "feat": false
         },
         {
-          "title": "성남시, '규제혁신 아이디어' 공모 및 '어린이 먹거리' 498곳 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4teTVuanJ4bEhFbzMwQUc0Yng2WUtGXzJvdXZuVC1GVjBqVFFZSHdVaThmNkx1eU00SWxSNnlsVFU1bFpkbkFKZFpLalBJcy1BZC1PMDFtNm40TzAwWnNScmpaM21seExtYnc?oc=5",
-          "source": "컨슈머타임스",
-          "sourceInitial": "컨슈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-24T11:31:35.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "식품안전정보원, K-푸드 수출기업 대응 가이드 공개 : Packnet",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoS1pnR3JEdWFaZnB2Q3lhVUh4MC1aX0N2TE1hdWdDeGFDNHFfczB1QWVDRnVlR25oMjRRalBOUEdVUldDWkc3RmtOSGFuMFZvZ1BxeTV0azIwUURORGVSMVc0UQ?oc=5",
@@ -490,6 +476,18 @@
           "sourceInitial": "월간",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-25T13:54:40.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "2026년 중추절 연휴 기간 동안 더욱 엄격한 식품 안전 검사가 시행될 예정입니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFRIY3BuWFB5VUE3ZzB0cmx5bmpVSWkxVGN4NWJtbVBrQXFrdmFsWTU3YlJLcnNkRmUzcEZ5d2NkLWdDd0tGM2M3M1c2WWdIRW85TThMaUlsLTIzV2Q2WnhsajRwZWtSSm1tS2RxVF91TGRhdzBxd3NyRlpwOHVJMG1zZ2t3azRqY1JoMnRR?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-24T14:48:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
