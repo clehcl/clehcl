@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:09:47.555Z",
+  "generatedAt": "2026-08-26T10:18:44.486Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 26,
+      "total": 24,
       "items": [
         {
           "title": "[프랜차이즈 Pick] 외식업계, 현장 봉사·지역 상생·재해 구호 중심 ESG 행보 확대",
@@ -49,21 +49,6 @@
           "feat": false
         },
         {
-          "title": "리드플래닛, 제84회 프랜차이즈창업박람회 참가…가맹본사용 ERP 소개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3MGZ1UjNxYkpqWDJ1XzdNWTBHNG9rWTYxTDJmM0RpdWY5NG5iZHpwWW5hdmZ0ZDR5MU1SSGl3UV9VSzJmUnU2NmRqSC1sM1M1RXN3UEcwbXNzR0RSYmo0bS1VMHdkdjZheURhUlJnRVU?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-24T08:10:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "카페24, 프랜차이즈창업박람회 참가…온라인 쇼핑몰 창업 지원 소개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yQmZvQW81cmZQWVNiWUZwZXBkNldhRzZycENxMk1xQzA4NDZCTy1iQU5HN3cwUEktVmJ5LUg5Mkt6UXJPSDBBbEVoVk9FVVRua1YzSXJCVUpHVFVuLW9MYXJB?oc=5",
@@ -87,6 +72,20 @@
           "publishedAt": "2026-08-26T07:00:00.000Z",
           "tags": [
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2025년 12월 15일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMzRnaEI2d3FWaTJTODRHdmJfS3Y0N2hiM21saWRnU01JT3JWSGNudzhpdmktZ3VRcmViYzM5czJoeXZaLXJkYUJTNEVBNnA1YmFiZG9hMnIxWWtKaG5rTnRfdHBxTzg5YUd5UE0xVDIwTTVZUEFIelVrQWdkbjNIR0kxUFlGbkxOQXFkUzNZWGJwWVcwelN2SjcyUExjSnBZNE15VUoxcUdpbnBHYXM3Rm1WS1c1Y3Z1cEJSc1JHYmdtTk8wa2U5TEFwMFN4UUdXWHVFNWtjQW9XcERFZzBGdXZ1N1pUR01iWkJXR25YMHNSZVJPcEJMVA?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-26T02:27:36.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -144,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 22,
       "items": [
         {
           "title": "사조푸디스트, ‘한국소비자만족지수 1위’ 2개 부문 수상…식자재왕 7년 연속",
@@ -269,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
         {
           "title": "농수산식품유통공사(aT), 충남과 상생협력·K푸드 북미 진출·온라인도매 판로 확대",
@@ -296,6 +295,18 @@
           "tags": [
             "유통"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "의성군-농협, 경북광역급식센터 이전 MOU 체결…안계면 친환경 농업 중심지 도약",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNTk13Y1ctbHFLLXI5aHRQamF0VXZNYkZTc3otZjV4bDRYWmlvQ0pRTDRaLTdIczhTblJUXzktSnVzLU4xb3ctdnZSR0ZwVWFuRnp1SmRUNHhNRXY5NDVDcFJSOHU3VF8zRnZ6UjZR?oc=5",
+          "source": "gukjenews.com",
+          "sourceInitial": "gu",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-26T08:31:11.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -358,18 +369,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "뷔페·급식업체 위생관리 구멍…219곳 중 7곳 적발",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IMUlGS2lTMzBxeWh1R1RSOFRyZENubERjNVlLSG5YbUVBTGx5dktCVURVV29rVjJZdm81bDNkdGdzY0RraW1tcXNWWG1ldDR6UUpqd3ZjRDVGSVB5eGlIatIBb0FVX3lxTE9pUVZ6eEltdVB1WE45NE9iV2YwMUZpR0pVdWQ2dUNEb2lvOGl1M2pPMmRWR2FuR21JR0ZjeHBWa1A3ZlRZRmV0VDBTQnhwaksybENRb1NybU9tT0w5bTAxOFJMOWZKZFczaXJ5b0kzOA?oc=5",
-          "source": "토요경제",
-          "sourceInitial": "토요",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-25T02:38:35.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -382,16 +381,16 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "쌀·농산물 수급·가격, 앞으론 정부가 사전에 관리···직불금 농외소득 제한 17년만에 상향",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0lOdEZhXzlEVUhFOGl6U2ppeGpKOUU5THB3Y2VyOXJJS3p0eG5pTUlyMkcydXh1TWJDNUJEOXJZcFdYUHNCbjZXV0d5b0JkN0F6XzQ5QjR1VGtNZ1VOeldHQ2I5Y21TSGVqQTFVTmRRS2FBc2FQU2FIeTh5SFItb3oxRERuWkROS3kyWWR3V1owbkZxOHZaNkctVmFTNktraGpWaHc2N18yenVy0gFfQVVfeXFMTmVxbjgxQ25WRmF2Vnk0OEhjX3J2NklpdEFnWkFjZXQyS2RtMXhRNWNJZVlqLTMyTXNsSkM0eGVEcVBROHo3NHNTUjJkTDk4N2hhMTRCOUtFcFVpZkdnZzA?oc=5",
-          "source": "경향신문",
-          "sourceInitial": "경향",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-26T08:04:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Z2pRUmZ2T2JTa2hZVWYtWTJnbGxud2FFOWIzV3hZbVdld3BSUy1MNHhBV1FaenBaY2tuVF9TZ0lleXpIYW92NDc5MVNUdGdyZ0ZQUXE4bzRzWGtiUEt3bURaSmdKV0hrTUpWbzFIeHo1bzFvaW4xRA?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-26T08:05:00.000Z",
           "tags": [
             "수급",
             "정부"
@@ -414,6 +413,20 @@
           "feat": false
         },
         {
+          "title": "양곡법·농안법 27일 시행…농산물 수급관리 ‘사후 대응→선제 조절’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MldmWnBZdXRtYUwzbjdLRFNEd2dHWTB0bVozbUgzUFZjWXZWdzAzdzJLLTlxUld4Wm9ic0RfMWdXeWlBMGZ6NkVCajVjWkROdkJhcFRDR2wzZGc?oc=5",
+          "source": "경기일보",
+          "sourceInitial": "경기",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-26T05:25:50.000Z",
+          "tags": [
+            "수급"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "쌀수급 사전조절·가격안정제 도입…직불금 농외소득 4천700만원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Xb0RXdTZackpNeXF0WlhHSVAybFV6SWtsN1NmRzh2Sjh6YnpWazlLUzhrZUVMZmpmVGRxbDZKYm14Tmt0Y0E5N1VuWDJWUy1fTXRBeE5XOFZDRTDSAWBBVV95cUxPVV8tOEk3MGJFaHNJWHgzdGtJZVp1Wjg4bE1JZzktMUVJbnRfQW9uV1BZQm1sLU9GSHBtWDlkTnYtUVNOYkNjM19fTEM0eEpmd1U4bHpBWXQ0Tm1DQXQzWjE?oc=5",
@@ -423,20 +436,6 @@
           "publishedAt": "2026-08-26T02:01:14.000Z",
           "tags": [
             "수급"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "토마토 3만원·시금치 5만원…추석 앞두고 장바구니 물가 ‘비상’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PT3Zkc3o3SU1VcFR5UWNyVnNGcGVrcnlleDM5LWZoaEVZZlFEdGgwZUZXZ3UyTXJjSDM5UUExdkpSNDBYeVR3RjdSYlNlQkU4VlNDNVB3aFdPNWFNcmk2TW5NdG5sNXJ3eGpXSTJRNVFmQ3M?oc=5",
-          "source": "코리아이글뉴스",
-          "sourceInitial": "코리",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-25T06:19:31.000Z",
-          "tags": [
-            "물가"
           ],
           "price": null,
           "feat": false
@@ -484,13 +483,13 @@
           "feat": false
         },
         {
-          "title": "농산물값 기준 밑돌면 차액 일부 지원…'농안법' 27일 시행",
+          "title": "식품안전정보원, K-푸드 수출기업 대응 가이드 공개 : Packnet",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tMUtqX1QwR2xFT1BXOHQxZlNxZjhyWm52aG5kdmcwXzNNMlVaWjdFWTM3cU1hOUEtSmJsZFNYYmlFc0NZMjBLNGswX0VhZDhrVWhn?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-26T02:13:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoS1pnR3JEdWFaZnB2Q3lhVUh4MC1aX0N2TE1hdWdDeGFDNHFfczB1QWVDRnVlR25oMjRRalBOUEdVUldDWkc3RmtOSGFuMFZvZ1BxeTV0azIwUURORGVSMVc0UQ?oc=5",
+          "source": "월간포장",
+          "sourceInitial": "월간",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-25T13:54:40.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -506,7 +505,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 23,
+      "total": 25,
       "items": [
         {
           "title": "교촌은 장류 hy는 건기식…식품업계 발효 트렌드 확산",
