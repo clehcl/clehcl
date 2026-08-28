@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:35:39.619Z",
+  "generatedAt": "2026-08-28T23:05:31.263Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 22,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -497,7 +497,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 15,
+      "total": 16,
       "items": [
         {
           "title": "풀무원, 5분 완성 ‘콩나물국 요리키트’ 출시…나물 간편식 확대",
@@ -540,6 +540,20 @@
           "tags": [
             "신제품",
             "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.8 K-푸드] “라면·김 넘어 HMR·건강식품·발효식품까지”…K-푸드, 향후 10년 한국 수출 이끌 글로벌 성장산업으로",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GWGZkNy1QSmYtSTJ4R3dqX2Y2YWp0V2s0aHVBekxCZklYOGV1dTZ3d1JyTC1aRno0bnh4bkxvcUxZYTJONXdSY0xVamowbU5wX3NBMTY2eG1XNVhheEV3M29FMkdTUXZUSkFiT093?oc=5",
+          "source": "코리아포스트 한글판",
+          "sourceInitial": "코리",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T23:00:00.000Z",
+          "tags": [
+            "HMR"
           ],
           "price": null,
           "feat": false
@@ -594,20 +608,6 @@
           "sourceInitial": "BB",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-27T05:38:53.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[뉴스워커_빙그레] 혈당 관리 기능성 표시 식품 ‘식후관리 워터’ 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSWpLY3VPRGR0SkZrWGVnVkViNHF0WjUyeXQxenZ6c2JIUlpKQldsaWQ2X0dKZjNHVVY1T2VsTkdxMEllWGhneVpUclBaam9HQThkaXFPYXNSLXRkUlB2cTFBdV9ZNmx6VldkN0hZQTfSAXRBVV95cUxOMHNkZlA2bGUwdVVJM3VXVTJGWmlCTXAwX3BraXo1SUJTWWtZamRMRUVXTU9qdDhFNjM0eUpka2pObWsxWERlY1I0TXFyVnNmNHVKclVKMWJKb2V4NzFFRHFidTRNUzdORjNoZElKWlNMZWlSMA?oc=5",
-          "source": "뉴스워커",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-27T05:07:49.000Z",
           "tags": [
             "출시"
           ],
