@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T23:05:31.263Z",
+  "generatedAt": "2026-08-28T23:35:35.417Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -386,7 +386,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "식약처, 중국산 배추김치 등 82건 검사…포름알데히드 불검출",
@@ -470,18 +470,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-27T00:24:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경기도보건환경연구원, 커피전문점 식용얼음 93건 중 99% 적합",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBocm5vT0hkZlEtQ0hRb09pZ1lCQlZXS0RDWGdoZkVQR0RRSC1TZ21QSlhjSkFZT0xoU1dUbHVINHRrTmtoMlN4NU5EUEo1eElVTllGREs4N21oX0hQd3I4Wm9B?oc=5",
-          "source": "㈜한국탑뉴스",
-          "sourceInitial": "㈜한",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-26T23:10:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
