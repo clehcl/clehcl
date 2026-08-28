@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T22:05:34.201Z",
+  "generatedAt": "2026-08-28T22:35:39.619Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 24,
+      "total": 23,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "중국산 도라지 60~70% 섞어 ’국내산’으로…학교급식 납품업자 구속",
@@ -328,6 +328,18 @@
           "feat": false
         },
         {
+          "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tRmVqdmZmT0hoenM1VHRMOUN3VXJpdFRMeUlMNHF5eHNYdEhFUXpFNzlpSDNxc0Izb0hRRUpha0lmZEF0bXRTcVB3aGpqaVE?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T22:12:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "‘식봄’ 품은 CJ프레시웨이…온라인 식자재 시장서 동력 찾는다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQnA0U3pod0cyLXNiU29uME5aRTc1WElkSEJQLXEwNDlzTW82aVlpZkNMbHdzZ0xneVdSZk42S2dhUF93NkphQ1NmOGxMcGlPV2VoWjNuamMxRHFoNFpCUm4zd9IBbEFVX3lxTE9zVGVSNW5vYzRaSG1tdERfYjZCTFR5S20tUU4wM1Y2MDVGNWgxbGdxSjM3ZVJxd252QXllYXZ5VE9kNWFVQmI3c2l3cFlQSng0eXBrbW9WTUYwcXEwd2htY2hiZHJCazB4QlZtMw?oc=5",
@@ -359,18 +371,6 @@
           "sourceInitial": "자치",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-27T00:38:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한화 품 안긴 아워홈, 주거 F&B 키운다 … 고메드갤러리아·GS건설 맞손",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGFNa0ZKVl9HRU9zNkZXOHEwTHpzeDg4VUtCT0xHTXBTUnNfUXhoXzdLVGNRY0ZCdDR3ODdPUzFQa3lkalYwR0RaZkRNZGt1Wmt5YzJIRmd5c21wTV9Xd1F0bUhzVE1GaS16U1otMEpHMHc4TjEtbDBTN2ROdDU4Y9IBgAFBVV95cUxPcGFNa0ZKVl9HRU9zNkZXOHEwTHpzeDg4VUtCT0xHTXBTUnNfUXhoXzdLVGNRY0ZCdDR3ODdPUzFQa3lkalYwR0RaZkRNZGt1Wmt5YzJIRmd5c21wTV9Xd1F0bUhzVE1GaS16U1otMEpHMHc4TjEtbDBTN2ROdDU4Yw?oc=5",
-          "source": "뉴데일리",
-          "sourceInitial": "뉴데",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T00:16:22.000Z",
           "tags": [],
           "price": null,
           "feat": false
