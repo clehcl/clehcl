@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T06:35:40.053Z",
+  "generatedAt": "2026-08-29T07:05:45.297Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,12 +143,26 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 8,
+      "total": 15,
       "items": [
+        {
+          "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUNUZKSjhMazhrakQ1b3J6THY4REFoMUdzR2xjZzdmM0plb25oTzB5MHJoRWVvMG1URjBkTXJpaDRoanY1S3g2VUFhSmcyU0JPVWpyb3ZraEJiU29TZy1FbDFYSFBsNWtRRXlSYTdBTEZPQk5XX1F3?oc=5",
+          "source": "하이뉴스",
+          "sourceInitial": "하이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-29T06:42:56.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "가격 뛰고 선택지 줄까…먹거리물가 상승 압력에 식품시장 양극화 우려[GMO완전표시제 명암③]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5U9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55S2JGQWx2WEVnSmZSSUwzTWozdVp3MEJrVXplclVNUEpULTRacDl1SmpMakJTV2dma1ZWZ1R0aHhRY0tKSWxnTEJCaHFJS0YxbzJmOElESVZFelZmOXgyM9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
           "source": "뉴시스",
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
@@ -157,7 +171,21 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "일본 이온, PB 145개 품목 한시적 가격 인하… 최대 40%",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VV1BBT3FSWWZ4Q1BHc1YxazlqM1E3SXFvQTVLQkNTeWpVOXJyOUNvenRHYlR3WXNMeTRtNFhwVnZVUHNMRGxBSFd1QkdVdnBLTzBMSkdURklOSjBiai1fZnUyUnNYblVYRlQ3ZA?oc=5",
+          "source": "재팬코리아데일리",
+          "sourceInitial": "재팬",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T06:12:22.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "추석 앞 성수품 가격 엇갈려…쌀 15%↑·배 최대 67%↓",
@@ -167,6 +195,20 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-28T03:06:06.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "추억의 ‘모구모구’ 가격도 11% 오른다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40dGR5VmJ2OTVSQUFRYzdXTmJLRGNMREEwUmMzM29yZjItQV9ST2dQeEs3cGZHNmI0N2NUMEpJejdGQTkyUzZWcFFmaFdza3JRcXNod1dB?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-28T02:34:34.000Z",
           "tags": [
             "가격"
           ],
@@ -202,49 +244,13 @@
           "feat": false
         },
         {
-          "title": "삼양식품 주가, 8월 28일 장중 1,539,000원 3.99% 상승",
+          "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRG9tYmVRR2VFWnYtelVXTmpCTjhRbGwwMDBhM3RPTnVDbERzOElpbGV1TmtKU1NfTTZ6R2V4UE5JcHphTngtY0RCR1BnekVpclRZdmNaU285ZncxN1FtUDM1bDUyUktaM2pwVk5McUxNZw?oc=5",
-          "source": "중앙이코노미뉴스",
-          "sourceInitial": "중앙",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-28T05:36:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“축제 음식도 시민·전문가가 고른다”…김제지평선축제 ‘맛집 9곳’ 확정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qaGNXLTNsNVlPclR2WW45S2tsR2Mtbmk3WWppSDR0bGNVQVVvbFRMVjdMb2s2UHkzb083YzItMGY0SkRJRnVlVjIxbXFPV0lWTW1ua1ZSVURkTlhVckVaU0hXVQ?oc=5",
-          "source": "더펜뉴스",
-          "sourceInitial": "더펜",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T02:43:53.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품진흥원, 청년 예비창업자 20명 사업화 지원…창업캠프 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WODZMMUhhSmpocUIxUFBEMW5UWGdFNGFMR1ZQTHJNcWg4N0NDdXk5MWp3bDE1T2dJMi1kOXQ3NlJ0bnpLSlJqdG1uNWlZd0tsQWNjOTlxOG1USkg5OENlbdIBeEFVX3lxTE4wWW5aZ09jVGpJVGtaeDR0RWl6dm82NlZpelBOYUQwNDZkcTEyTExwdEtQd1ZCby1fRjc4S3NaR1FHVlg1b3RZTlR3NlplT1hJUFpZbkx0WjFfejdUWi1DWjFjdHRYX081X1dLbWRYWVZjTzFXZk8xUg?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-28T01:03:16.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품물가 5% 경고, JP모건 조건부 시나리오",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QWUlTRDAxZzlTaGNLT2RqU2ZObVYwdnEtY01qalloNjIyWVNuRkRUWU5wbWxZQXhLT21FejdGbDNUTTh3R211SjlzcDRBNjdFcUFMZ25kRdIBXEFVX3lxTE1QRlQzX29ETUxWOHBwUFYtNkN4aXBGc3Y1SXhZUmdUUkI1NjZDblhxMEYwQXNPNlUxeDQwMVpBdGs2MXJfUllEbFJwOGJmVjkyS3ZQd09ycGJvbmFF?oc=5",
-          "source": "tokenpost.kr",
-          "sourceInitial": "to",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
+          "source": "리뷰타임스",
+          "sourceInitial": "리뷰",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T19:47:14.000Z",
+          "publishedAt": "2026-08-29T02:48:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -289,6 +295,18 @@
           "feat": false
         },
         {
+          "title": "성동구, 아이들 여름 급식 안전 살폈다... 13개소 위생점검",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkQVNoRmlmMDJvMmhzb1VfRzZGbnBvZ1R4c2tac1hrUTFPc1QxWE5KbjF2ajA1T2N4NVd6TU5QUmN5UmlaemhjWncxZGQzaDMxSVVQTnBBVjVNVDRSbGRjenJrNllIM0RaVkdV?oc=5",
+          "source": "시정일보",
+          "sourceInitial": "시정",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-27T23:50:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "‘식봄’ 품은 CJ프레시웨이…온라인 식자재 시장서 동력 찾는다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQnA0U3pod0cyLXNiU29uME5aRTc1WElkSEJQLXEwNDlzTW82aVlpZkNMbHdzZ0xneVdSZk42S2dhUF93NkphQ1NmOGxMcGlPV2VoWjNuamMxRHFoNFpCUm4zd9IBbEFVX3lxTE9zVGVSNW5vYzRaSG1tdERfYjZCTFR5S20tUU4wM1Y2MDVGNWgxbGdxSjM3ZVJxd252QXllYXZ5VE9kNWFVQmI3c2l3cFlQSng0eXBrbW9WTUYwcXEwd2htY2hiZHJCazB4QlZtMw?oc=5",
@@ -296,18 +314,6 @@
           "sourceInitial": "소셜",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-27T22:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "성동구, 아이들 여름 급식 안전 살폈다... 13개소 위생점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZ1MtZTg3d3NkUlQ1cnBaUUVNdGYycXRXOV9SbTgzb00zX19hMnltQ1BuOVY5dWJUMkJ2eE1mU245dzh6TUV4NUxEc1dWQ2Z6SHBuYg?oc=5",
-          "source": "성광일보",
-          "sourceInitial": "성광",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-27T07:01:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
