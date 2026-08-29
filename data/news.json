@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:05:43.856Z",
+  "generatedAt": "2026-08-29T05:35:42.636Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 16,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -264,7 +264,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "중국산 도라지 60~70% 섞어 '국내산'으로…학교급식 납품업자 구속",
@@ -300,6 +300,18 @@
           "sourceInitial": "소셜",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-27T22:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "성동구, 아이들 여름 급식 안전 살폈다... 13개소 위생점검",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZ1MtZTg3d3NkUlQ1cnBaUUVNdGYycXRXOV9SbTgzb00zX19hMnltQ1BuOVY5dWJUMkJ2eE1mU245dzh6TUV4NUxEc1dWQ2Z6SHBuYg?oc=5",
+          "source": "성광일보",
+          "sourceInitial": "성광",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-27T07:01:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -366,7 +378,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 19,
+      "total": 15,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
@@ -409,20 +421,6 @@
           "tags": [
             "신제품",
             "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.8 K-푸드] “라면·김 넘어 HMR·건강식품·발효식품까지”…K-푸드, 향후 10년 한국 수출 이끌 글로벌 성장산업으로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GWGZkNy1QSmYtSTJ4R3dqX2Y2YWp0V2s0aHVBekxCZklYOGV1dTZ3d1JyTC1aRno0bnh4bkxvcUxZYTJONXdSY0xVamowbU5wX3NBMTY2eG1XNVhheEV3M29FMkdTUXZUSkFiT093?oc=5",
-          "source": "코리아포스트 한글판",
-          "sourceInitial": "코리",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T23:00:00.000Z",
-          "tags": [
-            "HMR"
           ],
           "price": null,
           "feat": false
@@ -477,6 +475,20 @@
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-27T06:10:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "메가MGC커피, 이문정 셰프 협업 마라크림 새우토스트 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JeUtTNTRVcFZNd05qTmZCemotMWY5STdxODFjZ0dLY2dkM1E3ZHhoa1gtc1MxQkhPUGltbV9NdXNweHlneFVfeEhmZWhVNFBpWHJzcHZqZVYtZGE1R3hkVGhpSlRZaVlKWjQ4?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-27T05:38:53.000Z",
           "tags": [
             "출시"
           ],
