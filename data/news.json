@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:05:36.507Z",
+  "generatedAt": "2026-08-29T13:35:33.819Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 14,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -34,6 +34,21 @@
           "feat": true
         },
         {
+          "title": "30년 외식업 현장의 해법 담은 임영태 신간『프랜차이즈를 이기는 가게, 가게를 살리는 프랜차이즈』 9월 1일 출간",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iUzVWNUEydkktZThES2d3ckF3ZV9DTGxDWF9DaUJvb3ZQcnlUeHAzMl9SRDlMTlhFbDQ2QzZsc3RzWjdwSm9oWkVMdWVDdjNv?oc=5",
+          "source": "프랜차이즈월드",
+          "sourceInitial": "프랜",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-28T03:47:17.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "롯데GRS, 프랜차이즈 가맹 관리 체계 ‘데이터 기반 성과 중심’으로 개편",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zM2JTbjRZSExudmxjaWF1dFgxLWctMFdBcFFRWlJ6WEQ5TWpVcjR1SnNjVTRiT0pBaEhiWEx4U0pZSGJDXzg4QzFEZnhOLWRZQzNYS2VuVV9aQndwdTFiSC1yVUgtUDdUWlNN?oc=5",
@@ -43,6 +58,20 @@
           "publishedAt": "2026-08-28T00:39:25.000Z",
           "tags": [
             "프랜차이즈",
+            "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "백억커피, 6월 서울 창업설명회 개최…신규 가맹 정보·운영 전략 안내 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1N2R3cW94RVdFVUxvQUx4V3ppYlVMallzaEFLTUZsY1hZRmRtclJhbHR5LTRyZTI3UzY5MFlEWGRBTzhUdnU4Wm02elBRVDMwS21pMDdB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-28T14:10:53.000Z",
+          "tags": [
             "가맹"
           ],
           "price": null,
@@ -100,34 +129,6 @@
           "publishedAt": "2026-08-28T05:49:42.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "세탁 프랜차이즈 월드크리닝, 양산 외 영남권 4개 지역서 9월 2일 창업설명회 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1faGxsSHA5eFBFUjVqWUVMMm1mVEZpaW14clNuWEh6cjg4cUZBTGxwRnZoVGYxbElsbVlYMjVKNFV4endEU3NNdTBOYmdZWlR0Y0RzTWR3SmJYRE52YnFoQ3U4YjVZLVFRd3RodVB4Y9IBc0FVX3lxTE9Udk0zX3JBaExOWEs4ZTd4ZjhLY1B1Z0JiZG1CX1Q1NXAwRE9wWXRNaTFFS3pYVjUzTXdNS01DamhnME42Q25ZWFFwb0k3Q1NPV0s2d2ZIeXJwS2lZOElGSEQ2Ujh3X3hILVdNbnZ6ZFFWZ28?oc=5",
-          "source": "K스피릿",
-          "sourceInitial": "K스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T01:42:59.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "스마트푸드네트웍스, 발주 앱에 관리 기능 공짜로 푼다… '외식UP' 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xTzEwVnJGRU1VcFN5dWZlbVBHZlpPaGdtLVdwWm1JbXJsZFlrTzRPQUdpU1lLc19GbkNoTkM0SV84WTVydnlvSjd0bUNBTzdBZ0JLZw?oc=5",
-          "source": "코리아스타트업포스트",
-          "sourceInitial": "코리",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-28T01:01:58.000Z",
-          "tags": [
-            "외식"
           ],
           "price": null,
           "feat": false
