@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T00:35:42.342Z",
+  "generatedAt": "2026-08-29T01:05:56.625Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 22,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -59,6 +59,20 @@
           "tags": [
             "외식",
             "매장"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "프랜차이즈 박람회 10월 개최…유효 참관객·비즈니스 매칭 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mMmpPemcxbkY3Vy00dU9UTGxVVk5oWVdOZnQ3SjAzWThZbW9KaXI4bUVVZHI1TWY4RDFFTGdPZXg1S2pJNURGYTdRUVNvTEtlT1pKc2dQblVWdHlHcnhVSExSTU5ZYzk5SmkwVkhZaUs?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-28T08:10:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -118,20 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "2030 몰리는 프랜차이즈 창업… '숨은 본사 비용' 따져봐야",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PdTdRRXltV05LTGpCbWhzWTVSc2Z4N21scjVHS3QxMU1yZl9yT21YVmx4b2plWVZDenFxb1VmTGNyVjZZNXItWUJwWVl5ZEk0MW5HQ0w4RU9waTFhOURRMVhMOXFlQ2Fp?oc=5",
-          "source": "더쎈뉴스",
-          "sourceInitial": "더쎈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-28T01:01:02.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 20,
+      "total": 17,
       "items": [
         {
           "title": "일본 이온, PB 145개 품목 한시적 가격 인하… 최대 40%",
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 5,
       "items": [
         {
           "title": "중국산 도라지 60~70% 섞어 ’국내산’으로…학교급식 납품업자 구속",
@@ -284,20 +284,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "중국·국내산 도라지 섞어 학교 급식 납품…10억원 챙긴 업자 구속",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92dURmSjEweS1GTVJMS1BVRklteXJBTmVGZE0xMTFlS2JIWHlSWmRoZnlMQzBMUXc2b2xVUnFvUmowc090bDVrRnBsSlAtY2NPYTNR?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T05:38:00.000Z",
-          "tags": [
-            "납품"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "수원 공유냉장고 42곳으로 확대…유통기한 3일 남은 식품 누구나 나눔",
@@ -348,30 +334,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "개학기 맞아 대전 전체 155개 초교 주변 교통·식품 안전 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ZXhTTk1uZWZvUVJWWlY1WHNEUjFiZUwzVGFIYjlKdExnZHJ5ZTlYaTljeUhHZ2NIUGx1U0Vjd3dSQ2RvX3JlZHctUnZjUGg3NG16Tno3a1VsWE1KdjRtRNIBYEFVX3lxTE85ZXhTTk1uZWZvUVJWWlY1WHNEUjFiZUwzVGFIYjlKdExnZHJ5ZTlYaTljeUhHZ2NIUGx1U0Vjd3dSQ2RvX3JlZHctUnZjUGg3NG16Tno3a1VsWE1KdjRtRA?oc=5",
-          "source": "연합뉴스",
-          "sourceInitial": "연",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-27T00:38:55.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "성동구, 아이들 여름 급식 안전 살폈다... 13개소 위생점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXNHUHVodDNWcEhsMElKX3d6eG9PM3FDemVXSXp5UENva1BaaUVveFQ3cENZekJxbzR2XzNWRzJRanJOX1RJOXdxUWVjR2l4ZVVPR0RIVm9oaEhnZUNDWkNsOUxHSVVoTkg3LTB2WnJyRl8xY1NkZC1FQWpTLXZvUDl2OWdERFoyQ2FFQV9ldTBDNzRoQWFtNWFvS3FOUC1leXFkeHZlYmNSZEhQWWVv?oc=5",
-          "source": "자치행정신문",
-          "sourceInitial": "자치",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-27T00:38:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -384,7 +346,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "식약처, 중국산 배추김치 등 82건 검사…포름알데히드 불검출",
@@ -447,18 +409,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "지난해 해외 위해식품정보 1만4866건 과자류ㆍ빵류ㆍ떡류 최다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TlhmTXhiU2FIRjlNZlU5UC1Wa1JyUTBSaV9oWmtQOGhQdlI4T2t4eV9hOG5hQS1CRGtaNEhldk0ySndBQWRRZ2NDMHNnNWFNSHJWMUFSX1VyVTBYYVpvUVR3SWxfTHpHeWJxOE5R?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T01:00:51.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -471,7 +421,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 18,
+      "total": 17,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
@@ -511,21 +461,6 @@
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-27T07:57:17.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[유통갤러리] 삼립, 포켓몬빵 신제품 7종 출시…역대 최다 '1013종 스페셜 띠부씰' 선보여 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EYURyVmIxVW9MSnI1YW9PYVNxWF90TlQxT3JjSjdRYVZmcC1lN3ROeXZudTFFZ3dXTHpVTEtianp1am5BVWZWZ3hwTnY4V0VWTGl0U0tSazQ?oc=5",
-          "source": "뷰어스",
-          "sourceInitial": "뷰어",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-27T00:38:34.000Z",
           "tags": [
             "신제품",
             "출시"
@@ -583,6 +518,20 @@
           "sourceInitial": "신아",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-27T06:10:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "메가MGC커피, 이문정 셰프 협업 마라크림 새우토스트 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JeUtTNTRVcFZNd05qTmZCemotMWY5STdxODFjZ0dLY2dkM1E3ZHhoa1gtc1MxQkhPUGltbV9NdXNweHlneFVfeEhmZWhVNFBpWHJzcHZqZVYtZGE1R3hkVGhpSlRZaVlKWjQ4?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-27T05:38:53.000Z",
           "tags": [
             "출시"
           ],
