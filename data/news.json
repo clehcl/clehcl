@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:05:43.407Z",
+  "generatedAt": "2026-08-29T02:35:53.926Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 19,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -44,6 +44,20 @@
           "tags": [
             "프랜차이즈",
             "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "프랜차이즈 박람회 10월 개최…유효 참관객·비즈니스 매칭 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mMmpPemcxbkY3Vy00dU9UTGxVVk5oWVdOZnQ3SjAzWThZbW9KaXI4bUVVZHI1TWY4RDFFTGdPZXg1S2pJNURGYTdRUVNvTEtlT1pKc2dQblVWdHlHcnhVSExSTU5ZYzk5SmkwVkhZaUs?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-28T08:10:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -117,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"내 가게 하나쯤?\"...프랜차이즈 찾는 2030, 현실은",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HNVBfdGNjVXIyNW5OUVpUNGdkZUpxYVVRczYwa0x5U0RzTkJZeEhFQ2FPelM5VG9QMUhWbjVNWHkyU3RKZDRHWGJpRDBydFFTT01EWlZmOTNQSVdkWEJ6dzh5WUo4ZTk4V1paTQ?oc=5",
-          "source": "한경매거진&북",
-          "sourceInitial": "한경",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T20:03:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 15,
       "items": [
         {
           "title": "일본 이온, PB 145개 품목 한시적 가격 인하… 최대 40%",
@@ -230,20 +230,6 @@
           "feat": false
         },
         {
-          "title": "노브랜드 버거 일부 품목 가격 인상 …100~400원↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNUVzdEVHUGo4NGduUXl6S0g5QUJKbmxkN0pvMDJCaWFnaEpaSE8zUXp5OFdCczRjVE5VX3l4U2FudUZ1MkJxQ21XbXFwNlV6RGRCd3QtbE5XczE3bDJ6Y29lM2w3ZHY0?oc=5",
-          "source": "ebn.co.kr",
-          "sourceInitial": "eb",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T02:35:43.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "\"추석 선물 미리 준비하세요\"…식품업계, 실속·건강 세트 경쟁[이번주 Eat템]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2JWNU5yM3NEWkp3SHRZak16MXJoM2t4LTZjbTJSNFlON2N2cmhzWjh0VVpsZ1FEZkFkLWdvdnczQVp4QlNOZnVyNmFKa252a2NRSDRkaXZOOXlOaXkxNGtCVnrSAWRBVV95cUxPSTdiVjVOcjNzRFpKd0h0WWpNejFyaDNreC02Y20yUjRZTjdjdnJoc1o4dFVabGdRRGZBZC1nb3Z3M0FaeEJTTmZ1cjZhSmtudmtjUUg0ZGl2Tjl5Tml5MTRrQlZ6?oc=5",
@@ -251,6 +237,18 @@
           "sourceInitial": "뉴",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-28T22:30:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "담합 논란부터 홈플러스 위기까지···식품·유통가 CEO 국감 호출 '긴장'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMFNrbWM1YUdoc0lTc3djWXF1VUFUZXV6RWtVekhNc1FCWEdPSDQ5NTZuTksxY01CYm1MM0dJbTB1ZU02ejdfVTluZ2xDeUhqTlN5bmZUY3B1VEwwblRGODROcTJ5ek5QTlE?oc=5",
+          "source": "뉴스웨이",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T07:32:53.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -266,35 +264,21 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
-          "title": "중국산 도라지 60~70% 섞어 ’국내산’으로…학교급식 납품업자 구속",
+          "title": "중국산 도라지 60~70% 섞어 '국내산'으로…학교급식 납품업자 구속",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pa1JrTTU0VDB0c1RON1h2Uy01dVV6cEw2aFpoSS1LTzlNc05ORjMtNXVFaXlpYU5ReS04NnYyRENGNXpyMm5oV085dExHeTVoVW93VzlwT2J4OFFORFVFR3hHQk1OZG8?oc=5",
-          "source": "연합뉴스TV",
-          "sourceInitial": "연합",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-28T07:29:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14YlFTbGNRU3pJbkhRbTRmNllOcFRPY0ZMc2xWaXNlbXpVU2ItNzd2Umo3Rmo5ejVsemZ5R21NMlJEZ3FqRWM3Qm5kRQ?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T06:35:29.000Z",
           "tags": [
             "납품"
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "중국·국내산 도라지 섞어 학교 급식 납품…10억원 챙긴 업자 구속",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92dURmSjEweS1GTVJMS1BVRklteXJBTmVGZE0xMTFlS2JIWHlSWmRoZnlMQzBMUXc2b2xVUnFvUmowc090bDVrRnBsSlAtY2NPYTNR?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T05:38:00.000Z",
-          "tags": [
-            "납품"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
@@ -406,7 +390,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 18,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
