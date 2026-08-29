@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:05:53.680Z",
+  "generatedAt": "2026-08-29T08:35:35.985Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 12,
       "items": [
         {
           "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
@@ -216,20 +216,6 @@
           "feat": false
         },
         {
-          "title": "사조푸디스트, 소비자만족지수 1위 2개 부문 석권…식자재 브랜드 경쟁력 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzWVUzZzk2NmZLSlcxUUFDcGlBM3phdzk0YlkxSzBoenBYb1dhQV9OT3N6UExvZXBLT1FPQ0xYaVExb1BfdE92a0VMWkJLTmFNaG52MmdzRzhtZVFUUVhHX1d3ZTJ2VWpCc2c?oc=5",
-          "source": "sisaworld.kr",
-          "sourceInitial": "si",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-27T08:09:52.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
@@ -252,6 +238,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "담합 논란부터 홈플러스 위기까지···식품·유통가 CEO 국감 호출 '긴장'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMFNrbWM1YUdoc0lTc3djWXF1VUFUZXV6RWtVekhNc1FCWEdPSDQ5NTZuTksxY01CYm1MM0dJbTB1ZU02ejdfVTluZ2xDeUhqTlN5bmZUY3B1VEwwblRGODROcTJ5ek5QTlE?oc=5",
+          "source": "뉴스웨이",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T07:32:53.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -264,7 +262,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "중국산 도라지 60~70% 섞어 '국내산'으로…학교급식 납품업자 구속",
@@ -307,6 +305,18 @@
           "feat": false
         },
         {
+          "title": "사조푸디스트, '식자재왕·식자내왕몰'로 '한국소비자만족지수 1위' 2개 부문 수상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uRERLZGZsbDBfSW9vSXpfcFp2cHJZSWQzWWZwZ0JPQVptT19DX1lkVGllZE9wSUVib0R2MUR3TnBRaVVIZXAwazlBZi1veGFXM1dselBKVGRSYndSSEVWNk5WaVYwWWdCN1E?oc=5",
+          "source": "비즈월드",
+          "sourceInitial": "비즈",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-28T01:22:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "성동구, 아이들 여름 급식 안전 살폈다... 13개소 위생점검",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkQVNoRmlmMDJvMmhzb1VfRzZGbnBvZ1R4c2tac1hrUTFPc1QxWE5KbjF2ajA1T2N4NVd6TU5QUmN5UmlaemhjWncxZGQzaDMxSVVQTnBBVjVNVDRSbGRjenJrNllIM0RaVkdV?oc=5",
@@ -341,22 +351,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
-        {
-          "title": "브라질 공략하는 K뷰티, 규제·유통 장벽 넘을까",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNGFIMUM2SFMxS2RSRjlJWU1TVVBJQ0RnVEl4dG5wSXdxVy00M0Zpc2ZCR2ZveDhoMGxUN2c3a2dpM0dfVmJoYV9qZ2tHSkc1RDlZeGMyNFlvdw?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T21:01:00.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "해외 위해식품정보 2년 새 17%↑…알레르기 성분 미표시 3년 연속 늘어",
           "summary": "",
@@ -367,7 +363,7 @@
           "publishedAt": "2026-08-28T07:21:29.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "인도 식품 안전 강화 Surge Stricter 감사 Reshape 식품 산업",
