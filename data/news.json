@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:35:40.019Z",
+  "generatedAt": "2026-08-29T21:05:45.565Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -64,20 +64,6 @@
           "feat": false
         },
         {
-          "title": "백억커피, 6월 서울 창업설명회 개최…신규 가맹 정보·운영 전략 안내 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1N2R3cW94RVdFVUxvQUx4V3ppYlVMallzaEFLTUZsY1hZRmRtclJhbHR5LTRyZTI3UzY5MFlEWGRBTzhUdnU4Wm02elBRVDMwS21pMDdB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-28T14:10:53.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "프랜차이즈 박람회 10월 개최…유효 참관객·비즈니스 매칭 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mMmpPemcxbkY3Vy00dU9UTGxVVk5oWVdOZnQ3SjAzWThZbW9KaXI4bUVVZHI1TWY4RDFFTGdPZXg1S2pJNURGYTdRUVNvTEtlT1pKc2dQblVWdHlHcnhVSExSTU5ZYzk5SmkwVkhZaUs?oc=5",
@@ -127,6 +113,20 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-28T05:50:42.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "세탁 프랜차이즈 월드크리닝, 양산 외 영남권 4개 지역서 9월 2일 창업설명회 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1faGxsSHA5eFBFUjVqWUVMMm1mVEZpaW14clNuWEh6cjg4cUZBTGxwRnZoVGYxbElsbVlYMjVKNFV4endEU3NNdTBOYmdZWlR0Y0RzTWR3SmJYRE52YnFoQ3U4YjVZLVFRd3RodVB4Y9IBc0FVX3lxTE9Udk0zX3JBaExOWEs4ZTd4ZjhLY1B1Z0JiZG1CX1Q1NXAwRE9wWXRNaTFFS3pYVjUzTXdNS01DamhnME42Q25ZWFFwb0k3Q1NPV0s2d2ZIeXJwS2lZOElGSEQ2Ujh3X3hILVdNbnZ6ZFFWZ28?oc=5",
+          "source": "K스피릿",
+          "sourceInitial": "K스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T01:42:59.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -350,22 +350,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 1,
       "items": [
-        {
-          "title": "브라질 공략하는 K뷰티, 규제·유통 장벽 넘을까",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNGFIMUM2SFMxS2RSRjlJWU1TVVBJQ0RnVEl4dG5wSXdxVy00M0Zpc2ZCR2ZveDhoMGxUN2c3a2dpM0dfVmJoYV9qZ2tHSkc1RDlZeGMyNFlvdw?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-27T21:01:00.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "해외 위해식품정보 2년 새 17%↑…알레르기 성분 미표시 3년 연속 늘어",
           "summary": "",
@@ -376,7 +362,7 @@
           "publishedAt": "2026-08-28T07:21:29.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         }
       ]
     },
