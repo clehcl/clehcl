@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T17:35:40.124Z",
+  "generatedAt": "2026-08-29T18:05:47.342Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -43,20 +43,6 @@
           "publishedAt": "2026-08-28T00:39:25.000Z",
           "tags": [
             "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "백억커피, 6월 서울 창업설명회 개최…신규 가맹 정보·운영 전략 안내 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1N2R3cW94RVdFVUxvQUx4V3ppYlVMallzaEFLTUZsY1hZRmRtclJhbHR5LTRyZTI3UzY5MFlEWGRBTzhUdnU4Wm02elBRVDMwS21pMDdB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-28T14:10:53.000Z",
-          "tags": [
             "가맹"
           ],
           "price": null,
@@ -126,6 +112,20 @@
           "sourceInitial": "K스",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-28T01:42:59.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "대세 걸그룹 타깃팅한 F&B 프랜차이즈, 젠지 팬덤 끌어들인다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FWkRFMDNYZG1PMzZ0alNrSW5yMUJtMW53Y3NOaFFiR0RCUFdfczdPWFVTRHN1c0VVRXFCY29PZzctblJMT2dtaVZta3Y?oc=5",
+          "source": "TENANT news",
+          "sourceInitial": "TE",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-27T23:50:19.000Z",
           "tags": [
             "프랜차이즈"
           ],
