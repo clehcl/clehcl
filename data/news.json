@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:05:55.869Z",
+  "generatedAt": "2026-08-29T15:35:42.013Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -363,8 +363,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
+        {
+          "title": "브라질 공략하는 K뷰티, 규제·유통 장벽 넘을까",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNGFIMUM2SFMxS2RSRjlJWU1TVVBJQ0RnVEl4dG5wSXdxVy00M0Zpc2ZCR2ZveDhoMGxUN2c3a2dpM0dfVmJoYV9qZ2tHSkc1RDlZeGMyNFlvdw?oc=5",
+          "source": "브릿지경제",
+          "sourceInitial": "브릿",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-27T21:01:00.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "해외 위해식품정보 2년 새 17%↑…알레르기 성분 미표시 3년 연속 늘어",
           "summary": "",
@@ -375,7 +389,7 @@
           "publishedAt": "2026-08-28T07:21:29.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "인도 식품 안전 강화 Surge Stricter 감사 Reshape 식품 산업",
