@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:05:43.915Z",
+  "generatedAt": "2026-08-30T09:37:20.490Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,52 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 3,
-      "items": [
-        {
-          "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56b0daV2l6SEs1alIwTElDSF9MVmR6MGcydWt5bFBLZ2hGWTQ2emRuXzZnVTdvdTB3OVBXM1Z2bV9UVXY5eXprWDBlbHJQaXlkOWpSaU96UDl1Z3c?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-28T10:21:27.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "프랜차이즈산업협회, '2026 프랜차이즈산업발전 유공' 참가 접수 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWVR2cWFrVEhCQzFPeUNraTk2cjdvcHBLbFpaVDhGblFxUUhFR21HWVpfRml1U3c0RE5keVcwcllNbFpfUUpYQzAwSEtwVzZLbWw3OG9jZWJWbm5RUTBPTlhoRjZtT1pfZkxkcmVybVAyUE1KSlpxY1hQLWhlU3RRYk9qTXljcXk2aklmY3hNVlpaU1ZnaXFPMmo2SHZZd0FHSTFLRnFpcVVJUmprZUJGRXJDc3BvdndkSGRpbFBYMVBHME5iV1JwYmZRRnlpa3ZFcG1YZFdHSGt2QUdScTRYaHk1TzZGejFiY0FSUF9SREtiSFBwbHVmQQ?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-29T02:55:26.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "백억커피, 6월 서울 창업설명회 개최…신규 가맹 정보·운영 전략 안내 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1N2R3cW94RVdFVUxvQUx4V3ppYlVMallzaEFLTUZsY1hZRmRtclJhbHR5LTRyZTI3UzY5MFlEWGRBTzhUdnU4Wm02elBRVDMwS21pMDdB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-28T14:10:53.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "cost",
@@ -72,111 +28,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 8,
-      "items": [
-        {
-          "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUl92Vmh4M0xuQ0lDV1laUEZKMUdrczh0R1pZM2x0LTVmbS1vSEhzWFBjZ1FDdHRBTzdUbGJLamJHNGtnRlIyNDhjQnhvTnpvOC1pb3dWMFZVQ1FCT3NoNnZUY25PUnFVbHR4dk13bms3OTJ0RFYxU2NsQWVqZHVVMzIzM2E0dmN5WkV1amM2YmVHbGdaNEFNZTR0d1Blb0lQQmhoTXp5U2phNEk?oc=5",
-          "source": "Laodong.vn",
-          "sourceInitial": "La",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-30T02:35:27.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUNUZKSjhMazhrakQ1b3J6THY4REFoMUdzR2xjZzdmM0plb25oTzB5MHJoRWVvMG1URjBkTXJpaDRoanY1S3g2VUFhSmcyU0JPVWpyb3ZraEJiU29TZy1FbDFYSFBsNWtRRXlSYTdBTEZPQk5XX1F3?oc=5",
-          "source": "하이뉴스",
-          "sourceInitial": "하이",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-29T06:42:56.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "가격 뛰고 선택지 줄까…먹거리물가 상승 압력에 식품시장 양극화 우려[GMO완전표시제 명암③]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5U9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-29T03:01:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "인건비·재료비 이중고에...김밥·분식점 ‘31개월 연속 줄폐업’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IN3pFd2N5NjdJemN3M1ZRSnBWUzNwQ1lJTTBBaXZ1NkwtSHo3amlSckFySnFJMFNIRGFwTThMd1lTZURfZFVocTdPWkVSa0k?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-30T07:28:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한·중 식품안전 협력 결실.. K푸드, 中 수출길 청신호",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZ2J1b2ZuZEMweVh1VmpCUElZMzVTLTRhMnNXSlpuY002VEs0dXJvSUZvNHZGelM2LXF3Q1ozNG85Y3hIRVNxdmQ3bHoyNWQ2UTQ3YzlZdmIyQQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "sourceInitial": "파",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-30T03:39:46.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계 'K-푸드'로 상반기 훨훨 날았다…'빅7' 해외매출 7.7조",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnbU5fakk2WnRmdmNKeGhyVV9aU1dNUUhESVZYQzktYklwaExMQXYwTkp0OVc5bWZNM3VpOXdDbFh6cGZVVWNseUI1cURNLVZDMVN2RXY4T01VaGxJekRoMUE0NDltZ3VfM1lOSS1ndGc3b2_SAXNBVV95cUxQZ21OX2pJNlp0ZnZjSnhoclVfWlNXTVFIRElWWEM5LWJJcGhMTEF2ME5KdDlXOW1mTTN1aTl3Q2xYenBmVVVjbHlCNXFETS1WQzFTdkV2OE9NVWhsSXpEaDFBNDQ5bWd1XzNZTkktZ3RnN29v?oc=5",
-          "source": "뉴스웍스",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-30T03:08:52.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
-          "source": "리뷰타임스",
-          "sourceInitial": "리뷰",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-29T02:48:19.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"추석 선물 미리 준비하세요\"…식품업계, 실속·건강 세트 경쟁[이번주 Eat템]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2JWNU5yM3NEWkp3SHRZak16MXJoM2t4LTZjbTJSNFlON2N2cmhzWjh0VVpsZ1FEZkFkLWdvdnczQVp4QlNOZnVyNmFKa252a2NRSDRkaXZOOXlOaXkxNGtCVnrSAWRBVV95cUxPSTdiVjVOcjNzRFpKd0h0WWpNejFyaDNreC02Y20yUjRZTjdjdnJoc1o4dFVabGdRRGZBZC1nb3Z3M0FaeEJTTmZ1cjZhSmtudmtjUUg0ZGl2Tjl5Tml5MTRrQlZ6?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-28T22:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "distribution",
@@ -187,45 +40,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
-      "items": [
-        {
-          "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93VXR4NG1ZSnJDbklXRS1BSVdMSWVyNEFzMk1HeXNITkJvbjdKR2VFR0RVQVdYZGFDVDFpcEI3LXhFMXJqajhqWHhuTWg0VGx0WnAzR1Myd0JydWtGRWxoSFVtNzctY2hXRms4a2R5bno?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T01:10:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBibFNiTGlJZDN1X193Z0FScjl4RzNlU1M5elRCM2dxYUd2U0Y1ZGg1X1FTeWFYUll4SnZkQUF1M3NyR0lsRVE?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T22:12:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "예산군, 학교급식 지역 식재료 공급률 충남 1위",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51MTlsUmowd2s1TmFzSTJPUWZyckRCb09aUjNHX1A3TnI5WlpfdDRweEtaZ05RWXJwX2Jwc3U4UjJLdXF3UjFqWThiQ0dRV21vZzhhMGxLNEdyR2ZFUDRmblh1ejUtSjFhVFMwZg?oc=5",
-          "source": "한국농어민신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T09:39:06.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "price-policy",
@@ -236,61 +52,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
-      "items": [
-        {
-          "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNXMm5jczdjQTB2NndUQ2JDTW14aVJfVGhoa1p0QzZRM25qM256LVZLZFdKNkhUVXFTLVoydUtldnlZLU04MmxzWVBEX0dPUmxEMldDNTE2aHJjRjFrUHRaS3EtbnZQbkYta0VSTTh1eU05LVZEU0l4b2pOT1E2ZmhpY2RHcDJWRS1tamN6ekhMcmFZM3c?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-30T02:13:46.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "매출 86% 늘린 AI 농산물 유통기업…농식품부, 'A-벤처스' 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CbFNFM0VzTEt1SG55VW1RQW82REJOdmxwdU1YSjRRY29mYkhHMXBLR1hwN3pHTjlLWGFIc0lpNFBiZ0lOVnFpVFoyTVhNQQ?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T02:00:00.000Z",
-          "tags": [
-            "농식품부"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "미국, 한국산 식품의 FDA 수입 거부 증가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUkNxdVBkaHBhcEVNZ211bXBfLUR5UUxmSVRsT1kzb0dlWlVXeHI1X2hxOUZ0VEFvNVBxVXJ6MXRuMElxUEtoalluYnUwNGhXXy1OT0c3SQ?oc=5",
-          "source": "realfoods.co.kr",
-          "sourceInitial": "re",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-30T04:51:54.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[주간 유통 나침반] 한 주 앞둔 홈플러스 운명의 날·쿠팡 vs 공정위·유통업계 추석 대목",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XNGlLaGVtYlZxVjBrSUVVbDJ5YjRlakc2eDV4MGd4TkRmcmpEYWk3dDBtOURaaGhzQmJvaVJSaDNqVklFTDVwYThrWmpuRWJUMmU3ZzUzMlFmdXdWNTY3TUZOUHU5SkdJN3JiUmRSckdtQQ?oc=5",
-          "source": "중앙이코노미뉴스",
-          "sourceInitial": "중앙",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T03:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "product-trend",
@@ -301,112 +64,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
-      "items": [
-        {
-          "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUUWQycjlWRXhiQlE2T3Z2dmZ6VWp0RThsX051NjdoQTF4M2NHdGI4Q3NzOEF1NFZzd25wMTJuUmdDa0JVdllYV29KNWJkb2dN?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-29T00:06:00.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bVFDbGVScGdhZ1BaU2lUV3dYMTVmVlZNcWJaZ0J0UVZ1R3VIbC1Idzc4OGxmQ3BHQ1BibVMwZWtFUF9jZ21EdjFaUTFWSGJCRlBITkV5M0R0azZCM1phQmhuY9IBZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVk?oc=5",
-          "source": "국민기자뉴스",
-          "sourceInitial": "국민",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-29T23:05:00.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.8 K-푸드] “라면·김 넘어 HMR·건강식품·발효식품까지”…K-푸드, 향후 10년 한국 수출 이끌 글로벌 성장산업으로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GWGZkNy1QSmYtSTJ4R3dqX2Y2YWp0V2s0aHVBekxCZklYOGV1dTZ3d1JyTC1aRno0bnh4bkxvcUxZYTJONXdSY0xVamowbU5wX3NBMTY2eG1XNVhheEV3M29FMkdTUXZUSkFiT093?oc=5",
-          "source": "코리아포스트 한글판",
-          "sourceInitial": "코리",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T23:00:00.000Z",
-          "tags": [
-            "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"한번 하면 10년은 기본\"…김연아·공유 붙잡아둔 이 회사 전략 [김소연의 얼굴전략]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNYkk1bVl3MW1SM3ppUy1KYUNLZ1pPY3pKOXlRTkhCbWI5eXFhc2taNUJqWGZZb05TMk42VHFwbEdMYjBnTnl2MGJuMFVOamN0aFRzVjEyZFMzUQ?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-29T04:00:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "맥도날드, 3년만에 성수 복귀…‘버거 전쟁’ 불붙는다 [푸드360]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GMmRoWndoa01QTUFsQTZaNlA2Q0JfRmFac1lKZEZ5dDU4VGZuSFRIUVFXcEtWYjJKSF8yNWNYWVcxRjdBUW9INGF5emtwblBYWm9VVnpn?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-29T02:20:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "무료 내기 블랙잭 라스베가스 의 비밀을 풀다 - 2025년 최신판",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnRkh2dklIZmZUNGhwejRrbndta1BmYTRrU1NNWE1BSDJGS2tLWW82Zl9jZVQ3TGhhaUF4c0VTVDczRUdSbHJSdWFYR21ZdXNwQ21vWDlPcHdzQQ?oc=5",
-          "source": "Platea Magazine",
-          "sourceInitial": "Pl",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-29T01:16:16.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“단맛은 포기 못 해”⋯저당식품 성패 핵심은 ‘당 빼는 R&D 기술’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2U2xGUGkxVnIxX1VkQ0kzOVNQeVppX1NhcktHNUJwSVRyS0g1VlBiWTJRZXY3dnNQV2p3OTlWNk1kNE9rUkZNWkdIU1RuRDRCbGEzVQ?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T23:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "버거킹 '데리야킹 크리스퍼'·바이탈뷰티 '슈퍼콜라겐 PDRN' 외 [나왔다, 신상]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbzZPemdZc2s3SVMtOVRaZFJQX09pSVp2NmM1T2xrU1ZGUmY3X2NuV1RpQXJJakZzQjlLRG9OaWtKcEo2QS1fc2JJdl9zaTVLNDhV?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T10:08:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     }
   ],
   "trends": {
