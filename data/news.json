@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:06:32.314Z",
+  "generatedAt": "2026-08-30T06:35:56.543Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -185,20 +185,6 @@
           "feat": false
         },
         {
-          "title": "일본 이온, PB 145개 품목 한시적 가격 인하… 최대 40%",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VV1BBT3FSWWZ4Q1BHc1YxazlqM1E3SXFvQTVLQkNTeWpVOXJyOUNvenRHYlR3WXNMeTRtNFhwVnZVUHNMRGxBSFd1QkdVdnBLTzBMSkdURklOSjBiai1fZnUyUnNYblVYRlQ3ZA?oc=5",
-          "source": "재팬코리아데일리",
-          "sourceInitial": "재팬",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T06:12:22.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "한·중 식품안전 협력 결실.. K푸드, 中 수출길 청신호",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZ2J1b2ZuZEMweVh1VmpCUElZMzVTLTRhMnNXSlpuY002VEs0dXJvSUZvNHZGelM2LXF3Q1ozNG85Y3hIRVNxdmQ3bHoyNWQ2UTQ3YzlZdmIyQQ?oc=5",
@@ -233,6 +219,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "“한 달간 먹는 데 쓴 돈만 89만원”...저소득층엔 유독 가혹한 ‘물가 상승’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NdEZ3THVnY0ZnWEVZX2lYcHlBdFZWOWlfUzhNdmlWeGtSeDEyX0U4TmpDY2hHaDgtM0cwSGlubE1OczZJRXFRT2p2YTdydXZ0T2FlbA?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-30T01:16:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -254,7 +252,7 @@
           "source": "연합뉴스TV",
           "sourceInitial": "연합",
           "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-28T06:33:00.000Z",
+          "publishedAt": "2026-08-28T07:29:00.000Z",
           "tags": [
             "납품"
           ],
