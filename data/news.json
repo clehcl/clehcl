@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:05:51.607Z",
+  "generatedAt": "2026-08-30T07:35:52.480Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -86,18 +86,6 @@
           "tags": [
             "프랜차이즈"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "이디야커피, 11월 한 달간 풍성한 혜택 쏟아진다 [ 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMkVoMWFWOW93RHhrTk55dHktS3RmYU12aUpyRHhRODhEWFJmVkFkcFpBeGY1NHJJS0ctUGV4VFNJR080M21rbE1lZGpnN0N3NHpsQmUyTDU?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-28T07:09:02.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -171,6 +159,18 @@
           "feat": false
         },
         {
+          "title": "인건비·재료비 이중고에...김밥·분식점 ‘31개월 연속 줄폐업’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IN3pFd2N5NjdJemN3M1ZRSnBWUzNwQ1lJTTBBaXZ1NkwtSHo3amlSckFySnFJMFNIRGFwTThMd1lTZURfZFVocTdPWkVSa0k?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-30T07:28:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "한·중 식품안전 협력 결실.. K푸드, 中 수출길 청신호",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZ2J1b2ZuZEMweVh1VmpCUElZMzVTLTRhMnNXSlpuY002VEs0dXJvSUZvNHZGelM2LXF3Q1ozNG85Y3hIRVNxdmQ3bHoyNWQ2UTQ3YzlZdmIyQQ?oc=5",
@@ -205,18 +205,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "“한 달간 먹는 데 쓴 돈만 89만원”...저소득층엔 유독 가혹한 ‘물가 상승’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NdEZ3THVnY0ZnWEVZX2lYcHlBdFZWOWlfUzhNdmlWeGtSeDEyX0U4TmpDY2hHaDgtM0cwSGlubE1OczZJRXFRT2p2YTdydXZ0T2FlbA?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-30T01:16:54.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -229,22 +217,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
-        {
-          "title": "중국산 도라지 60~70% 섞어 ’국내산’으로…학교급식 납품업자 구속",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pa1JrTTU0VDB0c1RON1h2Uy01dVV6cEw2aFpoSS1LTzlNc05ORjMtNXVFaXlpYU5ReS04NnYyRENGNXpyMm5oV085dExHeTVoVW93VzlwT2J4OFFORFVFR3hHQk1OZG8?oc=5",
-          "source": "연합뉴스TV",
-          "sourceInitial": "연합",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-28T07:29:00.000Z",
-          "tags": [
-            "납품"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
           "summary": "",
@@ -255,7 +229,7 @@
           "publishedAt": "2026-08-30T01:10:00.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
@@ -292,7 +266,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
@@ -356,18 +330,6 @@
           "sourceInitial": "중앙",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-30T03:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "해외 위해식품정보 2년 새 17%↑…알레르기 성분 미표시 3년 연속 늘어",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IT09GOTh2X1FZc3EtWnd2TFdfcWc2NnA3dnBxWnFVbFJxOV9VQXJ3emlvT0UxNW1KeE5NYmRIXzgzUlNRTjIwbVJYcUVaVTV5blI0cFJtODRnSndhY09vdENhb3BGcXV1cUV2TQ?oc=5",
-          "source": "메디컬투데이",
-          "sourceInitial": "메디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T07:21:29.000Z",
           "tags": [],
           "price": null,
           "feat": false
