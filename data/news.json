@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T02:05:50.222Z",
+  "generatedAt": "2026-08-30T02:35:43.547Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 12,
       "items": [
         {
           "title": "오징어 15%·수입 고등어 31% 가격 상승…추석 앞두고 부담",
@@ -176,7 +176,7 @@
         {
           "title": "가격 뛰고 선택지 줄까…먹거리물가 상승 압력에 식품시장 양극화 우려[GMO완전표시제 명암③]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5U9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55S2JGQWx2WEVnSmZSSUwzTWozdVp3MEJrVXplclVNUEpULTRacDl1SmpMakJTV2dma1ZWZ1R0aHhRY0tKSWxnTEJCaHFJS0YxbzJmOElESVZFelZmOXgyM9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
           "source": "뉴시스",
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
@@ -230,27 +230,25 @@
           "feat": false
         },
         {
-          "title": "추억의 ‘모구모구’ 가격도 11% 오른다",
+          "title": "\"하다하다 컵라면 값도 오르네\"…1000원대 '미니 간편식' 뜬다 [박상경의 영수증 리뷰]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40dGR5VmJ2OTVSQUFRYzdXTmJLRGNMREEwUmMzM29yZjItQV9ST2dQeEs3cGZHNmI0N2NUMEpJejdGQTkyUzZWcFFmaFdza3JRcXNod1dB?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-28T02:34:34.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmV1BSRmNsQlYyOWh6V2hMWnZQZVUyMU45N1cxSl9QUFBMQXNONzRtNzVJWm5DSkw4Z19RTGp4OHVhS2x2bGZQTERZaHRGTWYxSi13?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-30T02:01:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "\"하다하다 컵라면 값도 오르네\"…1000원대 '미니 간편식' 뜬다 [박상경의 영수증 리뷰]",
+          "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MQm9veDBnUER4eS0xMVVpTkN6MzlnUlluNmV1UFhrUDdPRGp2MEM2NW1FaXpPMUVKWEtnRmtoNkZQNFdEWnAxQXR4QjRLT3NRMWl5dUZSSlZLQQ?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-30T02:00:08.000Z",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
+          "source": "리뷰타임스",
+          "sourceInitial": "리뷰",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-29T02:48:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -317,8 +315,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
+        {
+          "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNXMm5jczdjQTB2NndUQ2JDTW14aVJfVGhoa1p0QzZRM25qM256LVZLZFdKNkhUVXFTLVoydUtldnlZLU04MmxzWVBEX0dPUmxEMldDNTE2aHJjRjFrUHRaS3EtbnZQbkYta0VSTTh1eU05LVZEU0l4b2pOT1E2ZmhpY2RHcDJWRS1tamN6ekhMcmFZM3c?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-30T02:13:46.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "매출 86% 늘린 AI 농산물 유통기업…농식품부, 'A-벤처스' 선정",
           "summary": "",
@@ -331,7 +343,7 @@
             "농식품부"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "해외 위해식품정보 2년 새 17%↑…알레르기 성분 미표시 3년 연속 늘어",
@@ -356,7 +368,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
