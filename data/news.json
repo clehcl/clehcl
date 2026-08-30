@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:05:42.498Z",
+  "generatedAt": "2026-08-30T22:35:42.575Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "[정보공개서 현미경] '패티 1230원' 프랭크버거…가맹점 600개 뒤 수익구조 따져보니",
@@ -73,18 +73,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "푸라닭 치킨, 배달의민족 '배민푸드페스타' 참여…최대 7천원 할인 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1QXk2cHNmcEhfQmtqbWRfSTloTHpobzZLdUl4RnZIa0xWd3ZYTzFUenVNRDFnWkVjUGtuZDVxbnZJVm1DdG93cWJxZjhHVmdmcHplSi1n?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-30T07:15:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -97,7 +85,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
@@ -214,7 +202,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 2,
+      "total": 1,
       "items": [
         {
           "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
@@ -227,18 +215,6 @@
           "tags": [],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBibFNiTGlJZDN1X193Z0FScjl4RzNlU1M5elRCM2dxYUd2U0Y1ZGg1X1FTeWFYUll4SnZkQUF1M3NyR0lsRVE?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-28T22:12:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -402,13 +378,13 @@
           "feat": false
         },
         {
-          "title": "맥도날드, 3년만에 성수 복귀…‘버거 전쟁’ 불붙는다 [푸드360]",
+          "title": "맥도날드, 3년만에 성수 복귀…'버거 전쟁' 불붙는다 [푸드360]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GMmRoWndoa01QTUFsQTZaNlA2Q0JfRmFac1lKZEZ5dDU4VGZuSFRIUVFXcEtWYjJKSF8yNWNYWVcxRjdBUW9INGF5emtwblBYWm9VVnpn?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-29T02:20:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd052NnJ4TUVMQzl5VVMxNzZUWDNwZ0MwSkJpVE1oSWhmUnExQ0VPTGRPYzRrLTJMVlhvQmYwbDJ6YzZFV2hXLUVaX0xuM2pTajdZ?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-29T02:21:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
