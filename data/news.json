@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T17:05:44.860Z",
+  "generatedAt": "2026-08-30T17:35:42.634Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -71,7 +71,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
@@ -86,6 +86,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-29T16:42:18.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
@@ -118,11 +132,11 @@
         {
           "title": "인건비·재료비 이중고에...김밥·분식점 ‘31개월 연속 줄폐업’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IN3pFd2N5NjdJemN3M1ZRSnBWUzNwQ1lJTTBBaXZ1NkwtSHo3amlSckFySnFJMFNIRGFwTThMd1lTZURfZFVocTdPWkVSa0k?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-30T07:28:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ2ZGNXY0NWo4bHg1ZGdUcXltYlNrNl9oN1dxeFNmajhlUzRWQUd0bWFKNTNJenhaSG5XYlBucnlKQXVfZ2tHMmJybHQ4U0VvN08xSWdJdmlOQXhO?oc=5",
+          "source": "supple.kr",
+          "sourceInitial": "su",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-30T07:29:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -162,18 +176,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
-          "source": "리뷰타임스",
-          "sourceInitial": "리뷰",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-29T02:48:19.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -186,22 +188,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-29T16:42:18.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
           "summary": "",
@@ -212,7 +200,7 @@
           "publishedAt": "2026-08-30T01:10:00.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
@@ -316,7 +304,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
@@ -362,6 +350,18 @@
           "feat": false
         },
         {
+          "title": "얌샘김밥, IFS 박람회서 분식 창업 모델 소개…스마트 주방 시스템 강조 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSU1adHhMaFoxVGE1YVZTWkY2Y1Q5bUFRcG1nYzMtem5HRzNzYlRPd0M3Z0NEZ2lMTUtqSGI3OTdRc3hXOEhLMURWZ01SLVM5OTFVbC1ZU0IzaW1xSFhPWV9IenljWFlYdmdLUXB6NVhmOFdhYnZDdmpkUzNHeVo1R0x5RjBIaE8xZGZTRlA5YnpmZV9iUU9JMWpobGRPVzc3TW5zbmFBRU1pdzFpRkRlal8wNm5BaWNiajQ4WA?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-30T08:56:26.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "\"한번 하면 10년은 기본\"…김연아·공유 붙잡아둔 이 회사 전략 [김소연의 얼굴전략]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNYkk1bVl3MW1SM3ppUy1KYUNLZ1pPY3pKOXlRTkhCbWI5eXFhc2taNUJqWGZZb05TMk42VHFwbEdMYjBnTnl2MGJuMFVOamN0aFRzVjEyZFMzUQ?oc=5",
@@ -400,11 +400,11 @@
         {
           "title": "“단맛은 포기 못 해”⋯저당식품 성패 핵심은 ‘당 빼는 R&D 기술’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2U2xGUGkxVnIxX1VkQ0kzOVNQeVppX1NhcktHNUJwSVRyS0g1VlBiWTJRZXY3dnNQV2p3OTlWNk1kNE9rUkZNWkdIU1RuRDRCbGEzVQ?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T23:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wd1FReWR0N3VvLXhONk1scVpKeDRaTlAxTE1RanlLTm5yLVlXSGpHZEJ0WGtBRGxnaEd0dnhqVVNOTnl1OUdyR1BlSUlJVmduWTV2Ug?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-28T23:00:06.000Z",
           "tags": [],
           "price": null,
           "feat": false
