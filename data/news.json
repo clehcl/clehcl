@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T03:35:48.036Z",
+  "generatedAt": "2026-08-30T04:06:12.637Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -322,7 +322,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
@@ -363,6 +363,18 @@
           "tags": [
             "물가"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한·중 식품안전 협력 결실…K푸드, 中 수출길 청신호",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mR21yQ1RRbTJUTWhKRjVaWHd4WjROMnkwczFvczRIOHVjQ3VDdzQtdFpXM04wRUhiQzZCc0toOGVtcnVpbGZyc1M0bjhzS01KaHdZ?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-30T03:40:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
