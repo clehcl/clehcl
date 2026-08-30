@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T10:35:44.277Z",
+  "generatedAt": "2026-08-30T11:06:05.831Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -71,7 +71,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 8,
       "items": [
         {
           "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
@@ -86,20 +86,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "오징어 15%·수입 고등어 31% 가격 상승…추석 앞두고 부담",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcjBKdEx2eVlReklMWGpNU0JqaXlMcER3eVNYaWJuOVd1ZzVKN0lQOVBVNmpEakUyMTJjS1hkOWxiRlp3OTlHRzdJdVJSM016Y0Fta3N2d09SQzQ0UjhJbEV1VF9vM1BK?oc=5",
-          "source": "강원도민일보",
-          "sourceInitial": "강원",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-30T00:27:52.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
@@ -166,13 +152,25 @@
           "feat": false
         },
         {
-          "title": "먹는 데만 지출 30%... 저소득층 더 아픈 '먹거리 물가'",
+          "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfLVdSRUl3cUE1R3hOekVnM3JLeXk1YXhlcld6aTFKT0dMdk0xNUxHYU1HeVJJdjIxMEJYUFpqeGFmbkEzQ0pjX0tQclFtdjJKWWJ0bDNMbk02cS1tRGNCWXdxRmdJbGNJMGRCZ3ZRbGM?oc=5",
-          "source": "시장경제신문",
-          "sourceInitial": "시장",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
+          "source": "리뷰타임스",
+          "sourceInitial": "리뷰",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-30T03:05:06.000Z",
+          "publishedAt": "2026-08-29T02:48:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"추석 선물 미리 준비하세요\"…식품업계, 실속·건강 세트 경쟁[이번주 Eat템]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2JWNU5yM3NEWkp3SHRZak16MXJoM2t4LTZjbTJSNFlON2N2cmhzWjh0VVpsZ1FEZkFkLWdvdnczQVp4QlNOZnVyNmFKa252a2NRSDRkaXZOOXlOaXkxNGtCVnrSAWRBVV95cUxPSTdiVjVOcjNzRFpKd0h0WWpNejFyaDNreC02Y20yUjRZTjdjdnJoc1o4dFVabGdRRGZBZC1nb3Z3M0FaeEJTTmZ1cjZhSmtudmtjUUg0ZGl2Tjl5Tml5MTRrQlZ6?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-28T22:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -360,13 +358,13 @@
           "feat": false
         },
         {
-          "title": "맥도날드, 3년만에 성수 복귀…'버거 전쟁' 불붙는다 [푸드360]",
+          "title": "맥도날드, 3년만에 성수 복귀…‘버거 전쟁’ 불붙는다 [푸드360]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd052NnJ4TUVMQzl5VVMxNzZUWDNwZ0MwSkJpVE1oSWhmUnExQ0VPTGRPYzRrLTJMVlhvQmYwbDJ6YzZFV2hXLUVaX0xuM2pTajdZ?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-29T02:21:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GMmRoWndoa01QTUFsQTZaNlA2Q0JfRmFac1lKZEZ5dDU4VGZuSFRIUVFXcEtWYjJKSF8yNWNYWVcxRjdBUW9INGF5emtwblBYWm9VVnpn?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-29T02:20:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
