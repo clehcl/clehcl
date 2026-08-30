@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T21:35:37.103Z",
+  "generatedAt": "2026-08-30T22:05:42.498Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,16 +16,16 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "[정보공개서 현미경] '패티 1230원' 프랭크버거…가맹점 600개 뒤 수익구조 따져보니",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4bExyWC1lYXRfdXpjU1ByR3VQZ0Zlb0dmbERJRk14LUZSZGxYRWxKNmFKdDhKLWQ3UzlKcU5qQlhXY20zVXl6Rjl3WWhKM21sVGUw?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-30T21:01:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dHM2cFl4eTNud29fR3FodG5YeFB6Q3FaQUw1SHFyRk1EVmxCMm1IWUtpeG5oUjRhZG1tQ0dId0pLdDFpTXJIZjRUY2JaUC11MmN3YVNrdjJaOGVTOGtxYk14X081emNjRENuUFZ2Z9IBc0FVX3lxTE14a1Q3Yld3NFVMQW5CVDNoamNmU203azZGZmV3RTJ0akk2V28xOG1uUzJRcWFCNU9ycXFkSk52VTMtZGtvVUtWRFlLTExuS0xneW5Vck55VFRZRnFpazJ5SG9GZnZpUXVPR1Rxcm50WHFpQ1k?oc=5",
+          "source": "데일리한국",
+          "sourceInitial": "데일",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-30T21:00:00.000Z",
           "tags": [
             "가맹"
           ],
@@ -71,6 +71,18 @@
           "tags": [
             "프랜차이즈"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "푸라닭 치킨, 배달의민족 '배민푸드페스타' 참여…최대 7천원 할인 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1QXk2cHNmcEhfQmtqbWRfSTloTHpobzZLdUl4RnZIa0xWd3ZYTzFUenVNRDFnWkVjUGtuZDVxbnZJVm1DdG93cWJxZjhHVmdmcHplSi1n?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-30T07:15:18.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -239,8 +251,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
+        {
+          "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLS1TcmlWUVJuSjNTeXphRWdMNVo3SmtSTDB4ZDIydGwyY3J1ellUSV9SRkNOS1ZGRVVzSjJ6dkl1VWw2eVd4ZUZzaDN5LUljNkFuZFktZjdjU1c4dWhtQnlaajZJVWE1d2tzXw?oc=5",
+          "source": "농수축산신문",
+          "sourceInitial": "농수",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-30T22:00:00.000Z",
+          "tags": [
+            "수급"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "‘농심천심 운동’ 1주년… 쌀 소비 촉진·물가 안정 등 농촌에 활력",
           "summary": "",
@@ -253,7 +279,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
