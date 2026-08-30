@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T02:35:43.547Z",
+  "generatedAt": "2026-08-30T03:05:51.280Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -146,6 +146,20 @@
       "total": 12,
       "items": [
         {
+          "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUl92Vmh4M0xuQ0lDV1laUEZKMUdrczh0R1pZM2x0LTVmbS1vSEhzWFBjZ1FDdHRBTzdUbGJLamJHNGtnRlIyNDhjQnhvTnpvOC1pb3dWMFZVQ1FCT3NoNnZUY25PUnFVbHR4dk13bms3OTJ0RFYxU2NsQWVqZHVVMzIzM2E0dmN5WkV1amM2YmVHbGdaNEFNZTR0d1Blb0lQQmhoTXp5U2phNEk?oc=5",
+          "source": "Laodong.vn",
+          "sourceInitial": "La",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-30T02:35:27.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "오징어 15%·수입 고등어 31% 가격 상승…추석 앞두고 부담",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcjBKdEx2eVlReklMWGpNU0JqaXlMcER3eVNYaWJuOVd1ZzVKN0lQOVBVNmpEakUyMTJjS1hkOWxiRlp3OTlHRzdJdVJSM016Y0Fta3N2d09SQzQ0UjhJbEV1VF9vM1BK?oc=5",
@@ -157,7 +171,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
@@ -176,7 +190,7 @@
         {
           "title": "가격 뛰고 선택지 줄까…먹거리물가 상승 압력에 식품시장 양극화 우려[GMO완전표시제 명암③]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55S2JGQWx2WEVnSmZSSUwzTWozdVp3MEJrVXplclVNUEpULTRacDl1SmpMakJTV2dma1ZWZ1R0aHhRY0tKSWxnTEJCaHFJS0YxbzJmOElESVZFelZmOXgyM9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5U9IBeEFVX3lxTE9NS3JDRGx3YWJjb3hkY3U5RldoSmxXZ0pqX0dYUzhKTWpJeFZaeXBmMUVOb0JaWnJYSUhPeHJ1UlN4bE5aTG9EUHU1SHk4VzVaWmVfWDlocHcyRjc2ck9Nc01YdHRlN1U0Wmd6QmRwSUd6YmFXVkp5Uw?oc=5",
           "source": "뉴시스",
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
@@ -237,18 +251,6 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-30T02:01:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
-          "source": "리뷰타임스",
-          "sourceInitial": "리뷰",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-29T02:48:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -315,7 +317,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
@@ -346,6 +348,20 @@
           "feat": false
         },
         {
+          "title": "엔화 약세에 물가 상승 압력 커지자 … 日銀 9월 금리 인상 단행 초읽기",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IbWM4aVRPbFFhVXgyTm1uQ1lCaENsVlAwS2FaMF9UX0I2aXd0bjg5ZWpPWk9rQ091OGI2dEZUeG5TYlVZdnBvdGNZWlFUOGNoYlE?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-28T08:56:24.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "해외 위해식품정보 2년 새 17%↑…알레르기 성분 미표시 3년 연속 늘어",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IT09GOTh2X1FZc3EtWnd2TFdfcWc2NnA3dnBxWnFVbFJxOV9VQXJ3emlvT0UxNW1KeE5NYmRIXzgzUlNRTjIwbVJYcUVaVTV5blI0cFJtODRnSndhY09vdENhb3BGcXV1cUV2TQ?oc=5",
@@ -368,7 +384,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
@@ -442,6 +458,20 @@
           "feat": false
         },
         {
+          "title": "이거필름, GABA·L-테아닌 등 원료 조합한 필름형 일반식품 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lR2Q0eTkwcG5IOUI4THdWWlNlMDFWMXFPWkMwWm5EczBmemZoekdXcF9vc2I1c2NjVkpkZnBPS0tiREtlRm13bFM0YVRKeHlTU0w4N21SbEZYOXZQcmpjak1oZ3BSbnFzTURjdU5R?oc=5",
+          "source": "gukjenews.com",
+          "sourceInitial": "gu",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-28T05:33:04.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "맥도날드, 3년만에 성수 복귀…'버거 전쟁' 불붙는다 [푸드360]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd052NnJ4TUVMQzl5VVMxNzZUWDNwZ0MwSkJpVE1oSWhmUnExQ0VPTGRPYzRrLTJMVlhvQmYwbDJ6YzZFV2hXLUVaX0xuM2pTajdZ?oc=5",
@@ -461,18 +491,6 @@
           "sourceInitial": "Pl",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-29T01:16:16.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“단맛은 포기 못 해”⋯저당식품 성패 핵심은 ‘당 빼는 R&D 기술’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2U2xGUGkxVnIxX1VkQ0kzOVNQeVppX1NhcktHNUJwSVRyS0g1VlBiWTJRZXY3dnNQV2p3OTlWNk1kNE9rUkZNWkdIU1RuRDRCbGEzVQ?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T23:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
