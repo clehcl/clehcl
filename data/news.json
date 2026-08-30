@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:35:51.840Z",
+  "generatedAt": "2026-08-30T05:05:52.472Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -140,7 +140,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
@@ -213,6 +213,18 @@
           "feat": false
         },
         {
+          "title": "식품업계 'K-푸드'로 상반기 훨훨 날았다…'빅7' 해외매출 7.7조",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnbU5fakk2WnRmdmNKeGhyVV9aU1dNUUhESVZYQzktYklwaExMQXYwTkp0OVc5bWZNM3VpOXdDbFh6cGZVVWNseUI1cURNLVZDMVN2RXY4T01VaGxJekRoMUE0NDltZ3VfM1lOSS1ndGc3b2_SAXNBVV95cUxQZ21OX2pJNlp0ZnZjSnhoclVfWlNXTVFIRElWWEM5LWJJcGhMTEF2ME5KdDlXOW1mTTN1aTl3Q2xYenBmVVVjbHlCNXFETS1WQzFTdkV2OE9NVWhsSXpEaDFBNDQ5bWd1XzNZTkktZ3RnN29v?oc=5",
+          "source": "뉴스웍스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-30T03:08:52.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "\"하다하다 컵라면 값도 오르네\"…1000원대 '미니 간편식' 뜬다 [박상경의 영수증 리뷰]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmV1BSRmNsQlYyOWh6V2hMWnZQZVUyMU45N1cxSl9QUFBMQXNONzRtNzVJWm5DSkw4Z19RTGp4OHVhS2x2bGZQTERZaHRGTWYxSi13?oc=5",
@@ -232,18 +244,6 @@
           "sourceInitial": "리뷰",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-29T02:48:19.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"추석 선물 미리 준비하세요\"…식품업계, 실속·건강 세트 경쟁[이번주 Eat템]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2JWNU5yM3NEWkp3SHRZak16MXJoM2t4LTZjbTJSNFlON2N2cmhzWjh0VVpsZ1FEZkFkLWdvdnczQVp4QlNOZnVyNmFKa252a2NRSDRkaXZOOXlOaXkxNGtCVnrSAWRBVV95cUxPSTdiVjVOcjNzRFpKd0h0WWpNejFyaDNreC02Y20yUjRZTjdjdnJoc1o4dFVabGdRRGZBZC1nb3Z3M0FaeEJTTmZ1cjZhSmtudmtjUUg0ZGl2Tjl5Tml5MTRrQlZ6?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-28T22:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -367,6 +367,18 @@
           "feat": false
         },
         {
+          "title": "미국, 한국산 식품의 FDA 수입 거부 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUkNxdVBkaHBhcEVNZ211bXBfLUR5UUxmSVRsT1kzb0dlWlVXeHI1X2hxOUZ0VEFvNVBxVXJ6MXRuMElxUEtoalluYnUwNGhXXy1OT0c3SQ?oc=5",
+          "source": "realfoods.co.kr",
+          "sourceInitial": "re",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-30T04:51:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "한·중 식품안전 협력 결실…K푸드, 中 수출길 청신호",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mR21yQ1RRbTJUTWhKRjVaWHd4WjROMnkwczFvczRIOHVjQ3VDdzQtdFpXM04wRUhiQzZCc0toOGVtcnVpbGZyc1M0bjhzS01KaHdZ?oc=5",
@@ -374,18 +386,6 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-30T03:40:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[주간 유통 나침반] 한 주 앞둔 홈플러스 운명의 날·쿠팡 vs 공정위·유통업계 추석 대목",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XNGlLaGVtYlZxVjBrSUVVbDJ5YjRlakc2eDV4MGd4TkRmcmpEYWk3dDBtOURaaGhzQmJvaVJSaDNqVklFTDVwYThrWmpuRWJUMmU3ZzUzMlFmdXdWNTY3TUZOUHU5SkdJN3JiUmRSckdtQQ?oc=5",
-          "source": "중앙이코노미뉴스",
-          "sourceInitial": "중앙",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T03:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -413,7 +413,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 10,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
@@ -473,20 +473,6 @@
           "feat": false
         },
         {
-          "title": "[식품업계 7월 동향] CJ제일제당, 사업구조 재편·프리미엄 증류주 '자리' 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ub2dhZzkxRXc1anBvQzVkbXBMVFJ1MXVZendrWDJ2TVp1b0R5OWFiblNaS2tIdll3VEhDcnNSNWN4MDdxWUpkSDlIT2tYZU5WVXN3NVdUUDkzR3ZoM3U0YkREOHk2UQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-28T06:57:50.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "이거필름, GABA·L-테아닌 등 원료 조합한 필름형 일반식품 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lR2Q0eTkwcG5IOUI4THdWWlNlMDFWMXFPWkMwWm5EczBmemZoekdXcF9vc2I1c2NjVkpkZnBPS0tiREtlRm13bFM0YVRKeHlTU0w4N21SbEZYOXZQcmpjak1oZ3BSbnFzTURjdU5R?oc=5",
@@ -520,6 +506,18 @@
           "sourceInitial": "Pl",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-29T01:16:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "“단맛은 포기 못 해”⋯저당식품 성패 핵심은 ‘당 빼는 R&D 기술’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2U2xGUGkxVnIxX1VkQ0kzOVNQeVppX1NhcktHNUJwSVRyS0g1VlBiWTJRZXY3dnNQV2p3OTlWNk1kNE9rUkZNWkdIU1RuRDRCbGEzVQ?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-28T23:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
