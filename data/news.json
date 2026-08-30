@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:35:44.590Z",
+  "generatedAt": "2026-08-30T01:05:51.806Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -34,16 +34,16 @@
           "feat": true
         },
         {
-          "title": "롯데GRS, 프랜차이즈 가맹 관리 체계 ‘데이터 기반 성과 중심’으로 개편",
+          "title": "30년 외식업 현장의 해법 담은 임영태 신간『프랜차이즈를 이기는 가게, 가게를 살리는 프랜차이즈』 9월 1일 출간",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zM2JTbjRZSExudmxjaWF1dFgxLWctMFdBcFFRWlJ6WEQ5TWpVcjR1SnNjVTRiT0pBaEhiWEx4U0pZSGJDXzg4QzFEZnhOLWRZQzNYS2VuVV9aQndwdTFiSC1yVUgtUDdUWlNN?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-28T00:39:25.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iUzVWNUEydkktZThES2d3ckF3ZV9DTGxDWF9DaUJvb3ZQcnlUeHAzMl9SRDlMTlhFbDQ2QzZsc3RzWjdwSm9oWkVMdWVDdjNv?oc=5",
+          "source": "프랜차이즈월드",
+          "sourceInitial": "프랜",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-28T03:47:17.000Z",
           "tags": [
             "프랜차이즈",
-            "가맹"
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -146,6 +146,20 @@
       "total": 13,
       "items": [
         {
+          "title": "오징어 15%·수입 고등어 31% 가격 상승…추석 앞두고 부담",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcjBKdEx2eVlReklMWGpNU0JqaXlMcER3eVNYaWJuOVd1ZzVKN0lQOVBVNmpEakUyMTJjS1hkOWxiRlp3OTlHRzdJdVJSM016Y0Fta3N2d09SQzQ0UjhJbEV1VF9vM1BK?oc=5",
+          "source": "강원도민일보",
+          "sourceInitial": "강원",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-30T00:27:52.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUNUZKSjhMazhrakQ1b3J6THY4REFoMUdzR2xjZzdmM0plb25oTzB5MHJoRWVvMG1URjBkTXJpaDRoanY1S3g2VUFhSmcyU0JPVWpyb3ZraEJiU29TZy1FbDFYSFBsNWtRRXlSYTdBTEZPQk5XX1F3?oc=5",
@@ -157,7 +171,7 @@
             "식자재"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "가격 뛰고 선택지 줄까…먹거리물가 상승 압력에 식품시장 양극화 우려[GMO완전표시제 명암③]",
@@ -240,18 +254,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"추석 선물 미리 준비하세요\"…식품업계, 실속·건강 세트 경쟁[이번주 Eat템]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2JWNU5yM3NEWkp3SHRZak16MXJoM2t4LTZjbTJSNFlON2N2cmhzWjh0VVpsZ1FEZkFkLWdvdnczQVp4QlNOZnVyNmFKa252a2NRSDRkaXZOOXlOaXkxNGtCVnrSAWRBVV95cUxPSTdiVjVOcjNzRFpKd0h0WWpNejFyaDNreC02Y20yUjRZTjdjdnJoc1o4dFVabGdRRGZBZC1nb3Z3M0FaeEJTTmZ1cjZhSmtudmtjUUg0ZGl2Tjl5Tml5MTRrQlZ6?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-28T22:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -264,7 +266,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "중국산 도라지 60~70% 섞어 ’국내산’으로…학교급식 납품업자 구속",
@@ -279,6 +281,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "aT, 농수산물 온라인 도매시장 상담회 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pS0p1YTdhVWlIWEdxWFNZZ3llYVlsbUplOWxuUURld3Z6T256eUprM1pWajVqZTh5Q0xOTkUzei00cEV0T1kxM0kwdnlHS1p2YU4zdllrQ05haWpJY3V3bVFoWW95UQ?oc=5",
+          "source": "콜드체인뉴스",
+          "sourceInitial": "콜드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-29T09:20:26.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "中도라지 232t 국내산으로 5천여 학교 급식에",
@@ -340,7 +354,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "MK Pick | 당 함량 낮춘 신제품 출시... 일상 식품까지 번지는 저당 트렌드",
@@ -356,21 +370,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "풀무원, 5분 완성 ‘콩나물국 요리키트’ 출시…나물 간편식 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kZzlMUDBKaVJjd2dJelVkYnZuSDdwckpFWFdxbzJWcmVfMHZETzBhSDQ5d09Md3pHXzFtdlNYTGR3WTFnNmJDZC0zRG5Tb2tPdXUwbDhKUEo1RUtHR3cwRnRfMzN6cUN4UHpyVWtn?oc=5",
-          "source": "뉴스인사이드",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T01:05:12.000Z",
-          "tags": [
-            "출시",
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.8 K-푸드] “라면·김 넘어 HMR·건강식품·발효식품까지”…K-푸드, 향후 10년 한국 수출 이끌 글로벌 성장산업으로",
@@ -448,6 +447,18 @@
           "sourceInitial": "Pl",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-29T01:16:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "“단맛은 포기 못 해”⋯저당식품 성패 핵심은 ‘당 빼는 R&D 기술’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2U2xGUGkxVnIxX1VkQ0kzOVNQeVppX1NhcktHNUJwSVRyS0g1VlBiWTJRZXY3dnNQV2p3OTlWNk1kNE9rUkZNWkdIU1RuRDRCbGEzVQ?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-28T23:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
