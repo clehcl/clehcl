@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:06:12.637Z",
+  "generatedAt": "2026-08-30T04:35:51.840Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -322,7 +322,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
@@ -374,6 +374,18 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-30T03:40:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[주간 유통 나침반] 한 주 앞둔 홈플러스 운명의 날·쿠팡 vs 공정위·유통업계 추석 대목",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XNGlLaGVtYlZxVjBrSUVVbDJ5YjRlakc2eDV4MGd4TkRmcmpEYWk3dDBtOURaaGhzQmJvaVJSaDNqVklFTDVwYThrWmpuRWJUMmU3ZzUzMlFmdXdWNTY3TUZOUHU5SkdJN3JiUmRSckdtQQ?oc=5",
+          "source": "중앙이코노미뉴스",
+          "sourceInitial": "중앙",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-30T03:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
