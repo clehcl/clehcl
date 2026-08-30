@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T01:05:51.806Z",
+  "generatedAt": "2026-08-30T01:35:38.033Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "[신간] 30년 외식 프랜차이즈 베테랑이 전하는 ‘외식업 스케일업의 모든 것’",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "오징어 15%·수입 고등어 31% 가격 상승…추석 앞두고 부담",
@@ -202,6 +202,20 @@
           "feat": false
         },
         {
+          "title": "[단독] 1등급 원유라더니 슬쩍 낮춘 서울우유…가격은 올라",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSkV2eG5ySFI1LTZ1bThoUlZZbWJURmpOaDVyTnVFNzhpbVFOaU5zcl80c0xIX0R0amdVa2wzY1hnNHV1elNlZTBoR29ubGZIWGhqSXVuNGlFZVR2TWw4Nk9JUm9taUE?oc=5",
+          "source": "연합뉴스TV",
+          "sourceInitial": "연합",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-28T05:44:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "추석 앞 성수품 가격 엇갈려…쌀 15%↑·배 최대 67%↓",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RQzBnc1hNMGpzd0hzZjlxYlZkYi1pWFI1WEZDdFJZYzhjb003LV8xcGZZVXVZaXpObmxKNXFwNDk2bzE0X2xHV1pkS3NMTXZTUWNZaWtzaUVqdHo2U0Z2clRibGlCdw?oc=5",
@@ -216,34 +230,6 @@
           "feat": false
         },
         {
-          "title": "추억의 ‘모구모구’ 가격도 11% 오른다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40dGR5VmJ2OTVSQUFRYzdXTmJLRGNMREEwUmMzM29yZjItQV9ST2dQeEs3cGZHNmI0N2NUMEpJejdGQTkyUzZWcFFmaFdza3JRcXNod1dB?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-28T02:34:34.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[단독] 1등급 원유라더니 슬쩍 낮춘 서울우유…가격은 올라",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Z1lRSDZma28zcXJjN1YwM2FRVTVrUG03WVZ3TWhzTFo4WXp3bWNqVzZfeWNmd2VETk5ZVTlsdHpUZzRRNmdRWnoxUUVQZjBTWUhGd2x5U0lWLUdrTlBYb9IBYEFVX3lxTE14Z1lRSDZma28zcXJjN1YwM2FRVTVrUG03WVZ3TWhzTFo4WXp3bWNqVzZfeWNmd2VETk5ZVTlsdHpUZzRRNmdRWnoxUUVQZjBTWUhGd2x5U0lWLUdrTlBYbw?oc=5",
-          "source": "연합뉴스",
-          "sourceInitial": "연",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-28T01:25:28.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[식품 리뷰] 산분해간장 장류 제외됐는데, 산분해간장 93% 혼합간장은 왜 ‘간장’인가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKMzE4UkMtOW9GV3NoUEJ2WjRiWm4yc1p4UjlrbGZtaFlkR1lWc3BpbVU3d19rRzV2dzJFSTN4aXYtVTVBODQ2SDdlM21TQjBrRmxlRE5PbVM3amhpZElScXpOM2s0LTA1VWxHOUhmMlk?oc=5",
@@ -251,6 +237,18 @@
           "sourceInitial": "리뷰",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-29T02:48:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"추석 선물 미리 준비하세요\"…식품업계, 실속·건강 세트 경쟁[이번주 Eat템]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2JWNU5yM3NEWkp3SHRZak16MXJoM2t4LTZjbTJSNFlON2N2cmhzWjh0VVpsZ1FEZkFkLWdvdnczQVp4QlNOZnVyNmFKa252a2NRSDRkaXZOOXlOaXkxNGtCVnrSAWRBVV95cUxPSTdiVjVOcjNzRFpKd0h0WWpNejFyaDNreC02Y20yUjRZTjdjdnJoc1o4dFVabGdRRGZBZC1nb3Z3M0FaeEJTTmZ1cjZhSmtudmtjUUg0ZGl2Tjl5Tml5MTRrQlZ6?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-28T22:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -283,6 +281,18 @@
           "feat": true
         },
         {
+          "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93VXR4NG1ZSnJDbklXRS1BSVdMSWVyNEFzMk1HeXNITkJvbjdKR2VFR0RVQVdYZGFDVDFpcEI3LXhFMXJqajhqWHhuTWg0VGx0WnAzR1Myd0JydWtGRWxoSFVtNzctY2hXRms4a2R5bno?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-30T01:10:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "aT, 농수산물 온라인 도매시장 상담회 개최",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pS0p1YTdhVWlIWEdxWFNZZ3llYVlsbUplOWxuUURld3Z6T256eUprM1pWajVqZTh5Q0xOTkUzei00cEV0T1kxM0kwdnlHS1p2YU4zdllrQ05haWpJY3V3bVFoWW95UQ?oc=5",
@@ -302,18 +312,6 @@
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-28T22:12:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "사조푸디스트, '식자재왕·식자내왕몰'로 '한국소비자만족지수 1위' 2개 부문 수상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uRERLZGZsbDBfSW9vSXpfcFp2cHJZSWQzWWZwZ0JPQVptT19DX1lkVGllZE9wSUVib0R2MUR3TnBRaVVIZXAwazlBZi1veGFXM1dselBKVGRSYndSSEVWNk5WaVYwWWdCN1E?oc=5",
-          "source": "비즈월드",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-28T01:22:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -372,6 +370,20 @@
           "feat": true
         },
         {
+          "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bVFDbGVScGdhZ1BaU2lUV3dYMTVmVlZNcWJaZ0J0UVZ1R3VIbC1Idzc4OGxmQ3BHQ1BibVMwZWtFUF9jZ21EdjFaUTFWSGJCRlBITkV5M0R0azZCM1phQmhuY9IBZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVk?oc=5",
+          "source": "국민기자뉴스",
+          "sourceInitial": "국민",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-29T23:05:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[특집/ 향후 10년 한국의 수출을 이끌 차세대 산업 시리즈 No.8 K-푸드] “라면·김 넘어 HMR·건강식품·발효식품까지”…K-푸드, 향후 10년 한국 수출 이끌 글로벌 성장산업으로",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GWGZkNy1QSmYtSTJ4R3dqX2Y2YWp0V2s0aHVBekxCZklYOGV1dTZ3d1JyTC1aRno0bnh4bkxvcUxZYTJONXdSY0xVamowbU5wX3NBMTY2eG1XNVhheEV3M29FMkdTUXZUSkFiT093?oc=5",
@@ -407,20 +419,6 @@
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-08-28T06:57:50.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "오뚜기, 잼에도 ‘가벼움’ 더했다… 라이트앤조이 과일잼 2종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaUxfaU5kcUhxQVlBaUlpQlF1dXctTndNS1lDMFZOVWZ3dkNObDRRSlRMZEdoeDhXYk5hdmlObUNmeTZyRUhlQ1YxN1JCVGI1cmJOTXRUSXJaRWdOcENQc3dKdnVaLXl1LWxEOThnMEU?oc=5",
-          "source": "Korea IT Times",
-          "sourceInitial": "Ko",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-28T01:14:29.000Z",
           "tags": [
             "출시"
           ],
