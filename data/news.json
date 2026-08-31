@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:05:47.310Z",
+  "generatedAt": "2026-08-31T21:35:59.674Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 16,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -52,9 +52,9 @@
           "title": "[ 2026년 9월 1일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXhrVW1kcElULTFQTFZjNmlzdlVwQ211Ql9hblIxVlZIelBMZHhrY1RYNnNzN0pycHRqRkxMTmVEM1dQUHFJQThNcEhmTnVPZ1FGenJTTEZtMVFRdW9ZekttOTdBR0x2ZU9mb1NZeF80dXhqM1NncVpISEtCR3BUZl8yUm9hamdVU3hRdkx3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
+          "source": "blog.naver.com",
+          "sourceInitial": "bl",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T14:53:10.000Z",
           "tags": [
             "프랜차이즈"
@@ -79,7 +79,7 @@
         {
           "title": "(디저트제국의 두 얼굴)①(단독)프랜차이즈 수익 구조 한계…‘시장 1위’ SPC도 예외없다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWMUxqVzZUNEc4VldKc2wxMnBCcDAwVXA4a2t5TXJMdXRoWUtzUUFpSFkzaDh1WnVnQnNoM2MwY29pRVFQRmRKUTc3WkNUY0RGbXlWWG1taEtqV3BXZjNRWA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xXzUtVGFfbDJ5RjhEc2lsdnRDVmptOUlSN3hyTDBsVjZzVjQ0V0lXRlhHN1dIQWNyM2dFN1lUX0pNaEU2WHBPR1Jtak5aTmN2eDRzUkxKOHlWMkc0OFVkZg?oc=5",
           "source": "뉴스토마토",
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
@@ -177,9 +177,9 @@
           "title": "유가·환율 다 내렸는데…식품 가격은 왜 계속 오를까 [푸드360]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUzRjZVR3cjN1NHNMbUw1OWVlQ3NmQnB2aC1iUUNXODM1X0NJOUhZNlpWbHlzZ0dnXzViRm4tSEVtbmwyQ2lydWgydEVMRURWVWs5Q0Fn?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
+          "source": "biz.heraldcorp.com",
+          "sourceInitial": "bi",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-31T03:16:00.000Z",
           "tags": [
             "가격"
@@ -216,6 +216,18 @@
           "feat": false
         },
         {
+          "title": "4인가구 식비 월 140만원 돌파…식재료보다 외식비 급등 영향",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRHo3clFiLVFlUERWMW9jc0R4OGRzVW40REFDdWkwTjNRZ0RINVM5Wkk0anFQZ0theU9MWXZlSkxuSERYMXZ2cUhNbDFwbDFtdmR6YUFnU3pock8zeXh3d3AyWUk1Yk40eTBqS0lhaTlNN0k?oc=5",
+          "source": "마켓인",
+          "sourceInitial": "마켓",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-31T20:10:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "환율 190원 급락, 웃는 내수·우는 수출 식품사",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16Mmp2cVRHRG1USUhQc3phMG1BMERmbTFxTzNaZGZXQkZoQV9VckMxNTQzYjhoQXQ2Q2tUZGkyT3U0ekVRVDVXdmZWdjlsSmY2UGhkTXlvd0JEam5WRGZ4YUZlX3Vub05jcXVGZtIBcEFVX3lxTE92YWRCT3pSOGl5TDFJUllBcm40d09NeG0zNzFBaUNVVFNyR2N0ZmxldkxJcFF6LVVSMTRULUd5TVpQUDZKWXFzOTV2N0UyYlRvd3BtTTgxbXRzQ0lQdTBWdmI1TjBMa0Y1UGFyQ1Bic28?oc=5",
@@ -238,18 +250,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"미생물 식품, 산업화 단계\"…KAIST, 차세대 단백질 시장 로드맵 제시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ZGljSjZPNVpFcndKdTVYQmhVZnF3cHh1V00zV2NIRFBOaFhDQlYteU1keGt1bFBlZm5YTnhHZ1RiT2lMSjNHcVI0b2pwMVB1MWJST2x0M3E1ZEJKNmJBMU5MRzNJZ9IBZkFVX3lxTE81ZGljSjZPNVpFcndKdTVYQmhVZnF3cHh1V00zV2NIRFBOaFhDQlYteU1keGt1bFBlZm5YTnhHZ1RiT2lMSjNHcVI0b2pwMVB1MWJST2x0M3E1ZEJKNmJBMU5MRzNJZw?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-08-30T23:35:01.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -267,10 +267,10 @@
         {
           "title": "추석 성수식품 5800곳 점검 시작",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VeDVGQzE4aVE3NVRoYUh5RVpldXJwYmY4STlGekFfZVJpU25aLUZLcUJCZVBLYXVuVllXdjVWRnVWZjBmUndVamxmSXRWX1hZY0UwaDBUTnJXNkJ0dnRWYlZLOXlSYk1F?oc=5",
-          "source": "fsnews.co.kr",
-          "sourceInitial": "fs",
-          "sourceColor": "#333333",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naldPR19DRnR2RTNZeFh1RHMyMlBuNVNvSE1GV0RUR042ZF9hRHM4QXdRYzhCRS1wMzZ2LTlpMy1iVTRNYkdwQkdqZ2tQUldnUjFwN201dGtYMm1PZUZLTy1NWHRTYzVrQnc?oc=5",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T14:08:50.000Z",
           "tags": [],
           "price": null,
@@ -299,15 +299,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
+          "source": "korea.kr",
+          "sourceInitial": "ko",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-31T01:41:40.000Z",
           "tags": [
             "물가",
@@ -315,6 +315,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "8월 소비자물가 5.7%↑…7개월 만에 상승세 둔화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faDVaekZLWEVqLUJTZ3dyMldSZVRBTmVqUWF1c0RPNmJveG1vWUNONDl6SVdYOFV1cXZHNXpscWY5OVFvOFlWR0lyQm8zX0MtVjFsNkRTbl9iUmtyMW5QSktVcE5vaUlvZmZUUllGSDViNmxVYjRj?oc=5",
+          "source": "korea.kr",
+          "sourceInitial": "ko",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-31T11:05:50.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
@@ -441,9 +455,9 @@
           "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bVFDbGVScGdhZ1BaU2lUV3dYMTVmVlZNcWJaZ0J0UVZ1R3VIbC1Idzc4OGxmQ3BHQ1BibVMwZWtFUF9jZ21EdjFaUTFWSGJCRlBITkV5M0R0azZCM1phQmhuY9IBZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVk?oc=5",
-          "source": "kmkj.kr",
-          "sourceInitial": "km",
-          "sourceColor": "#c98a2b",
+          "source": "국민기자뉴스",
+          "sourceInitial": "국민",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-29T23:05:00.000Z",
           "tags": [
             "출시"
