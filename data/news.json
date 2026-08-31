@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:05:46.342Z",
+  "generatedAt": "2026-08-31T01:35:38.908Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "“K프랜차이즈, 해외 안착 해법은?”… 2026 외식기업 해외진출 활성화 워크숍 개최",
@@ -34,15 +34,15 @@
           "feat": true
         },
         {
-          "title": "K-외식기업, 해외 진출 지속 가능하려면?…“운영체계 현지 이식, 정부 지원사업 활용해야”",
+          "title": "K프랜차이즈 해외 안착 해법은…“점포 수보다 운영체계∙현지화”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGWDFsQUFKTlBHa3phSktia1ZEaGRGNWM2MHJlOTRmRHUxQ3RzOFU1aldkVlotbTFGWGFRdVNKS05JYzNlZmhpM1IxVGJBNV94SmZfUG41cmtXLVIwTGRDN19PZ1VqQVlRTXRnaQ?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T00:50:17.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16RGkteFlNTzZpRTFtNUM0YVpJS0U1Vi1UN0pmZW54QmJnZVZ6NXlXaXcybmpqLUNheFp1TWpNN2w5X1FEU0V1bFFDajdTOVQ3V21tUGk1aFdRdU9GR2lLRVJrZFVFZFkwQ3c?oc=5",
+          "source": "한국면세뉴스",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-31T01:20:51.000Z",
           "tags": [
-            "외식"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -140,7 +140,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
@@ -230,18 +230,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-30T03:08:52.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“한 달간 먹는 데 쓴 돈만 89만원”...저소득층엔 유독 가혹한 ‘물가 상승’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NdEZ3THVnY0ZnWEVZX2lYcHlBdFZWOWlfUzhNdmlWeGtSeDEyX0U4TmpDY2hHaDgtM0cwSGlubE1OczZJRXFRT2p2YTdydXZ0T2FlbA?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-30T01:16:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -364,6 +352,20 @@
       "total": 6,
       "items": [
         {
+          "title": "\"추석선물은 프리미엄 K라면\"…삼양식품, 2000세트 한정판 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGdklmNUtkWTAzTFRFZjVaSExRMERGbWlpSFRpZ3pQWHlSanVMOGRCX21XUjk2bGlVTXJZZVlQb0NzUkFOOFVkT2hUX0pIZE5IcndMaDJQSEJIb2F1MTk4aA?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-08-30T23:45:18.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "“라면도 선물세트가 있어?”… 삼양식품, 추석 맞아 ‘삼양1963 X 짜르르 우지’ 한정 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uMTRBYWNaRExtb3RlVkVqYTg0QkFEc0U4d3d2S0hTN1c4ZmZYNHhjRjlOSUpLUHkya2VhMkUxc2JoT2tpaUJ2N2tLS2UzRkRiQ3hhaHJncTNsZjNwVHpiY2xERzY3b3JncXc?oc=5",
@@ -375,7 +377,7 @@
             "출시"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
@@ -423,18 +425,6 @@
           "sourceInitial": "헤",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-29T02:20:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "무료 내기 블랙잭 라스베가스 의 비밀을 풀다 - 2025년 최신판",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnRkh2dklIZmZUNGhwejRrbndta1BmYTRrU1NNWE1BSDJGS2tLWW82Zl9jZVQ3TGhhaUF4c0VTVDczRUdSbHJSdWFYR21ZdXNwQ21vWDlPcHdzQQ?oc=5",
-          "source": "Platea Magazine",
-          "sourceInitial": "Pl",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-29T01:16:16.000Z",
           "tags": [],
           "price": null,
           "feat": false
