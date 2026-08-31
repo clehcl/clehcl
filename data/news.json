@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T00:35:52.284Z",
+  "generatedAt": "2026-08-31T01:05:46.342Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 7,
+      "total": 10,
       "items": [
         {
           "title": "“K프랜차이즈, 해외 안착 해법은?”… 2026 외식기업 해외진출 활성화 워크숍 개최",
@@ -32,6 +32,34 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "K-외식기업, 해외 진출 지속 가능하려면?…“운영체계 현지 이식, 정부 지원사업 활용해야”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGWDFsQUFKTlBHa3phSktia1ZEaGRGNWM2MHJlOTRmRHUxQ3RzOFU1aldkVlotbTFGWGFRdVNKS05JYzNlZmhpM1IxVGJBNV94SmZfUG41cmtXLVIwTGRDN19PZ1VqQVlRTXRnaQ?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-31T00:50:17.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 8월 31일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEhhY0dmMkc2TWx3dlNCSUhzNXJSemp5VERienZIMl8wTUljRGw2U1liUFVobjRNc3h2elVmOGY3ZXZtWlNmSDdqRktuaVdkR2l1Y2JnejJERkZ2RnFBaGVqVG0ybUYxQUM4a1dsR2UtRlZfckdEdWc5MmFGc0xMamdKRXNjYS1VNmhjdjZ3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-31T00:21:42.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "보드람치킨, 개봉1동점…후라이드 중심 메뉴 '가족과 함께' : 네이버 블로그",
@@ -57,20 +85,6 @@
           "publishedAt": "2026-08-30T21:00:00.000Z",
           "tags": [
             "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 8월 31일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEhhY0dmMkc2TWx3dlNCSUhzNXJSemp5VERienZIMl8wTUljRGw2U1liUFVobjRNc3h2elVmOGY3ZXZtWlNmSDdqRktuaVdkR2l1Y2JnejJERkZ2RnFBaGVqVG0ybUYxQUM4a1dsR2UtRlZfckdEdWc5MmFGc0xMamdKRXNjYS1VNmhjdjZ3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-30T18:56:14.000Z",
-          "tags": [
-            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -104,13 +118,13 @@
           "feat": false
         },
         {
-          "title": "푸라닭 치킨, 배달의민족 '배민푸드페스타' 참여…최대 7천원 할인 [ 신아일보 강동완 기자 ] : 네이버 블로그",
+          "title": "BBQ, 필크런치 주문 시 황금올리브치킨 반 마리 증정 : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1QXk2cHNmcEhfQmtqbWRfSTloTHpobzZLdUl4RnZIa0xWd3ZYTzFUenVNRDFnWkVjUGtuZDVxbnZJVm1DdG93cWJxZjhHVmdmcHplSi1n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclV3MWZ6cmJmV0xEX0hnbmVqUUJEdXFzcGg1cERFV2dyYmRJT0pLMmJDVmtaNWYyYlVXWnE2Z2VzTzVqS2dCU1JaUy1MYlBXTTFMclRyTlZPZXpETENGZFhtcjU3OHEtbjVoUU9wUUNRaE1BQ0NGOWxHODV2X3dBM2Vxak1Bcjh3Q0tYT0JR?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-30T07:15:18.000Z",
+          "publishedAt": "2026-08-31T00:51:56.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -185,6 +199,18 @@
           "feat": false
         },
         {
+          "title": "\"미생물 식품, 산업화 단계\"…KAIST, 차세대 단백질 시장 로드맵 제시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ZGljSjZPNVpFcndKdTVYQmhVZnF3cHh1V00zV2NIRFBOaFhDQlYteU1keGt1bFBlZm5YTnhHZ1RiT2lMSjNHcVI0b2pwMVB1MWJST2x0M3E1ZEJKNmJBMU5MRzNJZ9IBZkFVX3lxTE81ZGljSjZPNVpFcndKdTVYQmhVZnF3cHh1V00zV2NIRFBOaFhDQlYteU1keGt1bFBlZm5YTnhHZ1RiT2lMSjNHcVI0b2pwMVB1MWJST2x0M3E1ZEJKNmJBMU5MRzNJZw?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-30T23:35:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "인건비·재료비 이중고에...김밥·분식점 ‘31개월 연속 줄폐업’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ2ZGNXY0NWo4bHg1ZGdUcXltYlNrNl9oN1dxeFNmajhlUzRWQUd0bWFKNTNJenhaSG5XYlBucnlKQXVfZ2tHMmJybHQ4U0VvN08xSWdJdmlOQXhO?oc=5",
@@ -192,18 +218,6 @@
           "sourceInitial": "su",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-30T07:29:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한·중 식품안전 협력 결실.. K푸드, 中 수출길 청신호",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZ2J1b2ZuZEMweVh1VmpCUElZMzVTLTRhMnNXSlpuY002VEs0dXJvSUZvNHZGelM2LXF3Q1ozNG85Y3hIRVNxdmQ3bHoyNWQ2UTQ3YzlZdmIyQQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "sourceInitial": "파",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-30T03:39:46.000Z",
           "tags": [],
           "price": null,
           "feat": false
