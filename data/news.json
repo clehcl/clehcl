@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:05:48.318Z",
+  "generatedAt": "2026-08-31T23:35:41.753Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -299,7 +299,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
@@ -317,20 +317,6 @@
           "feat": true
         },
         {
-          "title": "8월 소비자물가 5.7%↑…7개월 만에 상승세 둔화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faDVaekZLWEVqLUJTZ3dyMldSZVRBTmVqUWF1c0RPNmJveG1vWUNONDl6SVdYOFV1cXZHNXpscWY5OVFvOFlWR0lyQm8zX0MtVjFsNkRTbl9iUmtyMW5QSktVcE5vaUlvZmZUUllGSDViNmxVYjRj?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T11:05:50.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLS1TcmlWUVJuSjNTeXphRWdMNVo3SmtSTDB4ZDIydGwyY3J1ellUSV9SRkNOS1ZGRVVzSjJ6dkl1VWw2eVd4ZUZzaDN5LUljNkFuZFktZjdjU1c4dWhtQnlaajZJVWE1d2tzXw?oc=5",
@@ -345,16 +331,40 @@
           "feat": false
         },
         {
-          "title": "유럽연합(EU)은 금지 물질로 오염된 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
+          "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXU4RENXY1gzQy1EV0dPVkhxbHFXYTdaMEI0REVVbGtIR2JieHJZbldNYVNURXhRakxzcVdYdC0yN1BETGpETDNlXy1Zekt1UngxMDYydHBlcVpITFBjb2xDQUM5S0lfU29zSjB6S2JTbnZYWlltd0l0ZDhPSEJLa2xRVTFsNG54TS03WQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-30T14:57:33.000Z",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNXMm5jczdjQTB2NndUQ2JDTW14aVJfVGhoa1p0QzZRM25qM256LVZLZFdKNkhUVXFTLVoydUtldnlZLU04MmxzWVBEX0dPUmxEMldDNTE2aHJjRjFrUHRaS3EtbnZQbkYta0VSTTh1eU05LVZEU0l4b2pOT1E2ZmhpY2RHcDJWRS1tamN6ekhMcmFZM3c?oc=5",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-30T02:13:46.000Z",
           "tags": [
             "규제"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[이아름 식품기술사의 컴플라이언스 리포트] “X-ray 하나 더 달면 안전할까… 식품안전은 ‘설비’보다 ‘위해 분석’이 먼저다”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0YUNhQWJoczZ5VWg0eTVnQmhrcWpPQlNPY3JvMU5KM29QLTgzclB5bGtkVVlkMmJtYVNQRmhoUnBxM3ppNVNKQVR6WHFHRDJydE9ENGFFSHZhUmhQUTc1Q3V0djhVN3psWU5Sbw?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-31T23:07:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한경국립대, HACCP 팀장 교육 실시…식품 취업 시장 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IV21EWlVxNDJJVFNXMklYSmU0Z2Z0RmJPYTRkbHpZOVF4OWE0SG1OaTJOek1qb29hcTBqSUpOV0dndkxqaGhPQlV2cmloWDJPOS1tVlgwelI5VDVLQ3R1ag?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T06:46:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -381,8 +391,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 7,
       "items": [
+        {
+          "title": "프롬바이오, 온 가족 유산균 ‘패밀리365 바이옴’ 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0ZVTy05VTNCeWYwbngyMG95c2RhWjdjblZhSUJMOThWYy1ndGNaR2pWcnpmVWN1WDVxZWEzaE9ZNUhqS25LeXJ2bDJ1VWNpTHZVM2dJRFdnYUZ3bFY2SzVKOFVTNUw4cGRBc2tDVFpKY1B3TnQyd29VME9TVEhLYw?oc=5",
+          "source": "edaily.co.kr",
+          "sourceInitial": "ed",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-31T23:24:48.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
           "summary": "",
@@ -395,7 +419,7 @@
             "출시"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "광동생활건강, 전립선 건강기능식품 ‘차지업 CAG131’ 출시",
@@ -412,26 +436,12 @@
           "feat": false
         },
         {
-          "title": "카페일리터, 12시간 저온 숙성 닭가슴살 담은 ‘풀드치킨 샌드위치’ 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5NGRpOFJnWTNpWUh1TmxfN0ZRMkcyN280OTd4MTJfMHlUTDRXQjJHUmZiQlp3QXNtNHN0eVhhMTBfMWFVcTBVUzZ5MkVIZVN1NHA1aTk4OTJtZmVPd3hLWnhxdU14cnZi?oc=5",
-          "source": "gokorea.kr",
-          "sourceInitial": "go",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T05:30:58.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
-          "source": "youthdaily.co.kr",
-          "sourceInitial": "yo",
-          "sourceColor": "#1a4d8f",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T01:35:40.000Z",
           "tags": [
             "출시"
@@ -440,14 +450,16 @@
           "feat": false
         },
         {
-          "title": "\"검은 반도체\" 잡는다…CJ제일제당이 미국 경기장서 '김' 뿌리는 까닭",
+          "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZRjZLUmtHeXdxUmQycU9uelZ3VUkwWE1JemFLV3I4RTlGSmRkbWZ2RURmTnU0ZmRPeHJqSGtNekxITUxZRUFXZ0o3cUNrdkREbTBycHM3N05UcnFzUUNiXy1tT2xTdGFOSkhN?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-31T08:06:17.000Z",
-          "tags": [],
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVnSAWdBVV95cUxNc3puc09oREx0cEtYaXg4eGdBR3A4VTl5LXljYVd5ejRvYmszWVEwMnF1RkF6RlRzWWJSU2FqUXBrY3BDSEVvd0xQaXQ3YVlwUEQwWk9odlF6SE9jcXE2SmV4dkdsMi1Z?oc=5",
+          "source": "국민기자뉴스",
+          "sourceInitial": "국민",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-29T23:47:06.000Z",
+          "tags": [
+            "출시"
+          ],
           "price": null,
           "feat": false
         },
@@ -471,18 +483,6 @@
           "sourceInitial": "데일",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-31T06:04:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[리얼푸드] 가을철 건강관리는 과일로…돌코리아 3가지 레시피",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uRS0yeTE5VjhYbFpRajZGRzRxbjM0YXJMWExhZUZaWF9hbjljU3JVMTNqODdFZTItMkZHT0tfNXRZcWdPWFNpdjEyRVdzQXRpMzV4Nk5n0gFWQVVfeXFMTW5FLTJ5MTlWOFhsWlFqNkZHNHFuMzRhckxYTGFlRlpYX2FuOWNTclUxM2o4N0VlMi0yRkdPS181dFlxZ09YU2l2MTJFV3NBdGkzNXg2Tmc?oc=5",
-          "source": "네이트뷰",
-          "sourceInitial": "네이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-31T04:40:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
