@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:35:38.908Z",
+  "generatedAt": "2026-08-31T02:05:45.943Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
+        {
+          "title": "프랜차이즈협회, K-외식 해외진출 해법 모색…“점포 확대보다 지속가능성”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2clFUU05rcGw4TUhMOU5NVUlJSkdUOW1jTG4zanNWM2xxM1UxdTJMM1Y0N3YweGhFRTlGQWR1cGVvMXpMZW5YaWY1UUNnWGp2OHFRRg?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-31T01:37:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "“K프랜차이즈, 해외 안착 해법은?”… 2026 외식기업 해외진출 활성화 워크숍 개최",
           "summary": "",
@@ -29,20 +44,6 @@
           "tags": [
             "프랜차이즈",
             "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "K프랜차이즈 해외 안착 해법은…“점포 수보다 운영체계∙현지화”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16RGkteFlNTzZpRTFtNUM0YVpJS0U1Vi1UN0pmZW54QmJnZVZ6NXlXaXcybmpqLUNheFp1TWpNN2w5X1FEU0V1bFFDajdTOVQ3V21tUGk1aFdRdU9GR2lLRVJrZFVFZFkwQ3c?oc=5",
-          "source": "한국면세뉴스",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T01:20:51.000Z",
-          "tags": [
-            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -349,8 +350,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
+        {
+          "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-31T01:35:40.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "\"추석선물은 프리미엄 K라면\"…삼양식품, 2000세트 한정판 출시",
           "summary": "",
@@ -359,20 +374,6 @@
           "sourceInitial": "아",
           "sourceColor": "#3a7a3a",
           "publishedAt": "2026-08-30T23:45:18.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "“라면도 선물세트가 있어?”… 삼양식품, 추석 맞아 ‘삼양1963 X 짜르르 우지’ 한정 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uMTRBYWNaRExtb3RlVkVqYTg0QkFEc0U4d3d2S0hTN1c4ZmZYNHhjRjlOSUpLUHkya2VhMkUxc2JoT2tpaUJ2N2tLS2UzRkRiQ3hhaHJncTNsZjNwVHpiY2xERzY3b3JncXc?oc=5",
-          "source": "천지일보",
-          "sourceInitial": "천지",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T23:35:36.000Z",
           "tags": [
             "출시"
           ],
@@ -390,6 +391,18 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원 뮤지엄김치간, 개관 40주년 맞아 어린이 김치 공모전 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YSU5pUkNDaW5tYUtUZmpCWFpXWnR4N1FieVM2Y1g3Zml1RGxWakNWeGFWdWlhbVVRSE5IUHVtTWU1OW4za0x2Q04xT0lrdw?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-31T00:22:43.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
