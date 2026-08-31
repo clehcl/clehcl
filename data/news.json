@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T07:05:54.586Z",
+  "generatedAt": "2026-08-31T07:35:38.502Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -285,23 +285,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
-        {
-          "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T01:41:40.000Z",
-          "tags": [
-            "물가",
-            "정부"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
           "summary": "",
@@ -314,7 +299,7 @@
             "수급"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
@@ -377,7 +362,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "광동생활건강, 전립선 건강기능식품 ‘차지업 CAG131’ 출시",
@@ -436,6 +421,18 @@
           "feat": false
         },
         {
+          "title": "CJ제일제당, '비비고 김' 들고 美 야구장·축구장 누볐다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EMEdTZnExN1VtTGYwU3ZUcnoyZWtRdzlsaE1kSVlDOHJNVEhvb0cyTHNQTkdheTAzdVVxbVUtd2QwTlpBOEtr?oc=5",
+          "source": "아이뉴스24",
+          "sourceInitial": "아이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T07:33:21.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[신상브리핑] 쿠팡, 한샘, 한진트래블 여담, CU, 매일유업, 삼양식품, 홈앤쇼핑 外",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVkpJZGRtZElJVmNfTHV4eDQyLWNaeDd2NmItX0tPLW9sRHJObHJjT1BFakR6WllnNU9vQ0l2UHdaLVM3akQtVjJsZXJfOGtOUHVtX3VadHNrQWliMVk1cHNuTnlLSjUwSUlocDRsY9IBc0FVX3lxTFB2czUydDUtQUI1V3hsLTFOQmd4djFzZm1Yb3FwOTVnNzNta3pTSjc5aWtubUdHQmdELWxSSi1vOXA4RFYzWVFqbEs1aEtyRS0yMzAtM1o4aDFXcG5MTGRTaWlrWGZpVW5qTi1lZHJZcXRUOTA?oc=5",
@@ -467,18 +464,6 @@
           "sourceInitial": "si",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T03:18:22.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "NS홈쇼핑, 식품 산업 생태계 확장과 농수축산업 상생 플랫폼 구축",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxQ3RpX0RIdmJHTzZ3eW93YjlUOU1IbnZMSkNXdVRZc1JJeFg0QS14c3Y3c2l0UEZHSzlOeVQ1Rk43UWtNb3JpMWhMZ20taHV1Q2ZWMzlBQWtQZW5MS0VZSHMyYUdnVHdJdl84?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-30T23:54:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
