@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T19:05:48.454Z",
+  "generatedAt": "2026-08-31T19:35:45.692Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -37,9 +37,9 @@
           "title": "농식품부·aT·프랜차이즈협회, 외식기업 해외진출 지원 워크숍 진행",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vM2R0V2NDMGR5bzFwcFdjOUFRNHVuWXNCb08ycFoxLVZ6bXV2OUQ2czJ0dHl6Z0ViY0lTSjNZM2QwRjhtdE85ZXNod0ZKaVZETDlJNkFxMjNrUQ?oc=5",
-          "source": "viva100.com",
-          "sourceInitial": "vi",
-          "sourceColor": "#c98a2b",
+          "source": "브릿지경제",
+          "sourceInitial": "브릿",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T00:25:00.000Z",
           "tags": [
             "프랜차이즈",
@@ -148,11 +148,11 @@
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40Qm1meVRPdGRLb0xmU3A3RTF3LURjX19TU0RnRlpYN2RZbzZ1endacnVqdnBZWjZIRXU1UFBhTlJDM1Z4RVJxbmU3c05jcnhoa3JWM1JDcDhGb3RYT3lZbHNKcFc3Q2hXYlBJ?oc=5",
-          "source": "서울뉴스통신",
-          "sourceInitial": "서울",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-31T10:32:09.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TX3FYTDdTamgyV3VfTy1oZzFXOU5WLWIwOEtXaDRFdmxqcF82eWtmdS1SNmIxRWtVTDlfMWh5ZFFGdU5fcUhzZXVzLWVLY2hGWnlvTU1TNFdzNWpuaG5Eby1ibG9paV9remg5NtIBcEFVX3lxTE9UUVdhMVRsQ1VQcGw3X25Ia1JLQkR5NlJySC1xX1pKaEhTNVNlb0taY0E3cXlObXNSTENHVUczdmc4WXRkOTZ2aHBSeFNIMW5mX2FUQjRPcndBSTV4UTJDVWo4MzBfVjNYb2JKVmk2azk?oc=5",
+          "source": "내외뉴스통신",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-31T13:08:00.000Z",
           "tags": [
             "가격"
           ],
@@ -379,7 +379,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 6,
       "items": [
         {
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
@@ -410,20 +410,6 @@
           "feat": false
         },
         {
-          "title": "카페일리터, 12시간 저온 숙성 닭가슴살 담은 ‘풀드치킨 샌드위치’ 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5NGRpOFJnWTNpWUh1TmxfN0ZRMkcyN280OTd4MTJfMHlUTDRXQjJHUmZiQlp3QXNtNHN0eVhhMTBfMWFVcTBVUzZ5MkVIZVN1NHA1aTk4OTJtZmVPd3hLWnhxdU14cnZi?oc=5",
-          "source": "공감신문",
-          "sourceInitial": "공감",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-08-31T05:30:58.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
@@ -440,26 +426,14 @@
         {
           "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bVFDbGVScGdhZ1BaU2lUV3dYMTVmVlZNcWJaZ0J0UVZ1R3VIbC1Idzc4OGxmQ3BHQ1BibVMwZWtFUF9jZ21EdjFaUTFWSGJCRlBITkV5M0R0azZCM1phQmhuY9IBZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVnSAWdBVV95cUxNc3puc09oREx0cEtYaXg4eGdBR3A4VTl5LXljYVd5ejRvYmszWVEwMnF1RkF6RlRzWWJSU2FqUXBrY3BDSEVvd0xQaXQ3YVlwUEQwWk9odlF6SE9jcXE2SmV4dkdsMi1Z?oc=5",
           "source": "국민기자뉴스",
           "sourceInitial": "국민",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-29T23:05:00.000Z",
+          "publishedAt": "2026-08-29T23:47:06.000Z",
           "tags": [
             "출시"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"검은 반도체\" 잡는다…CJ제일제당이 미국 경기장서 '김' 뿌리는 까닭",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZRjZLUmtHeXdxUmQycU9uelZ3VUkwWE1JemFLV3I4RTlGSmRkbWZ2RURmTnU0ZmRPeHJqSGtNekxITUxZRUFXZ0o3cUNrdkREbTBycHM3N05UcnFzUUNiXy1tT2xTdGFOSkhN?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-31T08:06:17.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
