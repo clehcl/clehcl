@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T15:05:45.783Z",
+  "generatedAt": "2026-08-31T15:35:45.148Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
@@ -262,8 +262,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 1,
+      "total": 2,
       "items": [
+        {
+          "title": "추석 성수식품 5800곳 점검 시작",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VeDVGQzE4aVE3NVRoYUh5RVpldXJwYmY4STlGekFfZVJpU25aLUZLcUJCZVBLYXVuVllXdjVWRnVWZjBmUndVamxmSXRWX1hZY0UwaDBUTnJXNkJ0dnRWYlZLOXlSYk1F?oc=5",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-31T14:08:50.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
           "summary": "",
@@ -274,7 +286,7 @@
           "publishedAt": "2026-08-30T01:10:00.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         }
       ]
     },
@@ -287,22 +299,36 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FZjRBWTdBZ2pwRjA0Rk5qcFh1eXFEMEJIMFlyUTk2UDlBWjBJVC1wWnRiTjZHa3liWklDWGtMQXN2SmlzQ0Rlc2NsdE9rN0lidmw3SXBoUXJBMnhQdGIzckdBbjFmZ25SRUxheURXMHMwdw?oc=5",
           "source": "대한민국 정책브리핑",
           "sourceInitial": "대한",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T01:41:40.000Z",
+          "publishedAt": "2026-08-31T02:15:00.000Z",
           "tags": [
             "물가",
             "정부"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "8월 소비자물가 5.7%↑…7개월 만에 상승세 둔화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faDVaekZLWEVqLUJTZ3dyMldSZVRBTmVqUWF1c0RPNmJveG1vWUNONDl6SVdYOFV1cXZHNXpscWY5OVFvOFlWR0lyQm8zX0MtVjFsNkRTbl9iUmtyMW5QSktVcE5vaUlvZmZUUllGSDViNmxVYjRj?oc=5",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-31T11:05:50.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
