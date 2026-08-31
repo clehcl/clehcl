@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T03:06:05.512Z",
+  "generatedAt": "2026-08-31T03:35:50.129Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -34,13 +34,13 @@
           "feat": true
         },
         {
-          "title": "“K프랜차이즈, 해외 안착 해법은?”… 2026 외식기업 해외진출 활성화 워크숍 개최",
+          "title": "농식품부·aT·프랜차이즈협회, 외식기업 해외진출 지원 워크숍 진행",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zblh0Y1hCWGp2cnZTdFFHRFBQUFNrNHJUUUtPRzFSQjVwNkwxcWgzdjZDVzVIa0REaWstY19Ya3lHWW1NQmpobWNvUG9HUW1WVU1vTlNaaW9BWjVKUGVEVzI5VUVXY0xRNUtodw?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vM2R0V2NDMGR5bzFwcFdjOUFRNHVuWXNCb08ycFoxLVZ6bXV2OUQ2czJ0dHl6Z0ViY0lTSjNZM2QwRjhtdE85ZXNod0ZKaVZETDlJNkFxMjNrUQ?oc=5",
+          "source": "브릿지경제",
+          "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-30T23:50:36.000Z",
+          "publishedAt": "2026-08-31T00:25:00.000Z",
           "tags": [
             "프랜차이즈",
             "외식"
@@ -139,8 +139,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
+        {
+          "title": "유가·환율 다 내렸는데…식품 가격은 왜 계속 오를까 [푸드360]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUzRjZVR3cjN1NHNMbUw1OWVlQ3NmQnB2aC1iUUNXODM1X0NJOUhZNlpWbHlzZ0dnXzViRm4tSEVtbmwyQ2lydWgydEVMRURWVWs5Q0Fn?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-31T03:16:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
           "summary": "",
@@ -153,7 +167,7 @@
             "식자재"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "24시간 경제: 금 가격 급락, 매장 수량 제한 없음",
@@ -334,7 +348,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
@@ -351,20 +365,6 @@
           "feat": true
         },
         {
-          "title": "\"추석선물은 프리미엄 K라면\"…삼양식품, 2000세트 한정판 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGdklmNUtkWTAzTFRFZjVaSExRMERGbWlpSFRpZ3pQWHlSanVMOGRCX21XUjk2bGlVTXJZZVlQb0NzUkFOOFVkT2hUX0pIZE5IcndMaDJQSEJIb2F1MTk4aA?oc=5",
-          "source": "아시아경제",
-          "sourceInitial": "아",
-          "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-08-30T23:45:18.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "동원홈푸드, 수출용 비비드키친 김치소스 2종 국내 역출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bVFDbGVScGdhZ1BaU2lUV3dYMTVmVlZNcWJaZ0J0UVZ1R3VIbC1Idzc4OGxmQ3BHQ1BibVMwZWtFUF9jZ21EdjFaUTFWSGJCRlBITkV5M0R0azZCM1phQmhuY9IBZ0FVX3lxTE1zem5zT2hETHRwS1hpeDh4Z0FHcDhVOXkteWNhV3l6NG9iazNZUTAycXVGQXpGVHNZYlJTYWpRcGtjcENIRW93TFBpdDdhWXBQRDBaT2h2UXpIT2NxcTZKZXh2R2wyLVk?oc=5",
@@ -379,13 +379,13 @@
           "feat": false
         },
         {
-          "title": "풀무원 뮤지엄김치간, 개관 40주년 맞아 어린이 김치 공모전 개최",
+          "title": "[라이프스타일 뉴스클리핑] 2026년 08월 31일(월): 쌀도 고기도 쿠팡서 산다…'최후 보루'였던 식품마저 온라인에 내준 대형마트",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YSU5pUkNDaW5tYUtUZmpCWFpXWnR4N1FieVM2Y1g3Zml1RGxWakNWeGFWdWlhbVVRSE5IUHVtTWU1OW4za0x2Q04xT0lrdw?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-31T00:22:43.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HcmM4MVdYWlpIVFFCUlpUOUs0LTFDTVVOZWxrT0RWLV9WbTVfVm1ELXJIWk9Zd09KSVUwQ0cxbDk1WWhoUkZhSFp0MmcteHV2?oc=5",
+          "source": "sisa-n.com",
+          "sourceInitial": "si",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-31T03:18:22.000Z",
           "tags": [],
           "price": null,
           "feat": false
