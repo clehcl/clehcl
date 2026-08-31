@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T06:07:08.588Z",
+  "generatedAt": "2026-08-31T06:35:39.464Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
+        {
+          "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMHNNVC1zLUF4bFN5di0xU3M3a09lLVJwSE5UTGd6OXo0VUtJVHVLMVNCc1dSUXppQkNRRHlGeTlweGJycjBhSi02QUhHbjliNWtSTXlkVlI2TXVPeDlmc0ZJVDJJeFNwbUU2b1hvb3o?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-08-31T06:10:00.000Z",
+          "tags": [
+            "가맹",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "농식품부·aT·프랜차이즈협회, 외식기업 해외진출 지원 워크숍 진행",
           "summary": "",
@@ -31,7 +46,7 @@
             "외식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "창업박람회서 살펴본 외식 트렌드…1인식·베이글·가성비 모델 부각",
@@ -111,18 +126,6 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-31T00:51:56.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "얌샘김밥, IFS 박람회서 분식 창업 모델 소개…스마트 주방 시스템 강조 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSU1adHhMaFoxVGE1YVZTWkY2Y1Q5bUFRcG1nYzMtem5HRzNzYlRPd0M3Z0NEZ2lMTUtqSGI3OTdRc3hXOEhLMURWZ01SLVM5OTFVbC1ZU0IzaW1xSFhPWV9IenljWFlYdmdLUXB6NVhmOFdhYnZDdmpkUzNHeVo1R0x5RjBIaE8xZGZTRlA5YnpmZV9iUU9JMWpobGRPVzc3TW5zbmFBRU1pdzFpRkRlal8wNm5BaWNiajQ4WA?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-30T08:56:26.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -282,8 +285,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
+        {
+          "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FZjRBWTdBZ2pwRjA0Rk5qcFh1eXFEMEJIMFlyUTk2UDlBWjBJVC1wWnRiTjZHa3liWklDWGtMQXN2SmlzQ0Rlc2NsdE9rN0lidmw3SXBoUXJBMnhQdGIzckdBbjFmZ25SRUxheURXMHMwdw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-31T02:15:00.000Z",
+          "tags": [
+            "물가",
+            "정부"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
           "summary": "",
@@ -296,7 +314,7 @@
             "수급"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
@@ -347,7 +365,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "광동생활건강, 전립선 건강기능식품 ‘차지업 CAG131’ 출시",
@@ -402,6 +420,18 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[신상브리핑] 쿠팡, 한샘, 한진트래블 여담, CU, 매일유업, 삼양식품, 홈앤쇼핑 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVkpJZGRtZElJVmNfTHV4eDQyLWNaeDd2NmItX0tPLW9sRHJObHJjT1BFakR6WllnNU9vQ0l2UHdaLVM3akQtVjJsZXJfOGtOUHVtX3VadHNrQWliMVk1cHNuTnlLSjUwSUlocDRsY9IBc0FVX3lxTFB2czUydDUtQUI1V3hsLTFOQmd4djFzZm1Yb3FwOTVnNzNta3pTSjc5aWtubUdHQmdELWxSSi1vOXA4RFYzWVFqbEs1aEtyRS0yMzAtM1o4aDFXcG5MTGRTaWlrWGZpVW5qTi1lZHJZcXRUOTA?oc=5",
+          "source": "데일리한국",
+          "sourceInitial": "데일",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-31T06:04:18.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
