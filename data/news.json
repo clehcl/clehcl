@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:35:40.093Z",
+  "generatedAt": "2026-08-31T12:06:33.906Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -105,6 +105,20 @@
           "feat": false
         },
         {
+          "title": "[ 2026년 4월 15일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xT0RMN21YNGxRWnBzN1Z0NGNUelQtdFFOR0puSVNyYVFLbGVFbVFtXzJMek1NaFdKeE9QOWRBWUpPTzl2NEFQX0NlUndvU1RmSHcyNjBRQzFjcHJ5bnNIREUxeDZ5dw?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-31T03:21:51.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[ 2026년 8월 31일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEhhY0dmMkc2TWx3dlNCSUhzNXJSemp5VERienZIMl8wTUljRGw2U1liUFVobjRNc3h2elVmOGY3ZXZtWlNmSDdqRktuaVdkR2l1Y2JnejJERkZ2RnFBaGVqVG0ybUYxQUM4a1dsR2UtRlZfckdEdWc5MmFGc0xMamdKRXNjYS1VNmhjdjZ3?oc=5",
@@ -114,20 +128,6 @@
           "publishedAt": "2026-08-31T00:21:42.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[정보공개서 현미경] '패티 1230원' 프랭크버거…가맹점 600개 뒤 수익구조 따져보니",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dHM2cFl4eTNud29fR3FodG5YeFB6Q3FaQUw1SHFyRk1EVmxCMm1IWUtpeG5oUjRhZG1tQ0dId0pLdDFpTXJIZjRUY2JaUC11MmN3YVNrdjJaOGVTOGtxYk14X081emNjRENuUFZ2Z9IBc0FVX3lxTE14a1Q3Yld3NFVMQW5CVDNoamNmU203azZGZmV3RTJ0akk2V28xOG1uUzJRcWFCNU9ycXFkSk52VTMtZGtvVUtWRFlLTExuS0xneW5Vck55VFRZRnFpazJ5SG9GZnZpUXVPR1Rxcm50WHFpQ1k?oc=5",
-          "source": "데일리한국",
-          "sourceInitial": "데일",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-30T21:00:00.000Z",
-          "tags": [
-            "가맹"
           ],
           "price": null,
           "feat": false
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
@@ -176,27 +176,13 @@
         {
           "title": "유가·환율 다 내렸는데…식품 가격은 왜 계속 오를까 [푸드360]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUzRjZVR3cjN1NHNMbUw1OWVlQ3NmQnB2aC1iUUNXODM1X0NJOUhZNlpWbHlzZ0dnXzViRm4tSEVtbmwyQ2lydWgydEVMRURWVWs5Q0Fn?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-31T03:16:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPSDVhOUU3RjQ1LWE5Y052QlJzRW0zNEJCQTdqc2p0SHZEcExfZ3lVY09XTDdsZUhQTWRlSWlpM25kaGRRblFQaERtQUNnazQ?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T03:17:53.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "코코아發 원가 충격에 유통가 '버티기 vs 전가' 갈림길",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SMlc1a3Uyc1RxQVdTVHNHMW95M1hMS1NYM3QzenhjTkZQdEF3d09tbjJ3Z0pFZy1oLWdKbE5qTEhFOUo1cEFtWm1zSk5JVVBaM2ZQV1BpaVJEcGNpNm9fWV9pQkgtVXdLM1Vv?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-31T01:42:31.000Z",
-          "tags": [
-            "원가"
           ],
           "price": null,
           "feat": false
@@ -247,6 +233,18 @@
           "sourceInitial": "su",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-08-30T07:29:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "식품업계 'K-푸드'로 상반기 훨훨 날았다…'빅7' 해외매출 7.7조",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnbU5fakk2WnRmdmNKeGhyVV9aU1dNUUhESVZYQzktYklwaExMQXYwTkp0OVc5bWZNM3VpOXdDbFh6cGZVVWNseUI1cURNLVZDMVN2RXY4T01VaGxJekRoMUE0NDltZ3VfM1lOSS1ndGc3b2_SAXNBVV95cUxQZ21OX2pJNlp0ZnZjSnhoclVfWlNXTVFIRElWWEM5LWJJcGhMTEF2ME5KdDlXOW1mTTN1aTl3Q2xYenBmVVVjbHlCNXFETS1WQzFTdkV2OE9NVWhsSXpEaDFBNDQ5bWd1XzNZTkktZ3RnN29v?oc=5",
+          "source": "뉴스웍스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-30T03:08:52.000Z",
           "tags": [],
           "price": null,
           "feat": false
