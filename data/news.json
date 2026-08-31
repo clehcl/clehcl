@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T06:35:39.464Z",
+  "generatedAt": "2026-08-31T07:05:54.586Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -144,6 +144,20 @@
       "total": 9,
       "items": [
         {
+          "title": "일본, 9월 식품 4,923개 품목 가격 인상… 올해 최대 ‘인상 러시’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5RkJlVDZVeElxLVVkREsyWFFGZ0owZ2UwM2czV2x4ZDBQbzNhYkNtNEV4Zm9YN0hTOWwxcWk3cDRaS2VPb0FiOWt3bmd1S1RlTjROTkd4OS01dEhlWm9UYkxSVVF3elJQaEdsYQ?oc=5",
+          "source": "재팬코리아데일리",
+          "sourceInitial": "재팬",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T06:39:33.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "호치민시: 슈퍼마켓들이 9월 2일 연휴를 맞아 고객 편의를 위해 물량 공급을 늘리고 가격을 유지하고 있다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUVsbHV0VHZ6ZEdkbEdWaTRBcEZnbkhMSW5qTW9wTkdXa2gtR0JndVZQaDhNdWVvX1ZKbkQ5SUJ5Q3RFS3RIenlzTmRMRm01TXh0aTFGcHJ2STJaS3c0RmVzZTZzZWRoQmc3Y2UwVllfc0dvSWtEeHFDRVZKRlJUSVF6OGZqbE9DY0JDNGd2QmxLQ0FhX2ltR1ZGTkNMN25QaEQ3YllkeHpDWVE?oc=5",
@@ -155,7 +169,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "유가·환율 다 내렸는데…식품 가격은 왜 계속 오를까 [푸드360]",
@@ -195,20 +209,6 @@
           "publishedAt": "2026-08-30T02:35:27.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘가성비’ 넘어 플랫폼으로…사조푸디스트, 식자재왕 앞세워 B2B 식품시장 정조준",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUNUZKSjhMazhrakQ1b3J6THY4REFoMUdzR2xjZzdmM0plb25oTzB5MHJoRWVvMG1URjBkTXJpaDRoanY1S3g2VUFhSmcyU0JPVWpyb3ZraEJiU29TZy1FbDFYSFBsNWtRRXlSYTdBTEZPQk5XX1F3?oc=5",
-          "source": "하이뉴스",
-          "sourceInitial": "하이",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-29T06:42:56.000Z",
-          "tags": [
-            "식자재"
           ],
           "price": null,
           "feat": false
@@ -285,16 +285,16 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FZjRBWTdBZ2pwRjA0Rk5qcFh1eXFEMEJIMFlyUTk2UDlBWjBJVC1wWnRiTjZHa3liWklDWGtMQXN2SmlzQ0Rlc2NsdE9rN0lidmw3SXBoUXJBMnhQdGIzckdBbjFmZ25SRUxheURXMHMwdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
           "source": "대한민국 정책브리핑",
           "sourceInitial": "대한",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T02:15:00.000Z",
+          "publishedAt": "2026-08-31T01:41:40.000Z",
           "tags": [
             "물가",
             "정부"
@@ -327,6 +327,18 @@
           "tags": [
             "규제"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한경국립대, HACCP 팀장 교육 실시…식품 취업 시장 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zWU5SVFFWcDBhc0ExNGpTems5QUpqWnlBSkZmODdmSWZsc2J1UlJ5ODlkU0lCVDIzanQyNk1PUGZoMjcwRld0Xy05RV9lYkNpWWNJ?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T06:46:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -365,7 +377,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "광동생활건강, 전립선 건강기능식품 ‘차지업 CAG131’ 출시",
@@ -431,6 +443,18 @@
           "sourceInitial": "데일",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-31T06:04:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[리얼푸드] 가을철 건강관리는 과일로…돌코리아 3가지 레시피",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uRS0yeTE5VjhYbFpRajZGRzRxbjM0YXJMWExhZUZaWF9hbjljU3JVMTNqODdFZTItMkZHT0tfNXRZcWdPWFNpdjEyRVdzQXRpMzV4Nk5n0gFWQVVfeXFMTW5FLTJ5MTlWOFhsWlFqNkZHNHFuMzRhckxYTGFlRlpYX2FuOWNTclUxM2o4N0VlMi0yRkdPS181dFlxZ09YU2l2MTJFV3NBdGkzNXg2Tmc?oc=5",
+          "source": "네이트뷰",
+          "sourceInitial": "네이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-31T04:40:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
