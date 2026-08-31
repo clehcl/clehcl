@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:35:59.674Z",
+  "generatedAt": "2026-08-31T22:05:54.212Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
@@ -177,9 +177,9 @@
           "title": "유가·환율 다 내렸는데…식품 가격은 왜 계속 오를까 [푸드360]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUzRjZVR3cjN1NHNMbUw1OWVlQ3NmQnB2aC1iUUNXODM1X0NJOUhZNlpWbHlzZ0dnXzViRm4tSEVtbmwyQ2lydWgydEVMRURWVWs5Q0Fn?oc=5",
-          "source": "biz.heraldcorp.com",
-          "sourceInitial": "bi",
-          "sourceColor": "#2f7d4f",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-31T03:16:00.000Z",
           "tags": [
             "가격"
@@ -216,6 +216,18 @@
           "feat": false
         },
         {
+          "title": "\"원료 파악도 못 했는데\"… GMO완전표시제 조기 시행에 식품업계 '당혹'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPWGUtNnZOWEFUX3BDUUFOSVNMcUlUazFEVHB5QVlNUllSbWhJd0MxWURsOEJYd2ROZ1pxc195QVdMTnVxNHowdkZTR0lNb2o2TTVNT3Nzd01DbmdqQlZuM2lwMUM?oc=5",
+          "source": "MTN 머니투데이방송",
+          "sourceInitial": "MT",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-31T21:00:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "4인가구 식비 월 140만원 돌파…식재료보다 외식비 급등 영향",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRHo3clFiLVFlUERWMW9jc0R4OGRzVW40REFDdWkwTjNRZ0RINVM5Wkk0anFQZ0theU9MWXZlSkxuSERYMXZ2cUhNbDFwbDFtdmR6YUFnU3pock8zeXh3d3AyWUk1Yk40eTBqS0lhaTlNN0k?oc=5",
@@ -235,18 +247,6 @@
           "sourceInitial": "내외",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T06:51:43.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "석달새 환율 190원 뚝⋯'웃는 CJ·우는 삼양' 식품주 희비",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxSXV2eDVndWdwQmhoeGZWTVJWd0xoYnQ2N3pUdUxZZnFzaExEcTlEMmgxcDBTa0RLR0kwdFNkWXIzLU1aTXRpVk5EOA?oc=5",
-          "source": "아이뉴스24",
-          "sourceInitial": "아이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-31T05:18:16.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -305,9 +305,9 @@
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
-          "source": "korea.kr",
-          "sourceInitial": "ko",
-          "sourceColor": "#8a5cc4",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T01:41:40.000Z",
           "tags": [
             "물가",
@@ -320,9 +320,9 @@
           "title": "8월 소비자물가 5.7%↑…7개월 만에 상승세 둔화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faDVaekZLWEVqLUJTZ3dyMldSZVRBTmVqUWF1c0RPNmJveG1vWUNONDl6SVdYOFV1cXZHNXpscWY5OVFvOFlWR0lyQm8zX0MtVjFsNkRTbl9iUmtyMW5QSktVcE5vaUlvZmZUUllGSDViNmxVYjRj?oc=5",
-          "source": "korea.kr",
-          "sourceInitial": "ko",
-          "sourceColor": "#8a5cc4",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T11:05:50.000Z",
           "tags": [
             "물가"
