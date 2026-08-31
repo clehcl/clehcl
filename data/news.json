@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:05:47.629Z",
+  "generatedAt": "2026-08-31T16:35:46.281Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -56,6 +56,20 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-31T14:52:49.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "맥세스, 제44기 실무형 프랜차이즈 교육 참여 브랜드 무료 경영진단 실시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRzhpYUswSjhxNWRnVFlHaC1ldlZKR01JUHFSVEtxd3lkSXNoYkZLcFhMNjExQ0ZPSzFqNk1YY1FIbUMtdDI5NjBzYXIteTVRODVMY2NmRTZVVmtLVjFTelNaeDVnejc3ZlIxUNIBcEFVX3lxTE1fSHZmRHBPRU5CUkZTb3VQMVYwc0tzN2lBYWxnQnptbkwzS2JqYVA3a2MwZ1BPTEVrOFREX0RJbjRXT0c3MmxRZFU1MXg4Y0hrREU5Y25pcWRRb21xU0lJbEZJWGdvV2JTd3dyOE1UbWg?oc=5",
+          "source": "이넷뉴스",
+          "sourceInitial": "이넷",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-08-31T09:39:16.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -117,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 4월 15일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xT0RMN21YNGxRWnBzN1Z0NGNUelQtdFFOR0puSVNyYVFLbGVFbVFtXzJMek1NaFdKeE9QOWRBWUpPTzl2NEFQX0NlUndvU1RmSHcyNjBRQzFjcHJ5bnNIREUxeDZ5dw?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-31T03:21:51.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
@@ -219,9 +219,9 @@
           "title": "환율 190원 급락, 웃는 내수·우는 수출 식품사",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16Mmp2cVRHRG1USUhQc3phMG1BMERmbTFxTzNaZGZXQkZoQV9VckMxNTQzYjhoQXQ2Q2tUZGkyT3U0ekVRVDVXdmZWdjlsSmY2UGhkTXlvd0JEam5WRGZ4YUZlX3Vub05jcXVGZtIBcEFVX3lxTE92YWRCT3pSOGl5TDFJUllBcm40d09NeG0zNzFBaUNVVFNyR2N0ZmxldkxJcFF6LVVSMTRULUd5TVpQUDZKWXFzOTV2N0UyYlRvd3BtTTgxbXRzQ0lQdTBWdmI1TjBMa0Y1UGFyQ1Bic28?oc=5",
-          "source": "nbnnews.co.kr",
-          "sourceInitial": "nb",
-          "sourceColor": "#c15a37",
+          "source": "내외뉴스통신",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T06:51:43.000Z",
           "tags": [],
           "price": null,
@@ -359,10 +359,10 @@
         {
           "title": "미국, 한국산 식품의 FDA 수입 거부 증가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUkNxdVBkaHBhcEVNZ211bXBfLUR5UUxmSVRsT1kzb0dlWlVXeHI1X2hxOUZ0VEFvNVBxVXJ6MXRuMElxUEtoalluYnUwNGhXXy1OT0c3SQ?oc=5",
-          "source": "realfoods.co.kr",
-          "sourceInitial": "re",
-          "sourceColor": "#2f7d4f",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMGdQd3poVkpDTUpxLXZQa2w2UWFWdklWTjh3WTNKenRhRGsxd2NzWHpXM1F2dUlFZE4tckpWaUhjVXBzQ3J6S1hiQUhoRTVnMEpQRFBB?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-30T04:51:54.000Z",
           "tags": [],
           "price": null,
