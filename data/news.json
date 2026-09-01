@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:41:32.027Z",
+  "generatedAt": "2026-09-01T15:09:50.795Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 18,
       "items": [
         {
           "title": "맥세스컨설팅, 프랜차이즈 교육 44기 개강…본부 시스템·가맹계약 실무 교육",
@@ -378,7 +378,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
           "title": "식약처 내년 예산 8829억원…AI 식품안전·바이오 규제지원에 힘 싣는다",
@@ -403,21 +403,6 @@
           "sourceInitial": "ne",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-09-01T06:47:00.000Z",
-          "tags": [
-            "물가",
-            "정부"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석물가 잡는다…정부, 성수품 16.3만 톤 풀고 590억 원 할인 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TVzNvWDJ0TmUwWk0wTE5XeEs5SGcxWkhqM1NoWjZIUEtMX2U2NlNFNU4weVZKUFVRNUQxZUpnYk11WHY2cE9sc24xSG9IZU5uN1I5TWhkOGrSAVhBVV95cUxPU1czb1gydE5lMFpNMExOV3hLOUhnMVpIajNTaFo2SFBLTF9lNjZTRTVOMHlWSlBVUTVEMWVKZ2JNdVh2NnBPbHNuMUhvSGVObjdSOU1oZDhq?oc=5",
-          "source": "미디어펜",
-          "sourceInitial": "미디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-01T06:34:39.000Z",
           "tags": [
             "물가",
             "정부"
@@ -496,6 +481,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "\"전쟁·폭염이 동시에 덮쳤다\"… 14년 만에 국제 농산물 폭등에 식탁물가 '초비상'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51SEpKSFVtdkRvSjVTUEdhdlBHeGw1eUtQT3FObkJoSUZyd1VwZnBlLUpMelpfQ1FNNWhqaXQwdG01TFpuSkZ5dTBpb2FoNG9YNmpqMVowTm1fSGhjQ2NDdjRBSUdnR2NoLWczdTNDWmNhczg?oc=5",
+          "source": "경제시그널",
+          "sourceInitial": "경제",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-01T05:59:31.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -508,7 +507,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 15,
       "items": [
         {
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
@@ -529,9 +528,9 @@
           "title": "새김온, 파라다이스그레인·알파-CD 배합 식품 조성물 특허 출원…신제품 선봬",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oTFFucUhZZXp5OG85UEhSa0ViX3ltQnFDaWt4Q2paVXhOeFBmVkhMVEptM216bWpIVF9Mcmludkl0MkdsTWtXODJ2eF9ScTE0TktV?oc=5",
-          "source": "thevaluenews.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#b03a6a",
+          "source": "더밸류뉴스",
+          "sourceInitial": "더밸",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-01T05:23:57.000Z",
           "tags": [
             "신제품"
@@ -557,12 +556,26 @@
           "title": "한독헬스케어, 커큐민·SOD 복합 효소 식품 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUU2t4Q2E4YXFuU3pSVk1PazZCVFZPaU41enpfaWphMnJPY1IzSW05Nm1oa0FocE5TX0twZVRvZFAwcGVDNGwzVUFxNkJXVTVZVDY0RHhtbktfbUNTZm5yZVVBOFNvTmMxdU1z?oc=5",
-          "source": "메디파나뉴스",
-          "sourceInitial": "메디",
-          "sourceColor": "#b03a6a",
+          "source": "medipana.com",
+          "sourceInitial": "me",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-01T00:20:15.000Z",
           "tags": [
             "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서울카페쇼, 11월 코엑스서 개최…글로벌 커피 트렌드 한자리",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETEl2UlRmSFFXdTRtNk04N3l5QndXejJfRXNzTFJRZkliYUlPeUJrN281bm5sZGxBbWNxUHdjcUFHcXVLaTF2WmtUbFNlcHBQUDlxbVVvdmFxRjJaa2xNU0FaUFlTZw?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-01T00:08:55.000Z",
+          "tags": [
+            "트렌드"
           ],
           "price": null,
           "feat": false
@@ -585,9 +598,9 @@
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZVRVblE3alBJM2NTb1FPWVQyZVg2NUhNd2l2SVdqb1BNQ3ViLVJjeWxSNVdnSXp0NVFPNXA4TWhZeGpsUS1zVkFKdDdYOXR6OVpVTTdlWTQzN0o5a19icnVpeTBKb0N5SDlZ?oc=5",
-          "source": "kmpnews.co.kr",
-          "sourceInitial": "km",
-          "sourceColor": "#b03a6a",
+          "source": "한국의약통신",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-31T09:00:50.000Z",
           "tags": [
             "출시"
@@ -603,20 +616,6 @@
           "sourceInitial": "서울",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T05:48:43.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T01:35:40.000Z",
           "tags": [
             "출시"
           ],
