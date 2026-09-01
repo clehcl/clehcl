@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:10:06.371Z",
+  "generatedAt": "2026-09-01T05:40:05.615Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 19,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -43,6 +43,20 @@
           "publishedAt": "2026-08-31T00:25:00.000Z",
           "tags": [
             "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "허희수 사장, 치폴레로 외식 영토 확장…2일 강남점 오픈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNndSeVAzQkg3Z2MzbmxhMUthNHppa1ZNQlJfdE9HZ0hqa0dURWQzT3dCOEU3UmVJS3ItU1A2NHZ3V0xyUzZWUDZDSTNsb1oyOFBPOXdzTUJjUy1MVGhXMzBLa9IBaEFVX3lxTE9WS092QTd5VXRzNmdSbHdfVWFMUTg0TktxQ2VuUUJTWVlSQVhIWHRXZnc3NUFCZU9yVDBMeTdSS19pb2FSalU5RDgwaGZNNmdRUnNlR19GZVhicXlXdWdmWW0zclF4OVl2?oc=5",
+          "source": "매일일보",
+          "sourceInitial": "매일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-01T05:11:49.000Z",
+          "tags": [
             "외식"
           ],
           "price": null,
@@ -80,12 +94,26 @@
           "title": "“두찜 신메뉴에 의성마늘 듬뿍”…의성군, 상생협력 MOU 체결",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJRnlmRVBZLV9pa2s4VjQyelVMZDBza2RBczA4UGNWMW1yS3BPVF82dW5NbkpvczRoWEd4RXMyS1ZMNWc0WE9RVExGdkJvbV9PWlktWm8xYV9CRzdDMU1aaW5BX0tLUjE3RmdlTEZR?oc=5",
-          "source": "아시아투데이",
-          "sourceInitial": "아시",
-          "sourceColor": "#2f7d4f",
+          "source": "asiatoday.co.kr",
+          "sourceInitial": "as",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-01T00:34:08.000Z",
           "tags": [
             "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "k-한식 디렉터 장윤정 [전국 대학 요리 관련 학과 탐방] 외식산업의 미래를 조리와 디저트로 완성하다, 대구가톨릭대학교 외식조리제과제빵학과",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbURkRUoxeVNRc3hzQmJraUpNUTk5QUc3NlRfSGVsU3QyZlY2TUwtUmNOWFFkWVZrZGk5TVoweHk3YUsxY1BIeXljWmlNNHc?oc=5",
+          "source": "CCBS뉴스",
+          "sourceInitial": "CC",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-08-31T23:18:33.000Z",
+          "tags": [
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -103,34 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "(디저트제국의 두 얼굴)①(단독)프랜차이즈 수익 구조 한계…‘시장 1위’ SPC도 예외없다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xXzUtVGFfbDJ5RjhEc2lsdnRDVmptOUlSN3hyTDBsVjZzVjQ0V0lXRlhHN1dIQWNyM2dFN1lUX0pNaEU2WHBPR1Jtak5aTmN2eDRzUkxKOHlWMkc0OFVkZg?oc=5",
-          "source": "뉴스토마토",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T08:42:58.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "아웃백, '치즈 온' 가을 캠페인…신메뉴 6종 선봬",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBXzAwTzFIamV2MGg2SEJGblc2MThmRUxGTUJDRGliYVdGdkhNRDJVTlB3MWZsNG5yMXRZLXh3a1habVBxUXpHaklJdVAzalFnbkxuQkhsLXZScXVSS05Ra0lKQVBlNDBZeUhZMjhqUmQ?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-31T08:10:00.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
           "title": "“내년 홍보·협찬비 0원”…원가 부담에 허리띠 졸라매는 유통·식품업계",
@@ -205,9 +205,9 @@
           "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "kukinews.com",
-          "sourceInitial": "ku",
-          "sourceColor": "#c98a2b",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-30T14:28:55.000Z",
           "tags": [
             "식자재"
@@ -304,9 +304,9 @@
           "title": "추석 성수식품 5800곳 점검 시작",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naldPR19DRnR2RTNZeFh1RHMyMlBuNVNvSE1GV0RUR042ZF9hRHM4QXdRYzhCRS1wMzZ2LTlpMy1iVTRNYkdwQkdqZ2tQUldnUjFwN201dGtYMm1PZUZLTy1NWHRTYzVrQnc?oc=5",
-          "source": "fsnews.co.kr",
-          "sourceInitial": "fs",
-          "sourceColor": "#333333",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T14:08:50.000Z",
           "tags": [],
           "price": null,
@@ -323,7 +323,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
           "title": "정부, 추석 물가 잡는다…성수품 18만3000t 풀고 할인에 1030억원 투입",
@@ -341,16 +341,15 @@
           "feat": true
         },
         {
-          "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
+          "title": "[2027 예산안] '안심 먹거리' 2044억 투입…식약처 내년 예산 8829억",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FZjRBWTdBZ2pwRjA0Rk5qcFh1eXFEMEJIMFlyUTk2UDlBWjBJVC1wWnRiTjZHa3liWklDWGtMQXN2SmlzQ0Rlc2NsdE9rN0lidmw3SXBoUXJBMnhQdGIzckdBbjFmZ25SRUxheURXMHMwdw?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T02:15:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56MV9JR1dhX1lKejd6cUtLTjhfQnE3UEl2UEMxbFdHZEt5R3VoMmxtMEk5d2FqOFpMbjQzczROamVQOHBPZWNSdmxaT1NlcVV5b3JOdVBtSnRHaEVw0gFiQVVfeXFMTTNEc210NnhZVlhrYkNYTW5kaDRuSEJHYTlyR0NPRy02aEpvbkxhU2lEYjFoUWhxNkttOFZxNFkyUGRZcmNUX20wLTByWnJuN2Vwalo5WWF2M1lhZ1FBNDgzYXc?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-01T05:14:06.000Z",
           "tags": [
-            "물가",
-            "정부"
+            "식약처"
           ],
           "price": null,
           "feat": false
@@ -415,9 +414,9 @@
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLS1TcmlWUVJuSjNTeXphRWdMNVo3SmtSTDB4ZDIydGwyY3J1ellUSV9SRkNOS1ZGRVVzSjJ6dkl1VWw2eVd4ZUZzaDN5LUljNkFuZFktZjdjU1c4dWhtQnlaajZJVWE1d2tzXw?oc=5",
-          "source": "aflnews.co.kr",
-          "sourceInitial": "af",
-          "sourceColor": "#1a4d8f",
+          "source": "농수축산신문",
+          "sourceInitial": "농수",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-30T22:00:00.000Z",
           "tags": [
             "수급"
@@ -448,7 +447,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 15,
       "items": [
         {
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
@@ -464,6 +463,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "새김온, 파라다이스그레인·알파-CD 배합 식품 조성물 특허 출원…신제품 선봬",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEYlBydGRqNmdncWEtMHNPVFozX1ZpQl9qd1EyOW1IVGt6S2N1cVgwVEk5NjRUWnpGUHZaYmxKMVRpSTJJN3VPUWhxVUI5bUJzZjRKTQ?oc=5",
+          "source": "더밸류뉴스",
+          "sourceInitial": "더밸",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-01T05:23:57.000Z",
+          "tags": [
+            "신제품"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "한독헬스케어, 커큐민·SOD 복합 효소 식품 출시",
@@ -489,6 +502,20 @@
           "publishedAt": "2026-09-01T00:08:55.000Z",
           "tags": [
             "트렌드"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "칼로리 대신 단백질 앞세운 F&B, 고영양 간편식으로 시장 장악",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sYkRkSzc3LUVHc29lclpHd04zbjRIQ0RncU9adVpaRzREcE9JMWdHaldGa3VUeHJFVzFZeDVub1hrTFVsem43U2lSX3E?oc=5",
+          "source": "TENANT news",
+          "sourceInitial": "TE",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-31T23:38:00.000Z",
+          "tags": [
+            "간편식"
           ],
           "price": null,
           "feat": false
@@ -532,32 +559,6 @@
           "tags": [
             "출시"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T01:35:40.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[Weekly 식품·식음료] 롯데GRS·매일유업·서울우유·BBQ 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yVzhkd0hEWmttVUxjNjdRRzNGSnJJV1Y5bUs4R0duR044eGdBVDlpQVJxdlBfQXUtUEpTQ3RkYzh1ZDdaZjJwODRiampxYW5hRG93VU82TG9xc1J0TVNhZmxBZlJFOWk0Um9sUVI4T3NiZGM?oc=5",
-          "source": "오늘경제",
-          "sourceInitial": "오늘",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-01T02:43:32.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
