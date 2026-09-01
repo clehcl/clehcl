@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T06:14:04.194Z",
+  "generatedAt": "2026-09-01T06:43:54.113Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 20,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
@@ -49,11 +49,25 @@
           "feat": false
         },
         {
+          "title": "마이프차, 대화형 ‘마이프차 AI’ 베타 출시…맞춤형 프랜차이즈 추천",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tcW5NNXhRXzk3VnBHUHBJRE1TWDdzVjU3dGU2WGhSYkZDR0Jqd3ZsRG5ZRDQwV25Yd19vaXAwTUZHMDFnN0E?oc=5",
+          "source": "beSUCCESS",
+          "sourceInitial": "be",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-01T06:35:19.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "허희수 사장, 치폴레로 외식 영토 확장…2일 강남점 오픈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNndSeVAzQkg3Z2MzbmxhMUthNHppa1ZNQlJfdE9HZ0hqa0dURWQzT3dCOEU3UmVJS3ItU1A2NHZ3V0xyUzZWUDZDSTNsb1oyOFBPOXdzTUJjUy1MVGhXMzBLa9IBaEFVX3lxTE9WS092QTd5VXRzNmdSbHdfVWFMUTg0TktxQ2VuUUJTWVlSQVhIWHRXZnc3NUFCZU9yVDBMeTdSS19pb2FSalU5RDgwaGZNNmdRUnNlR19GZVhicXlXdWdmWW0zclF4OVl2?oc=5",
-          "source": "m-i.kr",
-          "sourceInitial": "m-",
+          "source": "매일일보",
+          "sourceInitial": "매일",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-01T05:11:49.000Z",
           "tags": [
@@ -114,20 +128,6 @@
           "publishedAt": "2026-08-31T23:18:33.000Z",
           "tags": [
             "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "맥세스, 제44기 실무형 프랜차이즈 교육 참여 브랜드 무료 경영진단 실시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRzhpYUswSjhxNWRnVFlHaC1ldlZKR01JUHFSVEtxd3lkSXNoYkZLcFhMNjExQ0ZPSzFqNk1YY1FIbUMtdDI5NjBzYXIteTVRODVMY2NmRTZVVmtLVjFTelNaeDVnejc3ZlIxUNIBcEFVX3lxTE1fSHZmRHBPRU5CUkZTb3VQMVYwc0tzN2lBYWxnQnptbkwzS2JqYVA3a2MwZ1BPTEVrOFREX0RJbjRXT0c3MmxRZFU1MXg4Y0hrREU5Y25pcWRRb21xU0lJbEZJWGdvV2JTd3dyOE1UbWg?oc=5",
-          "source": "이넷뉴스",
-          "sourceInitial": "이넷",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-08-31T09:39:16.000Z",
-          "tags": [
-            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -267,6 +267,18 @@
       "total": 5,
       "items": [
         {
+          "title": "aT 공공급식 플랫폼 클라우드 전환…AI 활용 기반 구축",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xaHNZcnVQNjE0VTJYb0lUeDRvYnFXd3hWSnZSbU9PcEhYNlBXUnlFUkpHMDRHTjVWM2I1RGlSYUd1QTIteTd1dTZqZ2ZrWF9kWTdyOVhKWktHZ3k0?oc=5",
+          "source": "newspim.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-01T06:40:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "aT 공공급식 플랫폼 'eaT', 클라우드로 AI 기반 다진다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWVdnS0pPTWswVXZhQjZ5SmRZOTRORUllRWJIdXRENVpPNC1zNktTR0lRMEZkWnJxMjh6aDFRRjQ1TmQ3d2s5Sm9NTDZjM0gyZDFHUmlxZmx0LUdxUERjTWR6YlFTekE?oc=5",
@@ -276,7 +288,7 @@
           "publishedAt": "2026-09-01T05:17:50.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "농관원, GAP 우수사례 8팀 선정…인증 농산물 판로 확대",
@@ -286,18 +298,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-01T04:51:17.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "aT, 공공급식통합플랫폼 클라우드 전환…AI 활용 기반 구축",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xMEpLY0VDUUUwYzRUOC1US3N1akVxaHdHamlBVEhRb3hidlhkMzZGMU9Qd0dlWU9tbDdocTNYZTNxSXNNWGlhdXJ0UjBiTHNBOHNXZ2lwYkh3MTB4aWhlalJPSk5ydw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-01T04:43:34.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -337,22 +337,37 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 14,
+      "total": 12,
       "items": [
         {
-          "title": "정부, 추석 물가 잡기 총력…성수품 18만3000t 공급·할인 1030억",
+          "title": "추석 장바구니 물가 잡는다…정부, 성수품 16만3000t 공급·할인에 590억원 투입",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSVRvSGNRUGFuWEljcXFkbkR4NXVSQ3M2YWNLV0FlMFpVbHBUb1pKWXJaLWNKWFEzTWI4cXhmVWpNMllDZlNqWnZwMUYtUlY2S3R5RnBaczkwcHJPVUx3SXNWUHhRdV9L0gFsQVVfeXFMTVhBQV94ZDNsdXUwY2ViU1FTV242cFhjMTA0a3VSMHNLQk5QWXhxcExYQS0wWWM2YVh4b3lHeUNPNlZQWkFwN2Q2RmxQR0lsaUJJdDk5YkUzbFFTNG54Mm1tR0VPRFh0eTBIcndS?oc=5",
-          "source": "직썰",
-          "sourceInitial": "직썰",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-01T04:26:22.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOGV5MGJXNjM5ckN4NGY5WXAwcVNiSkRZMHhqM29kTDlkN2dZV1ViTnRENEdvcFgxaUNYT2F4VTZxS3lnOTVTMDBjakZyMGh4UWRyYTZNMlFqVFRiMjA3QXBmeHhtSmpYNWxV?oc=5",
+          "source": "뉴스인",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-01T06:27:51.000Z",
           "tags": [
             "물가",
             "정부"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "정부, 추석 물가 잡는다…성수품 18만3000t 풀고 할인에 1030억원 투입",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YZHA1d0czQ0Vzc1lOQmZzTTJNTHBMaWxmbVEzWG1QaEdRcWZaVmp3YWZ1ekFjQUdyc1o2b2UxNWV5LXVLLWRpa3FFSWVteVlEMDBZaUNlUjNfVnZJMUVrZnRIMlhib2RtTmgwcExralFOTDQ?oc=5",
+          "source": "코리아이글뉴스",
+          "sourceInitial": "코리",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-01T02:44:00.000Z",
+          "tags": [
+            "물가",
+            "정부"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[2027 예산안] '안심 먹거리' 2044억 투입…식약처 내년 예산 8829억",
@@ -383,20 +398,6 @@
           "feat": false
         },
         {
-          "title": "추석 물가 잡는다…성수품 16만3000t 공급",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TbUVvZmJKcUtHeTY2Vnc2RnI0TEFScHVyYlR1b3RMNno3ZklOc2RPSGNudzNrUnBldVgwQzdmTzZVX1o3T3d5ME5VMTl5SEQyUnBjY0NSMHNrS01tdzhWV1BRSUp5QjAtQW9lMw?oc=5",
-          "source": "스페셜경제",
-          "sourceInitial": "스페",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-01T03:05:10.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "\"추석 장바구니 물가 잡아라\"…농축산물 할인 590억 투입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xVXhqaVNuTXRfRmVjcHhCdkxjSW12azhLbFVrSmJIMTJxcWRoQ1pnWGNYbW91Zk5VS2FrdVg3U1plQlVMeE5XTThOSERUdFlaMGRFRtIBVEFVX3lxTE8xVXhqaVNuTXRfRmVjcHhCdkxjSW12azhLbFVrSmJIMTJxcWRoQ1pnWGNYbW91Zk5VS2FrdVg3U1plQlVMeE5XTThOSERUdFlaMGRFRg?oc=5",
@@ -406,6 +407,20 @@
           "publishedAt": "2026-09-01T01:53:00.000Z",
           "tags": [
             "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농식품부, AI 농산물 유통기업 ‘달콤한아재’ 이달 A-벤처스 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5UU1tQzZHRVhlU2FfZmpKT3RuU2xXMzg5dDE0cEV1UFI0SklycGpTYkNzXzUzb2NTdjdHYkhnOEVpS1VJODdlQ3lfdTd0WHh6WWJPUXdfSVFHRVZrUjktY2x4WHdCQQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-30T23:55:27.000Z",
+          "tags": [
+            "농식품부"
           ],
           "price": null,
           "feat": false
@@ -421,18 +436,6 @@
           "tags": [
             "수급"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석 성수품 역대 최대 18만3000톤 공급...농축수산물 최대 50% 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkJYYjMyQVJtYnFRR2VsV2FjVzBBUnFtYVYxWmVmQ3YteHYxYjlVTmw4ajZFaGR6eWtBQWhHaC1xRjJzUG1oV2tvM3VNcTB1THNzTEc1WDktNmNOb21KdGduRFZFcU1HUnhFUE5pNU5LQ2ducVR4Y2RNN2x6UW1CN2I2cGxzekw3ekZSSm53?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-01T02:42:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -459,15 +462,15 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 15,
       "items": [
         {
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aW81VFRqU2ZMTzhUZFViTVNKaU8xaEc0VW92MG53cGxRTzBVODItUGdYcUV3SVozcEJrZHo0VXkwWHBrNWVWd2c2aF9ndXJKTlczeThscWNFM0dq?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
+          "source": "newspim.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T23:50:00.000Z",
           "tags": [
             "신제품",
@@ -519,6 +522,20 @@
           "feat": false
         },
         {
+          "title": "칼로리 대신 단백질 앞세운 F&B, 고영양 간편식으로 시장 장악",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sYkRkSzc3LUVHc29lclpHd04zbjRIQ0RncU9adVpaRzREcE9JMWdHaldGa3VUeHJFVzFZeDVub1hrTFVsem43U2lSX3E?oc=5",
+          "source": "TENANT news",
+          "sourceInitial": "TE",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-31T23:38:00.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZVRVblE3alBJM2NTb1FPWVQyZVg2NUhNd2l2SVdqb1BNQ3ViLVJjeWxSNVdnSXp0NVFPNXA4TWhZeGpsUS1zVkFKdDdYOXR6OVpVTTdlWTQzN0o5a19icnVpeTBKb0N5SDlZ?oc=5",
@@ -554,20 +571,6 @@
           "sourceInitial": "공감",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-31T05:30:58.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T01:35:40.000Z",
           "tags": [
             "출시"
           ],
