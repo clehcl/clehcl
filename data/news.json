@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:15:18.813Z",
+  "generatedAt": "2026-09-01T17:38:25.663Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "\"원가부담\"…오뚜기, 편의점 즉석밥 가격 최대 29.4% 인상",
@@ -232,25 +232,25 @@
           "feat": false
         },
         {
-          "title": "추석 대목 잡아라…식품업계 19개사, 4,755개 품목 최대 64% 할인",
+          "title": "공정위, CJ제일제당·대상 등 5개 식품업체 장류 담합 여부 조사",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZlRTejNzcGtpWHdUMHh0cmhkQnUxTDNNWDctbmRhcExQcy1Kd3RHN080Tkh3NWd4MWtpU1JNWl9pczlpZWRVNlZyZ0RTNHFBZ2dWNW5PMV9aTGcyd0N1YXkwYkNSMWs?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-01T05:25:57.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZU50TlBaMENETzlSQnk0Y1M5eExUMEdMLVFLZjNxWHR2SUdSVlpQeFQ1dFdGc3o5WjRhNmJVZ2xQQkFCbjF1YzdhUjltZTdhV3RySTlVRm1XOEZWdkNSUTRLMGk?oc=5",
+          "source": "서울경제TV",
+          "sourceInitial": "서울",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-01T10:57:08.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "음식점 ‘바가지요금’ 첫 적발부터 영업정지 5일",
+          "title": "추석 대목 잡아라…식품업계 19개사, 4,755개 품목 최대 64% 할인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNGNHRnJGbjN2eDFXNWR6RVppU2V0U0FvdHBrcjhSblRJczhlMHNNOHpKNVg0WXF4S3hieFRmellvVm5wWTdGbFZ0NHlNb1RqbEFuYURjeURQa2loUWw1VWN3LWd4V0xkSkpBRFg2eDE?oc=5",
-          "source": "안전신문",
-          "sourceInitial": "안전",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-01T01:18:17.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZlRTejNzcGtpWHdUMHh0cmhkQnUxTDNNWDctbmRhcExQcy1Kd3RHN080Tkh3NWd4MWtpU1JNWl9pczlpZWRVNlZyZ0RTNHFBZ2dWNW5PMV9aTGcyd0N1YXkwYkNSMWs?oc=5",
+          "source": "kfmn.co.kr",
+          "sourceInitial": "kf",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-01T05:25:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -286,9 +286,9 @@
           "title": "eaT, 급식 조달 안정성 높인다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UdDhWd1hscXBnY1JCUzNZVTBnQnlIUEpZcEZ3ZEx1V0I5VndVa1o1c2FCd01QMG9lY0pYZGZUNUNVRFR3N25wTnNqaWkxR05MSGdTcGdlUGRGTGY3TWpIQXFydnVNNFB1?oc=5",
-          "source": "fsnews.co.kr",
-          "sourceInitial": "fs",
-          "sourceColor": "#333333",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-01T13:25:16.000Z",
           "tags": [],
           "price": null,
@@ -556,9 +556,9 @@
           "title": "한독헬스케어, 커큐민·SOD 복합 효소 식품 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUU2t4Q2E4YXFuU3pSVk1PazZCVFZPaU41enpfaWphMnJPY1IzSW05Nm1oa0FocE5TX0twZVRvZFAwcGVDNGwzVUFxNkJXVTVZVDY0RHhtbktfbUNTZm5yZVVBOFNvTmMxdU1z?oc=5",
-          "source": "medipana.com",
-          "sourceInitial": "me",
-          "sourceColor": "#c15a37",
+          "source": "메디파나뉴스",
+          "sourceInitial": "메디",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-01T00:20:15.000Z",
           "tags": [
             "출시"
