@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T08:11:55.750Z",
+  "generatedAt": "2026-09-01T08:41:16.665Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,8 +143,64 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 21,
       "items": [
+        {
+          "title": "1주일 새 도매가 24% '뚝'…'金값'이던 김에 무슨 일이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVDlTejZPbzFfdUNIZ3RDNnBsV3otb0FzNzMwOHNzUV9Dd1hUTS0xaVcwZmxJajJXamRMSlRCZVBzNVlESWs1RExCVnBGVnFHcWtiU25wLVdiZw?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-01T08:22:33.000Z",
+          "tags": [
+            "도매"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "공정위, CJ·대상·샘표 등 장류업체 5곳 현장조사…간장·고추장 가격 담합 의혹",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fLUp6NVg1anp1Skw2QWtKTFltVTE4VmlPMXU0X2VEUmw5TmVWeWdmaHpGYkQ1a21Uekl2dWlXNHRObVdYcDE4dnZpbmxCWEZXM3lBRmNwdGpnVDExbFVQT1pB?oc=5",
+          "source": "경기신문",
+          "sourceInitial": "경기",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-01T08:22:14.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "공정위, 장류 가격 담합 혐의로 CJ제일제당 등 대형 식품업체 현장조사 착수",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZlFVTWt5cWJwR0NvRV85UVpkS0tIbVNnczVISjdla2htRmFSdi14SlpHaTJhUXVhdXUyVzFpeEJYOEZkTEhXYk5ycVI2aUJCNnVkeFd0aDAzMDBSaWs4NkpBcUwwVm9VSkE?oc=5",
+          "source": "Queen 이코노미퀸",
+          "sourceInitial": "Qu",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-01T08:19:10.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "오뚜기, 즉석밥류 21개 품목 가격 인상···최대 29.4%",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQU9MVzY0dzU3Q0kwWjNGV3NfSndodVpNVkxRN3JxNk5obE9qd29pOXM0bDdQTU9BT1hGdXpxeFpKNWNJalpvMkc5ZFdfb1RZdjdBRThPUHc5eGZVenplWjdWT3NQUE1kT3c?oc=5",
+          "source": "서울파이낸스",
+          "sourceInitial": "서울",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-01T08:17:48.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "오뚜기, 즉석밥 가격 인상…편의점 최대 29.4%↑",
           "summary": "",
@@ -157,7 +213,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "일본은 3년 만에 최대 규모의 식료품 가격 급등에 직면해 있다.",
@@ -200,62 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "일본, 9월 식품 4,923개 품목 가격 인상… 올해 최대 ‘인상 러시’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5RkJlVDZVeElxLVVkREsyWFFGZ0owZ2UwM2czV2x4ZDBQbzNhYkNtNEV4Zm9YN0hTOWwxcWk3cDRaS2VPb0FiOWt3bmd1S1RlTjROTkd4OS01dEhlWm9UYkxSVVF3elJQaEdsYQ?oc=5",
-          "source": "재팬코리아데일리",
-          "sourceInitial": "재팬",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-31T06:39:33.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "호치민시: 슈퍼마켓들이 9월 2일 연휴를 맞아 고객 편의를 위해 물량 공급을 늘리고 가격을 유지하고 있다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUVsbHV0VHZ6ZEdkbEdWaTRBcEZnbkhMSW5qTW9wTkdXa2gtR0JndVZQaDhNdWVvX1ZKbkQ5SUJ5Q3RFS3RIenlzTmRMRm01TXh0aTFGcHJ2STJaS3c0RmVzZTZzZWRoQmc3Y2UwVllfc0dvSWtEeHFDRVZKRlJUSVF6OGZqbE9DY0JDNGd2QmxLQ0FhX2ltR1ZGTkNMN25QaEQ3YllkeHpDWVE?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-08-31T04:09:16.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "코코아發 원가 충격에 유통가 '버티기 vs 전가' 갈림길",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SMlc1a3Uyc1RxQVdTVHNHMW95M1hMS1NYM3QzenhjTkZQdEF3d09tbjJ3Z0pFZy1oLWdKbE5qTEhFOUo1cEFtWm1zSk5JVVBaM2ZQV1BpaVJEcGNpNm9fWV9pQkgtVXdLM1Vv?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-31T01:42:31.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T14:28:55.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -268,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "aT 공공급식통합플랫폼, '공공 클라우드 네이티브 전환' 사업 선정…9월 1일 개발 착수",
@@ -290,18 +290,6 @@
           "sourceInitial": "ne",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-01T06:40:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "aT 공공급식 플랫폼 'eaT', 클라우드로 AI 기반 다진다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWVdnS0pPTWswVXZhQjZ5SmRZOTRORUllRWJIdXRENVpPNC1zNktTR0lRMEZkWnJxMjh6aDFRRjQ1TmQ3d2s5Sm9NTDZjM0gyZDFHUmlxZmx0LUdxUERjTWR6YlFTekE?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-01T05:17:50.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -353,7 +341,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 19,
+      "total": 20,
       "items": [
         {
           "title": "\"추석 물가 잡는다\"…정부, 성수품 18만톤 공급·최대 50% 할인",
@@ -541,6 +529,20 @@
           "feat": false
         },
         {
+          "title": "칼로리 대신 단백질 앞세운 F&B, 고영양 간편식으로 시장 장악",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sYkRkSzc3LUVHc29lclpHd04zbjRIQ0RncU9adVpaRzREcE9JMWdHaldGa3VUeHJFVzFZeDVub1hrTFVsem43U2lSX3E?oc=5",
+          "source": "TENANT news",
+          "sourceInitial": "TE",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-08-31T23:38:00.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZVRVblE3alBJM2NTb1FPWVQyZVg2NUhNd2l2SVdqb1BNQ3ViLVJjeWxSNVdnSXp0NVFPNXA4TWhZeGpsUS1zVkFKdDdYOXR6OVpVTTdlWTQzN0o5a19icnVpeTBKb0N5SDlZ?oc=5",
@@ -576,20 +578,6 @@
           "sourceInitial": "공감",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-31T05:30:58.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T01:35:40.000Z",
           "tags": [
             "출시"
           ],
