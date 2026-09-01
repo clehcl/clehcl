@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:41:23.116Z",
+  "generatedAt": "2026-09-01T11:10:07.839Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 20,
       "items": [
         {
           "title": "맥세스컨설팅, 프랜차이즈 교육 44기 개강…본부 시스템·가맹계약 실무 교육",
@@ -78,13 +78,13 @@
           "feat": false
         },
         {
-          "title": "마이프차, 대화형 ‘마이프차 AI’ 베타 출시…맞춤형 프랜차이즈 추천",
+          "title": "마이프차, ‘마이프차 AI’ 베타 출시…대화로 맞춤형 프랜차이즈 브랜드 찾는다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tcW5NNXhRXzk3VnBHUHBJRE1TWDdzVjU3dGU2WGhSYkZDR0Jqd3ZsRG5ZRDQwV25Yd19vaXAwTUZHMDFnN0E?oc=5",
-          "source": "beSUCCESS",
-          "sourceInitial": "be",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-01T06:35:19.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VHFyc01HMnBza2prVDZYUng1WjhSNC1QbkNBdndySWtVWmNSemZjWjh2U1VXSFp5a0JZZlpoSjJmLUtnWDBVOWVDUmY3S25UUWJBZWstQWFZcFZRUFdRckcwU3VKRkQxbFlYTtIBbEFVX3lxTE55VHFyc01HMnBza2prVDZYUng1WjhSNC1QbkNBdndySWtVWmNSemZjWjh2U1VXSFp5a0JZZlpoSjJmLUtnWDBVOWVDUmY3S25UUWJBZWstQWFZcFZRUFdRckcwU3VKRkQxbFlYTg?oc=5",
+          "source": "스타트업엔(StartupN)",
+          "sourceInitial": "스타",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-01T08:10:36.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 20,
       "items": [
         {
           "title": "1주일 새 도매가 24% '뚝'…'金값'이던 김에 무슨 일이",
@@ -248,9 +248,9 @@
           "title": "호치민시: 슈퍼마켓들이 9월 2일 연휴를 맞아 고객 편의를 위해 물량 공급을 늘리고 가격을 유지하고 있다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUVsbHV0VHZ6ZEdkbEdWaTRBcEZnbkhMSW5qTW9wTkdXa2gtR0JndVZQaDhNdWVvX1ZKbkQ5SUJ5Q3RFS3RIenlzTmRMRm01TXh0aTFGcHJ2STJaS3c0RmVzZTZzZWRoQmc3Y2UwVllfc0dvSWtEeHFDRVZKRlJUSVF6OGZqbE9DY0JDNGd2QmxLQ0FhX2ltR1ZGTkNMN25QaEQ3YllkeHpDWVE?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-31T04:09:16.000Z",
           "tags": [
             "가격"
@@ -354,7 +354,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 20,
+      "total": 22,
       "items": [
         {
           "title": "\"추석 물가 잡는다\"…정부, 성수품 18만톤 공급·최대 50% 할인",
@@ -372,12 +372,27 @@
           "feat": true
         },
         {
+          "title": "추석물가 잡는다…정부, 성수품 16.3만 톤 풀고 590억 원 할인 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TVzNvWDJ0TmUwWk0wTE5XeEs5SGcxWkhqM1NoWjZIUEtMX2U2NlNFNU4weVZKUFVRNUQxZUpnYk11WHY2cE9sc24xSG9IZU5uN1I5TWhkOGrSAVhBVV95cUxPU1czb1gydE5lMFpNMExOV3hLOUhnMVpIajNTaFo2SFBLTF9lNjZTRTVOMHlWSlBVUTVEMWVKZ2JNdVh2NnBPbHNuMUhvSGVObjdSOU1oZDhq?oc=5",
+          "source": "미디어펜",
+          "sourceInitial": "미디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-01T06:34:39.000Z",
+          "tags": [
+            "물가",
+            "정부"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "추석 장바구니 물가 잡는다…정부, 성수품 16만3000t 공급·할인에 590억원 투입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOGV5MGJXNjM5ckN4NGY5WXAwcVNiSkRZMHhqM29kTDlkN2dZV1ViTnRENEdvcFgxaUNYT2F4VTZxS3lnOTVTMDBjakZyMGh4UWRyYTZNMlFqVFRiMjA3QXBmeHhtSmpYNWxV?oc=5",
-          "source": "newsin.co.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#1a7a5a",
+          "source": "뉴스인",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-01T06:27:51.000Z",
           "tags": [
             "물가",
@@ -389,11 +404,11 @@
         {
           "title": "정부, 추석 물가 잡기 총력…성수품 18만3000t 공급·할인 1030억",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YQUFfeGQzbHV1MGNlYlNRU1duNnBYYzEwNGt1UjBzS0JOUFl4cXBMWEEtMFljNmFYeG95R3lDTzZWUFpBcDdkNkZsUEdJbGlCSXQ5OWJFM2xRUzRueDJtbUdFT0RYdHkwSHJ3UtIBbEFVX3lxTE1YQUFfeGQzbHV1MGNlYlNRU1duNnBYYzEwNGt1UjBzS0JOUFl4cXBMWEEtMFljNmFYeG95R3lDTzZWUFpBcDdkNkZsUEdJbGlCSXQ5OWJFM2xRUzRueDJtbUdFT0RYdHkwSHJ3Ug?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSVRvSGNRUGFuWEljcXFkbkR4NXVSQ3M2YWNLV0FlMFpVbHBUb1pKWXJaLWNKWFEzTWI4cXhmVWpNMllDZlNqWnZwMUYtUlY2S3R5RnBaczkwcHJPVUx3SXNWUHhRdV9L0gFsQVVfeXFMTVhBQV94ZDNsdXUwY2ViU1FTV242cFhjMTA0a3VSMHNLQk5QWXhxcExYQS0wWWM2YVh4b3lHeUNPNlZQWkFwN2Q2RmxQR0lsaUJJdDk5YkUzbFFTNG54Mm1tR0VPRFh0eTBIcndS?oc=5",
           "source": "ziksir.com",
           "sourceInitial": "zi",
           "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-01T04:35:10.000Z",
+          "publishedAt": "2026-09-01T04:26:22.000Z",
           "tags": [
             "물가",
             "정부"
@@ -456,20 +471,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[2027 예산안] '안심 먹거리' 2044억 투입…식약처 내년 예산 8829억",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56MV9JR1dhX1lKejd6cUtLTjhfQnE3UEl2UEMxbFdHZEt5R3VoMmxtMEk5d2FqOFpMbjQzczROamVQOHBPZWNSdmxaT1NlcVV5b3JOdVBtSnRHaEVw0gFiQVVfeXFMTTNEc210NnhZVlhrYkNYTW5kaDRuSEJHYTlyR0NPRy02aEpvbkxhU2lEYjFoUWhxNkttOFZxNFkyUGRZcmNUX20wLTByWnJuN2Vwalo5WWF2M1lhZ1FBNDgzYXc?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-01T05:14:06.000Z",
-          "tags": [
-            "식약처"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -482,23 +483,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
-        {
-          "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aW81VFRqU2ZMTzhUZFViTVNKaU8xaEc0VW92MG53cGxRTzBVODItUGdYcUV3SVozcEJrZHo0VXkwWHBrNWVWd2c2aF9ndXJKTlczeThscWNFM0dq?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-08-31T23:50:00.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "새김온, 파라다이스그레인·알파-CD 배합 식품 조성물 특허 출원…신제품 선봬",
           "summary": "",
@@ -511,7 +497,7 @@
             "신제품"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "롯데웰푸드, 영업익 두 배 만든 체질개선…‘전국 맛집’ 담아 HMR 시장 파고든다",
@@ -556,15 +542,15 @@
           "feat": false
         },
         {
-          "title": "칼로리 대신 단백질 앞세운 F&B, 고영양 간편식으로 시장 장악",
+          "title": "프롬바이오, 온 가족 유산균 '패밀리365 바이옴' 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sYkRkSzc3LUVHc29lclpHd04zbjRIQ0RncU9adVpaRzREcE9JMWdHaldGa3VUeHJFVzFZeDVub1hrTFVsem43U2lSX3E?oc=5",
-          "source": "tnnews.co.kr",
-          "sourceInitial": "tn",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RDFPd3E5OFFEZjQ2WVJPNUVtcFZsMUNGT19laDZUMWVrS3FGLUVTck5wZWg0QktwTEd5WllXaW00a1FLWm5wQzhONnhCRVFpaGNTS1AyczVfM3hwd3Bseg?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-31T23:38:00.000Z",
+          "publishedAt": "2026-08-31T23:26:00.000Z",
           "tags": [
-            "간편식"
+            "출시"
           ],
           "price": null,
           "feat": false
@@ -587,10 +573,24 @@
           "title": "광동생활건강, 전립선 건강기능식품 ‘차지업 CAG131’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1veTkySVdacTVsWDh0QkRZeUFzQU5KLW1qX0NELVQ1UWhSNDJWTkQwOUNnYjltQktIWGpBSzEyYlpVTWxySm44ZFFQbmExb1E4UWR3N1hCNWFJbTE3S3JHTE9wQXE?oc=5",
-          "source": "sentv.co.kr",
-          "sourceInitial": "se",
-          "sourceColor": "#333333",
+          "source": "서울경제TV",
+          "sourceInitial": "서울",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T05:48:43.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "카페일리터, 12시간 저온 숙성 닭가슴살 담은 ‘풀드치킨 샌드위치’ 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5NGRpOFJnWTNpWUh1TmxfN0ZRMkcyN280OTd4MTJfMHlUTDRXQjJHUmZiQlp3QXNtNHN0eVhhMTBfMWFVcTBVUzZ5MkVIZVN1NHA1aTk4OTJtZmVPd3hLWnhxdU14cnZi?oc=5",
+          "source": "공감신문",
+          "sourceInitial": "공감",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-08-31T05:30:58.000Z",
           "tags": [
             "출시"
           ],
