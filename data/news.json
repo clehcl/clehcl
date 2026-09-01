@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T21:39:04.897Z",
+  "generatedAt": "2026-09-01T22:09:48.185Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 21,
       "items": [
         {
           "title": "맥세스컨설팅, 프랜차이즈 교육 44기 개강…본부 시스템·가맹계약 실무 교육",
@@ -123,9 +123,9 @@
           "title": "'상미당' 허희수의 외식 승부수…치폴레 첫 JV로 亞 공략(종합)",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3cDFUM1Bwai1KdGF2X2F4alBvaDRmU1d6SFBwRC1MRHVFTml5VkRwakJGcHZPeS15MTM3XzFsY1ktZnJSazZCMzR3UFVaclYtdUtHSUJHOFZRTnVaS2paSGx3amzSAWRBVV95cUxQN3AxVDNQcGotSnRhdl9heGpQb2g0ZlNXekhQcEQtTER1RU5peVZEcGpCRnB2T3kteTEzN18xbGNZLWZyUms2QjM0d1BVWnJWLXVLR0lCRzhWUU51WktqWkhsd2ps?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-01T03:31:11.000Z",
           "tags": [
             "외식"
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "공정위, 장류 가격 담합 혐의로 CJ제일제당 등 대형 식품업체 현장조사 착수",
@@ -380,7 +380,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 24,
+      "total": 19,
       "items": [
         {
           "title": "식약처 내년 예산 8829억원…AI 식품안전·바이오 규제지원에 힘 싣는다",
@@ -405,21 +405,6 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-01T06:47:00.000Z",
-          "tags": [
-            "물가",
-            "정부"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석물가 잡는다…정부, 성수품 16.3만 톤 풀고 590억 원 할인 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TVzNvWDJ0TmUwWk0wTE5XeEs5SGcxWkhqM1NoWjZIUEtMX2U2NlNFNU4weVZKUFVRNUQxZUpnYk11WHY2cE9sc24xSG9IZU5uN1I5TWhkOGrSAVhBVV95cUxPU1czb1gydE5lMFpNMExOV3hLOUhnMVpIajNTaFo2SFBLTF9lNjZTRTVOMHlWSlBVUTVEMWVKZ2JNdVh2NnBPbHNuMUhvSGVObjdSOU1oZDhq?oc=5",
-          "source": "미디어펜",
-          "sourceInitial": "미디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-01T06:34:39.000Z",
           "tags": [
             "물가",
             "정부"
@@ -458,20 +443,6 @@
           "feat": false
         },
         {
-          "title": "추석 3주 앞두고 밥상물가 비상…시금치 183%·상추 78%·한우 17%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGcUNGQW12cllMb1JGM0RqWldOejdDVGdfa0lEZDl4Q09oZHlpT0VoMEhPY3hZcENrSEVqZUhhWGZ3YzRoWVV5TWJ2cGxOWXZJTUYxbdIBWkFVX3lxTE42TWZfUDJUWUxiMnlJdHFPVU5hOEtfSmU0aUZiSUx1czBhelRVOGRma2VNcWN3N2NNWm5STXEwR2NKR0JORTI4NlB0aWN0eTVmMTdNT2p0VW1tUQ?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-01T21:00:00.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "새벽배송 농산물·해외직구식품 검사 확대…내년 식약처 예산 8829억원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BU1h6YmE2VGRITzEzdTgyNk1JTGFhdkpqWWpyY0s4T3g4UV9HZ2FrTGptMTRaczBydjBmLUVWSnhlREU?oc=5",
@@ -498,6 +469,34 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "역대 최대 성수품 18.3톤 공급…추석물가 안정도모",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TTdiZnVlM1IzcFV1UzVFUWMtV09YcktrVXNvTlo5cFBDcVZCX2hSeVlBVzBHQjVTUExjSDZLT3pQc2RYS0JjLW9JZVdndkpBWFU4M2Q0TE8wOHZ0WW1Nbl85azZES1Jv?oc=5",
+          "source": "금강일보",
+          "sourceInitial": "금강",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-01T07:16:53.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"전쟁·폭염이 동시에 덮쳤다\"… 14년 만에 국제 농산물 폭등에 식탁물가 '초비상'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51SEpKSFVtdkRvSjVTUEdhdlBHeGw1eUtQT3FObkJoSUZyd1VwZnBlLUpMelpfQ1FNNWhqaXQwdG01TFpuSkZ5dTBpb2FoNG9YNmpqMVowTm1fSGhjQ2NDdjRBSUdnR2NoLWczdTNDWmNhczg?oc=5",
+          "source": "economicsignal.co.kr",
+          "sourceInitial": "ec",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-01T05:59:31.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -510,7 +509,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
