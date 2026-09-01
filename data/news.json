@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T03:40:37.804Z",
+  "generatedAt": "2026-09-01T04:10:22.042Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -22,9 +22,9 @@
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMHNNVC1zLUF4bFN5di0xU3M3a09lLVJwSE5UTGd6OXo0VUtJVHVLMVNCc1dSUXppQkNRRHlGeTlweGJycjBhSi02QUhHbjliNWtSTXlkVlI2TXVPeDlmc0ZJVDJJeFNwbUU2b1hvb3o?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T06:10:00.000Z",
           "tags": [
             "가맹",
@@ -122,9 +122,9 @@
           "title": "아웃백, '치즈 온' 가을 캠페인…신메뉴 6종 선봬",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBXzAwTzFIamV2MGg2SEJGblc2MThmRUxGTUJDRGliYVdGdkhNRDJVTlB3MWZsNG5yMXRZLXh3a1habVBxUXpHaklJdVAzalFnbkxuQkhsLXZScXVSS05Ra0lKQVBlNDBZeUhZMjhqUmQ?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T08:10:00.000Z",
           "tags": [
             "메뉴"
@@ -260,8 +260,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "삼시세끼 1만4000원···2조 군 급식 민 위탁으로 '밥값' 달라질까",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aVTRYVmU0WDRKbjNNdHJMNWlnUGViRlBpdUZpQ0hFQnBqdFVQX21sZ2FpOWNXMFlTNC1WVmlUY0R3TEZUZlJsTzNUX1NEOW5HbDN6WTRmdkgtNUNrQzJMT19IVW1TZkxuUW4tUg?oc=5",
+          "source": "스마트비즈",
+          "sourceInitial": "스마",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-01T02:06:57.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "농관원, GAP 인증 우수사례 8팀 선정…농산물 판로 확대",
           "summary": "",
@@ -272,14 +284,14 @@
           "publishedAt": "2026-09-01T02:00:00.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "‘aT 공공급식통합플랫폼’, 서비스 안정성 강화하고 AI 활용 기반 구축한다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ZmhKc2tTWnlkS0d5TGxIY3BYdlZwYmVhZFVGR2xQWkhSdm5lMENYTzI4UHh0ZkR3R2JTZ1NJbVBIZktYc2V6ZWdSRTluVndiQ05PXzF1eElJRGxaa0JoX0dQV3lGTmVZT0xXUA?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
+          "source": "foodicon.co.kr",
+          "sourceInitial": "fo",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-01T00:47:16.000Z",
           "tags": [],
@@ -290,9 +302,9 @@
           "title": "추석 성수식품 5800곳 점검 시작",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naldPR19DRnR2RTNZeFh1RHMyMlBuNVNvSE1GV0RUR042ZF9hRHM4QXdRYzhCRS1wMzZ2LTlpMy1iVTRNYkdwQkdqZ2tQUldnUjFwN201dGtYMm1PZUZLTy1NWHRTYzVrQnc?oc=5",
-          "source": "대한급식신문",
-          "sourceInitial": "대한",
-          "sourceColor": "#b03a6a",
+          "source": "fsnews.co.kr",
+          "sourceInitial": "fs",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-31T14:08:50.000Z",
           "tags": [],
           "price": null,
@@ -309,15 +321,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
           "title": "정부, 추석 물가 잡는다…성수품 18만3000t 풀고 할인에 1030억원 투입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YZHA1d0czQ0Vzc1lOQmZzTTJNTHBMaWxmbVEzWG1QaEdRcWZaVmp3YWZ1ekFjQUdyc1o2b2UxNWV5LXVLLWRpa3FFSWVteVlEMDBZaUNlUjNfVnZJMUVrZnRIMlhib2RtTmgwcExralFOTDQ?oc=5",
-          "source": "koreaeaglenews.com",
-          "sourceInitial": "ko",
-          "sourceColor": "#b03a6a",
+          "source": "코리아이글뉴스",
+          "sourceInitial": "코리",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-01T02:44:00.000Z",
           "tags": [
             "물가",
@@ -384,6 +396,20 @@
           "feat": false
         },
         {
+          "title": "농식품부, AI 농산물 유통기업 ‘달콤한아재’ 이달 A-벤처스 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5UU1tQzZHRVhlU2FfZmpKT3RuU2xXMzg5dDE0cEV1UFI0SklycGpTYkNzXzUzb2NTdjdHYkhnOEVpS1VJODdlQ3lfdTd0WHh6WWJPUXdfSVFHRVZrUjktY2x4WHdCQQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-08-30T23:55:27.000Z",
+          "tags": [
+            "농식품부"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLS1TcmlWUVJuSjNTeXphRWdMNVo3SmtSTDB4ZDIydGwyY3J1ellUSV9SRkNOS1ZGRVVzSjJ6dkl1VWw2eVd4ZUZzaDN5LUljNkFuZFktZjdjU1c4dWhtQnlaajZJVWE1d2tzXw?oc=5",
@@ -405,18 +431,6 @@
           "sourceInitial": "조선",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-01T02:42:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "상반기 한국산 수출식품 부적합 254건…美 FDA 현지실사 요청 대응 미흡 영향",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcjBMT293ekVPVFoxdndidXZibHhURzcwYmFmbkpDMlV5WnJndjI5Y09JSHpsVHlJcEpuUTZCaWdfRWt2MkFJd1ZQSGE3MnRqZzZkUWdkQzZRNC1zSzN0dFU2elVyaE13MzVycQ?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-01T02:27:06.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -537,9 +551,9 @@
           "title": "삼양식품, 추석 맞아 '삼양1963 X 짜르르 우지 선물세트' 한정 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZmktRkF3dEllTTI1b19OSmJXTzVMdnpPQjE0cjVUdEJvLU9pOVBJNVlnNzJmYkZTRGZoZDNudUo1TVZmeWIzNk1GRmpyUWtEOEdTLUdkRG9rLWliaUN2eWFOanNUWGM?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
+          "source": "youthdaily.co.kr",
+          "sourceInitial": "yo",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-31T01:35:40.000Z",
           "tags": [
             "출시"
