@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:39:14.662Z",
+  "generatedAt": "2026-09-01T02:09:43.407Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -93,7 +93,7 @@
         {
           "title": "(디저트제국의 두 얼굴)①(단독)프랜차이즈 수익 구조 한계…‘시장 1위’ SPC도 예외없다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWMUxqVzZUNEc4VldKc2wxMnBCcDAwVXA4a2t5TXJMdXRoWUtzUUFpSFkzaDh1WnVnQnNoM2MwY29pRVFQRmRKUTc3WkNUY0RGbXlWWG1taEtqV3BXZjNRWA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xXzUtVGFfbDJ5RjhEc2lsdnRDVmptOUlSN3hyTDBsVjZzVjQ0V0lXRlhHN1dIQWNyM2dFN1lUX0pNaEU2WHBPR1Jtak5aTmN2eDRzUkxKOHlWMkc0OFVkZg?oc=5",
           "source": "뉴스토마토",
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
@@ -148,11 +148,11 @@
         {
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UUVdhMVRsQ1VQcGw3X25Ia1JLQkR5NlJySC1xX1pKaEhTNVNlb0taY0E3cXlObXNSTENHVUczdmc4WXRkOTZ2aHBSeFNIMW5mX2FUQjRPcndBSTV4UTJDVWo4MzBfVjNYb2JKVmk2aznSAXBBVV95cUxPVFFXYTFUbENVUHBsN19uSGtSS0JEeTZSckgtcV9aSmhIUzVTZW9LWmNBN3F5Tm1zUkxDR1VHM3ZnOFl0ZDk2dmhwUnhTSDFuZl9hVEI0T3J3QUk1eFEyQ1VqODMwX1YzWG9iSlZpNms5?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TX3FYTDdTamgyV3VfTy1oZzFXOU5WLWIwOEtXaDRFdmxqcF82eWtmdS1SNmIxRWtVTDlfMWh5ZFFGdU5fcUhzZXVzLWVLY2hGWnlvTU1TNFdzNWpuaG5Eby1ibG9paV9remg5NtIBcEFVX3lxTE9UUVdhMVRsQ1VQcGw3X25Ia1JLQkR5NlJySC1xX1pKaEhTNVNlb0taY0E3cXlObXNSTENHVUczdmc4WXRkOTZ2aHBSeFNIMW5mX2FUQjRPcndBSTV4UTJDVWo4MzBfVjNYb2JKVmk2azk?oc=5",
           "source": "내외뉴스통신",
           "sourceInitial": "내외",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-08-31T17:43:59.000Z",
+          "publishedAt": "2026-08-31T13:08:00.000Z",
           "tags": [
             "가격"
           ],
@@ -262,8 +262,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "농관원, GAP 인증 우수사례 8팀 선정…농산물 판로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlc2NDZVhEWk5sZ3p1a21rTTJZbXZyRl9jVkFsMHY4bmxzd3lDY3ptYmJia2J2cmhESXJ2UkhvbVk1VjZXYXpPYURnbWtDZm14ZFFOaGpWYVdULURTcXRuaNIBeEFVX3lxTE1WTFEwU05BcnlnR212cWJZZnpGNFNESUlYb0dqazJzcVRpUFhXM1k1T1NHcFR3YkczWGFpeERUZDhWVGNMSlkxbjFUQ0dMdnk3OFJmVjZpalA1TkhGc1BSdUdieXhGUVJaXzRBa1FfRi01MV9SMUVodw?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-01T02:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "‘aT 공공급식통합플랫폼’, 서비스 안정성 강화하고 AI 활용 기반 구축한다",
           "summary": "",
@@ -274,15 +286,15 @@
           "publishedAt": "2026-09-01T00:47:16.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "마포구, '어르신밥상' 경로당으로 확대…주 5일 급식",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zTWtZcEIwS25kcVE0amgtWUgwbW1iRlJDby1TSzJxTUt4a29iakk3SDQ0SWNyWTRRak1tUHdVOWJLa09TY0VDR09tOE1abm1pdExV?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-01T00:07:00.000Z",
           "tags": [],
           "price": null,
@@ -311,15 +323,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 12,
       "items": [
         {
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
-          "source": "korea.kr",
-          "sourceInitial": "ko",
-          "sourceColor": "#8a5cc4",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T01:41:40.000Z",
           "tags": [
             "물가",
@@ -329,12 +341,26 @@
           "feat": true
         },
         {
+          "title": "\"추석 장바구니 물가 잡아라\"…농축산물 할인 590억 투입",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zcE5qUk9nWHZuN2xadk9JbzM2MGhLZ2dsWFVZclJwMFpiLW91TmZoNUhmMTZjOU1uUjJQQjZtMEJJa2RlSEFsTFVBX1J0Y1dhc09OSktGaGxJUdIBVEFVX3lxTE8xVXhqaVNuTXRfRmVjcHhCdkxjSW12azhLbFVrSmJIMTJxcWRoQ1pnWGNYbW91Zk5VS2FrdVg3U1plQlVMeE5XTThOSERUdFlaMGRFRg?oc=5",
+          "source": "더팩트",
+          "sourceInitial": "더팩",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-01T01:53:24.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "8월 소비자물가 5.7%↑…7개월 만에 상승세 둔화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faDVaekZLWEVqLUJTZ3dyMldSZVRBTmVqUWF1c0RPNmJveG1vWUNONDl6SVdYOFV1cXZHNXpscWY5OVFvOFlWR0lyQm8zX0MtVjFsNkRTbl9iUmtyMW5QSktVcE5vaUlvZmZUUllGSDViNmxVYjRj?oc=5",
-          "source": "korea.kr",
-          "sourceInitial": "ko",
-          "sourceColor": "#8a5cc4",
+          "source": "대한민국 정책브리핑",
+          "sourceInitial": "대한",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-08-31T11:05:50.000Z",
           "tags": [
             "물가"
@@ -346,9 +372,9 @@
           "title": "[Issue+] 추석 성수품 농산물 수급 안정세…과일값 대과 ‘강세’·중소과 ‘약세’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NLS1TcmlWUVJuSjNTeXphRWdMNVo3SmtSTDB4ZDIydGwyY3J1ellUSV9SRkNOS1ZGRVVzSjJ6dkl1VWw2eVd4ZUZzaDN5LUljNkFuZFktZjdjU1c4dWhtQnlaajZJVWE1d2tzXw?oc=5",
-          "source": "농수축산신문",
-          "sourceInitial": "농수",
-          "sourceColor": "#c0392b",
+          "source": "aflnews.co.kr",
+          "sourceInitial": "af",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-30T22:00:00.000Z",
           "tags": [
             "수급"
@@ -371,37 +397,37 @@
           "feat": false
         },
         {
-          "title": "[이아름 식품기술사의 컴플라이언스 리포트] “X-ray 하나 더 달면 안전할까… 식품안전은 ‘설비’보다 ‘위해 분석’이 먼저다”",
+          "title": "추석 농축수산물 최대 50% 할인…연휴기간 고속도로 통행료 면제",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0YUNhQWJoczZ5VWg0eTVnQmhrcWpPQlNPY3JvMU5KM29QLTgzclB5bGtkVVlkMmJtYVNQRmhoUnBxM3ppNVNKQVR6WHFHRDJydE9ENGFFSHZhUmhQUTc1Q3V0djhVN3psWU5Sbw?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T23:07:37.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNem9JNGVkRzA2RG41S2FvZ01OSWh4UnhnOGpiamNWaWR3UWh2eS1PUHVIbGR1MlBrUzV6Zks3T3E2d0czeWRIeF9sRkJaSWJJU1Q1bU5tYmNLM0hsdktvbGVoeU81c3VkZ0V4dG83Nk9CNnE1dUpULThxMFJiZ1RrYW91SUQ2N0NZd0NN?oc=5",
+          "source": "국제신문",
+          "sourceInitial": "국제",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-01T01:58:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "한경국립대, HACCP 팀장 교육 실시…식품 취업 시장 지원",
+          "title": "\"추석 대책 역대 최대 규모\"…성수품 18.3만톤·농축수산물 1030억",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IV21EWlVxNDJJVFNXMklYSmU0Z2Z0RmJPYTRkbHpZOVF4OWE0SG1OaTJOek1qb29hcTBqSUpOV0dndkxqaGhPQlV2cmloWDJPOS1tVlgwelI5VDVLQ3R1ag?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-31T06:46:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVZ1I5WG9fTXZkRkZWdWR5TTVlc3JKRzVWUUZpYm1LLVBCY1Njb1U0d0RMVDc3MDg1Zlp6YkhCWUZnWmlFS3c0V0ZEZFVWMGZfT3lnMFVlenRIUGty?oc=5",
+          "source": "supple.kr",
+          "sourceInitial": "su",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-01T01:52:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "미국, 한국산 식품의 FDA 수입 거부 증가",
+          "title": "성수품 역대 최대 18.3만t 푼다…농축수산물 최대 50% 할인[추석 민생대책]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUkNxdVBkaHBhcEVNZ211bXBfLUR5UUxmSVRsT1kzb0dlWlVXeHI1X2hxOUZ0VEFvNVBxVXJ6MXRuMElxUEtoalluYnUwNGhXXy1OT0c3SQ?oc=5",
-          "source": "realfoods.co.kr",
-          "sourceInitial": "re",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-30T04:51:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMUVEa2FUTHlVZHRTUFBiY21vRVFVSXZQSUxvNzNNNHRyV3NPSjc1Y1lQQW9iRVdmZFJ0Qjg2Z2tjVEZRUmlJcUVzX2VsMkdZbFlqM3VPYjZPWTA1dERSSNIBeEFVX3lxTFBTLXZwUVkwa0ZyVVNOUmFUcWlMOEgybGxybENSWmk3eTRNLXJOUld3OE9odXJGd2lUaks4eVl4cXVMdE41OGo1bWludllzNHI2QlVyTHFXLWlFeEZDVFNCV05ZQTVhVUhMM2NSVmhuZENOUkJidlp1WQ?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-01T01:46:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
