@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:40:43.647Z",
+  "generatedAt": "2026-09-01T14:11:07.613Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -37,9 +37,9 @@
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMHNNVC1zLUF4bFN5di0xU3M3a09lLVJwSE5UTGd6OXo0VUtJVHVLMVNCc1dSUXppQkNRRHlGeTlweGJycjBhSi02QUhHbjliNWtSTXlkVlI2TXVPeDlmc0ZJVDJJeFNwbUU2b1hvb3o?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T06:10:00.000Z",
           "tags": [
             "가맹",
@@ -81,9 +81,9 @@
           "title": "마이프차, ‘마이프차 AI’ 베타 출시…대화로 맞춤형 프랜차이즈 브랜드 찾는다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VHFyc01HMnBza2prVDZYUng1WjhSNC1QbkNBdndySWtVWmNSemZjWjh2U1VXSFp5a0JZZlpoSjJmLUtnWDBVOWVDUmY3S25UUWJBZWstQWFZcFZRUFdRckcwU3VKRkQxbFlYTtIBbEFVX3lxTE55VHFyc01HMnBza2prVDZYUng1WjhSNC1QbkNBdndySWtVWmNSemZjWjh2U1VXSFp5a0JZZlpoSjJmLUtnWDBVOWVDUmY3S25UUWJBZWstQWFZcFZRUFdRckcwU3VKRkQxbFlYTg?oc=5",
-          "source": "startupn.kr",
-          "sourceInitial": "st",
-          "sourceColor": "#c0392b",
+          "source": "스타트업엔(StartupN)",
+          "sourceInitial": "스타",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-01T08:10:36.000Z",
           "tags": [
             "프랜차이즈"
@@ -248,9 +248,9 @@
           "title": "호치민시: 슈퍼마켓들이 9월 2일 연휴를 맞아 고객 편의를 위해 물량 공급을 늘리고 가격을 유지하고 있다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUVsbHV0VHZ6ZEdkbEdWaTRBcEZnbkhMSW5qTW9wTkdXa2gtR0JndVZQaDhNdWVvX1ZKbkQ5SUJ5Q3RFS3RIenlzTmRMRm01TXh0aTFGcHJ2STJaS3c0RmVzZTZzZWRoQmc3Y2UwVllfc0dvSWtEeHFDRVZKRlJUSVF6OGZqbE9DY0JDNGd2QmxLQ0FhX2ltR1ZGTkNMN25QaEQ3YllkeHpDWVE?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-31T04:09:16.000Z",
           "tags": [
             "가격"
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "eaT, 급식 조달 안정성 높인다",
@@ -286,10 +286,10 @@
         {
           "title": "'강원 농식품대전, 2026 청정강원 대표 상품으로 시장 판로 대개척'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CbG1xdVp3Rm9DejdqMkR3UTJOT0NBQUR5NlhTbDFpX0ZQR0pHd1FSdUthRjVDVmRac3ZCTkdSb1psb3g1NEx3djhTRDg1dUtJUW1hZlM5THJKU2s1bzJVZHN6d0ZubFRt?oc=5",
-          "source": "공감신문",
-          "sourceInitial": "공감",
-          "sourceColor": "#1a4d8f",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DOEdiS21pNThrLVlmb2pDNEU1MnFLR3k3UGlYdUY3ZkIzZzNCMXNRak9wVnhGY1JVRFd6OGk3cEUzd01BUUVoYWtmMmN0cmJORHlqd1A4VUZLZHUzNS1McjVCcUJhOTQ?oc=5",
+          "source": "gokorea.kr",
+          "sourceInitial": "go",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-01T11:41:51.000Z",
           "tags": [],
           "price": null,
@@ -320,9 +320,21 @@
           "feat": false
         },
         {
+          "title": "aT 공공급식통합플랫폼, '공공 클라우드 네이티브 전환' 사업 선정…9월 1일 개발 착수",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uWUV5djVlYzhEVWx6SXczWE5JaU8yeGRhZ3lFN2RLazNvY0x1T0VUenFWWUNjU2tqMl9FU1RkeF94WTdQZVQ5QkszU0s1MWs3SUw5SWJsaWZ5b2dDcWlkeHVYeDdTNS1OWENtN2t3?oc=5",
+          "source": "gukjenews.com",
+          "sourceInitial": "gu",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-01T07:32:52.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "농관원, GAP 우수사례 8팀 선정…인증 농산물 판로 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZzhYdF9mNFBVODB1ZGxaSUpxelpJeG9aMFdkRlFlRXhGdDFfdnJoSG5PbmdfclVxdG1ZZk5WYlZTS3ptUE51WkRGLUpOZnZ0Ri00dE9zUDRCelotV1dMVnFBejM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNWVmMUkwX1dvNTJJRDBObjFiVnBjSWV1RFY0OVhoV1loRG13MW54cWU2d25LQ0t4czNJenBvR3l6SlZIdnRlOC1qZnVrQm9lZWVIY3pDWmxaLTN4MjBieVQtblJMdw?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -460,7 +472,7 @@
         {
           "title": "농식품부, 내년 예산 22조2215억원…직불·기본소득·AI 농업 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0waXU1WVJpazR3YXl5aDhBVExFTVNVa1RXRmgwZVF1U3lWWjBXdXpiYl9PQUNwU29HQ2ZITjctM0J6aWhkUVdIdThUaTdTTG9MOE40a2ZxblRpajVfUFhsZkRxSjE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Z3l4Q2pLa3pGZWttQW1pNW9KSnJDVXhwU1hkNjFfQlNzVEY1ZFZMaU9GM1dHcUp0Y1ZwTDFrRDVFUGxQcENrSkhOQ3VzUnNhV0wxOEwxeFNBVjRsY2VtSnM3TVpMUQ?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -496,7 +508,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
@@ -517,9 +529,9 @@
           "title": "새김온, 파라다이스그레인·알파-CD 배합 식품 조성물 특허 출원…신제품 선봬",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oTFFucUhZZXp5OG85UEhSa0ViX3ltQnFDaWt4Q2paVXhOeFBmVkhMVEptM216bWpIVF9Mcmludkl0MkdsTWtXODJ2eF9ScTE0TktV?oc=5",
-          "source": "thevaluenews.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#b03a6a",
+          "source": "더밸류뉴스",
+          "sourceInitial": "더밸",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-01T05:23:57.000Z",
           "tags": [
             "신제품"
@@ -570,26 +582,12 @@
           "feat": false
         },
         {
-          "title": "칼로리 대신 단백질 앞세운 F&B, 고영양 간편식으로 시장 장악",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sYkRkSzc3LUVHc29lclpHd04zbjRIQ0RncU9adVpaRzREcE9JMWdHaldGa3VUeHJFVzFZeDVub1hrTFVsem43U2lSX3E?oc=5",
-          "source": "TENANT news",
-          "sourceInitial": "TE",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-31T23:38:00.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZVRVblE3alBJM2NTb1FPWVQyZVg2NUhNd2l2SVdqb1BNQ3ViLVJjeWxSNVdnSXp0NVFPNXA4TWhZeGpsUS1zVkFKdDdYOXR6OVpVTTdlWTQzN0o5a19icnVpeTBKb0N5SDlZ?oc=5",
-          "source": "kmpnews.co.kr",
-          "sourceInitial": "km",
-          "sourceColor": "#b03a6a",
+          "source": "한국의약통신",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-31T09:00:50.000Z",
           "tags": [
             "출시"
@@ -601,10 +599,24 @@
           "title": "광동생활건강, 전립선 건강기능식품 ‘차지업 CAG131’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1veTkySVdacTVsWDh0QkRZeUFzQU5KLW1qX0NELVQ1UWhSNDJWTkQwOUNnYjltQktIWGpBSzEyYlpVTWxySm44ZFFQbmExb1E4UWR3N1hCNWFJbTE3S3JHTE9wQXE?oc=5",
-          "source": "서울경제TV",
-          "sourceInitial": "서울",
-          "sourceColor": "#1a7a5a",
+          "source": "sentv.co.kr",
+          "sourceInitial": "se",
+          "sourceColor": "#333333",
           "publishedAt": "2026-08-31T05:48:43.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "카페일리터, 12시간 저온 숙성 닭가슴살 담은 ‘풀드치킨 샌드위치’ 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5NGRpOFJnWTNpWUh1TmxfN0ZRMkcyN280OTd4MTJfMHlUTDRXQjJHUmZiQlp3QXNtNHN0eVhhMTBfMWFVcTBVUzZ5MkVIZVN1NHA1aTk4OTJtZmVPd3hLWnhxdU14cnZi?oc=5",
+          "source": "gokorea.kr",
+          "sourceInitial": "go",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-08-31T05:30:58.000Z",
           "tags": [
             "출시"
           ],
