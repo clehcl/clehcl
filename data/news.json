@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:09:52.119Z",
+  "generatedAt": "2026-09-01T01:39:14.662Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,15 +16,15 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMHNNVC1zLUF4bFN5di0xU3M3a09lLVJwSE5UTGd6OXo0VUtJVHVLMVNCc1dSUXppQkNRRHlGeTlweGJycjBhSi02QUhHbjliNWtSTXlkVlI2TXVPeDlmc0ZJVDJJeFNwbUU2b1hvb3o?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T06:10:00.000Z",
           "tags": [
             "가맹",
@@ -108,9 +108,9 @@
           "title": "아웃백, '치즈 온' 가을 캠페인…신메뉴 6종 선봬",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBXzAwTzFIamV2MGg2SEJGblc2MThmRUxGTUJDRGliYVdGdkhNRDJVTlB3MWZsNG5yMXRZLXh3a1habVBxUXpHaklJdVAzalFnbkxuQkhsLXZScXVSS05Ra0lKQVBlNDBZeUhZMjhqUmQ?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T08:10:00.000Z",
           "tags": [
             "메뉴"
@@ -122,9 +122,9 @@
           "title": "‘창업도’, 2026년 8월 다섯째 주 인기 프랜차이즈 순위 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLMi1YdjRTWGlqZ3pET0hYaEJ5d2xrUHI4ckVZa2IxRnVNeGRXcmEyZXh3V3ZkZEhpa1NneDBTQlU2LUhkVl9JRVRLSQ?oc=5",
-          "source": "프랜차이즈월드",
-          "sourceInitial": "프랜",
-          "sourceColor": "#c98a2b",
+          "source": "kfnews.kr",
+          "sourceInitial": "kf",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-08-31T06:26:15.000Z",
           "tags": [
             "프랜차이즈"
@@ -163,9 +163,9 @@
           "title": "일본, 9월 식품 4,923개 품목 가격 인상… 올해 최대 ‘인상 러시’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5RkJlVDZVeElxLVVkREsyWFFGZ0owZ2UwM2czV2x4ZDBQbzNhYkNtNEV4Zm9YN0hTOWwxcWk3cDRaS2VPb0FiOWt3bmd1S1RlTjROTkd4OS01dEhlWm9UYkxSVVF3elJQaEdsYQ?oc=5",
-          "source": "jk-daily.co.kr",
-          "sourceInitial": "jk",
-          "sourceColor": "#c0392b",
+          "source": "재팬코리아데일리",
+          "sourceInitial": "재팬",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-31T06:39:33.000Z",
           "tags": [
             "가격"
@@ -205,9 +205,9 @@
           "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "kukinews.com",
-          "sourceInitial": "ku",
-          "sourceColor": "#c98a2b",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-30T14:28:55.000Z",
           "tags": [
             "식자재"
@@ -262,7 +262,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "‘aT 공공급식통합플랫폼’, 서비스 안정성 강화하고 AI 활용 기반 구축한다",
@@ -299,18 +299,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "삼성웰스토리, KBC 버거 브랜드와 식자재 고객사 협업",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93VXR4NG1ZSnJDbklXRS1BSVdMSWVyNEFzMk1HeXNITkJvbjdKR2VFR0RVQVdYZGFDVDFpcEI3LXhFMXJqajhqWHhuTWg0VGx0WnAzR1Myd0JydWtGRWxoSFVtNzctY2hXRms4a2R5bno?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-08-30T01:10:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -323,15 +311,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 7,
       "items": [
         {
           "title": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법 - 키워드 뉴스 | 뉴스",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSC12NzE0UEtyYnpPVko1SVdRRVFaMDByR1B6eG9Melh2VnZjS3JWNnlBVmg2SFFMNDlSUFRuVGNra0Fxdm5IMkpMcjBrUmhmOFFfVXZxNmJJVWtZSGQyZnJ5MWJRUmRsVjhGUTZtaUJmTjAwZGhjX3ZKZVZ5MTloeTAwbTU5ZTcxZkpwWGdfdw?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
+          "source": "korea.kr",
+          "sourceInitial": "ko",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-31T01:41:40.000Z",
           "tags": [
             "물가",
@@ -344,9 +332,9 @@
           "title": "8월 소비자물가 5.7%↑…7개월 만에 상승세 둔화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faDVaekZLWEVqLUJTZ3dyMldSZVRBTmVqUWF1c0RPNmJveG1vWUNONDl6SVdYOFV1cXZHNXpscWY5OVFvOFlWR0lyQm8zX0MtVjFsNkRTbl9iUmtyMW5QSktVcE5vaUlvZmZUUllGSDViNmxVYjRj?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
+          "source": "korea.kr",
+          "sourceInitial": "ko",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-08-31T11:05:50.000Z",
           "tags": [
             "물가"
@@ -372,9 +360,9 @@
           "title": "유럽연합(EU)은 금지 물질로 오염된 특정 식품에 대한 규제를 강화하고 경고를 발령하고 있습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNXMm5jczdjQTB2NndUQ2JDTW14aVJfVGhoa1p0QzZRM25qM256LVZLZFdKNkhUVXFTLVoydUtldnlZLU04MmxzWVBEX0dPUmxEMldDNTE2aHJjRjFrUHRaS3EtbnZQbkYta0VSTTh1eU05LVZEU0l4b2pOT1E2ZmhpY2RHcDJWRS1tamN6ekhMcmFZM3c?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-08-30T02:13:46.000Z",
           "tags": [
             "규제"
@@ -395,30 +383,6 @@
           "feat": false
         },
         {
-          "title": "글로벌 농산물 가격, 8월 13% 급등…14년 만에 최대 월간 상승",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQml4V0dSMnY4b01Qemc3NlFpMS1QRlhXcElkOER1ZExOc0l3R2MwOTZaeGVOeEI5V25oRzhqRUlTQ3NPTEJSUUdqV3hJem1BRTQ3NTMwa0hDNGdLVXBMeWVjbU1ERzUzRUdJSzF1M3Z5Q3N0Tk1hM09SM1FkbTJtVXJUSXAtSWlP?oc=5",
-          "source": "글로벌이코노믹",
-          "sourceInitial": "글로",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-08-31T22:30:22.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "휴가철 알뜰 먹거리 마련…8월 한달 '가공식품 최대 57%↓'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwYVI4Nkk4U1d1Mm1ST2UtSTZxbWw1WHBLOUFCb1RDbXZfNXpqU2xHMlJDMVVOZTNFeTFhcWVxSlRocUNxVktRMUJBUlEtSFBwVFlfTjNCQ2l3V1dOdlU3d1E4NnZUUkxa?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-08-31T15:33:47.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "한경국립대, HACCP 팀장 교육 실시…식품 취업 시장 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IV21EWlVxNDJJVFNXMklYSmU0Z2Z0RmJPYTRkbHpZOVF4OWE0SG1OaTJOek1qb29hcTBqSUpOV0dndkxqaGhPQlV2cmloWDJPOS1tVlgwelI5VDVLQ3R1ag?oc=5",
@@ -426,6 +390,18 @@
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-08-31T06:46:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "미국, 한국산 식품의 FDA 수입 거부 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUkNxdVBkaHBhcEVNZ211bXBfLUR5UUxmSVRsT1kzb0dlWlVXeHI1X2hxOUZ0VEFvNVBxVXJ6MXRuMElxUEtoalluYnUwNGhXXy1OT0c3SQ?oc=5",
+          "source": "realfoods.co.kr",
+          "sourceInitial": "re",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-30T04:51:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
