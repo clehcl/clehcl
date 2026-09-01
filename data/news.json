@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T08:41:16.665Z",
+  "generatedAt": "2026-09-01T09:11:00.711Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -143,8 +143,23 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 19,
       "items": [
+        {
+          "title": "\"원가부담\"…오뚜기, 편의점 즉석밥 가격 최대 29.4% 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NU0RPR1MtZ3hvR25Dd3pKR2FuTk9yOUNUZ1dGdzFxZFg0Y1M3NEVYZ1pxWnVqamMxZ2gwTXM1YTNMdkhIbVlVMV9JRmRPSWxha3dr?oc=5",
+          "source": "데일리안",
+          "sourceInitial": "데일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-01T09:08:00.000Z",
+          "tags": [
+            "원가",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "1주일 새 도매가 24% '뚝'…'金값'이던 김에 무슨 일이",
           "summary": "",
@@ -155,20 +170,6 @@
           "publishedAt": "2026-09-01T08:22:33.000Z",
           "tags": [
             "도매"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "공정위, CJ·대상·샘표 등 장류업체 5곳 현장조사…간장·고추장 가격 담합 의혹",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fLUp6NVg1anp1Skw2QWtKTFltVTE4VmlPMXU0X2VEUmw5TmVWeWdmaHpGYkQ1a21Uekl2dWlXNHRObVdYcDE4dnZpbmxCWEZXM3lBRmNwdGpnVDExbFVQT1pB?oc=5",
-          "source": "경기신문",
-          "sourceInitial": "경기",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-01T08:22:14.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -195,20 +196,6 @@
           "sourceInitial": "서울",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-01T08:17:48.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "오뚜기, 즉석밥 가격 인상…편의점 최대 29.4%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZVm1hVTR2OC1mZ0JfbFBVWGZYSHhVMV9UazYxODJIeHhKU3Q5VmtkTGZLR1I0T05YS0VCSHA5QUluU3JtUWZDMktXaXJpQmJOUUpxMlJ1ZGlqQVo0eVNwcWxxYURKQ3M?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-01T07:25:17.000Z",
           "tags": [
             "가격"
           ],
@@ -256,6 +243,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "일본, 9월 식품 4,923개 품목 가격 인상… 올해 최대 ‘인상 러시’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5RkJlVDZVeElxLVVkREsyWFFGZ0owZ2UwM2czV2x4ZDBQbzNhYkNtNEV4Zm9YN0hTOWwxcWk3cDRaS2VPb0FiOWt3bmd1S1RlTjROTkd4OS01dEhlWm9UYkxSVVF3elJQaEdsYQ?oc=5",
+          "source": "재팬코리아데일리",
+          "sourceInitial": "재팬",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T06:39:33.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -286,9 +287,9 @@
           "title": "aT 공공급식 플랫폼 클라우드 전환…AI 활용 기반 구축",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xaHNZcnVQNjE0VTJYb0lUeDRvYnFXd3hWSnZSbU9PcEhYNlBXUnlFUkpHMDRHTjVWM2I1RGlSYUd1QTIteTd1dTZqZ2ZrWF9kWTdyOVhKWktHZ3k0?oc=5",
-          "source": "newspim.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c0392b",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-01T06:40:00.000Z",
           "tags": [],
           "price": null,
@@ -298,9 +299,9 @@
           "title": "농관원, GAP 우수사례 8팀 선정…인증 농산물 판로 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNWVmMUkwX1dvNTJJRDBObjFiVnBjSWV1RFY0OVhoV1loRG13MW54cWU2d25LQ0t4czNJenBvR3l6SlZIdnRlOC1qZnVrQm9lZWVIY3pDWmxaLTN4MjBieVQtblJMdw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-01T04:51:17.000Z",
           "tags": [],
           "price": null,
@@ -341,7 +342,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 20,
+      "total": 19,
       "items": [
         {
           "title": "\"추석 물가 잡는다\"…정부, 성수품 18만톤 공급·최대 50% 할인",
@@ -392,9 +393,9 @@
           "title": "농식품부, 내년 예산 22조2215억원…직불·기본소득·AI 농업 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Z3l4Q2pLa3pGZWttQW1pNW9KSnJDVXhwU1hkNjFfQlNzVEY1ZFZMaU9GM1dHcUp0Y1ZwTDFrRDVFUGxQcENrSkhOQ3VzUnNhV0wxOEwxeFNBVjRsY2VtSnM3TVpMUQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-01T08:00:04.000Z",
           "tags": [
             "농식품부"
@@ -472,21 +473,6 @@
       "total": 13,
       "items": [
         {
-          "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nMTFNN2JVWGRuWko2UGliSG81THFHLXRYSHZBcmFDREx4djZ6aUR6ZkphWGhyRVk2MVViUG1uTDJ3RFBJWFlncFA4NnR2VUpPRU94bTBBT3JJUnBMV3hQNA?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-08-31T23:53:00.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
           "title": "새김온, 파라다이스그레인·알파-CD 배합 식품 조성물 특허 출원…신제품 선봬",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oTFFucUhZZXp5OG85UEhSa0ViX3ltQnFDaWt4Q2paVXhOeFBmVkhMVEptM216bWpIVF9Mcmludkl0MkdsTWtXODJ2eF9ScTE0TktV?oc=5",
@@ -498,7 +484,7 @@
             "신제품"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "한독헬스케어, 커큐민·SOD 복합 효소 식품 출시",
@@ -518,9 +504,9 @@
           "title": "서울카페쇼, 11월 코엑스서 개최…글로벌 커피 트렌드 한자리",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETEl2UlRmSFFXdTRtNk04N3l5QndXejJfRXNzTFJRZkliYUlPeUJrN281bm5sZGxBbWNxUHdjcUFHcXVLaTF2WmtUbFNlcHBQUDlxbVVvdmFxRjJaa2xNU0FaUFlTZw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-01T00:08:55.000Z",
           "tags": [
             "트렌드"
@@ -538,6 +524,20 @@
           "publishedAt": "2026-08-31T23:38:00.000Z",
           "tags": [
             "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "프롬바이오, 온 가족 유산균 '패밀리365 바이옴' 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RDFPd3E5OFFEZjQ2WVJPNUVtcFZsMUNGT19laDZUMWVrS3FGLUVTck5wZWg0QktwTEd5WllXaW00a1FLWm5wQzhONnhCRVFpaGNTS1AyczVfM3hwd3Bseg?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-08-31T23:26:00.000Z",
+          "tags": [
+            "출시"
           ],
           "price": null,
           "feat": false
