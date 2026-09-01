@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T22:38:30.355Z",
+  "generatedAt": "2026-09-01T23:09:01.184Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 22,
       "items": [
         {
           "title": "맥세스컨설팅, 프랜차이즈 교육 44기 개강…본부 시스템·가맹계약 실무 교육",
@@ -37,9 +37,9 @@
           "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMHNNVC1zLUF4bFN5di0xU3M3a09lLVJwSE5UTGd6OXo0VUtJVHVLMVNCc1dSUXppQkNRRHlGeTlweGJycjBhSi02QUhHbjliNWtSTXlkVlI2TXVPeDlmc0ZJVDJJeFNwbUU2b1hvb3o?oc=5",
-          "source": "shinailbo.co.kr",
-          "sourceInitial": "sh",
-          "sourceColor": "#b03a6a",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-31T06:10:00.000Z",
           "tags": [
             "가맹",
@@ -67,9 +67,9 @@
           "title": "[ 2026년 9월 2일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlBKdHZPQ0x1WUdBWHVMVm5oQUhIczR0WVNfWC1yWHV5RDBXZnN2RkRmWTNIYzdoUXgyaWlnZnVHMHIyaVhsVmtJZl9UZWZROEN6dGNycjRQM2ZITU5sbGwxZXJJX2prQVFBRW4yakxxeUl3UWJZUlNaTXEwQXZLTEJDYUg5ZkprclF4dGhR?oc=5",
-          "source": "blog.naver.com",
-          "sourceInitial": "bl",
-          "sourceColor": "#1a7a5a",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-01T15:14:36.000Z",
           "tags": [
             "프랜차이즈"
@@ -164,9 +164,9 @@
           "title": "오뚜기, 즉석밥류 21개 품목 가격 인상···최대 29.4%",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQU9MVzY0dzU3Q0kwWjNGV3NfSndodVpNVkxRN3JxNk5obE9qd29pOXM0bDdQTU9BT1hGdXpxeFpKNWNJalpvMkc5ZFdfb1RZdjdBRThPUHc5eGZVenplWjdWT3NQUE1kT3c?oc=5",
-          "source": "서울파이낸스",
-          "sourceInitial": "서울",
-          "sourceColor": "#c98a2b",
+          "source": "seoulfn.com",
+          "sourceInitial": "se",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-01T08:17:48.000Z",
           "tags": [
             "가격"
@@ -206,9 +206,9 @@
           "title": "[국제] 日, 9월 가격 인상 앞둔 식품 5천 종 육박...올해 최대 규모 예상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TX3FYTDdTamgyV3VfTy1oZzFXOU5WLWIwOEtXaDRFdmxqcF82eWtmdS1SNmIxRWtVTDlfMWh5ZFFGdU5fcUhzZXVzLWVLY2hGWnlvTU1TNFdzNWpuaG5Eby1ibG9paV9remg5NtIBcEFVX3lxTE9UUVdhMVRsQ1VQcGw3X25Ia1JLQkR5NlJySC1xX1pKaEhTNVNlb0taY0E3cXlObXNSTENHVUczdmc4WXRkOTZ2aHBSeFNIMW5mX2FUQjRPcndBSTV4UTJDVWo4MzBfVjNYb2JKVmk2azk?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
+          "source": "nbnnews.co.kr",
+          "sourceInitial": "nb",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-08-31T13:08:00.000Z",
           "tags": [
             "가격"
@@ -269,22 +269,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 7,
       "items": [
-        {
-          "title": "해남 로컬푸드, 잔류농약 463종 검사…출하부터 유통까지 ‘삼중 안전망’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sUHEya1RBTlJ2RmZNX3dFaWNMTnV0ZjVOZEJfRmczZXUtb2ZOck1BLTU0WUZEQVVaNG9NeUhZcVZnZ1AtbGFBaVNyU2drS2l1RnF0VWhaN3oxMkFMTjlzSjYtZjdLLUxl0gFoQVVfeXFMTmxQcTJrVEFOUnZGZk1fd0VpY0xOdXRmNU5kQl9GZzNldS1vZk5yTUEtNTRZRkRBVVo0b015SFlxVmdnUC1sYUFpU3JTZ2tLaXVGcXRVaFo3ejEyQUxOOXNKNi1mN0stTGU?oc=5",
-          "source": "매일일보",
-          "sourceInitial": "매일",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-01T14:15:59.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "eaT, 급식 조달 안정성 높인다",
           "summary": "",
@@ -295,7 +281,7 @@
           "publishedAt": "2026-09-01T13:25:16.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "'강원 농식품대전, 2026 청정강원 대표 상품으로 시장 판로 대개척'",
@@ -358,13 +344,13 @@
           "feat": false
         },
         {
-          "title": "연간 4조원 공공급식 조달 플랫폼, 클라우드로 전환",
+          "title": "추석 성수식품 5800곳 점검 시작",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ZmhKc2tTWnlkS0d5TGxIY3BYdlZwYmVhZFVGR2xQWkhSdm5lMENYTzI4UHh0ZkR3R2JTZ1NJbVBIZktYc2V6ZWdSRTluVndiQ05PXzF1eElJRGxaa0JoX0dQV3lGTmVZT0xXUA?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-01T00:47:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9naldPR19DRnR2RTNZeFh1RHMyMlBuNVNvSE1GV0RUR042ZF9hRHM4QXdRYzhCRS1wMzZ2LTlpMy1iVTRNYkdwQkdqZ2tQUldnUjFwN201dGtYMm1PZUZLTy1NWHRTYzVrQnc?oc=5",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-08-31T14:08:50.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -443,6 +429,20 @@
           "feat": false
         },
         {
+          "title": "강우·폭염에도 작황 양호…8월 농축산물 물가 3.5% 하락",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZd2U3WnlockFySHdxa3h3T050TE1xb2xYLWY3ZXVVUFdkVlpaQkNJUmpDajl2ekQ1d0Y4aWRPR0pzRloyVk5PTWhNLUkySDZsencyN3ozSTBDaXhtcDh6bNIBeEFVX3lxTE1iNm5qQXdWYVJPN290OHYyZWFvTzBDaHNNX1VRY2ZOVjBxZjdXbzYxdmlCb2xEekhaVDVuM0U1REVDaWxkeWgtQ3VLOWlsZDVPUmVqTldkdHgtN3JrS2tUT0ExNENZcVIzbERpX29MRjR0aW1LZUVlUg?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-01T23:00:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "새벽배송 농산물·해외직구식품 검사 확대…내년 식약처 예산 8829억원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BU1h6YmE2VGRITzEzdTgyNk1JTGFhdkpqWWpyY0s4T3g4UV9HZ2FrTGptMTRaczBydjBmLUVWSnhlREU?oc=5",
@@ -483,20 +483,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"전쟁·폭염이 동시에 덮쳤다\"… 14년 만에 국제 농산물 폭등에 식탁물가 '초비상'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51SEpKSFVtdkRvSjVTUEdhdlBHeGw1eUtQT3FObkJoSUZyd1VwZnBlLUpMelpfQ1FNNWhqaXQwdG01TFpuSkZ5dTBpb2FoNG9YNmpqMVowTm1fSGhjQ2NDdjRBSUdnR2NoLWczdTNDWmNhczg?oc=5",
-          "source": "경제시그널",
-          "sourceInitial": "경제",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-01T05:59:31.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -515,9 +501,9 @@
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aW81VFRqU2ZMTzhUZFViTVNKaU8xaEc0VW92MG53cGxRTzBVODItUGdYcUV3SVozcEJrZHo0VXkwWHBrNWVWd2c2aF9ndXJKTlczeThscWNFM0dq?oc=5",
-          "source": "newspim.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c0392b",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T23:50:00.000Z",
           "tags": [
             "신제품",
@@ -544,9 +530,9 @@
           "title": "롯데웰푸드, 영업익 두 배 만든 체질개선…‘전국 맛집’ 담아 HMR 시장 파고든다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51X1RpNzdjMGtTcWhUTWNiakltdUF4b3NSdlliOWRWcWRVeGVkaFp0Mnh4ajE0TUpaSlZ6SkhtM21aMGJNWVg5UUhTaVZPU1RoOEhCcDY4bnJjQzdpYVZPZUpRcElIdmVvMmtEZA?oc=5",
-          "source": "업코리아",
-          "sourceInitial": "업코",
-          "sourceColor": "#1a7a5a",
+          "source": "upkoreanews.kr",
+          "sourceInitial": "up",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-01T02:55:16.000Z",
           "tags": [
             "HMR"
