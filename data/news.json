@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:39:50.282Z",
+  "generatedAt": "2026-09-01T21:10:35.503Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,16 +16,16 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 22,
       "items": [
         {
           "title": "맥세스컨설팅, 프랜차이즈 교육 44기 개강…본부 시스템·가맹계약 실무 교육",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IX0thMnByenZKQ0d1Q0hnRkxuaXk3amtpTGFDN1E5b0ZSLXhfbjdGVG50UzNybzRJSUlYcEhXRXh5RXZYaVhuVl8wb0NnSmdvckEw?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-01T09:28:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DYmdDcHMzSXB3SVptX04wcnNDNno5bDhfM0R3WHBHeTNjRUtnMWJQQzNMMjRrODRMYVFJZTdaN3VLeXhQYWxoNndreE1rX2ltOXMtU3Bsa0pOOFQ3UjRUa0hNeGt4bXIzY0RRZ3pZcHh6NElWNlFBd9IBeEFVX3lxTE1DYmdDcHMzSXB3SVptX04wcnNDNno5bDhfM0R3WHBHeTNjRUtnMWJQQzNMMjRrODRMYVFJZTdaN3VLeXhQYWxoNndreE1rX2ltOXMtU3Bsa0pOOFQ3UjRUa0hNeGt4bXIzY0RRZ3pZcHh6NElWNlFBdw?oc=5",
+          "source": "스타데일리뉴스",
+          "sourceInitial": "스타",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-01T09:38:00.000Z",
           "tags": [
             "프랜차이즈",
             "가맹"
@@ -67,9 +67,9 @@
           "title": "[ 2026년 9월 2일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlBKdHZPQ0x1WUdBWHVMVm5oQUhIczR0WVNfWC1yWHV5RDBXZnN2RkRmWTNIYzdoUXgyaWlnZnVHMHIyaVhsVmtJZl9UZWZROEN6dGNycjRQM2ZITU5sbGwxZXJJX2prQVFBRW4yakxxeUl3UWJZUlNaTXEwQXZLTEJDYUg5ZkprclF4dGhR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
+          "source": "blog.naver.com",
+          "sourceInitial": "bl",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-01T15:14:36.000Z",
           "tags": [
             "프랜차이즈"
@@ -85,6 +85,20 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-01T09:42:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "마이프차, ‘마이프차 AI’ 베타 출시…대화로 맞춤형 프랜차이즈 브랜드 찾는다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VHFyc01HMnBza2prVDZYUng1WjhSNC1QbkNBdndySWtVWmNSemZjWjh2U1VXSFp5a0JZZlpoSjJmLUtnWDBVOWVDUmY3S25UUWJBZWstQWFZcFZRUFdRckcwU3VKRkQxbFlYTtIBbEFVX3lxTE55VHFyc01HMnBza2prVDZYUng1WjhSNC1QbkNBdndySWtVWmNSemZjWjh2U1VXSFp5a0JZZlpoSjJmLUtnWDBVOWVDUmY3S25UUWJBZWstQWFZcFZRUFdRckcwU3VKRkQxbFlYTg?oc=5",
+          "source": "스타트업엔(StartupN)",
+          "sourceInitial": "스타",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-01T08:10:36.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -118,20 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 9월 1일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXhrVW1kcElULTFQTFZjNmlzdlVwQ211Ql9hblIxVlZIelBMZHhrY1RYNnNzN0pycHRqRkxMTmVEM1dQUHFJQThNcEhmTnVPZ1FGenJTTEZtMVFRdW9ZekttOTdBR0x2ZU9mb1NZeF80dXhqM1NncVpISEtCR3BUZl8yUm9hamdVU3hRdkx3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-01T02:52:10.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,23 +144,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 16,
       "items": [
-        {
-          "title": "\"원가부담\"…오뚜기, 편의점 즉석밥 가격 최대 29.4% 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NU0RPR1MtZ3hvR25Dd3pKR2FuTk9yOUNUZ1dGdzFxZFg0Y1M3NEVYZ1pxWnVqamMxZ2gwTXM1YTNMdkhIbVlVMV9JRmRPSWxha3dr?oc=5",
-          "source": "데일리안",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-01T09:08:00.000Z",
-          "tags": [
-            "원가",
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "공정위, 장류 가격 담합 혐의로 CJ제일제당 등 대형 식품업체 현장조사 착수",
           "summary": "",
@@ -173,7 +158,7 @@
             "가격"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "오뚜기, 즉석밥류 21개 품목 가격 인상···최대 29.4%",
@@ -183,6 +168,20 @@
           "sourceInitial": "서울",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-01T08:17:48.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "오뚜기, 즉석밥 가격 인상…편의점 최대 29.4%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZVm1hVTR2OC1mZ0JfbFBVWGZYSHhVMV9UazYxODJIeHhKU3Q5VmtkTGZLR1I0T05YS0VCSHA5QUluU3JtUWZDMktXaXJpQmJOUUpxMlJ1ZGlqQVo0eVNwcWxxYURKQ3M?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-01T07:25:17.000Z",
           "tags": [
             "가격"
           ],
@@ -232,6 +231,20 @@
           "feat": false
         },
         {
+          "title": "호치민시: 슈퍼마켓들이 9월 2일 연휴를 맞아 고객 편의를 위해 물량 공급을 늘리고 가격을 유지하고 있다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUVsbHV0VHZ6ZEdkbEdWaTRBcEZnbkhMSW5qTW9wTkdXa2gtR0JndVZQaDhNdWVvX1ZKbkQ5SUJ5Q3RFS3RIenlzTmRMRm01TXh0aTFGcHJ2STJaS3c0RmVzZTZzZWRoQmc3Y2UwVllfc0dvSWtEeHFDRVZKRlJUSVF6OGZqbE9DY0JDNGd2QmxLQ0FhX2ltR1ZGTkNMN25QaEQ3YllkeHpDWVE?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-08-31T04:09:16.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "코코아發 원가 충격에 유통가 '버티기 vs 전가' 갈림길",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SMlc1a3Uyc1RxQVdTVHNHMW95M1hMS1NYM3QzenhjTkZQdEF3d09tbjJ3Z0pFZy1oLWdKbE5qTEhFOUo1cEFtWm1zSk5JVVBaM2ZQV1BpaVJEcGNpNm9fWV9pQkgtVXdLM1Vv?oc=5",
@@ -242,18 +255,6 @@
           "tags": [
             "원가"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "공정위, CJ제일제당·대상 등 5개 식품업체 장류 담합 여부 조사",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZU50TlBaMENETzlSQnk0Y1M5eExUMEdMLVFLZjNxWHR2SUdSVlpQeFQ1dFdGc3o5WjRhNmJVZ2xQQkFCbjF1YzdhUjltZTdhV3RySTlVRm1XOEZWdkNSUTRLMGk?oc=5",
-          "source": "서울경제TV",
-          "sourceInitial": "서울",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-01T10:57:08.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -268,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "해남 로컬푸드, 잔류농약 463종 검사…출하부터 유통까지 ‘삼중 안전망’",
@@ -300,9 +301,9 @@
           "title": "'강원 농식품대전, 2026 청정강원 대표 상품으로 시장 판로 대개척'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DOEdiS21pNThrLVlmb2pDNEU1MnFLR3k3UGlYdUY3ZkIzZzNCMXNRak9wVnhGY1JVRFd6OGk3cEUzd01BUUVoYWtmMmN0cmJORHlqd1A4VUZLZHUzNS1McjVCcUJhOTQ?oc=5",
-          "source": "gokorea.kr",
-          "sourceInitial": "go",
-          "sourceColor": "#1a7a5a",
+          "source": "공감신문",
+          "sourceInitial": "공감",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-01T11:41:51.000Z",
           "tags": [],
           "price": null,
@@ -312,9 +313,9 @@
           "title": "aT, 공공급식플랫폼 AI 활용기반 구축",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DcWJmbXhmeExsS1kwT3dQQ09xOFJueUNxcUhseG56bE5Id3Zhc0Jrc3M1Q21sRXJtZk96UDhUV1FSSHpwdDk1QzBNSFRiU3BmREh1SXJocFQ5aFJBZGhpWlY4Z1kzUQ?oc=5",
-          "source": "coldchainnews.kr",
-          "sourceInitial": "co",
-          "sourceColor": "#1a7a5a",
+          "source": "콜드체인뉴스",
+          "sourceInitial": "콜드",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-01T11:28:36.000Z",
           "tags": [],
           "price": null,
@@ -379,7 +380,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 23,
+      "total": 25,
       "items": [
         {
           "title": "식약처 내년 예산 8829억원…AI 식품안전·바이오 규제지원에 힘 싣는다",
@@ -400,9 +401,9 @@
           "title": "\"추석 물가 잡는다\"…정부, 성수품 18만톤 공급·최대 50% 할인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Pc2V0RVhTak9wXzJEQVl5OHNkNm9XWkVsRW54VmdXc0pHVVR0bjR6TDNjdFFMSnBJdndUNjFuVnI3NkJwaUktN2hrMzlYNEd6cmM0?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-01T06:47:00.000Z",
           "tags": [
             "물가",
@@ -457,6 +458,20 @@
           "feat": false
         },
         {
+          "title": "추석 3주 앞두고 밥상물가 비상…시금치 183%·상추 78%·한우 17%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGcUNGQW12cllMb1JGM0RqWldOejdDVGdfa0lEZDl4Q09oZHlpT0VoMEhPY3hZcENrSEVqZUhhWGZ3YzRoWVV5TWJ2cGxOWXZJTUYxbdIBWkFVX3lxTE42TWZfUDJUWUxiMnlJdHFPVU5hOEtfSmU0aUZiSUx1czBhelRVOGRma2VNcWN3N2NNWm5STXEwR2NKR0JORTI4NlB0aWN0eTVmMTdNT2p0VW1tUQ?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-01T21:00:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "새벽배송 농산물·해외직구식품 검사 확대…내년 식약처 예산 8829억원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BU1h6YmE2VGRITzEzdTgyNk1JTGFhdkpqWWpyY0s4T3g4UV9HZ2FrTGptMTRaczBydjBmLUVWSnhlREU?oc=5",
@@ -483,20 +498,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "역대 최대 성수품 18.3톤 공급…추석물가 안정도모",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TTdiZnVlM1IzcFV1UzVFUWMtV09YcktrVXNvTlo5cFBDcVZCX2hSeVlBVzBHQjVTUExjSDZLT3pQc2RYS0JjLW9JZVdndkpBWFU4M2Q0TE8wOHZ0WW1Nbl85azZES1Jv?oc=5",
-          "source": "금강일보",
-          "sourceInitial": "금강",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-01T07:16:53.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -515,9 +516,9 @@
           "title": "프롬바이오, 신제품 '패밀리 365바이옴' 출시…건기식 포트폴리오 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aW81VFRqU2ZMTzhUZFViTVNKaU8xaEc0VW92MG53cGxRTzBVODItUGdYcUV3SVozcEJrZHo0VXkwWHBrNWVWd2c2aF9ndXJKTlczeThscWNFM0dq?oc=5",
-          "source": "newspim.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c0392b",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T23:50:00.000Z",
           "tags": [
             "신제품",
@@ -586,9 +587,9 @@
           "title": "유한양행, 관절•연골 건강기능식품 ‘유한콘드로이친1200’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZVRVblE3alBJM2NTb1FPWVQyZVg2NUhNd2l2SVdqb1BNQ3ViLVJjeWxSNVdnSXp0NVFPNXA4TWhZeGpsUS1zVkFKdDdYOXR6OVpVTTdlWTQzN0o5a19icnVpeTBKb0N5SDlZ?oc=5",
-          "source": "한국의약통신",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a4d8f",
+          "source": "kmpnews.co.kr",
+          "sourceInitial": "km",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-08-31T09:00:50.000Z",
           "tags": [
             "출시"
@@ -614,9 +615,9 @@
           "title": "카페일리터, 12시간 저온 숙성 닭가슴살 담은 ‘풀드치킨 샌드위치’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5NGRpOFJnWTNpWUh1TmxfN0ZRMkcyN280OTd4MTJfMHlUTDRXQjJHUmZiQlp3QXNtNHN0eVhhMTBfMWFVcTBVUzZ5MkVIZVN1NHA1aTk4OTJtZmVPd3hLWnhxdU14cnZi?oc=5",
-          "source": "gokorea.kr",
-          "sourceInitial": "go",
-          "sourceColor": "#1a7a5a",
+          "source": "공감신문",
+          "sourceInitial": "공감",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-08-31T05:30:58.000Z",
           "tags": [
             "출시"
