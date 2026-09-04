@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:47:07.345Z",
+  "generatedAt": "2026-09-04T22:08:53.770Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -40,7 +40,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-04T15:09:55.000Z",
+          "publishedAt": "2026-09-04T21:09:55.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -142,22 +142,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 10,
       "items": [
-        {
-          "title": "기름값 뛰자 식용유·설탕도 상승…세계식량가격 2.4%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uY05PVnJqbllIU21td2JKeXh6Ti1YUXFiNWkzTFRUcUQzc1N5TlV2LWJvZzlVaEhzSnYtSmNiRDhmdkhCbHBiWEJfZVhES0dBTnpOd0wteERqN3MwOTFPS0dlSQ?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-04T04:31:16.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "미국 경유 가격 사상 최고...이란 전쟁 후 55%↑",
           "summary": "",
@@ -170,7 +156,7 @@
             "가격"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "“품질과 가격을 동시에”…7~10일 '추석맞이 온라인 한우장터’ 주목",
@@ -190,9 +176,9 @@
           "title": "오뚜기밥도 올랐다…편의점 가격 최대 29.4% 인상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX1RKVHRzdWNfMzJkRmJLX283UUU2VXZiLWtyY1h0TDRDaERIMVdtSjRFSjJFRTdYdW9nV3JmUXNTRjJndmU2TnFmZlVyV1hzMFNRTFp4VndTbkh6aV9KaV9uZnlBano1LWxwSNIBcEFVX3lxTE5uaFJBTC1QVU5UYmRETzdSS0pQa0NEV3dBSE5LYkc0R0RacHFyN2pvSDBlYjJvMmFLbk1CeWZNZnhkNTNXMDBmZ015cHVoN19UMEJTMWpoZkdjU05OdWs5V3RUVGxKNmV2ZmJ1dy1KVFM?oc=5",
-          "source": "namdonews.com",
-          "sourceInitial": "na",
-          "sourceColor": "#3a6ea5",
+          "source": "남도일보",
+          "sourceInitial": "남도",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-03T08:38:45.000Z",
           "tags": [
             "가격"
@@ -208,20 +194,6 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-03T07:58:48.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "투썸, 가을 맞이 신메뉴 3종 출시... 메뉴·가격은?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KTHZIZmZJYmJxaU12YmlnMnZNSUhwOUJPTEk5RlEycDZpMWhEdmQxeDZQc1ZqYk45LWx1dVkzZHlXLVFBaHRVVmQ3a1RvNzdnNlhMNXZObE5KN2lWdE5NV29TalVUbndKR2c?oc=5",
-          "source": "금강일보",
-          "sourceInitial": "금강",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-03T05:11:29.000Z",
           "tags": [
             "가격"
           ],
@@ -250,6 +222,30 @@
           "sourceInitial": "이로",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-04T09:19:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "우린 왜 중국 김치 33만톤이나 먹나?",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uaVR4Y0xFNzJwUUhwR2RyRkgyUnVaR19fYTRLa2V5QUFIVVkzUUM3SmVFVXdBVmNHM1JBekVDTzhpZy1rTi1OaDNKWGNEQThWUWpPcFlKR2tILU9SeElQRG1R?oc=5",
+          "source": "쿡앤셰프",
+          "sourceInitial": "쿡앤",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-04T06:27:57.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "8월 농축산물 물가 3.5% 하락…전체 소비자물가 상승세 완화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Hbm1DelpBQm1ZdWU1U0lqTC1DdUxHX09ER0RidXFOd2lnbGVUT0pVN3c3eTNMeDVFM0JDZ2R0VjhvLWtoRzdJUWV5Tkt0MXdXR3dvUExrR3hldzBNdGtHNlNfSGMzaU5UdFdhbNIBcEFVX3lxTE9Wa1FxRDhBaFhlWGliNWZ5b29EVmVraVhJV0Z4aXc5WjB5ZmtlRFlTb3c4QWF4UmxQdm5HeFZCb1hXeHlySEg1S2FNNTlwaU9OMXY5d3lfaVA2QzBNbkQ2cGpXRkoxNk1pN2gxMUJsV3I?oc=5",
+          "source": "포커스경제",
+          "sourceInitial": "포커",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-03T03:40:42.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -384,8 +380,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 8,
+      "total": 11,
       "items": [
+        {
+          "title": "추석 물가 “꼼수 막는다”, 정부 3일부터 대형마트 등 ‘가격표시’ 확인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OSlJxMWZDU3lrOXBKN19rQkhabGV3NFluZWxSWURwVUI3ZnhJSnNmMEliZEg1dFA3ZnBEajhUSHB5QjNCemlGTnlkRmE2Tm1EVXZFbmQ2TG9DWVU?oc=5",
+          "source": "에너지경제신문",
+          "sourceInitial": "에너",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-03T04:53:57.000Z",
+          "tags": [
+            "물가",
+            "정부"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "추석 앞두고 물가 비상…정부, 1030억 풀어 ‘장바구니 방어전’",
           "summary": "",
@@ -399,7 +410,21 @@
             "정부"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "전국 세관, 성수품 신속 통관 24시간 지원…물가안정 품목, 수입신고 지연 시 가산세",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lb0IyWEVNWmlFTmVlYVc2ZEpCTkx2cUZqUFRLVmlpWnJtUnJuM010ZDRacEdLQU1tUS01VHpMUGladTRkNERSRmQ2SFdSeEM3dEZRcllIeDliRXBOT00zNFQ4cV9JdHZTNjliUjJR?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-04T06:24:24.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "농업소득 ‘30년 제자리’…생산·유통·수급·직불 등 종합해법 필요",
@@ -430,13 +455,13 @@
           "feat": false
         },
         {
-          "title": "다시 3% 뚫은 물가, 올해 2.6%로 억제 가능할까…경제팀 시험대",
+          "title": "다시 3%대 올라선 물가…올해 2.6% 목표 지킬 수 있을까?",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YU1FZMUFCdGl5R01EX254clBjSFhRRkxjdzJyNm05QjdmNVV6RkFmbnVmTE9JclRYNDJLeW5hX2hHWnJxSGJQVkFZblpPZFRDNXRwRmdISXFEQXZ6QV9KYngtVkNRZ0FMTExBc1Z0bFNnMllOd1V5adIBeEFVX3lxTE5YU1FZMUFCdGl5R01EX254clBjSFhRRkxjdzJyNm05QjdmNVV6RkFmbnVmTE9JclRYNDJLeW5hX2hHWnJxSGJQVkFZblpPZFRDNXRwRmdISXFEQXZ6QV9KYngtVkNRZ0FMTExBc1Z0bFNnMllOd1V5aQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93Q1p2Q2VkWXVXTDZVMHg0U3BIUndUemhtWmMwNlhXdV9NR204MDNFcGlFTFM0Nm0yMG9Xc2NuWWF0WXAwZ0EwU1VETE9ueFByZWwzRExGZ081SGttc2M5MGowWXgzRmdUWk9z?oc=5",
+          "source": "서울뉴스통신",
+          "sourceInitial": "서울",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-03T00:29:07.000Z",
           "tags": [
             "물가"
           ],
@@ -466,30 +491,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "서비푸드, 신비바이오·고려대와 3자 협약…AI 식품 배합 설계 상용화 나선다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ed2o3djFFbjBieDE1MkZwdnIzZnl3VV94R0YtYmdsckF5TGE0V3Z0WmsteU9rSWhvU0NhcUhSTTJob1hIN3hZYm5nLVduMmNCdGNIN3VDbmR6Y2FIZlZhNXlYX19RTjg3SmtMRdIBbEFVX3lxTE5Ed2o3djFFbjBieDE1MkZwdnIzZnl3VV94R0YtYmdsckF5TGE0V3Z0WmsteU9rSWhvU0NhcUhSTTJob1hIN3hZYm5nLVduMmNCdGNIN3VDbmR6Y2FIZlZhNXlYX19RTjg3SmtMRQ?oc=5",
-          "source": "startupn.kr",
-          "sourceInitial": "st",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-03T07:00:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "대중국 식품 수출업체 명단등록 어떻게 하나…11일 설명회",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53U1BCMmtjVzZHWGJJb3JydXV5emR3RHpEd2o5bU8zQzY5cG9rYjdxcjlUUnVPakdQNkEwZjdZRXRtdHdBU0Z0OXBHTWxjdGRBb0ZmNkFXVVhRYWlZSDItNVlRZXNWdkRZUnppUg?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-03T02:17:38.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -502,22 +503,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 9,
       "items": [
-        {
-          "title": "정관장, 한정판 건강식품 출시…천삼·금박 패키지로 500개 한정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRTVaVm5YSjYtQWdjQ0RtcEVjNVVXRlZ6RnMxYlFkeXpKT0duTDVCTTR4UkdjYWd6OWI5LWpwRFRsY2ZuWDBqdVJBR2ZSRlZxTjdKUHZ2VjVCczRUSHA2TDFpYWVaSTJOUzIyWHdB?oc=5",
-          "source": "gukjenews.com",
-          "sourceInitial": "gu",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-04T12:45:46.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "롯데웰푸드, 냉동 순살치킨 '쉐푸드 치킨' 4종 출시",
           "summary": "",
@@ -530,7 +517,7 @@
             "출시"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[유통 돋보기] 식품ㆍ생활업계, \"신제품ㆍAIㆍ디지털 마케팅 통해 소비자 접점 확대\"",
@@ -556,20 +543,6 @@
           "publishedAt": "2026-09-03T07:45:00.000Z",
           "tags": [
             "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "메가MGC커피, 가을 라떼 2종 출시... 하우스밀크·무카페인 오르조",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BS2xpaUxCVXZwdmVZdzJmTVhDU0l4d01BVlNrcm5MeGdDRDI4RnZsOGYxNWZIcXJzUDEtTURxTTBOb25Zek5PUklENlRWMFY2WjF6QWR0N2kxRzRMTlpQXzlLM2VPZ9IBakFVX3lxTFBFVnhUUmlneHI0a1dycUhCc2huRmVDY3lBbHJST1lJZGhWWWxVWjRCd0M5S2JzNjFndmhUNjRNNWs2TEtLMlJ4U1psTDVLRGNOTFRxYkR3VmFPY0xwNWRGbE5mcDZ3eDF5WWc?oc=5",
-          "source": "newskr.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-03T04:54:37.000Z",
-          "tags": [
-            "출시"
           ],
           "price": null,
           "feat": false
@@ -606,6 +579,30 @@
           "sourceInitial": "핀포",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-04T02:39:44.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[2027학년도 대학 수시모집] 대구한의대, 식품산업학과 신설…K-푸드 급성장에 대응",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbmtGN09JazdRUFlGRy1SVlJCNFhFN0szOGxqdWRmaTZkSmR2QmNEX2g2LWhXdm00Y0pQUWVRODJ5S281Vi0wQVVINXdzc2FhUm9N?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-04T02:05:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농식품부, K-푸드 수출 160억달러 목표 총력전…하반기 'BOOST' 가동",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sT1Rfamk0YnVIYXd0bmFCMjZOb3ROcG9kWWRjS1ZteVNCWmhqSHlrRnU4YnFvSE1FR1F5eVl0TENOS2FRVlZGcEQ2WllkY0NPZ3h1a3BJOTJlZXJPUGZzLXFhaTd5aVk?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-03T05:24:45.000Z",
           "tags": [],
           "price": null,
           "feat": false
