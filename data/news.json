@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:29:17.081Z",
+  "generatedAt": "2026-09-05T19:22:09.437Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -74,8 +74,8 @@
           "title": "농식품부·aT, 호주 최대 식품박람회에 한국관 운영... 4166만 달러 상담 성과",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RWhPTm5xZV9XNGdiUkNqRlRHek9OajhlQmMtQ0VBcGdwajdqMVU1T1Fmbm5ZdHFtVVpIcllCNXhWR1FISTY2a2pLb1JfdjRuNm5oQkZ1eENjaGVrTUdjVW14Ni01ekFMSHQ1cw?oc=5",
-          "source": "foodicon.co.kr",
-          "sourceInitial": "fo",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-04T04:01:02.000Z",
           "tags": [],
@@ -210,26 +210,12 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 4,
       "items": [
-        {
-          "title": "Y마트까지 들어오면 누가 살아남나, 화순 유통시장 ‘제 살 깎는 출혈경쟁’ 예고",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sVm55Zm9qQ01Gb2gzR0lHRWRweUdHNlJlQnFaTUhRV05maHRPYWVhT0hyVFVXNmx3YUlSV2g4bmNDcGlTdjlKSlBMeUlQVk1aanIwUkVfRHJEUDRXRml2ellJU0ZWSzI4SXNDZlpGb2h5dnPSAXdBVV95cUxPSldjZUpaRUIzQjFPc0JOa3E2Z2VRUDJPUnNqVUV6QXpEWUozb2V2UmxEcFpVa3dWamFKeUQ2eC14WVpkbDRwREk2Q3ZpU2xyNnJ5SkREZHR3VlJfX3NRVVhzTzlLczZPelZ4Q3NIZXpBTDJvYW01NA?oc=5",
-          "source": "한국시민기자협회 뉴스포털1",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-04T11:19:39.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[유통명가 DNA] 하루 100만명 식탁 책임진다…아워홈이 쌓은 42년 '한 끼 시스템'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HSVZHVU9HTGpFd1kxRmllTWtKSnZ5SjQ0TmdFSjM2aExlejlWelhrVUd2bHRpRHdnOTczMlc5TEV5RFZEZWZTc0Y3N3VDdjRUWnRN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQS1YLW4yblBBWGU2TXpIbmM5Rk1DYnBpMWpXc2lOVU85bEIyQXJ6c3d1Z3NvbENrbktjUTE3MmtTcjEyM2piMzRhQ3JKUS1JMXFZSGVHQmN0UEdhWU5oY1RJUFFiSDRISHFTWUUtTHZlcjQxN0NtMQ?oc=5",
           "source": "네이트",
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
@@ -238,7 +224,7 @@
             "유통"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "프랭크버거, 생산 자동화·품질관리 강화…HMR 사업도 확대",
@@ -265,24 +251,12 @@
           "feat": false
         },
         {
-          "title": "‘호주 국제식품박람회’서 4166만 달러 규모 K-푸드 수출상담",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Yd2tYM3lfVnVKMTdWMExzQ21EaWkyeXhvSHFtSUNtMVlMVmp3cEVidWw1WTBObmJ4cmxoUTMtUER4YnJlZ2pVdUVFNnFBcWlkVmFNWkY1T1lMUU1LUHkxR2hzSDhTWHp5SDZzcg?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-04T02:49:25.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "aT 공공급식통합플랫폼, 클라우드 네이티브 전환 착수",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TcElBZWhyNGRWbHdKUXNVVGhyTkRfU0dCbjVqMkFPMTF1TnFIbUVyRnlMbUd1MzNDYWVXN0VpRzdXSU9zd3dEVVBHaUtneHZOVXRHQkUwNVNzdUZTY0o2WUwzczBvX01naTEzSg?oc=5",
-          "source": "nongupin.co.kr",
-          "sourceInitial": "no",
-          "sourceColor": "#1a4d8f",
+          "source": "농업인신문",
+          "sourceInitial": "농업",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-04T00:35:30.000Z",
           "tags": [],
           "price": null,
@@ -319,9 +293,9 @@
           "title": "농업소득 ‘30년 제자리’…생산·유통·수급·직불 등 종합해법 필요",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85NVY4TjdOeWtUTm04Uy13aS1ZWFpzbTd3a01zLXNXSVFuazhKU3lKY0N0UG4xN1paUFhqbzBnU0NId05ZZ3VSWDRBZGpFRWhIdHFzMVdIR0hZUFBtZzExT3ItMzQzYVljM3NWTGt3?oc=5",
-          "source": "nongupin.co.kr",
-          "sourceInitial": "no",
-          "sourceColor": "#1a4d8f",
+          "source": "농업인신문",
+          "sourceInitial": "농업",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-04T03:58:03.000Z",
           "tags": [
             "수급"
@@ -345,8 +319,8 @@
           "title": "미 FDA, 신선편이 농산물 안전관리 지침 확정…“세척수 교차오염 차단이 핵심”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iOFh1dUJuOWtXYzh2dGVHTE9uV29tVExIa1JRQUI3VHI5SmpfWHRQRGNQMm55dEx0ZU5TaERjbkJnUUNaaXNjWHBTU1JLb2xNWUozYkNJTUw4WmNFWmZ0bkJYcERGRXB4S1g4OQ?oc=5",
-          "source": "foodicon.co.kr",
-          "sourceInitial": "fo",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-04T08:21:57.000Z",
           "tags": [],
@@ -357,9 +331,9 @@
           "title": "호치민시: 402개의 재래시장 중 47곳만이 식품 안전 기준을 시범 운영하고 있으며, 약 1,200개의 샘플이 기준을 충족하지 못했습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVQtZGt3Tk9DMzQ0ckpVS05lN2k5QzlNN21JQkp1aDlGbVdZN2Qtek4xR25jTkxxM3NUTnVPMjZHZkFuYk56ZllBZWNBUlVlZUgyakVDTmZkVHlNblQ4MTRSMGdoVGpkMktkTkROanRjSW5rNmVrLUhkRlhYWklhMVRtNlhOYkFGVHJITXlSN1NhZEpKY1VjV1NlTFZxcG9xVEUtTHppWWpyYm5uT2JvUVNR?oc=5",
-          "source": "vietnam.vn",
-          "sourceInitial": "vi",
-          "sourceColor": "#c0392b",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-03T19:33:44.000Z",
           "tags": [],
           "price": null,
@@ -376,22 +350,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
-        {
-          "title": "건강식품연구원, ‘울트라 브레인 포스파티딜세린 PS ’출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOU82NS1oM19xLWVSbEdHZXBpWU1iUVdkMTRleXVpckVUdkdGbWFkUlRUOElaZllRZUxsdkdtLWxuNjhIaGNIeVpjVmV0OG9BQzNETDAxM09nM2QtbjFxaVlrX1MwRWw4OGpMS3l4ZHJ3WlVRa0xOS2d1aHpiUGp5ZzhncW1SSl9YODJ5NjFyNW94RmFYdXU5a2YtQmtJZw?oc=5",
-          "source": "약업신문",
-          "sourceInitial": "약업",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-05T09:21:51.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "정관장, 한정판 건강식품 출시…천삼·금박 패키지로 500개 한정",
           "summary": "",
@@ -404,7 +364,7 @@
             "출시"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "롯데웰푸드, 냉동 순살치킨 '쉐푸드 치킨' 4종 출시",
@@ -476,6 +436,18 @@
           "sourceInitial": "핀포",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-04T02:39:44.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[2027학년도 대학 수시모집] 대구한의대, 식품산업학과 신설…K-푸드 급성장에 대응",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42cG45eURxcENocjZIcEVuQXcyQVdrYmtNd0pGUWhMcmwwNmkySDR4ZWlLNENfeUptWDFZQUwySkFmUG9VcGMxbkk5b3d1UGM5SkEw0gFTQVVfeXFMTjZwbjl5RHFwQ2hyNkhwRW5BdzJBV2tia013SkZRaExybDA2aTJINHhlaUs0Q195Sm1YMVlBTDJKQWZQb1VwYzFuSTlvd3VQYzlKQTA?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-04T02:04:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
