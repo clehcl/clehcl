@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:22:09.437Z",
+  "generatedAt": "2026-09-05T21:30:41.388Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
+        {
+          "title": "\"K-프랜차이즈 통했다\"…'IT 전문가' 美 오하이오주 파리바게뜨 매장 오픈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GMWNIOFd1cDlXLVZvWVNMV1JGQW0wcUQ0UWNCdFZpMmNodGgxdEV5dy1nVjQ1N0d4S3BiQjhLN0I1UGFTZGlMcHY2QVZmT081YjdDckFVOHpWc3BjZ1FmU0FWNl9HQQ?oc=5",
+          "source": "더구루",
+          "sourceInitial": "더구",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-05T21:00:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[ 2026년 9월 5일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -30,15 +45,15 @@
             "프랜차이즈"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "큰맘할매순대국, 1인 식사 수요 확대…국밥 메뉴 선택지 넓혀",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sY3ZzcnN0aFJUOUd6ZGNDMllhbVZ2bEJxcEhwYkRFNkwxQVJHVFZTc1ZwdmFFNWhKUFFmOXlPMzVUWjVSQV8xWHUyaUlaRVZleTZ6QVRYdkxORTZqbWlGc0NNSW5oRHYwRldPOHNCaw?oc=5",
-          "source": "스마트경제",
-          "sourceInitial": "스마",
-          "sourceColor": "#3a6ea5",
+          "source": "dailysmart.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-04T01:10:16.000Z",
           "tags": [
             "메뉴"
@@ -65,7 +80,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-04T18:45:35.000Z",
+          "publishedAt": "2026-09-04T12:46:35.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -141,9 +156,9 @@
           "title": "“품질과 가격을 동시에”…7~10일 '추석맞이 온라인 한우장터’ 주목",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeUc3bzFkZ1V2X3lKb25uSFMzM0VpVl9yOUZwXzd1Tmo3MnNUSGJVbWFWbUR3UnVSZGRrZDVZeEVEYUh3T3hBRG1VUUhTTmNWVTYzdnltVlppUQ?oc=5",
-          "source": "농민신문",
-          "sourceInitial": "농",
-          "sourceColor": "#2f7d4f",
+          "source": "nongmin.com",
+          "sourceInitial": "no",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-04T00:03:12.000Z",
           "tags": [
             "가격"
@@ -167,9 +182,9 @@
           "title": "“소고기 대신 닭고기”… 1인당 연간 42kg 소비",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaDVEQ3R3VWRlTnN0bjhKZkZvZjI5bmxUd3IydzZBV0ZSYVJRYTZhcmMzbGxNOU1pckRWNTcydnJ3RnZtWnkza0I1RndhWS13bUJlV1FCUTkta1BVUEJtbTV3b3B6WHUtVWYzUGM3UDZ1aFNoZmdzTHZTbUJqR20zdXE2cXAtanVxdDRKemlhSzVseU8ybEwwc3JtUk90UFBuSjNkclBlZk1fSUJOcFI4RFVpSmx0dGJvVm5RSjdRMTdWRktoQWN2TlBHWVJFUUVFaEJ2MjNWNjlmWFc4d255ZzY2QnpQeGEwSU5fLUE2dUlnOXB4dTlGV3BhdWM4U3picnc?oc=5",
-          "source": "위클리코리아",
-          "sourceInitial": "위클",
-          "sourceColor": "#b03a6a",
+          "source": "weeklykoreanz.com",
+          "sourceInitial": "we",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-05T08:32:49.000Z",
           "tags": [],
           "price": null,
@@ -210,12 +225,12 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "[유통명가 DNA] 하루 100만명 식탁 책임진다…아워홈이 쌓은 42년 '한 끼 시스템'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQS1YLW4yblBBWGU2TXpIbmM5Rk1DYnBpMWpXc2lOVU85bEIyQXJ6c3d1Z3NvbENrbktjUTE3MmtTcjEyM2piMzRhQ3JKUS1JMXFZSGVHQmN0UEdhWU5oY1RJUFFiSDRISHFTWUUtTHZlcjQxN0NtMQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HSVZHVU9HTGpFd1kxRmllTWtKSnZ5SjQ0TmdFSjM2aExlejlWelhrVUd2bHRpRHdnOTczMlc5TEV5RFZEZWZTc0Y3N3VDdjRUWnRN?oc=5",
           "source": "네이트",
           "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
@@ -246,6 +261,18 @@
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-04T04:13:40.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "‘호주 국제식품박람회’서 4166만 달러 규모 K-푸드 수출상담",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Yd2tYM3lfVnVKMTdWMExzQ21EaWkyeXhvSHFtSUNtMVlMVmp3cEVidWw1WTBObmJ4cmxoUTMtUER4YnJlZ2pVdUVFNnFBcWlkVmFNWkY1T1lMUU1LUHkxR2hzSDhTWHp5SDZzcg?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-04T02:49:25.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -304,6 +331,18 @@
           "feat": false
         },
         {
+          "title": "비료 36% 줄이고 물 90% 아끼는 정밀농업, 한국 식탁과 농촌을 어떻게 바꾸나",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xUS1rSk9ndFd1RWZhVHNLMDdTN3ZsTUlieWs4elc0MU14R3JPa1d1bmZ3VGJjdXFIUy1XMllnUnAzMk52Zkg4Qg?oc=5",
+          "source": "얼리어답터뉴스",
+          "sourceInitial": "얼리",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-05T20:46:10.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZFhVT05XQ3VqOTV2WnlXLUxzWjVZQWJxdllsNk1CbFFUSzdZMExlZ0JpaUZ4MUc3VkY2c2JscHg2Mno5cWVfekMxN1hJSzBQLVBPR0U5cTkzOVdrWm45azRn?oc=5",
@@ -326,18 +365,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "호치민시: 402개의 재래시장 중 47곳만이 식품 안전 기준을 시범 운영하고 있으며, 약 1,200개의 샘플이 기준을 충족하지 못했습니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVQtZGt3Tk9DMzQ0ckpVS05lN2k5QzlNN21JQkp1aDlGbVdZN2Qtek4xR25jTkxxM3NUTnVPMjZHZkFuYk56ZllBZWNBUlVlZUgyakVDTmZkVHlNblQ4MTRSMGdoVGpkMktkTkROanRjSW5rNmVrLUhkRlhYWklhMVRtNlhOYkFGVHJITXlSN1NhZEpKY1VjV1NlTFZxcG9xVEUtTHppWWpyYm5uT2JvUVNR?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-03T19:33:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -350,8 +377,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
+        {
+          "title": "건강식품연구원, ‘울트라 브레인 포스파티딜세린 PS ’출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOU82NS1oM19xLWVSbEdHZXBpWU1iUVdkMTRleXVpckVUdkdGbWFkUlRUOElaZllRZUxsdkdtLWxuNjhIaGNIeVpjVmV0OG9BQzNETDAxM09nM2QtbjFxaVlrX1MwRWw4OGpMS3l4ZHJ3WlVRa0xOS2d1aHpiUGp5ZzhncW1SSl9YODJ5NjFyNW94RmFYdXU5a2YtQmtJZw?oc=5",
+          "source": "약업신문",
+          "sourceInitial": "약업",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-05T09:21:51.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "정관장, 한정판 건강식품 출시…천삼·금박 패키지로 500개 한정",
           "summary": "",
@@ -364,7 +405,7 @@
             "출시"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "롯데웰푸드, 냉동 순살치킨 '쉐푸드 치킨' 4종 출시",
@@ -436,18 +477,6 @@
           "sourceInitial": "핀포",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-04T02:39:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[2027학년도 대학 수시모집] 대구한의대, 식품산업학과 신설…K-푸드 급성장에 대응",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42cG45eURxcENocjZIcEVuQXcyQVdrYmtNd0pGUWhMcmwwNmkySDR4ZWlLNENfeUptWDFZQUwySkFmUG9VcGMxbkk5b3d1UGM5SkEw0gFTQVVfeXFMTjZwbjl5RHFwQ2hyNkhwRW5BdzJBV2tia013SkZRaExybDA2aTJINHhlaUs0Q195Sm1YMVlBTDJKQWZQb1VwYzFuSTlvd3VQYzlKQTA?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-04T02:04:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
