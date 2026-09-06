@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:38:02.365Z",
+  "generatedAt": "2026-09-06T18:03:06.256Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -297,7 +297,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "농식품부, 추석 축산물 이력·원산지 합동단속…1000곳 점검",
@@ -328,39 +328,25 @@
           "feat": false
         },
         {
-          "title": "8월 농축산물 소비자물가 3.5% 하락…추석까지 물가 관리",
+          "title": "폭염에 닭도 계란도 비상… 3년 만에 다시 30만 원 넘어선 추석 차례상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54anhHX2lzbG9OR2Jkc0ljUHpqcVV0Z2NOdEZ5VVlGOVFpNnZWZE9FajVSV2dTc3QtU1NXQkgyc2Q5LTlDVUNVbW9YN2NkRTRWLVk3ZjNFd0Y0NVU2RWxjcUlzMThvMWNMTXdiMg?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-04T17:32:08.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CSWdYbklsUWpXaFFrMGJFNEQtTmdCSW8xTHM4UmtYTHVoZ3F3Q21vaHhzbm9FZFdUVUxib1FnTDNsaTRvSUZKYXR5RHVYS1VZR0pGRTZ3?oc=5",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-06T03:02:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
         {
           "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83a0Nlc1RIcFByakNxTTJjRUh3YkFtQ01NN19DS3B6S2pOODFleUlhaHhERVV2YV9hRkIza2hwXzRXOTdPSnV0eGpybmFZd0w5QXJoNlFjOE40N1ZqdXRtQnJ3?oc=5",
-          "source": "go.seoul.co.kr",
-          "sourceInitial": "go",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-06T10:07:08.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "폭염에 닭도 계란도 비상… 3년 만에 다시 30만 원 넘어선 추석 차례상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CSWdYbklsUWpXaFFrMGJFNEQtTmdCSW8xTHM4UmtYTHVoZ3F3Q21vaHhzbm9FZFdUVUxib1FnTDNsaTRvSUZKYXR5RHVYS1VZR0pGRTZ3?oc=5",
-          "source": "wikitree.co.kr",
-          "sourceInitial": "wi",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-06T03:02:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZFhVT05XQ3VqOTV2WnlXLUxzWjVZQWJxdllsNk1CbFFUSzdZMExlZ0JpaUZ4MUc3VkY2c2JscHg2Mno5cWVfekMxN1hJSzBQLVBPR0U5cTkzOVdrWm45azRn?oc=5",
+          "source": "서울Pn",
+          "sourceInitial": "서울",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-05T05:06:50.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -405,13 +391,13 @@
           "feat": false
         },
         {
-          "title": "'민음사 빵' 다음은 '영풍문고 파스타'…소설·만화 속 음식을 뷔페로 [푸드360]",
+          "title": "‘민음사 빵’ 다음은 ‘영풍문고 파스타’…소설·만화 속 음식을 뷔페로 [푸드360]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xbmpHeVhKYk5DTXoyQ3dfeVdyZ1FWY29kSDJnSjc3dGhOeGx1ZUVEVTFJZWQ0WU83dWpLaG50UFVsMzIzUkR2ZC1DMHUzZ3NCUXJ3?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IVmFlMXNua1BoQVlkcTNXRll0bl9vbXRWclQ2RlNHbGcwWXk0c2xnNEtjUHBRQXlFaGlSQTNWaHNmeUNMRXB0eTM5RGMwQ1k?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-05T00:31:00.000Z",
+          "publishedAt": "2026-09-05T00:31:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
