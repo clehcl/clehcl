@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:52:07.056Z",
+  "generatedAt": "2026-09-10T05:38:37.190Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,19 +16,19 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 19,
       "items": [
         {
-          "title": "4900원 국밥에 한식 메뉴 결합…'길조아리랑콩나물국밥' 가맹사업 모집 : 네이버 블로그",
+          "title": "[이준호의 N잡러칼럼] 커피산업(2), 커피 프랜차이즈 30년, 성장의 그늘, “가맹점이 살아야 본사도 산다”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTJXaTJDSVdHV3VKNjNfUGN0eXVsT3ZRZmRqaUFzeVJEUUtUNEpabDZYMkFfZnVvN2pVdXRxQ0pCT3cyZG16c2Z6ZEZZcDd1OWtteERuajZGb0oxRk1DdUdud0RCNHZTTFFfbVZOY1VLWEZCWEVHLUxkNGFsVXIzbTlucnl3RkdhbS1mbXB3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-08T12:21:14.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHa2RTbDUtcnhFaHU4S0tnaEhNVF9ReU5mQlg3UURsWS02QzFhMEdBZm5qUlJrVmhGeFdBUlpqMnRENjRPaXRqOGNzUll5OGZWNUE5aENQemNGa29ZZWxQdURDZjFTNmEy?oc=5",
+          "source": "경인매일",
+          "sourceInitial": "경인",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-09T00:00:00.000Z",
           "tags": [
-            "가맹",
-            "메뉴"
+            "프랜차이즈",
+            "가맹"
           ],
           "price": null,
           "feat": true
@@ -67,13 +67,55 @@
           "title": "가맹법 시행령 마감 임박…프랜차이즈업계 \"4대 독소조항 손봐야\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRHJWYTgzWmozUnZhYjNyVzlvNDB4UFp1S1pDNk41OERnSXNITVNZUzdZa25zRFc5WllUTHF1Zkw1VEJsRmd2SlZQcnI1RlRwTFhV?oc=5",
-          "source": "Nate News",
-          "sourceInitial": "Na",
-          "sourceColor": "#1a7a5a",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-08T05:42:00.000Z",
           "tags": [
             "프랜차이즈",
             "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "하남돼지집 ·피자먹다 등 K-프랜차이즈, 중국 시장 노린다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Wm4tdHBuUjl2b0k5b0VFWWRGUGx2a1VIWThacVdXNDNzYVltNS1Yc0xSUXRKWTJvUDdoaTVxV0pieEdGVXYzOXd6RVRMbkJUYUlFalZnT3BFZkt2ajJ6LXdzZXpVaFkzUFhYNlZlWDQ?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-10T02:10:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "“340석 맘스터치·8만9000원 버거킹”…노브랜드까지 ‘매장 전쟁’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WLWt3a0wyb2loQVVoWnVfcEt0bnVlOGFxU3VKRmVJZnJVelc4RkZLMDR6Q2R5Nk1tS1NqT0pQbk0xaDR1MDB3REs1NnNNZXVY?oc=5",
+          "source": "세계일보",
+          "sourceInitial": "세계",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-10T01:47:16.000Z",
+          "tags": [
+            "매장"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 9월 10일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0dDbU1CLTdUU25UQzVmX2FrUGZpcTl2NHNSRXkyT3k2bUhPbGxpWkxpeGdETER3OHljWklMS0VIbW5GQ1BiY09jVTM3YkdBbmZUcUFVOW5GcXNJcGRzQ0VSbzBSMEs5R1FtQVV5WFpVU1NnbGN6b29HdXFpSC1SYy1SMWNESkZaVzBYZXRn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-10T01:04:55.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -91,48 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "“점주 10%만 모여도 협의 강제”···프랜차이즈업계 “본사 경영 마비”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uN255cldYalQ0blBYbmh5bDZrQWxUUVI3NkFQRzVrSEZleGJOVUtHMXNFRGpDVm1Mc3YyWXFaSDB4WFI1X0hQeVRwVVc5VUxfNG1XLW45LUdQeEtJeGIyem82aXR2aHdsUXo0eNIBbEFVX3lxTE5uN255cldYalQ0blBYbmh5bDZrQWxUUVI3NkFQRzVrSEZleGJOVUtHMXNFRGpDVm1Mc3YyWXFaSDB4WFI1X0hQeVRwVVc5VUxfNG1XLW45LUdQeEtJeGIyem82aXR2aHdsUXo0eA?oc=5",
-          "source": "직썰",
-          "sourceInitial": "직썰",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-09T15:04:47.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 9월 10일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0dDbU1CLTdUU25UQzVmX2FrUGZpcTl2NHNSRXkyT3k2bUhPbGxpWkxpeGdETER3OHljWklMS0VIbW5GQ1BiY09jVTM3YkdBbmZUcUFVOW5GcXNJcGRzQ0VSbzBSMEs5R1FtQVV5WFpVU1NnbGN6b29HdXFpSC1SYy1SMWNESkZaVzBYZXRn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-09T13:08:55.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "3만 동짜리 식사 메뉴는 점차 사라지고 있고, 음료 사업도 점점 어려워지고 있다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWNUNlo2a2NKc2JrNWpkNFliVkRxTWZiOXk5NmdoZlBSaHE5RlVUWkM1Qlp4d0ozbEI5UUZGWTlEOF9TaV9yLWU1aG9yaS1ubU9FbW1ZLXNLdnNBNFlwNXVCcXp5NXplWE9KNWtxOUdWMnBFWFpOcllkMjRDRmRHOUQ3cF81UlNxQ3FEWThtSHJLYzFEazFOcg?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-09T05:57:44.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,21 +145,35 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
-          "title": "中 8월 소비자물가 0.8% 상승…에너지가격에 오름폭 확대",
+          "title": "물가 3.1% 오른 추석…성수품 36개 가격 매일 점검",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tVEFOX1owM2puMVVGYW9jVnBZMF8zc3lNdjdWOTh6LWFhaXBfSU85Q09xaF9vTko2UEFud3lUeXR6SlJheVVaTGg0M2RlZlE1THliTDdramEtWmFveFHSAWNBVV95cUxQcnFxQURXTGJRQkF5X2Fwa0dTSDRJWm5OUkJzWHhzVXBTV0dXZFFONDBvSE44bWJKMlRzb2pQTjNMQ1ZSckNLcC1Wb1BMMmNGWkl6blhNZkZlOFV1ZU4wWUszV1E?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-09T03:57:22.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSmRIXzlPTDBydmZwS0pQZDlrT2FxN0hiVDNxaklIbWI4WnhxZUhaUlczV3ltcHR3bFNkRHpHMGlFSHR3cTR4RmFZeld1NUk?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-10T03:06:00.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "中 8월 소비자물가 0.8% 상승…에너지가격에 오름폭 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tVEFOX1owM2puMVVGYW9jVnBZMF8zc3lNdjdWOTh6LWFhaXBfSU85Q09xaF9vTko2UEFud3lUeXR6SlJheVVaTGg0M2RlZlE1THliTDdramEtWmFveFHSAWNBVV95cUxQcnFxQURXTGJRQkF5X2Fwa0dTSDRJWm5OUkJzWHhzVXBTV0dXZFFONDBvSE44bWJKMlRzb2pQTjNMQ1ZSckNLcC1Wb1BMMmNGWkl6blhNZkZlOFV1ZU4wWUszV1E?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-09T03:57:22.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[1인분 건강경제㊦] 커지는 건강식 시장에도 변수…가격 경쟁·가구 변화 주목",
@@ -232,27 +246,13 @@
           "feat": false
         },
         {
-          "title": "연료 가격 상승은 소비자물가지수에 영향을 미쳐 8월에 0.47% 소폭 상승했습니다.",
+          "title": "\"농특산물 유통·판로 확대\"...SPC GFS, 상주시·농협유통과 업무협약",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMng3cmhaOTU1aTMzTHAwNWNpYmxNSFBiWTR0WUFpMDhFaGgzTVpJcm5jaUx3eDhqOWVKcVpDT1dMUk9ldHpMSmZSTVUtMUtWdVIyZ1pVcTdhX0ltWmd3U3dEbTk0Zy12bWNLQkcwLVZsU1Rfc3VWb3hEOTdjdkpfU195c0c2OVY1RlVTYzFYQjBvT3JG?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-08T04:47:15.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계, 추석 물가 안정·K-푸드 수출 확대 ‘투트랙’ 대응",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RFRsdjRod2g1X1psRDV6eWt1UGdVV3pjWlJGTzBMWVYzb3NFMU5mZk10eVZNZzJVYlZxbWItM2dlTXd0RUlJR1ZKUUtlWHRiQlVYVDlFcFZiVTdDVUkwX0hSVDZSWXJBakREUnln?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mNk9qelo5cG5VSUpBcklMblhraGszWXVhWV8zTGRpcjFaNE5rNEtaMWZneUhqN0JlRUlQNlBCYm1HS0RwaDJtTzBwY2ZJVWdLWkl6aEtXX2FnZzVVSW1TYXVoWFZ2ckk?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-09T13:13:55.000Z",
+          "publishedAt": "2026-09-09T05:41:51.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -268,8 +268,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 7,
       "items": [
+        {
+          "title": "학교급식 납품업체 5년간 행정처분 527건…제재 후 다시 3128억원 계약",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GYUhVY2Jac3dHbzY2RWhkZEdPY3JVNGdUT3pJeE5GZTE0azBITDNSOFBfRTVvNUZJRzJPNldhbzFpZXNDSHM1eGMxUnB4T2xPOUtUM1AxVGJYQ2RocnNOR0d0dXJ6WnVORFRz0gFvQVVfeXFMUG50OFlTVjd1T29aZmI3UmYwcFU0cXg0S095WVNJMnNKbmxmSGNlRjlyZUdCRUQwaUY0bzhaeGZjTEowNXhoX3c2UGI3RldmdVB4bzljcmdqdlJQYW9pb2NBTXNqcXYtWXo1dGNXVWlr?oc=5",
+          "source": "연합투데이",
+          "sourceInitial": "연합",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-10T01:39:09.000Z",
+          "tags": [
+            "납품"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[유통가 NOW] SPC GFS 상주 농특산물 MOU·남양유업 바리스타 직무 체험…교촌에프앤비·이디야커피·공차코리아",
           "summary": "",
@@ -280,20 +294,6 @@
           "publishedAt": "2026-09-09T09:09:27.000Z",
           "tags": [
             "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "한병도·민주당, 학교급식 식재료 납품업체 행정처분 527건 중 식품위생법 위반 329건(62.4%)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PcHotR2ItcFkzeXkxTFdTT3lpR05tQThDa1JfTGIzRE9IbnZXNWV6NWJzSEVoNElGVGRqckhuYnFnY3BkcExOQkNUQThNVmNtT3VfaVlUenpGanU3YzRZZW1RZk82VnNCYWJZUTlrRQ?oc=5",
-          "source": "오토투데이",
-          "sourceInitial": "오토",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-09T07:11:28.000Z",
-          "tags": [
-            "납품"
           ],
           "price": null,
           "feat": false
@@ -316,9 +316,9 @@
           "title": "SPC GFS, 농특산물 유통 활성화 나서…상주시·농협유통과 M0U",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cmNiNmZFZ2hoSnpKOGpDZ1Y1YXFGS3M3WmM1MDVhM21FVExmd1V0OXNSR0RhWWRFRk5qaERpQWlaLWxvU2dCNTJOd25mUFBibUlN?oc=5",
-          "source": "Nate News",
-          "sourceInitial": "Na",
-          "sourceColor": "#1a7a5a",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-08T23:36:00.000Z",
           "tags": [
             "유통"
@@ -341,11 +341,11 @@
         {
           "title": "급식 빅4, 성장 공식도 갈린다…플랫폼·솔루션·B2C·헬스케어로 확장",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BZHlJZ1h0VmpZcE5wVFFJZjB5ZFZMQ1EzTDk0MmlxTFlmLWFGRi04WFZUZS1nSUtoU2U3d3RuenY1d1haWU5lMHRnWEl0Tk03dldRWVBpRWJmRUQxdktUa2d2X3Z2UjVOck5pNmMxWdIBb0FVX3lxTE5BZHlJZ1h0VmpZcE5wVFFJZjB5ZFZMQ1EzTDk0MmlxTFlmLWFGRi04WFZUZS1nSUtoU2U3d3RuenY1d1haWU5lMHRnWEl0Tk03dldRWVBpRWJmRUQxdktUa2d2X3Z2UjVOck5pNmMxWQ?oc=5",
-          "source": "한국아이닷컴",
-          "sourceInitial": "한국",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-08T21:56:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFSmc3ZXFEd3g0b1ktcGJheV96Wk42ZzV4ZXYyNkV5YnYtc1ZsMVA2bTEwRUgyOG1iTWJFZ1pvN2VCdmpRaVI4aGE3N3E0bHpjVFAw?oc=5",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-08T21:31:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -361,18 +361,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, 외식 식자재 PB ‘프레시원’ BI 전면 개편",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45dldudlVXRThJSDdveXo2cy1GWWZfRWNFekpZVlg5bGZ1MEhQUXBqSnplamFxNWxvM19DTTF0RTA5dWU1b0xTWmp4Sjk3VUFwc2tja19qeDd3RW9ZUjJmY3hnOG5Kb2lIbXhmSXc3d9IBckFVX3lxTFB3NVJ2ZHZnSkk5QnI5R213ZXB5aWJELUE0dmlPY0lrMVAyc1d4MUhDWVoyOEhGQldtWTlFU21Bem9zUXpJSkxmX2FwT0tjSWdWZHc5d3d5LXpsdzBRR2REalRYNHNqaDY0WHI4bGxzSjJjdw?oc=5",
-          "source": "팝콘뉴스",
-          "sourceInitial": "팝콘",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-08T04:20:17.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -385,7 +373,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 14,
       "items": [
         {
           "title": "정부, 명절 물가 안정에 900억 추가 투입…비축 수산물 공급 2000톤 확대",
@@ -403,16 +391,57 @@
           "feat": true
         },
         {
-          "title": "정부, 추석 물가 안정에 900억 추가 투입...농축산물 할인 이달 30일까지 연장",
+          "title": "평년 도매가격의 80% 수준으로 농가소득 보장, 농산물가격안정제 본격 시행",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGZ4Z1ZkX2ZMWWxrVWd4WUQ2eWEyZkpWRUxoQXhUbTMxY2ZwczJqb3JJeU5lU0dJUFdHZ3dvSlc3aExld1ZtWk5vSHNYY0cxc1FwdEtEN1psaGxrTkYzeHJ1c0xnNGZFWVhpRHZxeDRiVDNvSXBmVzA4Tm5YaklFTUsyMjdSbVBzaWlVNkZB?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-09T04:47:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfMjhadEtYWWZ0Z1pmY3VIeWhlZHZwQWtZeGhWVUowMGxIRzhVdk83Q0Z3bkpWQlVqeEhsamxqZnRWaW15eV9qNjNLeXlKUHVFNU1TNWEwNVIyQlF6Q0xndXJR?oc=5",
+          "source": "서울Pn",
+          "sourceInitial": "서울",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-10T05:09:48.000Z",
           "tags": [
-            "물가",
-            "정부"
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "쇠고기·사과·치킨 등 36개 추석물가 일일 점검",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80M1RlRjUxdzZObUdzenVpOHNQZmNuX2YwckxpSnNKV3pweTF2QVR0UzZSTnVWbnllR0ktWXFjSnhUWTRFQXZfdE4zcVVqYVNDNHdVYVJxZjRNbFZmU3BrVDFLd2h0VGJnWm9F?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-10T03:00:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "식품진흥원, AI 활용 건기식 원료 발굴 지원…제품화·글로벌 규제 대응까지",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JRU5GUEpsOVNzZkZ1a1B4bk9GZUZmbzZuUGM3bXJ5Mm1Xa1JLWXBfT0I3WHJEeHJYcWJuSW1HRFlfbnpzU293OWNtUEhZZ1d2T2F5cWJRTUE1M3BMdXV3WjFhVU8zanNITF8xb25n?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-10T01:43:47.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "부산시, 추석 농산물 최대 20% 할인…“장바구니 물가 부담 낮춘다”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rU29VY2JxTzVJLWRGQm5nRkZLeG1uQm5NWVhNTm5KUXZHMlRlQ2F3VXI1WFgzN0xIeE5DMS1lS1FGUnRRVjE0aGNyMzQ2S0dDelJxTG1rbWNPY1JoRTNCekxPZXdIR3la?oc=5",
+          "source": "복지TV부울경방송",
+          "sourceInitial": "복지",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-09T23:57:23.000Z",
+          "tags": [
+            "물가"
           ],
           "price": null,
           "feat": false
@@ -448,53 +477,11 @@
         {
           "title": "근원물가 3.4%로 뛰는데…추석물가 보완책 농축산물에 집중",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YeWE2SFdJYnFWT21TRUJMbzV3SXRhbVQxcnBJQWRGcENleXVPaldPZmRFVTJBRnJRTFZ3MkM1S0hwVWppSldwa0kwcTBSVktIMjFj?oc=5",
-          "source": "Nate News",
-          "sourceInitial": "Na",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-09T07:02:08.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "정부, 추석 장바구니 부담↓…농축수산물 할인 지원 1930억원으로 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzZEw4NmhBU3k4YW9JSkd6T21GWGd6ODhfVXNvZWQ2bmI1elBoal9FVGpRdjREdy10TlFkbVJnQWpmOUtaNWQzSzZiSW94cFNnS0JLQUU2dG5RRzVpbF94X25RRnoyOVduTHk4?oc=5",
-          "source": "서울뉴스통신",
-          "sourceInitial": "서울",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-09T05:00:00.000Z",
-          "tags": [
-            "정부"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "수산물 2.2만톤 공급·가공 식품4765개 할인…추석 물가 잡기, 900억 더 푼다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zRWlTV2tYeG04XzZ2STVLSXFWS1NtWU12Rm40bEVlS0NlSTZEOFUwOWJQYllvTzh4VXg4UVItdXF0NVZDaWVKUHVQNHZUVlZtNW5F?oc=5",
-          "source": "Nate News",
-          "sourceInitial": "Na",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-09T04:30:00.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경북도, 추석 성수품 19종 집중관리…물가안정 특별대책 추진",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCUU12NEhsZmFpTlVGczJtYVVaQUNMSDV1Y3JtZ2hnRHZ0dy1FSFZpSFRmMTlZc3RpeUFxVUQ2cER5S2VQNEhwU0ZVbVBpcWFZRElZLXJRMFY?oc=5",
-          "source": "경북신문",
-          "sourceInitial": "경북",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-08T06:22:17.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3Ym9CeXZSOE91R2pNU294OUVnbkVSckU4OGw4OUhTbmswRURob180eWlPWEg2NW5KNEo4SWdEUTI0VUR2b3JTeHNDMA?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-09T07:03:00.000Z",
           "tags": [
             "물가"
           ],
@@ -512,7 +499,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
           "title": "웅진식품, 추석 선물세트 26종 출시…'가야농장' 신제품 추가",
@@ -530,13 +517,13 @@
           "feat": true
         },
         {
-          "title": "하림, ‘끓여먹는 HMR’ 키운다…닭떡볶이·부대찌개 출시",
+          "title": "하림, '끓여먹는 HMR' 키운다…닭떡볶이·부대찌개 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQN2NQZm84aGNWUTJTdklSRldvQmVOemdhRWxIYXE2bEFpNWkyd2hxV2dFMGpWWGNyTWpsWXp6OVhRNmE2VTlWMmJRM0dDME50a3loY1ZtMDEweDc2elVrYUZqOA?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTDE1Q0M2cnQ2dW4zVjBDYksxLU5HRVpBa3haM3UtOFBtNnBRYWZZSmV4TFBUYVpVTWhVeUZkV1oxTTRjN01LZHA2ZFFjN0F4N2stQ0NPY3RYNEoxbzhsX0xTQzl6bzljMUxSQ2RHR20tMjNYNjhiWg?oc=5",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
           "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-08T06:28:03.000Z",
+          "publishedAt": "2026-09-08T06:29:00.000Z",
           "tags": [
             "출시",
             "HMR"
@@ -545,16 +532,29 @@
           "feat": false
         },
         {
-          "title": "[식품업계 8월 동향] 삼립 ‘저당핏 샐러드’ 2종·‘정통크림빵 씬샌드’ 출시...포켓몬스터 30주년 기념 1013종 띠부씰 담은 신제품 7종 선보여",
+          "title": "[유통 트렌드] CJ제일제당 ‘햇반 백미’, 美 뉴욕 타임스퀘어 전광판 장식…“K-푸드 확대 가속”...外",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQ1ljbTU2TUFNQjRBNzRwY1ZXVURQMzFMMFVMUkUwdmNLSEdhMi03SU5wMXpTdWZvQnkzcl9CbmVBeHpRYzJIMnhoSFY5dmV4Y1F0WEJ2T3BSVTg4TDR0MVdGVEJNQQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-08T04:45:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByZk03T3ozVWNlN0FEcEdmXzBnbDFlNV81czNoRkdnU0k0STE4REpPRXRzUjRuakUyUjZtUUJJU01WQk1oSUhYMkV1c1NNd2lYVUNFd1k3RkFNWnBBR1JVZG9iTl9GUHE5eFAxUVZOOA?oc=5",
+          "source": "데일리e뉴스",
+          "sourceInitial": "데일",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-10T02:08:00.000Z",
           "tags": [
-            "신제품",
-            "출시"
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "LF푸드, 한식 HMR 브랜드 ‘한반12’ 전면 리브랜딩…12종 라인업",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhX2VwTVlLQmJLM0ZSOG54bXp1TklJLTJQZEdhRHNnMDRxVEF1UnpKR1dWa1lzazZkOW14TjdpZi0xSzVsQmlDcTJnSDFVcUkwaEp3S2VXZVhJbVcyWEQtbEowOHJLNVU?oc=5",
+          "source": "시사캐스트",
+          "sourceInitial": "시사",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-09T06:22:28.000Z",
+          "tags": [
+            "HMR"
           ],
           "price": null,
           "feat": false
@@ -588,6 +588,20 @@
           "feat": false
         },
         {
+          "title": "LF푸드, ‘한반12’ 전면 리뉴얼…프리미엄 한식 HMR 공략",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM3VWaEU5eGNYTW9DRS1tQXoxaXFxNl9oVElZdlVUZHBLVHNNYk9xRFJNOXJ2RDdVWXhwcGdWdF8wQmtZem9JUUMwaG5wUVhtWng1a29CeXU2VnZuUkxfbktGQzJ5RHJXTHFiTjFiU01Zczd5YWZZVnByNldVdmE2ZHFwajRPaTlyNXhNZGxVNzdvRGk0VHcxdGhxYi16OGtHT3hsdi1Ob0ZFZDFleXI2S2xkNDlEellxaDBmdUpyQkN2RUVqdlJ1bHd5Wnk5YXpFZC1selNGMTFCNTNGaG9MYkplMkQxVC1MRldBQlpNTDFzWkhsNnNvQjVWR2loWWtQNkJN?oc=5",
+          "source": "dailian.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-09T00:13:00.000Z",
+          "tags": [
+            "HMR"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "LF푸드, 프리미엄 한식 HMR ‘한반12’ 전면 리뉴얼...B2C 공략 본격화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vLWZCMk5GMUx3UXJuWFRtREV4NjZqMjhYcnowLWh3X3lOYmVSSDNOcXNhaFdjamZCRnhmZERLREx0WktHTU9QSWo2ak1lZEMxRGtZMHo5RWIzRURyQksyeXVzb0E5Mm5XaWNvdlpR0gFyQVVfeXFMUFhWS0dQVGpjSXIwS0p2MllWR0l3TVhsWlp5SVVfLUFXOHBfalVxR0VIUXNOQi1mdWNmUkx5dDFhZk8zZHhYaGY1ck0tcTdkcUVIRUlXenpteHpqQU4wZnNzN2FMaUtPdGZfZlNOQjJCYkxn?oc=5",
@@ -598,32 +612,6 @@
           "tags": [
             "HMR"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한식 HMR 기준 높인다…LF푸드, '한반12' 전면 재단장 나서",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcUZCT0gwM0prSVgzNXFBeHpTenhRMnlvSDlJaVRkTEp5SHFpQlBBdnA0ejBZSk9hZlBmUTNIeDRiV2F1c1RQMDdoMUMwUnBfQjMxNENrLWVsaVJiUmlFMjVQQ3BhRnQyS0tpR3ZnNGxtRnR6aUVKONIBeEFVX3lxTE1PcUZCT0gwM0prSVgzNXFBeHpTenhRMnlvSDlJaVRkTEp5SHFpQlBBdnA0ejBZSk9hZlBmUTNIeDRiV2F1c1RQMDdoMUMwUnBfQjMxNENrLWVsaVJiUmlFMjVQQ3BhRnQyS0tpR3ZnNGxtRnR6aUVKOA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-09T00:02:12.000Z",
-          "tags": [
-            "HMR"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "신선 식품이 펩시코(PEP)의 성장 스토리에 변화를 가져올까",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjd2SGNMSGxjQnNZM3VaOS1CanBScEZic0xDNE1fdW1BdU4xM1J3dC0xSDU3bGN4RnRQZS1acXdPMllwZEZtU0x5WGpyR2I0UDB1ZGJmNjUwYmRsNzhaREZXNS1zRndkTGY1SXRCRTUwN1J1cU9aMUhIc09uQlJYTDYzR1JCTzdDUXBsQzUwQXM0OTNaQUNMN3BJX3l6N0xqOS1J0gGjAUFVX3lxTFBiN3ZIY0xIbGNCc1kzdVo5LUJqcFJwRmJzTEM0TV91bUF1TjEzUnd0LTFINTdsY3hGdFBlLVpxd08yWXBkRm1TTHlYanJHYjRQMHVkYmY2NTBiZGw3OFpERlc1LXNGd2RMZjVJdEJFNTA3UnVxT1oxSEhzT25CUlhMNjNHUkJPN0NRcGxDNTBBczQ5M1pBQ0w3cElfeXo3TGo5LUk?oc=5",
-          "source": "simplywall.st",
-          "sourceInitial": "si",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-09T16:01:38.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
