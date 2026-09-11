@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:57:04.998Z",
+  "generatedAt": "2026-09-11T19:03:28.376Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -80,8 +80,8 @@
           "title": "[마켓트렌드] 치킨 먹고 커피 마신다…필리핀 일상 파고드는 K-프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCNVdFR203Z1BRZWlGNThYOFJzOUcwSUFGd0V0R010QWdZNmdjdl81dWVMcWFaN2kwX05rVVdYaW5WWjlUMlM4VWFpUHRxWUVEZTJkR0NJQVBWTVFHYUQwbVJqUGx6d1Q0WmowUg?oc=5",
-          "source": "foodicon.co.kr",
-          "sourceInitial": "fo",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-11T02:54:00.000Z",
           "tags": [
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "[경제+] 中 8월 물가 상승폭 확대...에너지 가격·산업 고도화가 견인",
@@ -266,15 +266,15 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "한국식자재유통협회, 美 최대 식자재 유통 박람회 ‘IFDA Solutions Conference’ 최초 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lRjdWZUNoUlFEd1NtdWhpX18zai1RbzdjUlpEYlJtb1o5THRCMm5NRDZKRmZWWFRQWm4ybTU1LVJ4eVZpTmlVeHpHb21zTF9Id254aUlhRFhZRDQ5TVlFeEFUNGF0NnBfaVlF?oc=5",
-          "source": "foodbank.co.kr",
-          "sourceInitial": "fo",
-          "sourceColor": "#8a5cc4",
+          "source": "식품외식경제",
+          "sourceInitial": "식품",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-11T09:04:51.000Z",
           "tags": [
             "유통"
@@ -394,6 +394,20 @@
       "total": 11,
       "items": [
         {
+          "title": "[사설] 농산물 폭락 땐 80% 보장…수급 관리 없인 ‘농망법’ 우려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRHdaMXo1VkdqWk5RaGJXTktYOWVpZVNaNDUzLU5vRXBlTUg1T0Y5UnNJSGFKTlZFc2F6ZFNrcmd1UDlJd2tHN2E3cG51eXBfUUHSAVNBVV95cUxQUEw4Rk9EVFZtYUNwODNzVWF5VVR3SkFkZmtSWURSTHJzU0VkdmdSMHBmM0tFdHBtckJWMWk0ZkRfWllQUEZxWnFEa051TVVzQlpnVQ?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-11T15:01:00.000Z",
+          "tags": [
+            "수급"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "식품산업협회-에너지공단, 식품기업 글로벌 환경 규제ㆍESG 요구 대응 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQXFqbGNFdU9PTy1hQ19VWFVTb1JKRFZiX1lBcFJfTWpLT0R5WVNLbHB1VFVmelRCeG8xdHE0Nk9USkZHeDd1S2d0Z011VVRDemt5V1k2eHcydVR4eEl0dmdGYm9EUlBJX1BFQQ?oc=5",
@@ -405,7 +419,7 @@
             "규제"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "부산시, 추석 농산물 최대 20% 할인…“장바구니 물가 부담 낮춘다”",
@@ -415,20 +429,6 @@
           "sourceInitial": "웰페",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-11T01:22:41.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농림축산식품부, 평년 도매가격의 80% 수준으로 농가소득 보장, 농산물가격안정제 본격 시행",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE51NUtLaWlydXZ0UEVPV2phcDUzMTItOVFnX0JJaTVCTEM0cm81S3BVeE1NZ3hkTFl2NnBDQ252TTdZbjg?oc=5",
-          "source": "indifocus.kr",
-          "sourceInitial": "in",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-10T11:19:00.000Z",
           "tags": [
             "물가"
           ],
@@ -494,11 +494,11 @@
         {
           "title": "물가 3.1% 오른 추석…성수품 36개 가격 매일 점검",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSmRIXzlPTDBydmZwS0pQZDlrT2FxN0hiVDNxaklIbWI4WnhxZUhaUlczV3ltcHR3bFNkRHpHMGlFSHR3cTR4RmFZeld1NUk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WMWs3Q2QtZDltYmxGN2xnbGYwUWlzZ0l0ZEM4MnVsV2ozSWtNWWtGVGVJcGZRa0E4QmV5OXVLeHZSaGIzYUE?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-10T03:06:07.000Z",
+          "publishedAt": "2026-09-10T03:06:00.000Z",
           "tags": [
             "물가"
           ],
@@ -516,7 +516,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 6,
       "items": [
         {
           "title": "“파니니 매출 71% 늘더니”...투썸플레이스, 삼양 불닭 협업 신제품 ‘피자빵’ 출시",
@@ -570,18 +570,6 @@
           "feat": false
         },
         {
-          "title": "농식품부, 말레이시아 MAHA 2026서 K푸드 홍보",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14THpoZnNNOFFqaGlsV3RtVTMydU8wS3VVVGs1M2M0aGhIalVFb1pfVlRTZzFDLXRDa19xM1lJTGhzVTZ5WTBZM1gyZ01ReDV1OVNHbEtZMmdVVENJQ1dDREdPWVlhUmdwTFVB?oc=5",
-          "source": "BBS불교방송",
-          "sourceInitial": "BB",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-10T05:13:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[굿모닝! 10일 식품업계 소식] CJ제일제당·롯데웰푸드·롯데칠성음료·오뚜기·풀무원·오리온·하림",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NRHI2Q0Ywdk5wVFZzSU5UVXF2enpfblRnU0JIN1JMa3A5YklrY05wcUU0Q0pxOWZXbEhqZWhCazV0QjJFWDE0U0dod3g4dlVYVzkyd205U01zOEZFUWJTdVhYZzN2RWlMRUUxYw?oc=5",
@@ -601,18 +589,6 @@
           "sourceInitial": "더바",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-09-10T00:44:01.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "신선 식품이 펩시코(PEP)의 성장 스토리에 변화를 가져올까",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjd2SGNMSGxjQnNZM3VaOS1CanBScEZic0xDNE1fdW1BdU4xM1J3dC0xSDU3bGN4RnRQZS1acXdPMllwZEZtU0x5WGpyR2I0UDB1ZGJmNjUwYmRsNzhaREZXNS1zRndkTGY1SXRCRTUwN1J1cU9aMUhIc09uQlJYTDYzR1JCTzdDUXBsQzUwQXM0OTNaQUNMN3BJX3l6N0xqOS1J0gGjAUFVX3lxTFBiN3ZIY0xIbGNCc1kzdVo5LUJqcFJwRmJzTEM0TV91bUF1TjEzUnd0LTFINTdsY3hGdFBlLVpxd08yWXBkRm1TTHlYanJHYjRQMHVkYmY2NTBiZGw3OFpERlc1LXNGd2RMZjVJdEJFNTA3UnVxT1oxSEhzT25CUlhMNjNHUkJPN0NRcGxDNTBBczQ5M1pBQ0w3cElfeXo3TGo5LUk?oc=5",
-          "source": "simplywall.st",
-          "sourceInitial": "si",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-09T16:01:38.000Z",
           "tags": [],
           "price": null,
           "feat": false
