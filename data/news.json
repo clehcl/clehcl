@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:08:03.608Z",
+  "generatedAt": "2026-09-12T20:47:21.435Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "'성공창업컨설팅', 프랜차이즈 ‘가맹영업대행’ 주목…DB보다 최종 가맹계약에 집중",
@@ -95,9 +95,9 @@
           "title": "주병기 만난 프랜차이즈업계 \"점주단체 30%로 되돌려야\"…공정위 결정은",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TMHIxQ0F2dGVaSFJ5OFpoelVSdTVTTS1jQThkRkVPWlcySWhYOTExSnJBZUViZDVrVy1XR3JOZ3dtRURBaW02ZVNSRjBtUjlRbDcxb0lSQTI4MHZtNC11NWdyWHjSAWRBVV95cUxOUzByMUNBdnRlWkhSeThaaHpVUnU1U00tY0E4ZEZFT1pXMkloWDkxMUpyQWVFYmQ1a1ctV0dyTmd3bUVEQWltNmVTUkYwbVI5UWw3MW9JUkEyODB2bTQtdTVnclh4?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-11T04:17:43.000Z",
           "tags": [
             "프랜차이즈"
@@ -109,8 +109,8 @@
           "title": "[마켓트렌드] 치킨 먹고 커피 마신다…필리핀 일상 파고드는 K-프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCNVdFR203Z1BRZWlGNThYOFJzOUcwSUFGd0V0R010QWdZNmdjdl81dWVMcWFaN2kwX05rVVdYaW5WWjlUMlM4VWFpUHRxWUVEZTJkR0NJQVBWTVFHYUQwbVJqUGx6d1Q0WmowUg?oc=5",
-          "source": "foodicon.co.kr",
-          "sourceInitial": "fo",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-11T02:54:00.000Z",
           "tags": [
@@ -144,8 +144,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 27,
       "items": [
+        {
+          "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRm9hdkVZdGdoZkR2UThnWktlbzg3VlZUWURnV3lveUN0b0o0emVGT2FJUGNyU3pNcHJmdm9DSk0yRlV2VGduU01tU1VOSTFRNi1F?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-11T23:26:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "ECB 관계자들, 에너지 가격이 유로존 압박하는 가운데 추가 금리 인상 가능성 시사",
           "summary": "",
@@ -158,7 +172,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "파키스탄 주간 민감물가지수 보고서: 2026년 9월 10일로 끝나는 주 필수품목 가격 - 뉴스 및 통계",
@@ -192,9 +206,9 @@
           "title": "[경제+] 中 8월 물가 상승폭 확대...에너지 가격·산업 고도화가 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pU0VXbjZYVW4tdnVZZ1lyZm5waEJYZGRvS2t6MGpoMHIyVXVnaGRud3RSNzJyTTJLemNJNERyOVR6YjV1Y1BFaHdHM3o1N1NOUVJEREdpSV9LZzVmU0FaeGdIMU1Kdm1NWHYw?oc=5",
-          "source": "snakorea.com",
-          "sourceInitial": "sn",
-          "sourceColor": "#333333",
+          "source": "서울뉴스통신",
+          "sourceInitial": "서울",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-11T05:15:15.000Z",
           "tags": [
             "가격"
@@ -220,9 +234,9 @@
           "title": "식품제조업, 원가·기후·수출규제 넘어 ‘AI·저탄소·글로벌화’로 전환해야",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84a3VUQWdxWEQzUXExT1V5RDA4NEgtLXdnbDh6eFZPcGJsX2M1YmJpU0Y0NzJ0blk3Yl9VWU5QcW9KRTZBU0VhZC01OFpzcGh0UW9xbHY5ODlnaDRVVWJSRFlCd2VSX0dhNkpaaUtR0gFuQVVfeXFMTzhrdVRBZ3FYRDNRcTFPVXlEMDg0SC0td2dsOHp4Vk9wYmxfYzViYmlTRjQ3MnRuWTdiX1VZTlBxb0pFNkFTRWFkLTU4WnNwaHRRb3Fsdjk4OWdoNFVVYlJEWUJ3ZVJfR2E2SlppS1E?oc=5",
-          "source": "ecomedia.co.kr",
-          "sourceInitial": "ec",
-          "sourceColor": "#c0392b",
+          "source": "환경미디어",
+          "sourceInitial": "환경",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-11T02:44:36.000Z",
           "tags": [
             "원가"
@@ -241,18 +255,6 @@
           "tags": [
             "가격"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "미생물 증식 억제제 패키지 시장 2035년 전망: 식품 안전 규제와 산업용 유체 수요가 연평균 4~6% 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMFNkUVhxS1F5RkRQOXBkMklFVWkza0NJRHZtNGtORndiYmlpZWd2QXltNmZPeHhuc0JNQTRzRU4wc0EtYkxMZ1kyWExySFYzOGN2T3pDQmpPUVNRTktoeFliVkcxRkpkM0hHRXd3elFIN1BCeEFnLTNuTk9IbnBQbDJET0xOZWFhTldQOFk5cEV0NmhWUGlvZkEyZjFPQWl4OVd1N0JsQ29TNUFuU0RNRGsxSWszcWpsV3kxa08wNVBtUmhLaFBkbTdhWERvcFE5cXNNSUJkODNIM0lFYVhQVEhXdDlMdXoxX1hOSnlFSXhyUWM?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-12T12:56:22.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -343,9 +345,9 @@
           "title": "정이푸드빌, 손맛을 1g의 기준으로 바꾸다…속초 젓갈에서 B2B 간편식까지",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yYUwtQmVlQnZkVnppUVl4d1FBUFBONDRuUnZaZ1RibnZsUmdKaDRYZmZWSjUycjBNQ054OWdVVl9MdTg?oc=5",
-          "source": "knpp.co.kr",
-          "sourceInitial": "kn",
-          "sourceColor": "#c15a37",
+          "source": "대한청년일보",
+          "sourceInitial": "대한",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-11T15:04:33.000Z",
           "tags": [],
           "price": null,
@@ -392,9 +394,9 @@
           "title": "수출 982억 달러·취업자 18만명↑…정부, 성수품 18만3천톤 풀어 민생물가 총력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcVlQOHItRUtvcUlhUGpabHB1R3hOQ29nQ3BNVXp1VDJ5Q1Nsb3pscnBMajQxNWplX1VCR0R0YUktUUhaLV8xeFV5UGJpUjNtQWlmbGlNZDlzT2UwQWFLZ0M0SVdXTG0y?oc=5",
-          "source": "내외방송",
-          "sourceInitial": "내외",
-          "sourceColor": "#2f7d4f",
+          "source": "nwtn.co.kr",
+          "sourceInitial": "nw",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-12T02:01:24.000Z",
           "tags": [
             "물가",
@@ -548,7 +550,7 @@
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-11T22:04:00.000Z",
+          "publishedAt": "2026-09-11T22:04:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
