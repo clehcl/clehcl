@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T14:58:56.474Z",
+  "generatedAt": "2026-09-13T18:04:29.084Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "'성공창업컨설팅', 프랜차이즈 ‘가맹영업대행’ 주목…DB보다 최종 가맹계약에 집중",
@@ -65,9 +65,9 @@
           "title": "농식품부, 2017년 외식트렌드 키워드 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONkllQUJEV19COTk3V3dIWWpYaDNPU0xJbE0zS1BTa3hfYlNvVFEtQzlwU3g3aGdjWVNTUzVzdjNfaElHZEVyYVlET0pVWEQzWFNLY2hjb1BTallTRi1PWUxQWmZ1elpJVzNYN3AzSm83SW1oTlozZno0cXlHcWhtVTh2aW9Lb3A5US0yQWlpTTRKV05yMGFuTVBtUU5BaUtodURBYV9qajhscXJNSmd3TktUcEh2cjktcVdoaFhnMU9pY0JFM0ZtcXVUVUJseVpVaW04ZWVtYnBqVWtSZ0tVZmlBVHRORkRVY2pwNkcxRTlrU3NEUEhxbWIxTEJpTDZPblp0VEtLYlZYNWk2d3RtNGJSQktCbk9YREVUM1podzcza1VPRjd3aA?oc=5",
-          "source": "데일리뉴스",
-          "sourceInitial": "데일",
-          "sourceColor": "#c15a37",
+          "source": "idailynews.co.kr",
+          "sourceInitial": "id",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-12T15:49:00.000Z",
           "tags": [
             "외식"
@@ -88,18 +88,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "AI 콘텐츠·식품 수직계열화 매물…리테일·자동차 부품사 인수 채비",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ODJwR3dKWGVESmY4eDJsaUN1YnRVWnMyM2llQURNMnFaUTVDX3pPRTd2MVdvX05wdFVlN1NldG54WDVXZ2YyUTNvb20wSVJMRmhodjdfN3hBRmthOGt4ZjFVZmZjdmFyNXhPMkQ0OXFyUQ?oc=5",
-          "source": "마켓인",
-          "sourceInitial": "마켓",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-13T00:00:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -112,7 +100,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
           "title": "추석 과일·수산물 가격 안정세… 한우·돼지고기는 10% 안팎 올라",
@@ -146,13 +134,25 @@
           "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRm9hdkVZdGdoZkR2UThnWktlbzg3VlZUWURnV3lveUN0b0o0emVGT2FJUGNyU3pNcHJmdm9DSk0yRlV2VGduU01tU1VOSTFRNi1F?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
+          "source": "news.nate.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-11T23:26:00.000Z",
           "tags": [
             "가격"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "올 추석엔 3만원 미만 건강식품·돼지고기 선물세트 인기",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wZ1VMMDNFbVVCVnNYc3dIY19sRU1JUS1TNElyTEoxbkJ6ak9QdXFEX1dWSUkwaFoyNTFtTzU0VE4yZGhSY0xRUUlVdldyRlU?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-13T15:39:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -176,18 +176,6 @@
           "sourceInitial": "ve",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-12T20:17:54.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "미생물 증식 억제제 패키지 시장 2035년 전망: 식품 안전 규제와 산업용 유체 수요가 연평균 4~6% 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMFNkUVhxS1F5RkRQOXBkMklFVWkza0NJRHZtNGtORndiYmlpZWd2QXltNmZPeHhuc0JNQTRzRU4wc0EtYkxMZ1kyWExySFYzOGN2T3pDQmpPUVNRTktoeFliVkcxRkpkM0hHRXd3elFIN1BCeEFnLTNuTk9IbnBQbDJET0xOZWFhTldQOFk5cEV0NmhWUGlvZkEyZjFPQWl4OVd1N0JsQ29TNUFuU0RNRGsxSWszcWpsV3kxa08wNVBtUmhLaFBkbTdhWERvcFE5cXNNSUJkODNIM0lFYVhQVEhXdDlMdXoxX1hOSnlFSXhyUWM?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-12T12:56:22.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -227,7 +215,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "학교급식 납품업체 위생 위반 329건, 제재 대부분 과태료·3개월로 끝나면 다시 수의계약 반복돼",
@@ -266,18 +254,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "정이푸드빌, 손맛을 1g의 기준으로 바꾸다…속초 젓갈에서 B2B 간편식까지",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qOWNPWHB2VzViX2lkVjVKRGhRcVNfU0FFNkhpb3ZFeTBnUXlQS0NQNVVJNVRkd19UNnhHQWw4Qk5HdUlYQ2VfOGUzZTIzZ01YeC1UN2JB?oc=5",
-          "source": "대한청년일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-11T15:04:33.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -308,15 +284,15 @@
           "feat": true
         },
         {
-          "title": "[사설] 농산물 폭락 땐 80% 보장…수급 관리 없인 ‘농망법’ 우려",
+          "title": "미생물 증식 억제제 패키지 시장 2035년 전망: 식품 안전 규제와 산업용 유체 수요가 연평균 4~6% 성장 견인 - 뉴스 및 통계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IRHdaMXo1VkdqWk5RaGJXTktYOWVpZVNaNDUzLU5vRXBlTUg1T0Y5UnNJSGFKTlZFc2F6ZFNrcmd1UDlJd2tHN2E3cG51eXBfUUHSAVNBVV95cUxQUEw4Rk9EVFZtYUNwODNzVWF5VVR3SkFkZmtSWURSTHJzU0VkdmdSMHBmM0tFdHBtckJWMWk0ZkRfWllQUEZxWnFEa051TVVzQlpnVQ?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-11T15:01:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMFNkUVhxS1F5RkRQOXBkMklFVWkza0NJRHZtNGtORndiYmlpZWd2QXltNmZPeHhuc0JNQTRzRU4wc0EtYkxMZ1kyWExySFYzOGN2T3pDQmpPUVNRTktoeFliVkcxRkpkM0hHRXd3elFIN1BCeEFnLTNuTk9IbnBQbDJET0xOZWFhTldQOFk5cEV0NmhWUGlvZkEyZjFPQWl4OVd1N0JsQ29TNUFuU0RNRGsxSWszcWpsV3kxa08wNVBtUmhLaFBkbTdhWERvcFE5cXNNSUJkODNIM0lFYVhQVEhXdDlMdXoxX1hOSnlFSXhyUWM?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-12T12:56:22.000Z",
           "tags": [
-            "수급"
+            "규제"
           ],
           "price": null,
           "feat": false
@@ -350,9 +326,9 @@
           "title": "하림, 간편식·단백질 음료 7종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlhSeHNaUXdFUFEwSVZpM25aVDRWQmhNQVFJR19Pd1dNTzMteU0xZjdGNWZBVEFuSGUxZHZ4U3VrU0cyd1dNNG1ka2EySmU0UDV3a053bzFhNHZpQzRqMDJ0aWJVcnFydVlFelNrdjBkSjFWUm1OMFg5a2FTcWhyeEtxN3dtSms?oc=5",
-          "source": "domin.co.kr",
-          "sourceInitial": "do",
-          "sourceColor": "#c98a2b",
+          "source": "전북도민일보",
+          "sourceInitial": "전북",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-13T06:14:07.000Z",
           "tags": [
             "출시",
