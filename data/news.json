@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:51:02.643Z",
+  "generatedAt": "2026-09-13T00:38:01.277Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,15 +16,15 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "'성공창업컨설팅', 프랜차이즈 ‘가맹영업대행’ 주목…DB보다 최종 가맹계약에 집중",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tclE0LVZFWV9fYkFZZjRpTVdZMXpxU1hfSjJrNldudC1OTmhpOF9uUjNYdTFaSU5pMVlmU3RBbVp0RVZSeFRzSkZ3?oc=5",
-          "source": "얼리어답터뉴스",
-          "sourceInitial": "얼리",
-          "sourceColor": "#8a5cc4",
+          "source": "eanews.kr",
+          "sourceInitial": "ea",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-12T05:03:39.000Z",
           "tags": [
             "프랜차이즈",
@@ -80,9 +80,9 @@
           "title": "주병기 만난 프랜차이즈업계 \"점주단체 30%로 되돌려야\"…공정위 결정은",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TMHIxQ0F2dGVaSFJ5OFpoelVSdTVTTS1jQThkRkVPWlcySWhYOTExSnJBZUViZDVrVy1XR3JOZ3dtRURBaW02ZVNSRjBtUjlRbDcxb0lSQTI4MHZtNC11NWdyWHjSAWRBVV95cUxOUzByMUNBdnRlWkhSeThaaHpVUnU1U00tY0E4ZEZFT1pXMkloWDkxMUpyQWVFYmQ1a1ctV0dyTmd3bUVEQWltNmVTUkYwbVI5UWw3MW9JUkEyODB2bTQtdTVnclh4?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
+          "source": "news1.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-11T04:17:43.000Z",
           "tags": [
             "프랜차이즈"
@@ -94,26 +94,12 @@
           "title": "[마켓트렌드] 치킨 먹고 커피 마신다…필리핀 일상 파고드는 K-프랜차이즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCNVdFR203Z1BRZWlGNThYOFJzOUcwSUFGd0V0R010QWdZNmdjdl81dWVMcWFaN2kwX05rVVdYaW5WWjlUMlM4VWFpUHRxWUVEZTJkR0NJQVBWTVFHYUQwbVJqUGx6d1Q0WmowUg?oc=5",
-          "source": "foodicon.co.kr",
-          "sourceInitial": "fo",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-11T02:54:00.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "샤브보트R, 여름 한정 막국수 3종 선보여…식사 후 메뉴 다양화 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWFU4QjVLTmZnRFpLRm5HUzB2Z1lMMktWVElfcUJONlNvbU93U0ItMkNFSTY1TldRVWplUUl6NHFxSmFHLW9tY2pZaFd5UXZ3VE5DTzhlTFU3Ukp0UEdpWHhsdkNjSW9RQWlLbU9Cakhid042aUZYRVhEc3NyLUlDbno4YjBVN1N3bThlRGVycVU4aU1kLWRsMkpQYTZnc2htenVJRFRwdUJHeWZSOGhVeDQ1eThTTmJSa2hHZU91eTI2UlJsanJ2TzRLWl96SWFBLUxaTV9nMS1WWWh5TlkwZDAySlB5UnVacmpubGZJVjhCTDV3LUZuZg?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-10T23:56:41.000Z",
-          "tags": [
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -129,7 +115,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 27,
+      "total": 25,
       "items": [
         {
           "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
@@ -191,9 +177,9 @@
           "title": "[경제+] 中 8월 물가 상승폭 확대...에너지 가격·산업 고도화가 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pU0VXbjZYVW4tdnVZZ1lyZm5waEJYZGRvS2t6MGpoMHIyVXVnaGRud3RSNzJyTTJLemNJNERyOVR6YjV1Y1BFaHdHM3o1N1NOUVJEREdpSV9LZzVmU0FaeGdIMU1Kdm1NWHYw?oc=5",
-          "source": "서울뉴스통신",
-          "sourceInitial": "서울",
-          "sourceColor": "#8a5cc4",
+          "source": "snakorea.com",
+          "sourceInitial": "sn",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-11T05:15:15.000Z",
           "tags": [
             "가격"
@@ -252,7 +238,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 5,
       "items": [
         {
           "title": "학교급식 납품업체 위생 위반 329건, 제재 대부분 과태료·3개월로 끝나면 다시 수의계약 반복돼",
@@ -297,34 +283,6 @@
           "feat": false
         },
         {
-          "title": "대구 학교급식 납품업체 5년간 행정처분 35건…부정당업자 최다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15cmIzUWFIaC12aDVnZUZBb2N6ay11MV9qR1FfU2h3Rlh5b0pqa1JCSXJLOWRHUnJ6UGZRNVBGX1ZoNF9lNGRzam1KZjBtTndaaUlXR3RQZWFXckdnd1ZNZnIyS0ZGOWg0aEkzQmlDVdIBc0FVX3lxTE5HcmZwWllMQk4wdk1rWVRFdEpRRExSSVdaZzA3Zjd3aE1pRGcwQTk0ZlM2Tm82UElkelVEcjNWNENJMHZaRGlCR21DdVpHaVpKNDMyZEhJdU1JOUJSNEd0NDI4RC1iQndhbi1iaXVIZ3JaQ2s?oc=5",
-          "source": "데일리한국",
-          "sourceInitial": "데일",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-11T00:24:25.000Z",
-          "tags": [
-            "납품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "현대차증권 \"CJ프레시웨이 목표주가 하향, 식자재 유통 투자로 수익성은 단기적 악화\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SREJVN3VWRFIyT01yQlJMeUlGdFVGeHBOSzV2bjdiSW96dW1BRnQ1OGU4SVd1cjcxTHpic09RT3E1LWNyTXlWQnVFZ2pPQ0ZBaWV1cGw3aGJmWGI5a3VHVm9iYXNCYXNvN1d0ZVN3UFloWWM?oc=5",
-          "source": "비즈니스포스트",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-11T00:07:33.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "정이푸드빌, 손맛을 1g의 기준으로 바꾸다…속초 젓갈에서 B2B 간편식까지",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yYUwtQmVlQnZkVnppUVl4d1FBUFBONDRuUnZaZ1RibnZsUmdKaDRYZmZWSjUycjBNQ054OWdVVl9MdTg?oc=5",
@@ -359,15 +317,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 5,
       "items": [
         {
           "title": "수출 982억 달러·취업자 18만명↑…정부, 성수품 18만3천톤 풀어 민생물가 총력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcVlQOHItRUtvcUlhUGpabHB1R3hOQ29nQ3BNVXp1VDJ5Q1Nsb3pscnBMajQxNWplX1VCR0R0YUktUUhaLV8xeFV5UGJpUjNtQWlmbGlNZDlzT2UwQWFLZ0M0SVdXTG0y?oc=5",
-          "source": "내외방송",
-          "sourceInitial": "내외",
-          "sourceColor": "#2f7d4f",
+          "source": "nwtn.co.kr",
+          "sourceInitial": "nw",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-12T02:01:24.000Z",
           "tags": [
             "물가",
@@ -405,20 +363,6 @@
           "feat": false
         },
         {
-          "title": "충남도, 추석 장바구니 물가 잡는다…14개 전통시장 최대 30% 환급",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40VkRVN3JWdF9MS2dxaV9IaVpGOUZDUWU2X2dZRzlpRlZWS1Y0VjhTdE40U25DLU5STkVyUG5VblRsbUdGeHM5NmVwbDJJeEJOalgyOGcxeUHSAVhBVV95cUxONFZEVTdyVnRfTEtncWlfSGlaRjlGQ1FlNl9nWUc5aUZWVktWNFY4U3RONFNuQy1OUk5FclBuVW5UbG1HRnhzOTZlcGwySXhCTmpYMjhnMXlB?oc=5",
-          "source": "아주경제",
-          "sourceInitial": "아주",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-11T02:10:33.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "부산시, 추석 농산물 최대 20% 할인…“장바구니 물가 부담 낮춘다”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05cUlTN3ItZEVndkgxd0lqVERZdndMcGVCUmRjSlhyMVBwZGwyLUVCT19ocEloUlQtOThsVDZmdl9ULW04WEItTWU1Njh5RTNNaE1kUDJkRTIwcEs4STEteWdEWGdpM0JnbWk4SnNRZw?oc=5",
@@ -426,20 +370,6 @@
           "sourceInitial": "웰페",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-11T01:22:41.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석 장보기 전 꼭 확인하세요… 오늘(11일)부터 물가 특별관리·전통시장 420곳 주차 허용",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3d2FmcE92YWFTcXdkZGxVODVkbllzTnFsbF9HRjZ3cERleFlPUU41TzJaZzV6SjNRTE4zOXhaRnBoR3ZwWVVUOVdMdU1ibjlOb3VHemhsY0o1U0tLUlk0c2lfbWE5aEU?oc=5",
-          "source": "씨원뉴스",
-          "sourceInitial": "씨원",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-11T00:29:31.000Z",
           "tags": [
             "물가"
           ],
@@ -469,15 +399,15 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 6,
       "items": [
         {
           "title": "농협목우촌, ‘직화양념곱창’ 등 간편식 4종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5INmFmM3FnV3VQY2tmUG9mM3FONDdrZi1Ed2ozZG5ES05ybjM3ZGtITFZ5bVMxc0JwbGk1SXlWWEdZQl95R2VPWUl0RGlZU2RHNndHblhlOHJHaUtkOWotNnJvdXEzcWRleHlScnhR?oc=5",
-          "source": "youngnong.co.kr",
-          "sourceInitial": "yo",
-          "sourceColor": "#3a6ea5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-11T07:11:19.000Z",
           "tags": [
             "출시",
@@ -497,6 +427,30 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "BBQ·맘스터치도 뛰어들었다…커지는 '집치킨' 시장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94WXMyVUc0RW5RUi1NQzBsUmdGQ1NDMkVOZlp3M19wWG5hUW55Q0ZHY2QtR0Itb3hUVTRhVzZva21tdnZodjE3NWpzQ2FGV0QzZDJMM3Uzdw?oc=5",
+          "source": "dailian.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "최애 먹고 굿즈 모은다…식품·유통업계, 애니메이션 IP 협업 진화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBodmRhRTJNdlVsZHpBTWk4djBrUmlEV3NJVTJGd0pESUE2UmI2U1hwNFpVVDVOWW9hT21qc1FvZHgzNTg2eExsaWpTS3lzTjg?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-12T23:56:51.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
