@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:41:28.175Z",
+  "generatedAt": "2026-09-13T11:10:24.907Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -22,9 +22,9 @@
           "title": "'성공창업컨설팅', 프랜차이즈 ‘가맹영업대행’ 주목…DB보다 최종 가맹계약에 집중",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tclE0LVZFWV9fYkFZZjRpTVdZMXpxU1hfSjJrNldudC1OTmhpOF9uUjNYdTFaSU5pMVlmU3RBbVp0RVZSeFRzSkZ3?oc=5",
-          "source": "얼리어답터뉴스",
-          "sourceInitial": "얼리",
-          "sourceColor": "#8a5cc4",
+          "source": "eanews.kr",
+          "sourceInitial": "ea",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-12T05:03:39.000Z",
           "tags": [
             "프랜차이즈",
@@ -32,6 +32,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[ 2026년 9월 14일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY245dXhFdW02LXlwUE9EMURvc2ozT2hsb3A0ZTJiQm9GYmZPUG1tNmZEVHlZeUJFdEJmeXlvWkd6YTItRE90WktIckh5Wk1JNkkyVmRiNnVtOHJhUkxLWktxcTJVc05fbG11WDRjbmU3c1VidElxZlFhOFVnQUFieS1fYTZ3YThuMlVLRkxB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-13T08:19:20.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "치킨에서 커피까지, 필리핀의 K-프랜차이즈",
@@ -76,27 +90,13 @@
           "feat": false
         },
         {
-          "title": "33떡볶이&꼬마김밥, 소형점포에서도 가능한 매장 모델 선봬 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGJ5OVhkRE1jVl9TVlZjR3F5UzBiS2xrcTBuSjdGdnJzYlczanlpWFgzWDhudTR2QjlUbUlFeW12cTBvbWVHXzJsdnpyWnVfRFNlZDJKcDhRdXBwZHQ0T09zVVBPOG56NVd4RkZRblV4cTJrLTlvOHlnVDFGOGVkVVN5amtRdlNEWHVVZDZ3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-11T07:25:52.000Z",
-          "tags": [
-            "매장"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "AI 콘텐츠·식품 수직계열화 매물…리테일·자동차 부품사 인수 채비",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWHBHcjZwUk9yUkJsZ1VhMDBIaXhuNlhUdEpUbVQ4RGJmeDQ0bVg3LXgyeDdwRWVUTGpwTE4xNzg3ZjZ1aDNsYU81Z19kYUdiOVJ3SS1oTk44MGxBaVRSUE1sUkdMR19yMmxuVGtCb1lGQ0U?oc=5",
-          "source": "marketin.edaily.co.kr",
-          "sourceInitial": "ma",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-13T01:00:07.000Z",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ODJwR3dKWGVESmY4eDJsaUN1YnRVWnMyM2llQURNMnFaUTVDX3pPRTd2MVdvX05wdFVlN1NldG54WDVXZ2YyUTNvb20wSVJMRmhodjdfN3hBRmthOGt4ZjFVZmZjdmFyNXhPMkQ0OXFyUQ?oc=5",
+          "source": "마켓인",
+          "sourceInitial": "마켓",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-13T00:00:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -112,8 +112,36 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 16,
       "items": [
+        {
+          "title": "추석 과일·수산물 가격 안정세… 한우·돼지고기는 10% 안팎 올라",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNDJZbkhlZ296NnhBdTRQM1FjSnhJeTZHM2JFbENhUUt0QnZlemlSejVNaFd5NlhRei1CZ0NQYUc2Tllpanh1SFBldThzejJYM1dCanROR3NDYTVQWHRKeFpPQnd2MUw3dVNMaEVDcC3SAXRBVV95cUxPZUZPNng1VmgySXYwZnBVZ2RBSHlHek5LUUtHV3ZQc1AyUDRDUGxHakFrdDNoM1FfeEVMZnVTTVYxWklUb0RWYklwUXdWdjdUNWR2WUNvcWV5c0lQejhkNXNDdkxYOEJ3ek54a21Hb0VvTWxwTg?oc=5",
+          "source": "IT조선",
+          "sourceInitial": "IT",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-13T09:10:17.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "추석 선물로 하면 '고급' 취급 받는데, 9월에 갑자기 가격 폭등한 '식재료'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Md3VKVUJBb0MyUnc4cFNpRFFid01RYnlKMko1bU95QnRzaE54QVVCaTJENUdwR1Qyb1ZWVTQtSkR6cUtsYzJKY25CaEFhTHRQWV9ldEpn?oc=5",
+          "source": "위키트리",
+          "sourceInitial": "위키",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-13T06:45:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
           "summary": "",
@@ -126,15 +154,15 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "ECB 관계자들, 에너지 가격이 유로존 압박하는 가운데 추가 금리 인상 가능성 시사",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkJ5SzkyZ3ZOM1N0UkJLSG0xX0lIQVRkNGh0VVdKVWg1WGNPQTVNdmVPLU5sX2NDQTZLRWRFRE9STGM5ZjRnWW1LS2s5TmROSDRINmg4S0RNQzByNDVGS2dWb1dLMUdMdkFkVFAxUnJZcHpwOWRTdXlkNThWQlJWODhhVk9XaUpGQUg5V0hwQ0E2WkwwWUNtNFh1WFowZ2hjTnlqOVd2ejlOTDAwNTFLRk1BVEtGeVRaUXp4WlZR?oc=5",
-          "source": "indexbox.io",
-          "sourceInitial": "in",
-          "sourceColor": "#1a4d8f",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-11T12:10:27.000Z",
           "tags": [
             "가격"
@@ -143,30 +171,14 @@
           "feat": false
         },
         {
-          "title": "파키스탄 주간 민감물가지수 보고서: 2026년 9월 10일로 끝나는 주 필수품목 가격 - 뉴스 및 통계",
+          "title": "Fed 워시 물가·트럼프 압박에 금리 결정 갈림길",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkd2ZjNIUXdDZXppcnVkdjNtVzZNMjBkRl9yYVk0T2hrMXlScjZnRzRSOWNuWk55QVVFcTZFS2cteld2aHhLNHVKUXhYaXhBbzhFcFJkT1RuTTRyWmF5N3F0NXhnc1pyTzBBeEU1a1lEcHpkOGZBVWwxT0FVek1HaGUzVzcyaGxtR01icDR1eGU3TV9FMTB0NXBiRTdhYkwzY2o2TmJ2Y0JpOG5EN1M1VE5xWlVYdkNlSk80NW9mOGRuUzR6dmVSS0ZkZFNmTzNadmNGRWxMdUhDdw?oc=5",
-          "source": "indexbox.io",
-          "sourceInitial": "in",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-11T10:21:35.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[커피가격 브리프] 9월 2주, 원두·아메리카노·대체커피",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYX050c2FrSnhEMXdiS05ZcUV2ZEdzTGhxdnRJd2ZOU3NXQlFySGdBRmEzQ0I2OFZLeFpiMWlwUFNiNUsybHRTeGhXWTR4TEgxQU00YUJtektjblBHclJtcDJSeXNmY3hESzhYcA?oc=5",
-          "source": "센머니",
-          "sourceInitial": "센머",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-11T07:16:29.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42dDl5NDZrdC1aeTRBcTRqb2dURHZDc2I2d0tqSG1DUlpDYk5hcFZPODhrS25qbGZYM2xrbWZOVld2N1E5emlQNHg0bmdpRThidG5DVXNmZmVkUEhhNXU4bjMtYUdEOS1QMEVBQTJFdEc1Nm44ekx3?oc=5",
+          "source": "thecommoditiesnews.com",
+          "sourceInitial": "th",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-13T06:31:32.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -198,22 +210,10 @@
           "title": "미생물 증식 억제제 패키지 시장 2035년 전망: 식품 안전 규제와 산업용 유체 수요가 연평균 4~6% 성장 견인 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMFNkUVhxS1F5RkRQOXBkMklFVWkza0NJRHZtNGtORndiYmlpZWd2QXltNmZPeHhuc0JNQTRzRU4wc0EtYkxMZ1kyWExySFYzOGN2T3pDQmpPUVNRTktoeFliVkcxRkpkM0hHRXd3elFIN1BCeEFnLTNuTk9IbnBQbDJET0xOZWFhTldQOFk5cEV0NmhWUGlvZkEyZjFPQWl4OVd1N0JsQ29TNUFuU0RNRGsxSWszcWpsV3kxa08wNVBtUmhLaFBkbTdhWERvcFE5cXNNSUJkODNIM0lFYVhQVEhXdDlMdXoxX1hOSnlFSXhyUWM?oc=5",
-          "source": "indexbox.io",
-          "sourceInitial": "in",
-          "sourceColor": "#1a4d8f",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-12T12:56:22.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중국 8월 소비자물가 0.8% 상승…숫자는 안정, 체감물가는 엇갈렸다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40SnVoekt4dTJtRXdjNDJreVVuMDluT0pIVUxzUHdzTTVUdnFFZ3FBczI4b2UxUTV3Z0lONjYyckFGVGs?oc=5",
-          "source": "대한청년일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-12T12:48:48.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -229,7 +229,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "학교급식 납품업체 위생 위반 329건, 제재 대부분 과태료·3개월로 끝나면 다시 수의계약 반복돼",
@@ -246,41 +246,25 @@
           "feat": true
         },
         {
-          "title": "한국식자재유통협회, 美 최대 식자재 유통 박람회 ‘IFDA Solutions Conference’ 최초 참가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lRjdWZUNoUlFEd1NtdWhpX18zai1RbzdjUlpEYlJtb1o5THRCMm5NRDZKRmZWWFRQWm4ybTU1LVJ4eVZpTmlVeHpHb21zTF9Id254aUlhRFhZRDQ5TVlFeEFUNGF0NnBfaVlF?oc=5",
-          "source": "식품외식경제",
-          "sourceInitial": "식품",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-11T09:04:51.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한국식자재유통협회, 미국식자재유통협회 컨퍼런스 및 엑스포 참가... K-푸드 B2B 영토 확장",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MLURBcnNxakRVRG9vdTBjcWJmcUlEaTRscmVFU1VNOW85NFVPRTZZMnFHWE5iSVpocWFqUGtNYUlzYlNoYl81VUM5VW0tTWhOVFlPRVFGSmEwVUU1Z1VjNnFNWUYyQVBlVEx6U2k4cE1yaS1iVDk4V1RZOA?oc=5",
-          "source": "비욘드포스트",
-          "sourceInitial": "비욘",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-11T08:09:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "SATRA는 관리 절차를 강화하고 '그린 틱' 인증 식품을 학교에 도입했습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWR6bEJFSVNreEFJdGtXakt1ODM4X1NMZU0yQVN6Sm54N0UxZzFUYk1Xamp6WGktZEg5d3FMcVY0di1MN0tpVUo3OEIzS0JYdm5yNzBZQU9sS0ZvY0dLdjlnZzJfZGNEZWxPd3ZzSzFqeG4xaTh4aXNhSW9ieUNRUmFIVi1TTTdJMV94bnNaR3ROX29Cc0x1WTBRck1UbW54TVE?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-13T03:33:36.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한병도, “학교급식 행정처분 527건”…제재 후 관리 부실 지적",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTUZjb3VMcUFJYVZRd3NNcElyQmNmMTBIM3c3d1k2YUo5aEtrZ2wwTENYeXlGQmMtUGYzZUZkVXhoQXZqaFJfa19rT0Eydy1XaVVaU3VDZl9oY0NyaDdtVTZwdTRjZw?oc=5",
+          "source": "kgdm.kr",
+          "sourceInitial": "kg",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-12T17:38:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -288,7 +272,7 @@
         {
           "title": "정이푸드빌, 손맛을 1g의 기준으로 바꾸다…속초 젓갈에서 B2B 간편식까지",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yYUwtQmVlQnZkVnppUVl4d1FBUFBONDRuUnZaZ1RibnZsUmdKaDRYZmZWSjUycjBNQ054OWdVVl9MdTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qOWNPWHB2VzViX2lkVjVKRGhRcVNfU0FFNkhpb3ZFeTBnUXlQS0NQNVVJNVRkd19UNnhHQWw4Qk5HdUlYQ2VfOGUzZTIzZ01YeC1UN2JB?oc=5",
           "source": "대한청년일보",
           "sourceInitial": "대한",
           "sourceColor": "#333333",
@@ -308,7 +292,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "수출 982억 달러·취업자 18만명↑…정부, 성수품 18만3천톤 풀어 민생물가 총력",
@@ -342,23 +326,11 @@
         {
           "title": "“전쟁에 엘니뇨까지, 미리 움직인 그들 웃었다”…6개월새 13% 뛴 농산물ETF [원자재로 살아남기]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mU2xjSWEtRVhFWFo3UV9DdHAxcDRLQWZFOEdxbzNVQ1lvdUpoMVpXazBBM1Q3eW4yWDBRVkNONF8xc0R6ckc5LWhZLS1RRVVMdUE?oc=5",
-          "source": "매일경제 마켓",
-          "sourceInitial": "매일",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lOUo5ZFE3YTMyNzBtMlhCaEtfLVZzVW9CU2QwTGFqcFVPMjJuczRlcm5IanBqRGE0di1mZklIS2lydUljNEpWWkhPMlBiMU1Ka2c?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-13T04:02:07.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "SK스토아, 추석 앞두고 주요 식품 협력사 현장 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41LVZyZmRWZWN2ZjBERzdvWDBoM1YxajNCMzNDTVpKOTZBUnRQYkJ6SU9tbEpRSW1MRGpOTU1yM0Rlc0xiczhKWTBmX2dKZnhUTVk0?oc=5",
-          "source": "네이트",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-11T06:07:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -377,13 +349,13 @@
       "total": 4,
       "items": [
         {
-          "title": "농협목우촌, ‘직화양념곱창’ 등 간편식 4종 출시",
+          "title": "하림, 간편식·단백질 음료 7종 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5INmFmM3FnV3VQY2tmUG9mM3FONDdrZi1Ed2ozZG5ES05ybjM3ZGtITFZ5bVMxc0JwbGk1SXlWWEdZQl95R2VPWUl0RGlZU2RHNndHblhlOHJHaUtkOWotNnJvdXEzcWRleHlScnhR?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-11T07:11:19.000Z",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlhSeHNaUXdFUFEwSVZpM25aVDRWQmhNQVFJR19Pd1dNTzMteU0xZjdGNWZBVEFuSGUxZHZ4U3VrU0cyd1dNNG1ka2EySmU0UDV3a053bzFhNHZpQzRqMDJ0aWJVcnFydVlFelNrdjBkSjFWUm1OMFg5a2FTcWhyeEtxN3dtSms?oc=5",
+          "source": "전북도민일보",
+          "sourceInitial": "전북",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-13T06:14:07.000Z",
           "tags": [
             "출시",
             "간편식"
@@ -395,9 +367,9 @@
           "title": "BBQ·맘스터치도 뛰어들었다…커지는 '집치킨' 시장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uTWR3WGVYdktaakdaa2FBc3Q1NUU5WURvZnBfWEZCSWdseXE0MzZ0NUNWSWZhaFVlMXJ2OXhDZE84SUVOLWZfVlpnU1FzY283N2NoNlBR?oc=5",
-          "source": "데일리안",
-          "sourceInitial": "데일",
-          "sourceColor": "#c0392b",
+          "source": "dailian.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-13T00:00:00.000Z",
           "tags": [],
           "price": null,
