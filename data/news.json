@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:04:29.084Z",
+  "generatedAt": "2026-09-13T21:01:52.281Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "'성공창업컨설팅', 프랜차이즈 ‘가맹영업대행’ 주목…DB보다 최종 가맹계약에 집중",
@@ -40,7 +40,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-13T14:19:21.000Z",
+          "publishedAt": "2026-09-13T08:23:21.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -65,9 +65,9 @@
           "title": "농식품부, 2017년 외식트렌드 키워드 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONkllQUJEV19COTk3V3dIWWpYaDNPU0xJbE0zS1BTa3hfYlNvVFEtQzlwU3g3aGdjWVNTUzVzdjNfaElHZEVyYVlET0pVWEQzWFNLY2hjb1BTallTRi1PWUxQWmZ1elpJVzNYN3AzSm83SW1oTlozZno0cXlHcWhtVTh2aW9Lb3A5US0yQWlpTTRKV05yMGFuTVBtUU5BaUtodURBYV9qajhscXJNSmd3TktUcEh2cjktcVdoaFhnMU9pY0JFM0ZtcXVUVUJseVpVaW04ZWVtYnBqVWtSZ0tVZmlBVHRORkRVY2pwNkcxRTlrU3NEUEhxbWIxTEJpTDZPblp0VEtLYlZYNWk2d3RtNGJSQktCbk9YREVUM1podzcza1VPRjd3aA?oc=5",
-          "source": "idailynews.co.kr",
-          "sourceInitial": "id",
-          "sourceColor": "#2f7d4f",
+          "source": "데일리뉴스",
+          "sourceInitial": "데일",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-12T15:49:00.000Z",
           "tags": [
             "외식"
@@ -88,6 +88,18 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "푸드테크의 최전선에서 넥스트 F&B를 묻다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rYUxnYWVOTGhXQTBVOXhxSVJYLVNmQUNodnBhMktLWXU3b1h5VS1mMHBHbm5WazlBWjF2anBwMUozcUo5YWctWnBBc3Q?oc=5",
+          "source": "브런치",
+          "sourceInitial": "브런",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-13T10:02:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -100,7 +112,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "추석 과일·수산물 가격 안정세… 한우·돼지고기는 10% 안팎 올라",
@@ -134,9 +146,9 @@
           "title": "용량 줄이고 가격 낮췄다…1인가구가 이끈 먹거리 '군살빼기'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRm9hdkVZdGdoZkR2UThnWktlbzg3VlZUWURnV3lveUN0b0o0emVGT2FJUGNyU3pNcHJmdm9DSk0yRlV2VGduU01tU1VOSTFRNi1F?oc=5",
-          "source": "news.nate.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "네이트",
+          "sourceInitial": "네이",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-11T23:26:00.000Z",
           "tags": [
             "가격"
@@ -145,23 +157,11 @@
           "feat": false
         },
         {
-          "title": "올 추석엔 3만원 미만 건강식품·돼지고기 선물세트 인기",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wZ1VMMDNFbVVCVnNYc3dIY19sRU1JUS1TNElyTEoxbkJ6ak9QdXFEX1dWSUkwaFoyNTFtTzU0VE4yZGhSY0xRUUlVdldyRlU?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-13T15:39:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "국제유가 100달러 돌파…장바구니 물가 다시 자극하나",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtSXR4aDJLLVg0SWk2M3FtWkxzRTFaVmQteGJGV3Uyd3QwOE5FZnlseU9pLXhVelNqQ0Z1Q1kxaWpkZVNZdnc3cUZxZ2NUNVdNc3J1MjhlekhaMkY3QnlQd0tn?oc=5",
-          "source": "매일신문",
-          "sourceInitial": "매일",
+          "source": "imaeil.com",
+          "sourceInitial": "im",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-13T13:23:31.000Z",
           "tags": [],
@@ -172,10 +172,22 @@
           "title": "EU 급식 조달 개편안…영양·동물복지 평가 근거 담아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LT3prWkVOSnd4SW5zX3FoX2FHb1pJUEJFWlR1TXNBRE1MU04tN3JDeHdaa2Z1WkNZWkZwaGxkZjA5TWY3UDBxM3doSjd2MHZBdTJMdW9xYXZ3MjBQdzNXNW1lY3B0dw?oc=5",
-          "source": "vegannews.co.kr",
-          "sourceInitial": "ve",
-          "sourceColor": "#3a6ea5",
+          "source": "비건뉴스",
+          "sourceInitial": "비건",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-12T20:17:54.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "2035년 식품용 수처리 응집제 시장 전망: 강화되는 식품 안전 규제가 성장 견인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZi1Vc250MGNaTVAwQkpMbzRMY2JVM2l4ZFVFU2Rwc2FwazVGMkhoem9mcHo4ZTczbkJmM0k4YlJxSVZiTmdORHJ6dG45VFJTZjBoR0NlanNpLThBaUc5azdlVkdyQjNEZmhEUzd6blFvQXNETlZFWWlsWUtkVld1MHJYSERKNFhNU192Q1BybzJTUVNnQWZCSGtoblhmVW9BTWJlS0RfQzlJVDZ0U1JIY0dES1NxWldHUk1HMU1qckhBOGY3d2NtNnh2Ulc?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-12T20:11:20.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -196,9 +208,9 @@
           "title": "국회서 ‘대한민국 식품제조CEO 미래포럼’…AI·에너지전환·저탄소가 승부처",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX2ZydVhzQXVRSnpOSVR5VHVyQ2ZhNU9qQUdOQnVYYTkyLTR1STBIc3MwN29GQ2lxLURrVVdSNVZrUU5NWVJlVjl6RUFWN3ZlcXlBaEFxZnNCTUxnUEdfWElLYTBMX25YUUtOckV2RQ?oc=5",
-          "source": "대한일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#c98a2b",
+          "source": "daehanilbo.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-12T06:31:15.000Z",
           "tags": [],
           "price": null,
@@ -235,9 +247,9 @@
           "title": "SATRA는 관리 절차를 강화하고 '그린 틱' 인증 식품을 학교에 도입했습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWR6bEJFSVNreEFJdGtXakt1ODM4X1NMZU0yQVN6Sm54N0UxZzFUYk1Xamp6WGktZEg5d3FMcVY0di1MN0tpVUo3OEIzS0JYdm5yNzBZQU9sS0ZvY0dLdjlnZzJfZGNEZWxPd3ZzSzFqeG4xaTh4aXNhSW9ieUNRUmFIVi1TTTdJMV94bnNaR3ROX29Cc0x1WTBRck1UbW54TVE?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-13T03:33:36.000Z",
           "tags": [],
           "price": null,
