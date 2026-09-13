@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:01:52.281Z",
+  "generatedAt": "2026-09-13T23:19:27.607Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "'성공창업컨설팅', 프랜차이즈 ‘가맹영업대행’ 주목…DB보다 최종 가맹계약에 집중",
@@ -32,6 +32,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "외식업 식재료비·인건비 비중 첫 70% 돌파…수익성 '빨간불'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fT2V4UWM1c1JBc0JfQ3VIMW85WXBlNzNGNTNER285eDM2bUVvMEhwclBHOWlHNG9jeDJTQ0poT0pxRnhwaF9SMVFocVlteU15NG9FV0tiX0VBZ3lGSmJoc9IBYEFVX3lxTE1fT2V4UWM1c1JBc0JfQ3VIMW85WXBlNzNGNTNER285eDM2bUVvMEhwclBHOWlHNG9jeDJTQ0poT0pxRnhwaF9SMVFocVlteU15NG9FV0tiX0VBZ3lGSmJocw?oc=5",
+          "source": "연합뉴스",
+          "sourceInitial": "연",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-13T21:01:01.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[ 2026년 9월 14일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -115,6 +129,20 @@
       "total": 12,
       "items": [
         {
+          "title": "[Issue+] 계란 가격은 어떻게 형성되나",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPOGZ3VnRYRGhTTWNaU2RSX0JiVVh2TkNwVVl6LWpaVkVieVFHR0V6dG1BVlVIa001RXU1VkhnMHVRMWFiN1Z5cnBJU1NPckhtQXZpblIwR1JIMzdPWTlCOHJjWTIzZGN4NUZvaQ?oc=5",
+          "source": "aflnews.co.kr",
+          "sourceInitial": "af",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-13T22:00:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "추석 과일·수산물 가격 안정세… 한우·돼지고기는 10% 안팎 올라",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNDJZbkhlZ296NnhBdTRQM1FjSnhJeTZHM2JFbENhUUt0QnZlemlSejVNaFd5NlhRei1CZ0NQYUc2Tllpanh1SFBldThzejJYM1dCanROR3NDYTVQWHRKeFpPQnd2MUw3dVNMaEVDcC3SAXRBVV95cUxPZUZPNng1VmgySXYwZnBVZ2RBSHlHek5LUUtHV3ZQc1AyUDRDUGxHakFrdDNoM1FfeEVMZnVTTVYxWklUb0RWYklwUXdWdjdUNWR2WUNvcWV5c0lQejhkNXNDdkxYOEJ3ek54a21Hb0VvTWxwTg?oc=5",
@@ -126,7 +154,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "추석 선물로 하면 '고급' 취급 받는데, 9월에 갑자기 가격 폭등한 '식재료'",
@@ -157,11 +185,23 @@
           "feat": false
         },
         {
+          "title": "100만원 팔아 71만6000원 재료·인건비로…음식점에 남는 돈 줄었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdG1rWVVPeWxtaWtaSThweDFxaV83UTZKdzUtZk1mT1hYUXljX0VtM0lsYXFlUEh3dGQ0Znd6VEhxelQ1ZmRobjE5VHNJTzdkb2NRNFFNcU9WZw?oc=5",
+          "source": "경북매일",
+          "sourceInitial": "경북",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-13T22:33:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "국제유가 100달러 돌파…장바구니 물가 다시 자극하나",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtSXR4aDJLLVg0SWk2M3FtWkxzRTFaVmQteGJGV3Uyd3QwOE5FZnlseU9pLXhVelNqQ0Z1Q1kxaWpkZVNZdnc3cUZxZ2NUNVdNc3J1MjhlekhaMkY3QnlQd0tn?oc=5",
-          "source": "imaeil.com",
-          "sourceInitial": "im",
+          "source": "매일신문",
+          "sourceInitial": "매일",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-13T13:23:31.000Z",
           "tags": [],
@@ -172,9 +212,9 @@
           "title": "EU 급식 조달 개편안…영양·동물복지 평가 근거 담아",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LT3prWkVOSnd4SW5zX3FoX2FHb1pJUEJFWlR1TXNBRE1MU04tN3JDeHdaa2Z1WkNZWkZwaGxkZjA5TWY3UDBxM3doSjd2MHZBdTJMdW9xYXZ3MjBQdzNXNW1lY3B0dw?oc=5",
-          "source": "비건뉴스",
-          "sourceInitial": "비건",
-          "sourceColor": "#c15a37",
+          "source": "vegannews.co.kr",
+          "sourceInitial": "ve",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-12T20:17:54.000Z",
           "tags": [],
           "price": null,
@@ -188,30 +228,6 @@
           "sourceInitial": "In",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-12T20:11:20.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중국 8월 소비자물가 0.8% 상승…숫자는 안정, 체감물가는 엇갈렸다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40SnVoekt4dTJtRXdjNDJreVVuMDluT0pIVUxzUHdzTTVUdnFFZ3FBczI4b2UxUTV3Z0lONjYyckFGVGs?oc=5",
-          "source": "대한청년일보",
-          "sourceInitial": "대한",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-12T12:48:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "국회서 ‘대한민국 식품제조CEO 미래포럼’…AI·에너지전환·저탄소가 승부처",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX2ZydVhzQXVRSnpOSVR5VHVyQ2ZhNU9qQUdOQnVYYTkyLTR1STBIc3MwN29GQ2lxLURrVVdSNVZrUU5NWVJlVjl6RUFWN3ZlcXlBaEFxZnNCTUxnUEdfWElLYTBMX25YUUtOckV2RQ?oc=5",
-          "source": "daehanilbo.co.kr",
-          "sourceInitial": "da",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-12T06:31:15.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -278,7 +294,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 5,
       "items": [
         {
           "title": "수출 982억 달러·취업자 18만명↑…정부, 성수품 18만3천톤 풀어 민생물가 총력",
@@ -306,6 +322,30 @@
           "tags": [
             "규제"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "수입식품, 올해도 잔류농약·동물약품 ‘기준 초과’…상반기 18건 적발",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsWU12Tk1Ral9DRWJHa2hZMVJZWWpWWkVpZ2hyR2tEdVZLaDVDa2hQajdQZnVOM1JrT2NRM2RTdUxWY3U4VTFKNkZrYnBJbWRYOWZ6dWg5bTBCQ3dYS3paUWx5a2FYUmNtTHdoQnhxSQ?oc=5",
+          "source": "joseilbo.com",
+          "sourceInitial": "jo",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-13T22:29:45.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농약 24배·항균제 11배…수입식품 안전 논란 되풀이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qeEdiWHZ3ZEsxdzNaYzF1ZWYyYzZta3lvWDZGQm5CaGVDTTdCR0cwckpTWFIwdWVacVlZZG14R182VEh6OXFmMjFkV2dXaVVubGc?oc=5",
+          "source": "매일경제 마켓",
+          "sourceInitial": "매일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-13T21:13:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -350,6 +390,18 @@
           "feat": true
         },
         {
+          "title": "[핫이슈- EU PPWR 쇼크 ③] 네슬레는 포장 줄이고, 몬델리즈는 구조 바꾼다…글로벌 식품기업의 ‘선제 전환’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xajZZZW9NUGQ4QUFIS2N3eXVpa1BySTdMVzB0V1lISGVqRGNCaVN2OGY3Y1JEcFpGTzhTZnhfRkVfVWJzNFh4TVRDZTcxRG4wUmNQMGR5aW9WQm5jSXJaTlZ4MXRXbHRaWUJ5dg?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-13T21:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "BBQ·맘스터치도 뛰어들었다…커지는 '집치킨' 시장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uTWR3WGVYdktaakdaa2FBc3Q1NUU5WURvZnBfWEZCSWdseXE0MzZ0NUNWSWZhaFVlMXJ2OXhDZE84SUVOLWZfVlpnU1FzY283N2NoNlBR?oc=5",
@@ -369,18 +421,6 @@
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-12T23:56:51.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "5000억 시장 잡아라…식품업계, '카톡 선물족' 전용 상품 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LT0RuX05ONzlTb0l6ZTJGTm96NHhkQWhxRWlnTEhTcy1NVE9BcmI0UWxhSUpHekhULUIwdVd1VXJhWlhxcERselFtWHJpSm8?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-11T22:04:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
