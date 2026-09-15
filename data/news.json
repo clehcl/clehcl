@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:11:37.217Z",
+  "generatedAt": "2026-09-15T20:22:17.640Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -80,9 +80,9 @@
           "title": "K-식자재, 북미 유통망 상륙…현지 급식·외식업계 진출",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwa0xFUi10QkNPR2FFSUFqMmZmWEZ6NlljdmhadlcydWhTTkY4Y3NaMGFRUzFfX1FvQU9VMVd5eExtcFZfaFRUaFQ5R2o3OC0xYlc2TmhtVkEzSGZYMUI1OWwxZ1dydDZ6QlR1VE1mQXBRV29Yb2R3TNIBeEFVX3lxTFBwa0xFUi10QkNPR2FFSUFqMmZmWEZ6NlljdmhadlcydWhTTkY4Y3NaMGFRUzFfX1FvQU9VMVd5eExtcFZfaFRUaFQ5R2o3OC0xYlc2TmhtVkEzSGZYMUI1OWwxZ1dydDZ6QlR1VE1mQXBRV29Yb2R3TA?oc=5",
-          "source": "newsis.com",
-          "sourceInitial": "ne",
-          "sourceColor": "#2f7d4f",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-15T02:00:00.000Z",
           "tags": [
             "외식"
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 15,
+      "total": 13,
       "items": [
         {
           "title": "가격은 '원가 부담'에 올렸는데…풀무원, 해외법인 500억 지원 세무조사",
@@ -213,24 +213,12 @@
           "feat": false
         },
         {
-          "title": "인도 물가 상승 압력 '지속'에 '확산'...RBI 10월 금리 인상 가능성 높아져",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MQ3EzVmg2Zk9SRnpDaFQxY19tZ3hRbDlqTVBEMkxkSzVYRDYtLW5zRkxHc0NadFNma1RDMVhNdXA5cjdwNjQ2QjdWY3pvLVU2UThVMU5LcjN5Z1RR?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-15T07:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "쿠팡, 추석 신선식품 할인전…선물·명절 먹거리 4800종 선봬",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sbi1iZEhzLWJGT1NMN3E3c011RlpkaEZZMHlvejR2eDRLeS04OHRNVzc3MjRyM0hQMXk0V0M1QWlla3U5MXRDX1JhOTBFeWxPRGxFUnNDOUF6M0FYenZVRUUyONIBbEFVX3lxTFA3bEV1QmtpRTB6T2E3OVREUVFqcXMycUExQlV6VlVRd3pfX0hxbzg1T3Z2REV1YUR6MFdUbDF3emNId3B0UGx3Wi1FMnd4Z2laWGRMLXRRT082ejE2bWh0S1RVTmNmVGR5b25Edg?oc=5",
-          "source": "socialvalue.kr",
-          "sourceInitial": "so",
-          "sourceColor": "#333333",
+          "source": "소셜밸류",
+          "sourceInitial": "소셜",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-15T06:57:42.000Z",
           "tags": [],
           "price": null,
@@ -247,6 +235,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "환율 1330원대 급락…롯데웰푸드 웃고 삼양식품 운다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sOThRRVM1dmlQMUV3UndhUmYxY2ItU3NlNWVOT3daVUhGUEZpOGlHVGhGeU5SZ1hBMWhMTGdLTC1xX2V0M2pEMUg4ZHJTQVUzNU1sM3JHaEtpYzJzMm5RTkFQb0UxY0U?oc=5",
+          "source": "자본시장뉴스",
+          "sourceInitial": "자본",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-14T07:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -259,15 +259,15 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 22,
+      "total": 21,
       "items": [
         {
           "title": "[2026 한국고객만족도 1위] 식자재물류유통 전용 프로그램, K발주ERP",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IRDhRb3VmLUpxU2VnRFh2RHJ5VWdiYUlHT1I1RUhObWxadl90OE9GNzFIek9OX2hjUVJsQWg1S1dFR2Y1d1BRbnp3V2F5ZjBja0F6N20yTU9PU3plUmNVcTZsclB2bTJGU3ptVg?oc=5",
-          "source": "한경매거진&북",
-          "sourceInitial": "한경",
-          "sourceColor": "#c0392b",
+          "source": "magazine.hankyung.com",
+          "sourceInitial": "ma",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-14T20:29:00.000Z",
           "tags": [
             "유통",
@@ -385,9 +385,9 @@
           "title": "[데스크pick]“공급 확대·대폭할인 장바구니 사정은”...정부, 추석 성수품 물가 잡기 총력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pekxwTm1BRTBrSnF4bS1UZDc5N3FoZ1FIbVVyeTZtdmplUUVwc0xPekU1WFZ1eXp4RE5DeVRScnJJMnJPc3ZGTkhGYTBHM2RQVWU3NTZfcWlqSGx0YU82UzhneWUwaktGcEZn?oc=5",
-          "source": "뉴스피릿",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#1a4d8f",
+          "source": "newsspirit.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-15T08:30:18.000Z",
           "tags": [
             "물가",
@@ -400,9 +400,9 @@
           "title": "농식품부, \"추석, 정부 할인 지원 590억에서 1490억으로 확대\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jamJDakpyamE4VlZsLVZDLWlpRUhPQ1JmSjF1WmFUdEdUcUNMUW9KWkVfVGo1RVB5RkdOQy1qQnFhSHFIOUMtQm5FLWtxNmpoVHJ5UDFaYlU1bnZtYUV0MDZTN2FrSVZsaHRoX19WRmdzZw?oc=5",
-          "source": "시사연합신문",
-          "sourceInitial": "시사",
-          "sourceColor": "#1a4d8f",
+          "source": "sisayonhapnews.com",
+          "sourceInitial": "si",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-14T23:08:00.000Z",
           "tags": [
             "정부",
@@ -443,8 +443,8 @@
           "title": "농식품부, 추석 성수품 공급 총력…할인 지원 1,490억원으로 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14RjVhTElaNlpPTW1ZZlpRZzUxamsyZVJYOGs3SU5NMTNGampiWDlSMk53OGYtUnRoZmxjWXhhcExiNmVsN3hOekVqTGVDZ3ZxOW5PUURISWppN1hGbXYyOU9UY05lY1U?oc=5",
-          "source": "kfmn.co.kr",
-          "sourceInitial": "kf",
+          "source": "한국식품의약신문",
+          "sourceInitial": "한국",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-15T01:02:49.000Z",
           "tags": [
@@ -510,9 +510,9 @@
           "title": "㈜하림, 간편식(HMR)과 단백질 음료 신제품 대거 선보여...\"종합식품기업 도약 가속화\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MlUwazIzMFExWkVYcEJ3VEN3TEN3cVVJUWUtbVFSbV9wYWh4cS1uWXJqWm5qSU5xSnM0VUowSDVIblBUdTVsMlFLSHdocFpkcVBuN2FQb0kyOTlyQVhSLUhiUXVDbEs3ZWQ3UA?oc=5",
-          "source": "jeonmin.co.kr",
-          "sourceInitial": "je",
-          "sourceColor": "#3a6ea5",
+          "source": "전민일보",
+          "sourceInitial": "전민",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-15T02:18:04.000Z",
           "tags": [
             "신제품",
@@ -603,9 +603,9 @@
           "title": "\"임직원과 소통\"...삼양식품, 창립 65주년 기념행사 개최",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uYVBPelJRLU1mYVNVNThrLThKSjZlaGVqOGQ1SzFXVHlOcEJZcVR0cGlvVzNHVVYtSHZLNE1PVDRISHhQTE9pRVJtcUtBcHBmdnJGd2FQcVd6MXBRU001VEtnNVZ0VDA?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
+          "source": "youthdaily.co.kr",
+          "sourceInitial": "yo",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-14T23:47:26.000Z",
           "tags": [],
           "price": null,
