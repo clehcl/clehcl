@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:29:36.310Z",
+  "generatedAt": "2026-09-16T20:23:00.619Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 16,
       "items": [
         {
           "title": "MK Pick | 올리페페 생무화과 가을 시즌 한정 메뉴 출시, 광화문·여의도·판교·강남 4개 매장 운영",
@@ -107,9 +107,9 @@
           "title": "노브랜드 버거, 군 급식 입성…외식 영토 35사단서 확장",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03SVpIUEQxNHlEOTJ0UlNHWVJ6bllybm8xaE1oTUpibXNnVDVlcFc0TVQwYm5HLTdhSjNfRFZVV2VMY0FHbmRHYnpBSFk?oc=5",
-          "source": "TENANT news",
-          "sourceInitial": "TE",
-          "sourceColor": "#8a5cc4",
+          "source": "tnnews.co.kr",
+          "sourceInitial": "tn",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-15T23:43:51.000Z",
           "tags": [
             "외식"
@@ -234,9 +234,9 @@
           "title": "\"100g 가격은 더 싼데 계산대에서 깜짝\"... 대용량이 오히려 비싸지는 순간",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBZlRtWXJuQ1ZXNnBHY0FMLXRFbGRSbUJWV1ZzTHlleXVfMC1kWmtNYUprSXZ2V1hSekhzZzdTZlNHQlVIRFdFZ1QtQS1YcUdhNUJoT2s1YVpYcTV6RFJSdkJvUzZocjdnUDRiZ3FVVUM?oc=5",
-          "source": "autotribune.co.kr",
-          "sourceInitial": "au",
-          "sourceColor": "#333333",
+          "source": "오토트리뷴",
+          "sourceInitial": "오토",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-14T21:35:00.000Z",
           "tags": [
             "가격"
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "[2026 한국고객만족도 1위] 식자재물류유통 전용 프로그램, K발주ERP",
@@ -387,7 +387,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "[데스크pick]“공급 확대·대폭할인 장바구니 사정은”...정부, 추석 성수품 물가 잡기 총력",
@@ -451,9 +451,9 @@
           "title": "대구시, 추석 성수품 물가 잡는다…공급 확대·최대 50% 할인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidXNtSVVXaVJ0dDl3X0xXUzN4WGpUcjJxNGQ2MGtOVzlVbXpCT1RqT0JoTDBfUkRtM0dsZ1FRNEFENldlM2NuZXBwR2ZjRXVRTVJKOHNMMlZTUQ?oc=5",
-          "source": "kbmaeil.com",
-          "sourceInitial": "kb",
-          "sourceColor": "#c98a2b",
+          "source": "경북매일",
+          "sourceInitial": "경북",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-15T09:22:00.000Z",
           "tags": [
             "물가"
@@ -514,7 +514,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "㈜하림, 간편식(HMR)과 단백질 음료 신제품 대거 선보여...\"종합식품기업 도약 가속화\"",
@@ -547,27 +547,12 @@
           "feat": false
         },
         {
-          "title": "풀무원, ‘식감혁신 본격 떡볶이’ 2종 출시...간편식 시장 '공략'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05M0tWT1dKblhHa1VudU9iWGRmRnQ4aGY3ME0zWk9WZ180ZzJfZ1FYendhczlKUGRuYVRxcEhnX0JhZW4yRzUwOTZ5OTlna0xhVWhyVGxiU3JVZnA2dkVfVTVacXliVVp6aWFBdy1nRQ?oc=5",
-          "source": "이코노미사이언스",
-          "sourceInitial": "이코",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-15T01:03:49.000Z",
-          "tags": [
-            "출시",
-            "간편식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼진식품, 100억원 BW 발행…“신규 공장 투자로 수출·신제품 생산 확대”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByRURSWVpSM3l1NjNJa1dZWG53S3VwNGZ6aUV4NTNSc1RrUUpkTnU4NmN2WUEtNTl3b2NERHc3TlNmbjFFODYtclZoQWV5bmdXUFpzMg?oc=5",
-          "source": "etoday.co.kr",
-          "sourceInitial": "et",
-          "sourceColor": "#1a7a5a",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-16T09:57:00.000Z",
           "tags": [
             "신제품"
@@ -621,6 +606,18 @@
           "sourceInitial": "더구",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-16T01:15:29.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[똑똑한신상] 이그니스 그로서리서울, 동원F&B, 웅진식품, 서울우유, 오뚜기",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pa0NialFUZ1h2V21IMkc5S2M2cm55U2x6WmpYSXIyM0tNZ2tPenJFYThXWmFLNlpZcWdReXpBSzc0X2NudnFiZUtpNnJGUkp1bGdTbmtISjZhc2JsXzRicUkzaw?oc=5",
+          "source": "에너지경제신문",
+          "sourceInitial": "에너",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-15T23:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
