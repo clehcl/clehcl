@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:42:29.951Z",
+  "generatedAt": "2026-09-17T17:29:08.180Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 18,
       "items": [
         {
           "title": "서울 외식 프랜차이즈 1년새 1700곳 급감",
@@ -32,6 +32,21 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "서울 외식 프랜차이즈 점포, 1년 새 1,680개 감소",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nZDZiZVEwZ183OVRHVE5LMlZsRnBaZWh5dGFZZXR0SHVxTWhGY0F5UkV1d2xnMTQtOGlnSzdTZ2pwNEJhRUMwYzBHck1YUGtR?oc=5",
+          "source": "프랜차이즈월드",
+          "sourceInitial": "프랜",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-16T02:49:15.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "MK Pick | 올리페페 생무화과 가을 시즌 한정 메뉴 출시, 광화문·여의도·판교·강남 4개 매장 운영",
@@ -66,9 +81,9 @@
           "title": "‘광고만 하고 끝내지 않는다’ 가맹 영업대행 \"성공창업컨설팅\", 한식·고깃집·커피·포차까지 월 5건 이상 가맹계약",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PSlRkbnpxTTdDUkJlbjVCQWxkQkZBd2dOUHBPRnFBVll2MGp4OHJnaUktMHM5Z2U5UkM2d0N5bWJfZG1XS294azRn?oc=5",
-          "source": "얼리어답터뉴스",
-          "sourceInitial": "얼리",
-          "sourceColor": "#8a5cc4",
+          "source": "eanews.kr",
+          "sourceInitial": "ea",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-17T07:03:23.000Z",
           "tags": [
             "가맹"
@@ -91,6 +106,20 @@
           "feat": false
         },
         {
+          "title": "샤브보트R, 여름 한정 막국수 3종 선보여…식사 후 메뉴 다양화 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpcE04N2VRVTgwUG5sWWdvZjRidlppZGJ5UWo4clQ2Q2Z3N2dtV0lRZ0d4MlZfSjVSNThhQnpJTDZlaHl0Xzdjc2I0YjJMOXRoRnY4Sm1TVUE?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-17T02:51:25.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "1인 외식 선택지 넓어졌다…캐치테이블, '2026 혼밥 트렌드' 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42N3lNYnhvb1VRZEtrQkpXbkY5ZHRvRDZHN3VPX3N1UlFXeGZoM1lNNDlGNlRjN1hYX2xmRzFFeU1pQWlHajZfdkRXRUw1c2hMb1k4Y3FrTmwzZkQ1SmluTHJZQ200ZjlsbXh5NjE4Zmg?oc=5",
@@ -100,34 +129,6 @@
           "publishedAt": "2026-09-17T02:10:00.000Z",
           "tags": [
             "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "연세대 프랜차이즈 CEO 과정 48기 출발…\"교육 참여와 책임감 강조\" : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU29RLVVDRHQzM2E3dW5EY2pQalM1aVRzMllWemthMEhaSzZsdzd2b3EyWm5yak52QkNCVHVNaUl5Rzc3d01HaVVJSmVIUllEXzl5X0Z4Q0JqOEQzVXZmYllvQkZpeUk1VWpIeGs5c2owdEtjWmhMOWQ0UE5Fdkp3U2hqYUIzLWVUQWJESEt3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-17T00:06:05.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 9월 17일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXFyWmVDSHo0Yl9JanhzLUhZQm1mTlpjeXNZM3U4R2ZNdWNPai1TWVBUS2NqOHJGblhlV2Y4cTFMaTg1bENjdVgwd1Y4dDdvaGlldUxJeWttVjExR21oSFp5dmk5SHNVOXlVWU5CaWN4RlVhM2p6RFlpZTJPUlhKTzd6NDVyYmtweFhUMjV3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-16T14:45:59.000Z",
-          "tags": [
-            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -143,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 14,
       "items": [
         {
           "title": "캐나다 | 식자재 원가 폭등에 비명... 식당 10곳 중 9곳 가격 인상 감행",
@@ -233,7 +234,7 @@
         {
           "title": "배민, '상회대축제' 진행···식자재·비품 최대 87% 할인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xR2VNNlRMaXFBMWEyX0E1WjkxTVBwUklDNXVWdmNoS0VUcF91dUJNMWpaQTA3czd4VVRYQ1p4VGk0S2UzME9JYXJuM0ljeG4xX2pxaA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWURBSjF6LXBiTnZ1SU9kLVZ3bHp3OFkxOHhMS0NzQmxKOUljdW1GUzR2ZklOV3VVZC1mX0l0MzdpMWNKb29qMFlMYm5rSUg1Q1BNTkZLaXFadWp6TWJrRlFsZ2ZRNU53RGllSXNJeW5oYnZhd0gtT2s4UVowVlJoeERleFZva3k1Z2xXcnE3ak53djluUHhBOV9RVVdwSW9mQy1Yc2htYXdraWNEUlJvdE9FWC0xLVFPQTVMc2NXak1lYzRZODNQREFiUlNzTmhXZFZNQnB3N2xaRmk5a1R3SVVPd0Nnb1BNVWtPSEZGY0xhTHl1MTNtaVlQcDdIWFliUXg0ZVhMcTFHbE9fRmw3SjBPWUNESXZURlN2SUJSUmpydw?oc=5",
           "source": "데일리안",
           "sourceInitial": "데일",
           "sourceColor": "#c0392b",
@@ -269,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "유통업계 대규모 채용 문 열린다…하반기 채용 키워드 ‘AI·글로벌’",
@@ -284,20 +285,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "농식품부, 美 IFDA 첫 한국관…K-식자재 B2B 유통망 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WT3JCMjlPSnVpM3RXOVllVHRrT3MzeGtLM1BhU2JoRDNzUFdmYVljVEh1MktXRlQ1Y1ZXaXJwa01URFFVWklpYjNxV1VnSUNFLUJaNm5oSUhqbmQ0Z0d5THZpM3NyRkhSUzFqVzRR?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-15T13:14:14.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "급식과 예능의 만남… CJ프레시웨이 LG컬처위크 참가",
@@ -339,9 +326,9 @@
           "title": "보은 어린이급식 ‘1억2000만원 지원 위탁’, 식재료는 지역과 따로 논다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDNXJCMVE4MWdCMGlSbUhaUFJuRXJYUDI3ak5qbjFVQTJGc3dqdnNudVpuQ2k0YUk3dERyODMtT1A0OXhIVnB1b3RjUzR1dW53czV2dkJ6bFJCNVJqS0tDbmpkRXpwT2lsUmEtQQ?oc=5",
-          "source": "bzeronews.com",
-          "sourceInitial": "bz",
-          "sourceColor": "#b03a6a",
+          "source": "공뉴스",
+          "sourceInitial": "공뉴",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-16T11:53:47.000Z",
           "tags": [],
           "price": null,
@@ -351,9 +338,9 @@
           "title": "대구 학교급식 식중독 7년간 211명…전국 최다 경기도 8분의 1",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZFNvZFcxZkIzZW9KdHRZbjJCNkZVS0w5dEhmX3pzQmRHS3N2RjFnZlZuMWE1T2Z2dDZTNlFnek1qby13bmo4ZXljdXBtMEVMaUEySkxodGN1dW80dWxkYzRGaFrSAWRBVV95cUxORGRTb2RXMWZCM2VvSnR0WW4yQjZGVUtMOXRIZl96c0JkR0tzdkYxZ2ZWbjFhNU9mdnQ2UzZRZ3pNam8td25qOGV5Y3VwbTBFTGlBMkpMaHRjdXVvNHVsZGM0Rmha?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-16T07:50:55.000Z",
           "tags": [],
           "price": null,
@@ -367,6 +354,18 @@
           "sourceInitial": "시장",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-16T07:32:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "메뉴부터 주문·품질·영양까지…급식·식자재 '빅4', AI 고도화 박차",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VWlhiajA0bUFpOFdaN3JoQXRwOHFZOTlVUDFSekJEMHlVZkIxSElDN09oMzN1dVRqdGwza19VZVFyajZ5VEIyaWdQYklYUQ?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-16T06:42:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -442,9 +441,9 @@
           "title": "[바이오스냅] '의료구호 활동가' 김용민 전 교수, JW성천상 수상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWeXpyNG5XUEdsQ3EwaG5aTnJJc01kRWdEbUdmZVRlZnhTMzJ0cDhZa19rODVQRjc2Wk5zYW5vTktPMzZ3WWFEeUtEU1RPcWYwV2VqS2dCbnFkUW5iVnR6MdIBYEFVX3lxTFBWeXpyNG5XUEdsQ3EwaG5aTnJJc01kRWdEbUdmZVRlZnhTMzJ0cDhZa19rODVQRjc2Wk5zYW5vTktPMzZ3WWFEeUtEU1RPcWYwV2VqS2dCbnFkUW5iVnR6MQ?oc=5",
-          "source": "yna.co.kr",
-          "sourceInitial": "yn",
-          "sourceColor": "#8a5cc4",
+          "source": "연합뉴스",
+          "sourceInitial": "연",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-16T00:35:45.000Z",
           "tags": [],
           "price": null,
@@ -461,8 +460,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
+        {
+          "title": "아시아 13개국에 '고추장 버터 버거' 출시한 맥도날드…중국 최대 판매 예상 [KDF 현장]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qeGhaN2lSbXp3VU1iakdEVktpY1ExdXNiSkxiYTB0bHRsbUdjdWVHNWdhWlBQZFdGWnRJTTI3M21ZT19xbTJ2eEVPZzRLdW9lclFWdnVNcWtHczdIbURkckRrQmFUeXdLOGc?oc=5",
+          "source": "한국면세뉴스",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-17T09:05:28.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "메가MGC커피, 가을 디저트·티 신메뉴 출시",
           "summary": "",
@@ -475,7 +488,7 @@
             "출시"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "삼진식품, 100억원 BW 발행…“신규 공장 투자로 수출·신제품 생산 확대”",
@@ -523,26 +536,12 @@
           "title": "동서식품 ‘맥심 티오피’, 4년만 라떼 신제품…RTD 커피 제품군 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WeHhkWVNBdFlxOG1RU09Eay1oU09haURHbEIxMlBwT1RWVG5DazN1ekw3RF9sOW5TMmptcXJSWlZ4NHN4RnhFQTltX293dFJoRHdDUUdYR0h2TjBMaWc?oc=5",
-          "source": "뉴스투데이",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
+          "source": "news2day.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-09-16T07:58:00.000Z",
           "tags": [
             "신제품"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "SSG닷컴, 강원 HMR 소상공인 상품개발 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wS1pTYXMtcGRidTllQ0oxYWlJSzNiVlh6aWE2T2FlMzZSQnlMYkVtVlAzVDVFVDE1TWQwV2NnTVFDRjZqWWhPWmRHYmQzQnJOd3YyVHZsZUJPTC1LZnJNRGR6RmNOMHhaMHJFSHVn?oc=5",
-          "source": "중소기업신문",
-          "sourceInitial": "중소",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-16T05:34:48.000Z",
-          "tags": [
-            "HMR"
           ],
           "price": null,
           "feat": false
@@ -560,13 +559,13 @@
           "feat": false
         },
         {
-          "title": "메가MGC커피, 가을 라떼 2주 만에 100만잔…디저트·티 신메뉴 확대",
+          "title": "[굿모닝! 17일 식품업계 소식] CJ제일제당·오뚜기·롯데칠성음료·하이트진로·풀무원·삼립",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04SGY5OURZTkdqdHZMMGhlbm5CVUxTOVZ1NG5JamNsRXRsUFJqSXJkMFNucjUxSDFMWTlnVjBIbExFMlVWWGdBVzI4OWVqb1AxMjU5UzlWOW5jZE9NNGVfOUdlVEl1Zw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-17T06:33:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZVFwQVRDRWxTV3ROelRRU3laVUJWcVNEdEZoeUVmUXZ5NnVwQ3BXTmlteXlyNXVfc1I0VjVjekFZOWxkTW9hbnphMzFJQTVtb1Q0UjVUb2lnREUzQ0JHUzVLdVRjUWNvMmVuRA?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-17T04:28:37.000Z",
           "tags": [],
           "price": null,
           "feat": false
