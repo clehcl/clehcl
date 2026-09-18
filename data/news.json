@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:54:12.788Z",
+  "generatedAt": "2026-09-18T21:26:21.320Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 16,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대",
@@ -44,6 +44,20 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "동화약품-가마치통닭, ‘소다 활’ 공동 마케팅…900여개 매장 공급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DMjRfUUREWGtNdlRrYnNQN052R0lmMG1sbmRaWTVpcERmVE1McmVhcW1HazdtXzMydGV2NjlxNFlHUHBQVHVnNUFtOV91ZXFEQXdrY21DODhlclo5eGNFSFZaREVoZTc0am9sTERjRGxEZw?oc=5",
+          "source": "메디코파마",
+          "sourceInitial": "메디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-18T21:00:00.000Z",
+          "tags": [
+            "매장"
           ],
           "price": null,
           "feat": false
@@ -94,26 +108,12 @@
           "title": "[미리보는 국감] BBQ·투썸·버거킹·명륜당·하남F&B…5년째 반복된 프랜차이즈 본사 ‘갑질’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdkR2Y1N6LUpSdGw1QUNpR3NXVW1kSnRqZU5mc252R2NvNmk3ZlpGV0hzWGRJc24zVDBOaHdnZTdFdlktRmNmSkdsNzFMOFJvcG5NbkR1dDE0Wkg1bGdKVExRQ1FzUUnSAWtBVV95cUxOeE0tQi1rcFI4X0JGMXZZSFJEdlhfQ2FLTGM2OTlFM2FPWGJhQjBUUTUxUy1LSzQ1QlRZRHZlSnhpblhmQ2FvbzExaERNYVE4azR3dDFlVFJNSEI4Ujh0VmliUkQ3RjFleVFKcw?oc=5",
-          "source": "SR타임스",
-          "sourceInitial": "SR",
-          "sourceColor": "#333333",
+          "source": "srtimes.kr",
+          "sourceInitial": "sr",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-18T06:20:13.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동화약품 ‘소다 활’, 가마치통닭 900곳에 깔린다…외식 채널 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMR2RCcmVlQWhacDJmTlE4OTRxc1N6YVIyLWRKWGdUNDRJUTFLaGFBNHRMRHBxRW81NlowWWlNTmRsU2hkVXJkallLSjFtRXVRVWFWVGstV002anRTUE9LdzNJMGVHall5Z1hKVDUwVkF1dnBKMl9n0gF3QVVfeXFMUExHZEJyZWVBaFpwMmZOUTg5NHFzU3phUjItZEpYZ1Q0NElRMUtoYUE0dExEcHFFbzU2WjBZaU1OZGxTaGRVcmRqWUtKMW1FdVFVYVZUay1XTTZqdFNQT0t3M0kwZUdqWXlnWEpUNTBWQXV2cEoyX2c?oc=5",
-          "source": "스트레이트뉴스",
-          "sourceInitial": "스트",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-18T04:56:25.000Z",
-          "tags": [
-            "외식"
           ],
           "price": null,
           "feat": false
@@ -143,8 +143,23 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
+        {
+          "title": "K-푸드 웃게 한 고환율 꺾였지만…원가 부담 완화 가격 결정 '숨통'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yc3BZZ0NUTzNsMHhhZ3pXSlNKamp1OGw1eGZNa3lIVTVpdXp5ajlqT29jaVY0djR2OEU3WFVsendOSHNzRDExWEJsdVNVWUVPNkJUMWJud1Jtakh6bms2ZkpJanJOQUx6TkNVTFVteGFwLVJHcE9sU9IBeEFVX3lxTE4yc3BZZ0NUTzNsMHhhZ3pXSlNKamp1OGw1eGZNa3lIVTVpdXp5ajlqT29jaVY0djR2OEU3WFVsendOSHNzRDExWEJsdVNVWUVPNkJUMWJud1Jtakh6bms2ZkpJanJOQUx6TkNVTFVteGFwLVJHcE9sUw?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-17T07:06:03.000Z",
+          "tags": [
+            "원가",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "해태제과, 오예스·홈런볼 등 25개 브랜드 가격 인상…평균 7.8%↑",
           "summary": "",
@@ -157,7 +172,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "애호박 가격 40% 뛰더니…추석 차례상 비용 작년보다 올랐다",
@@ -177,9 +192,9 @@
           "title": "국제유가 100달러 재돌파…식품업계 물류·포장재 원가 다시 긴장모드",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUS01QSTdpMElwNFhBVTJkQ0NzdlZtNGlZMVUxOWhrVlJodTlkVEVGNFU1YURIdnFBeDZnNk04alptTEtFQUxWcVlGcDFRTkt3OUJ2ZzJFZ2JLd9IBWEFVX3lxTE5HR0s1c2JpOE5wanRsc0F0d0hmUWhqT1ZTSVZ2UzJldUFWdHZFSFpVTnJ0ZTBmMDZiVXNMMi1Td1l4ZXNwUGR1TjVERExGYmxyZFFQMUR3emo?oc=5",
-          "source": "아주경제",
-          "sourceInitial": "아주",
-          "sourceColor": "#1a4d8f",
+          "source": "ajunews.com",
+          "sourceInitial": "aj",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-17T05:26:57.000Z",
           "tags": [
             "원가"
@@ -237,18 +252,6 @@
           "sourceInitial": "중앙",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-09-18T08:10:21.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "생산자물가 한 달 만에 상승 전환…농산물 4.9%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzeFdGbTVoWklLbHZNSFQ2ZHlockU5YnN6NmJIQnFlVEhXODlKbTBvaVFVMVp2WTU4NmIzaEFaTXhkYkxEOWJjNmhwX09XRnJEWVdXMWdqOVZ5X3hNVm43SFFCTHVVdjhoZTZrSzViUjE0UkJLT0Q1QlRYTXF5Zw?oc=5",
-          "source": "thepowernews.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-18T06:23:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -319,6 +322,18 @@
           "feat": false
         },
         {
+          "title": "CJ프레시웨이, 수방사에 '단체급식 노하우' 전수",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUkFBUGxoUkxiN3FDSV9VZk1qc2EtV0hjb05VRS1UMFVtQ1RoMi1ic3Z6aUl0dXdVeTRGZG9aX2dSbWN6N0ZWMFE3MHdOSm5YRkcxRmpablJrUDhtY3FvRmZHQkM0QVFL?oc=5",
+          "source": "ebn.co.kr",
+          "sourceInitial": "eb",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-18T05:53:13.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "춘천 지역농산물 직매장 매출 5.8배…강원 첫 우수 직거래사업장 선정",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80ZGFGdHQxRjEtd3ZYa1o1U0hRZ2JSdTJsb1hoN3RLTjlEYWRvaDJJS0E2ZTNRZlBmYWgtRjJFTy1lbEJiSlZoeXdjVEhPcnhMN2JXMkZqRW9GLVdmQW41QzdCdTNrSnNyeFE4WHFIaFhYTVHSAXdBVV95cUxQQldMQnlpTS04c2ZzUXpzMlNPOU91aFBOYTZjY3pDZ1JMSnpYaGFMbkliRGxoelliOUNQYWtwUl9aWTJUVEt3RkxNMmhUeld3aHpyNklrUE44ZFh1RjdReGJQU282Z2s1bFk5OGxISmZrTUlCREZSQQ?oc=5",
@@ -334,22 +349,10 @@
           "title": "[Cooking&Food] “군 급식부터 야구장까지 … 육우 만나는 곳 넓힌다”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OV1hpcVhBeXA2WjYzbmZsZEZyMVR4UkdLcW9tZC0xLTJVdjNhODV5V2Vpb2pXNjZ4Tm1ESENuS01jYzFmSDN1UDNIM29TTzBQRHpLdGxR?oc=5",
-          "source": "joongang.co.kr",
-          "sourceInitial": "jo",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-17T20:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "급식과 예능의 만남… CJ프레시웨이 LG컬처위크 참가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHVi1Ja0p5XzJ4QWI1dmVmSmYyZ3VNQmtTaXNBck5va2kxSGl1Q011Z2dQVDI1b2JqX3pEbTN0VUdhVjhzZ1R3Z2t6VnFOd0ZuNk5yRXZOeTVORV96RG9qNnZ4eVFiYlBHNHNQZFZ6NXZualZN0gF0QVVfeXFMUEdWLUlrSnlfMnhBYjV2ZWZKZjJndU1Ca1Npc0FyTm9raTFIaXVDTXVnZ1BUMjVvYmpfekRtM3RVR2FWOHNnVHdna3pWcU53Rm42TnJFdk55NU5FX3pEb2o2dnh5UWJiUEc0c1BkVno1dm5qVk0?oc=5",
-          "source": "뉴스클레임",
-          "sourceInitial": "뉴스",
+          "source": "중앙일보",
+          "sourceInitial": "중앙",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-17T08:17:44.000Z",
+          "publishedAt": "2026-09-17T20:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -358,9 +361,9 @@
           "title": "학교급식 식중독 424명…핀셋 관리 중점",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McTBiaF9sVEJNc0UybXV5SkNkNWFNQVJseWVjV016TG4ybmhTX1pzelM3ZlpzdTV0aE1XN1ZxMWZfWUhvZ1FJMVBJeG84cmRZaTcwdUZDLTJpbVJjdDN4a1dHbjdBOWlJRXBhN1dzMGk?oc=5",
-          "source": "SK브로드밴드 회사소개",
-          "sourceInitial": "SK",
-          "sourceColor": "#2f7d4f",
+          "source": "news.skbroadband.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-17T04:54:09.000Z",
           "tags": [],
           "price": null,
@@ -377,15 +380,15 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "추석 '밥상 물가' 잡아라... 유류세 인하 2개월 더, 농축수산품 최대 50% 할인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtXzFwZVVRcGpiaDFxQjVYWVZtdHgtdkozQTZlWHpHUkduU1RPSGptckpwME5xd05mTF8tT19VU1Y2NlNjX2xsTTZ1cENjRUVOZ0NVNjE1cXJSazF0aG9aVWswSmFvSnVqRER4RC1ubHhCWWfSAXNBVV95cUxQbV8xcGVVUXBqYmgxcUI1WFlWbXR4LXZKM0E2ZVh6R1JHblNUT0hqbXJKcDBOcXdOZkxfLU9fVVNWNjZTY19sbE02dXBDY0VFTmdDVTYxNXFyUmsxdGhvWlVrMEphb0p1akREeEQtbmx4Qlln?oc=5",
-          "source": "hankookilbo.com",
-          "sourceInitial": "ha",
-          "sourceColor": "#2f7d4f",
+          "source": "한국일보",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-18T05:00:00.000Z",
           "tags": [
             "물가"
@@ -411,9 +414,9 @@
           "title": "[경제 이슈] 미 연준, 물가 제동 걸기 위해 0.25%p 기준금리 인상…“연내 추가 인상 시사”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pNVQ0NDFJaXZrQllKdGl5b01DTkZjLVFVU09IdVdUS04yOXgyYUN4TXNYdjFhb3JfWWRhZ29pUG53Q1pmTFZ6ZDRzTF9vV0dZYTZvMnJTSmZsLWxZOUtiWTJnMVJJWE5o?oc=5",
-          "source": "시사캐스트",
-          "sourceInitial": "시사",
-          "sourceColor": "#c98a2b",
+          "source": "sisacast.kr",
+          "sourceInitial": "si",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-18T00:06:15.000Z",
           "tags": [
             "물가"
@@ -450,12 +453,24 @@
           "feat": false
         },
         {
+          "title": "추석 앞두고 채소값 15% 급등… “차례상 음식 줄여야 하나” 한숨",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03aXRxZlp3RUg2UVdfNl9YZGVrT3kzel9SWVRSTFJkZUFnbVpqWjRfY3duaUFsc1F6WmN0TllQSUt2SHV0R0pSaVYtcmVNdEE?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-18T16:43:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "‘건강기능식품의 표시기준’ 개정…2028년부터 새 도안 적용 > 뉴스",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qN0JVNlVtellaM2hpaHZVbTRkMjBleHNGdUVabHpqYlVVUVRIZHN6TTd4TzJwbFZWdlk1NVM0dU9ycVMxcE1fbHFTdzBwdWhpaWhFdTBFYk5NM25qQnYtN2pJZU02aWVqcnRUQUx6cXRvUQ?oc=5",
-          "source": "한의신문",
-          "sourceInitial": "한의",
-          "sourceColor": "#c15a37",
+          "source": "akomnews.com",
+          "sourceInitial": "ak",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-17T04:28:00.000Z",
           "tags": [],
           "price": null,
@@ -465,9 +480,9 @@
           "title": "광학 색상 선별 센서 시장 2035년 전망: 재활용·식품 등급 판정 자동화로 수요 가속 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXlTTnotRzJ1SkRZUkFkTHJOVGZpZUtneWxsUzBidWp4TTNSUUxFZlZZcllqVWVyaVpRVnpLYVVRREltb3E4eWRqQzM4NmxRNjk1RGlpSHdfa3RWRk5fX2UxYlZ6QWs0b3ByaVViNnRBazBfeFFQdFF5NnBZbG5TYXJDangwcWc5dVhZalVxcWUyV3d6a242WEE3SDk1Y19nZ2JkNVpKRjVhTXhObHMyZk1YQkRNOFZfQ192N0VXYWxsNGtrblV6SW1SRlFzbG96TTkyQTlESmVYQkFfdENIbTRhUUl5d0wyRk94SkFSQUxnemx3eU9N?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
+          "source": "indexbox.io",
+          "sourceInitial": "in",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-16T23:11:16.000Z",
           "tags": [],
           "price": null,
@@ -530,9 +545,9 @@
           "title": "[굿모닝! 18일 식품업계 소식] CJ제일제당·롯데칠성음료·오뚜기·풀무원·CJ프레시웨이·아워홈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqNENZeExUWXpSX0FiVFBLSjFrUHE2U1VHV1I2X3o1eHV4TVp0bTB4VndBN0pwT2s0d0xfSmZOYjRpTzY4U09DTF9hd0VNSEcyVGwxMndNYzRrN3o2OXgyNWZ2bUJQeWQ0b3RhYg?oc=5",
-          "source": "goodkyung.com",
-          "sourceInitial": "go",
-          "sourceColor": "#c98a2b",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-18T02:27:02.000Z",
           "tags": [],
           "price": null,
@@ -554,9 +569,9 @@
           "title": "[굿모닝! 17일 식품업계 소식] CJ제일제당·오뚜기·롯데칠성음료·하이트진로·풀무원·삼립",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZVFwQVRDRWxTV3ROelRRU3laVUJWcVNEdEZoeUVmUXZ5NnVwQ3BXTmlteXlyNXVfc1I0VjVjekFZOWxkTW9hbnphMzFJQTVtb1Q0UjVUb2lnREUzQ0JHUzVLdVRjUWNvMmVuRA?oc=5",
-          "source": "goodkyung.com",
-          "sourceInitial": "go",
-          "sourceColor": "#c98a2b",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-17T04:28:37.000Z",
           "tags": [],
           "price": null,
@@ -578,9 +593,9 @@
           "title": "“美 동네마트에도 햇반·김·라면… 이젠 호기심보다 맛있어서 찾아”[K푸드 세계화 이끄는 FTA]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HWXZUTFZZclNzeVh3bElKd1IxZjZrSllzaXpDOGtIekE2V2V3YVBrbzVwWmNEZW1vajdtdVBFM0lTdkp1MnJ2dF9nWFhLU1Bo?oc=5",
-          "source": "munhwa.com",
-          "sourceInitial": "mu",
-          "sourceColor": "#1a7a5a",
+          "source": "문화일보",
+          "sourceInitial": "문화",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-17T00:14:14.000Z",
           "tags": [],
           "price": null,
