@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:54:30.057Z",
+  "generatedAt": "2026-09-19T22:41:24.739Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대",
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "\"추석 차례상 30만원 코앞\"… 폭염·폭우 여파로 가격 5.1% 상승 비용 부담 '확대'",
@@ -215,20 +215,6 @@
           "feat": false
         },
         {
-          "title": "애호박 가격 40% 뛰더니…추석 차례상 비용 작년보다 올랐다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVUVFT0FfaHpSejZVeTdwdW52YXdjdTRKTWNyV0dmWktQSlEtaldFamNqV0tWa3B6emRCNnlrdTMyWlpkc2lBR0JRdFBqRmdfZkRzLS13?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-17T22:40:38.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "2035년 디지털 굴절계 시장 전망: 식품 안전 규제와 음료 자동화가 성장 견인 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaktYNlFPODdrcXkwMy01YlZFZG9IRG9TWVQ3STJ2SGhudUc1V0lGbjNwem91aHV4OXJ3YVBwZVFodDRLUFV4aG16S0s0T0l4eGlJZFpHQzhheFJmMTJVVm9KUDBsNUJQd0pHU25aTS1Gc0VEbEEycnNWcjZ5SmFmVWV3Z09zOTUwaGxkTUlBVFlISWQ4U1Exb2hYQ2hvYm1pNFhOR1VvajBHakM0UXlRREJjR1djUXlNdEtHUTBFUVVNMUk0OFJfZFpJRzRoZGhscllJWUJqSDZ2RWl4c0E?oc=5",
@@ -244,10 +230,22 @@
           "title": "\"점심값 1만원도 빠듯\"…생산자물가·외식비 줄줄이 '비상'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXaW1ud2VKNmFpN2dzT1FVS0ZMcEdHVFM3R1EtUFNaV25Bc2JEWVY1azVkMGQyeUIzRGdCcmZyU3V6S1BETmlvODd0YXctWER1ZFFVNmhXMWTSAVhBVV95cUxQV2ltbndlSjZhaTdnc09RVUtGTHBHR1RTN0dRLVBTWlduQXNiRFlWNWs1ZDBkMnlCM0RnQnJmclN1ektQRE5pbzg3dGF3LVhEdWRRVTZoVzFk?oc=5",
-          "source": "미디어펜",
-          "sourceInitial": "미디",
+          "source": "mediapen.com",
+          "sourceInitial": "me",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-19T00:30:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "추석 앞두고 채소값 15% 급등… “차례상 음식 줄여야 하나” 한숨",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03aXRxZlp3RUg2UVdfNl9YZGVrT3kzel9SWVRSTFJkZUFnbVpqWjRfY3duaUFsc1F6WmN0TllQSUt2SHV0R0pSaVYtcmVNdEE?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-18T16:43:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -384,8 +382,8 @@
           "title": "[2026 추석民心] ① 추석 코앞인데 물가 다시 3%대…장바구니는 아직 무겁다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OLWxKM1NUZ29WeFBHalFkczhJLUJoV3RDX0t2bU1VY1R2a0xIaHZYWURKeXVmUnNIVjdHSWIzX2dVdDlsZ3o1RzEyTU5xZHY2M19RZl9QVHNtamhNZGQ3U2pYN29SQV9aOHB1c1dn?oc=5",
-          "source": "뉴스후플러스",
-          "sourceInitial": "뉴스",
+          "source": "newswhoplus.com",
+          "sourceInitial": "ne",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-19T20:00:00.000Z",
           "tags": [
@@ -433,8 +431,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 ‘K푸드 2.0’ [권용훈의 트렌드워치]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fdElydVlYMEphQjZRblhVNzNnY3hrdlM4a3h4TENVVXVMRE1DWTRDdVkyUDNBQ24zdXpScDN2N2U1SS0tcGNsUDZCdl9abEhiajNaUjlfdC1FQQ?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-19T21:00:02.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "웅진식품, '핑크구아바' 체험 이벤트…100명에 신제품 증정",
           "summary": "",
@@ -447,7 +459,7 @@
             "신제품"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[위클리오늘] 동서식품, 대상그룹 소식(9.18)",
