@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:10:04.778Z",
+  "generatedAt": "2026-09-19T20:54:30.057Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대",
@@ -48,26 +48,12 @@
           "feat": false
         },
         {
-          "title": "동화약품-가마치통닭, ‘소다 활’ 공동 마케팅…900여개 매장 공급",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DMjRfUUREWGtNdlRrYnNQN052R0lmMG1sbmRaWTVpcERmVE1McmVhcW1HazdtXzMydGV2NjlxNFlHUHBQVHVnNUFtOV91ZXFEQXdrY21DODhlclo5eGNFSFZaREVoZTc0am9sTERjRGxEZw?oc=5",
-          "source": "메디코파마",
-          "sourceInitial": "메디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-18T21:00:00.000Z",
-          "tags": [
-            "매장"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 9월 19일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ21vNmNCVjdOOGdlQ0FXcXRlRENhQ1ZzbXRsaUNfS2xRTlBXek01M0Z6NkU5X2M1bkdjLU56M2VkemxPQXpibjVFaFMydl9vLVV2QXp1eHpZdGhMY0M1Wjd2dENJM0xKQjFlRWFoNjJXWFNjc3BjMDBsOXZ1WU12UlpiWUdpRFp5Q3lGY0VR?oc=5",
-          "source": "blog.naver.com",
-          "sourceInitial": "bl",
-          "sourceColor": "#1a7a5a",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-18T12:23:19.000Z",
           "tags": [
             "프랜차이즈"
@@ -130,6 +116,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "동화약품 ‘소다 활’, 가마치통닭 900곳에 깔린다…외식 채널 공략",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMR2RCcmVlQWhacDJmTlE4OTRxc1N6YVIyLWRKWGdUNDRJUTFLaGFBNHRMRHBxRW81NlowWWlNTmRsU2hkVXJkallLSjFtRXVRVWFWVGstV002anRTUE9LdzNJMGVHall5Z1hKVDUwVkF1dnBKMl9n0gF3QVVfeXFMUExHZEJyZWVBaFpwMmZOUTg5NHFzU3phUjItZEpYZ1Q0NElRMUtoYUE0dExEcHFFbzU2WjBZaU1OZGxTaGRVcmRqWUtKMW1FdVFVYVZUay1XTTZqdFNQT0t3M0kwZUdqWXlnWEpUNTBWQXV2cEoyX2c?oc=5",
+          "source": "스트레이트뉴스",
+          "sourceInitial": "스트",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-18T04:56:25.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 15,
+      "total": 16,
       "items": [
         {
           "title": "\"추석 차례상 30만원 코앞\"… 폭염·폭우 여파로 가격 5.1% 상승 비용 부담 '확대'",
@@ -190,9 +190,9 @@
           "title": "고환율 버티니 이젠 원화 강세…K푸드, ‘수출·원가’ 엇갈린 셈법",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44aUl5dGVlTTBiRDdGWnhST01RQ1phYzVMVXpYNERxNTYweTZ6WXZReE95N2RnaHh2ampfUThISjZnWXhaLXV5bnpjQnVhaGozcW1SX1ozTW0?oc=5",
-          "source": "thetracker.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#c0392b",
+          "source": "더트래커",
+          "sourceInitial": "더트",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-18T02:24:52.000Z",
           "tags": [
             "원가"
@@ -229,6 +229,18 @@
           "feat": false
         },
         {
+          "title": "2035년 디지털 굴절계 시장 전망: 식품 안전 규제와 음료 자동화가 성장 견인 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaktYNlFPODdrcXkwMy01YlZFZG9IRG9TWVQ3STJ2SGhudUc1V0lGbjNwem91aHV4OXJ3YVBwZVFodDRLUFV4aG16S0s0T0l4eGlJZFpHQzhheFJmMTJVVm9KUDBsNUJQd0pHU25aTS1Gc0VEbEEycnNWcjZ5SmFmVWV3Z09zOTUwaGxkTUlBVFlISWQ4U1Exb2hYQ2hvYm1pNFhOR1VvajBHakM0UXlRREJjR1djUXlNdEtHUTBFUVVNMUk0OFJfZFpJRzRoZGhscllJWUJqSDZ2RWl4c0E?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-19T18:56:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "\"점심값 1만원도 빠듯\"…생산자물가·외식비 줄줄이 '비상'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXaW1ud2VKNmFpN2dzT1FVS0ZMcEdHVFM3R1EtUFNaV25Bc2JEWVY1azVkMGQyeUIzRGdCcmZyU3V6S1BETmlvODd0YXctWER1ZFFVNmhXMWTSAVhBVV95cUxQV2ltbndlSjZhaTdnc09RVUtGTHBHR1RTN0dRLVBTWlduQXNiRFlWNWs1ZDBkMnlCM0RnQnJmclN1ektQRE5pbzg3dGF3LVhEdWRRVTZoVzFk?oc=5",
@@ -236,18 +248,6 @@
           "sourceInitial": "미디",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-19T00:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석 앞두고 채소값 15% 급등… “차례상 음식 줄여야 하나” 한숨",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03aXRxZlp3RUg2UVdfNl9YZGVrT3kzel9SWVRSTFJkZUFnbVpqWjRfY3duaUFsc1F6WmN0TllQSUt2SHV0R0pSaVYtcmVNdEE?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-18T16:43:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -263,7 +263,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "청년고용 한파 속 9월 채용문 오픈…유통 대기업 미래 인재 확보전",
@@ -297,9 +297,9 @@
           "title": "[유통갤러리] 맥도날드X피스마이너스원, 한정판 컬래버 굿즈 3종 출시 外",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSDU4RUhzMWVsUVgwTlYwakV6RjF6V05OSHY1aVJtaXZyZDI2NjdpZ05zSjBuUDVJSnk4M3puUnRkUzcxZGwzbTZ1bi13TG9RWC1TQ1F1RnY?oc=5",
-          "source": "theviewers.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#8a5cc4",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-18T02:33:45.000Z",
           "tags": [
             "유통"
@@ -381,6 +381,20 @@
       "total": 3,
       "items": [
         {
+          "title": "[2026 추석民心] ① 추석 코앞인데 물가 다시 3%대…장바구니는 아직 무겁다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OLWxKM1NUZ29WeFBHalFkczhJLUJoV3RDX0t2bU1VY1R2a0xIaHZYWURKeXVmUnNIVjdHSWIzX2dVdDlsZ3o1RzEyTU5xZHY2M19RZl9QVHNtamhNZGQ3U2pYN29SQV9aOHB1c1dn?oc=5",
+          "source": "뉴스후플러스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-19T20:00:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "추석 '밥상 물가' 잡아라... 유류세 인하 2개월 더, 농축수산품 최대 50% 할인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtXzFwZVVRcGpiaDFxQjVYWVZtdHgtdkozQTZlWHpHUkduU1RPSGptckpwME5xd05mTF8tT19VU1Y2NlNjX2xsTTZ1cENjRUVOZ0NVNjE1cXJSazF0aG9aVWswSmFvSnVqRER4RC1ubHhCWWfSAXNBVV95cUxQbV8xcGVVUXBqYmgxcUI1WFlWbXR4LXZKM0E2ZVh6R1JHblNUT0hqbXJKcDBOcXdOZkxfLU9fVVNWNjZTY19sbE02dXBDY0VFTmdDVTYxNXFyUmsxdGhvWlVrMEphb0p1akREeEQtbmx4Qlln?oc=5",
@@ -392,7 +406,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[경제 이슈] 미 연준, 물가 제동 걸기 위해 0.25%p 기준금리 인상…“연내 추가 인상 시사”",
@@ -405,18 +419,6 @@
           "tags": [
             "물가"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2035년 실험실용 정밀 레귤레이터 시장 전망: 반도체·분석 장비 수요가 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONUI0ZHdBSE05aDVFNGx2QkdIZFh3NGZYdlpnWHVJT1A1dkE0ZHVUNE1NZS1jaDBlRlEyU0ZONGZNUDlTdDYzMkZibV9hSU1OdTJKM2JpTmNERzd4ekItLTgzTW5BNXBLVUxrSGJtekF0N043ZUozRUFBclpxR25reEtOUGo4UjBFcnZ2eGkzaHVTREp0Z0JfazRxYmpROGJIRWN3c2xlMWlpSFhtLVJESk5xbnBlTDBqSWQybGpyOG1IRHgwdXptUUsyQ25iRWxfNDBKUzZGRWpIRGRZRzRfalFpanBtTXV0cjhjZjF4YkNzYndJWXYwQQ?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-18T23:01:18.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
