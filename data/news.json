@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:48:13.712Z",
+  "generatedAt": "2026-09-19T15:28:10.076Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,122 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
-      "items": [
-        {
-          "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FbkxVWjRyYkpkREFJVGxld0VtcllqM2tUeF9fODEwMVZfdm9qYXJqVFBINmRlYVNfRFlyYlFWTG92MjVOd0R4YmdmbDBrSG9BUjFSZVVDbWVvV1cyNDlKVFlRVTRrdjI1dlRld1dWbi0?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-18T05:10:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "[ 2026년 9월 19일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ21vNmNCVjdOOGdlQ0FXcXRlRENhQ1ZzbXRsaUNfS2xRTlBXek01M0Z6NkU5X2M1bkdjLU56M2VkemxPQXpibjVFaFMydl9vLVV2QXp1eHpZdGhMY0M1Wjd2dENJM0xKQjFlRWFoNjJXWFNjc3BjMDBsOXZ1WU12UlpiWUdpRFp5Q3lGY0VR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-18T12:23:19.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "우지커피, 흑임자 활용 가을 신메뉴 7종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMVXFhVXNqRDZxa2VlWFpxUzNqYVcwQ1c3aTVRdjBscGEwb3hESXNwLW9BUnVCaXJGekRHelg2VnlsWG93c3RkNERzWDlNT3JQdm9sbFEwaHBtWW5RaFJDeS1BaFM4Vm1pOGZfNzU1ekY?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-18T09:10:00.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[대박창업] '주목' 프랜차이즈 3선-BOP샌드위치·다밍·헤비스테이크…“커피 말고 이것”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12WEZzZk5KbjhUeEN6TlFjU2tGVGZNNXB3QTQyS0VPN2ZJWXU1dmZtdEdnaDVQekItb2l4OG1JaTYtSGNWZXlJRlE4M3UtUWtQclF4QnE1SU8tejk2MFc1LXhncTc1UGFlc1ZUZlp2Yw?oc=5",
-          "source": "일요서울i",
-          "sourceInitial": "일요",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-18T08:27:43.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "못된고양이, 美 2호점 연다…2027년 프랜차이즈 확대 추진",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KWEhxM1A4OWIyT2hrOUVVMENYRzUwN2llYm8yWEhvY2lYUzh6aWxJWnN4WDMwSUFvVEtzTi1kbFlvSnV6aUQzYUhrNWVpenF5ekF1RTIxcGVBdUpSYm9Nekk1Q3hFVUMzNXc?oc=5",
-          "source": "kdfnews.com",
-          "sourceInitial": "kd",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-18T06:33:30.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[미리보는 국감] BBQ·투썸·버거킹·명륜당·하남F&B…5년째 반복된 프랜차이즈 본사 ‘갑질’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdkR2Y1N6LUpSdGw1QUNpR3NXVW1kSnRqZU5mc252R2NvNmk3ZlpGV0hzWGRJc24zVDBOaHdnZTdFdlktRmNmSkdsNzFMOFJvcG5NbkR1dDE0Wkg1bGdKVExRQ1FzUUnSAWtBVV95cUxOeE0tQi1rcFI4X0JGMXZZSFJEdlhfQ2FLTGM2OTlFM2FPWGJhQjBUUTUxUy1LSzQ1QlRZRHZlSnhpblhmQ2FvbzExaERNYVE4azR3dDFlVFJNSEI4Ujh0VmliUkQ3RjFleVFKcw?oc=5",
-          "source": "SR타임스",
-          "sourceInitial": "SR",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-18T06:20:13.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동화약품 ‘소다 활’, 가마치통닭 900곳에 깔린다…외식 채널 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMR2RCcmVlQWhacDJmTlE4OTRxc1N6YVIyLWRKWGdUNDRJUTFLaGFBNHRMRHBxRW81NlowWWlNTmRsU2hkVXJkallLSjFtRXVRVWFWVGstV002anRTUE9LdzNJMGVHall5Z1hKVDUwVkF1dnBKMl9n0gF3QVVfeXFMUExHZEJyZWVBaFpwMmZOUTg5NHFzU3phUjItZEpYZ1Q0NElRMUtoYUE0dExEcHFFbzU2WjBZaU1OZGxTaGRVcmRqWUtKMW1FdVFVYVZUay1XTTZqdFNQT0t3M0kwZUdqWXlnWEpUNTBWQXV2cEoyX2c?oc=5",
-          "source": "스트레이트뉴스",
-          "sourceInitial": "스트",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-18T04:56:25.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "연세대 프랜차이즈 CEO과정, 10월 교류행사 개최예정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45VnFKaDJCTHVRUUQtd1U1UXlrUFFlMEQ2ODRRZTFfek53T1pqOFQ2ZUpCT21nM0NsMFZXYW45RUN4Z01tcE5hMWg2aEd4T3BKUW1IbnQ2c0lUTEpJN0paNzlBOVJFMFNCMnRGVVZoWWU?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-18T00:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "cost",
@@ -142,117 +28,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
-      "items": [
-        {
-          "title": "\"추석 차례상 30만원 코앞\"… 폭염·폭우 여파로 가격 5.1% 상승 비용 부담 '확대'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zdTZBX2prc3gwYl9uNDBJOVVGZmZ3R0NJazBGZG8zMjNxVUhkaFNDT1dqdnpzOHVkX1dUc045RDItOXFTVVV6TmxtdldvV0tCQ1FkdG5wQ0sxR1hUbFFMY2dkMzNSWW0yLUROdWZkcTVuZDA?oc=5",
-          "source": "경제시그널",
-          "sourceInitial": "경제",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-19T01:00:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "해태제과, 오예스·홈런볼 등 25개 브랜드 가격 인상…평균 7.8%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CQ0o1d1E3azVzWHFzczJGWFB4aWtSS3llbk9kUkhSbjZVMVZBZE5kZmc4UFJPeURJU3Azam0zX2NjamdlcWZHS0tvM1pXQzRfVXhj0gFTQVVfeXFMT0JDSjV3UTdrNXNYcXNzMkZYUHhpa1JLeWVuT2RSSFJuNlUxVkFkTmRmZzhQUk95RElTcDNqbTNfY2NqZ2VxZkdLS28zWldDNF9VeGM?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-18T04:42:48.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "8월 생산자물가 0.2%↑···농산물·도시가스 가격 상승 영향",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVXVlVW5neWVZaDZtV0dyaFhRUDdxeWVuNVdic1JnTTVZQ05UVGZCbG1OYWo2T3hSNkxaS09WcUgxcGZ1dFVSMUR4UnRzeGFwcl9Za1FTQUgzVkM5aHpHMzJ0YV94ekJjN3hsLQ?oc=5",
-          "source": "스마트비즈",
-          "sourceInitial": "스마",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-18T02:32:56.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "고환율 버티니 이젠 원화 강세…K푸드, ‘수출·원가’ 엇갈린 셈법",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44aUl5dGVlTTBiRDdGWnhST01RQ1phYzVMVXpYNERxNTYweTZ6WXZReE95N2RnaHh2ampfUThISjZnWXhaLXV5bnpjQnVhaGozcW1SX1ozTW0?oc=5",
-          "source": "더트래커",
-          "sourceInitial": "더트",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-18T02:24:52.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석 차례상 비용 5% 상승…채소·축산물 가격 부담 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxY1J3YU1nclJpLUJPSVBkZXFPc2FXa1hBWkpmMWtjMWoza180SFIzdzhobVpkbDRGS3lDcV9tNnpJaXAwMFhZNURMMU9yMlQzX3FnRTVTVlFlWTZBUEpETXdsSENfRlk?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-17T23:48:52.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "애호박 가격 40% 뛰더니…추석 차례상 비용 작년보다 올랐다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVUVFT0FfaHpSejZVeTdwdW52YXdjdTRKTWNyV0dmWktQSlEtaldFamNqV0tWa3B6emRCNnlrdTMyWlpkc2lBR0JRdFBqRmdfZkRzLS13?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-17T22:40:38.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"점심값 1만원도 빠듯\"…생산자물가·외식비 줄줄이 '비상'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXaW1ud2VKNmFpN2dzT1FVS0ZMcEdHVFM3R1EtUFNaV25Bc2JEWVY1azVkMGQyeUIzRGdCcmZyU3V6S1BETmlvODd0YXctWER1ZFFVNmhXMWTSAVhBVV95cUxQV2ltbndlSjZhaTdnc09RVUtGTHBHR1RTN0dRLVBTWlduQXNiRFlWNWs1ZDBkMnlCM0RnQnJmclN1ektQRE5pbzg3dGF3LVhEdWRRVTZoVzFk?oc=5",
-          "source": "미디어펜",
-          "sourceInitial": "미디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-19T00:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석 앞두고 채소값 15% 급등… “차례상 음식 줄여야 하나” 한숨",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03aXRxZlp3RUg2UVdfNl9YZGVrT3kzel9SWVRSTFJkZUFnbVpqWjRfY3duaUFsc1F6WmN0TllQSUt2SHV0R0pSaVYtcmVNdEE?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-18T16:43:58.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "distribution",
@@ -263,111 +40,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
-      "items": [
-        {
-          "title": "청년고용 한파 속 9월 채용문 오픈…유통 대기업 미래 인재 확보전",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMmdtdHJZMVVqODJ5WGVUMXBreDUxY0ZTVW43TWxCRXJ1VF96amxJZHdwWjcyMlNzQ0d1TW5maUpyNFVyTFFWZ0xDMU5XcVp4UmIxT01yUi0yZzRwbXFIWndadm1nZEtPeXc?oc=5",
-          "source": "월요신문",
-          "sourceInitial": "월요",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-18T22:44:22.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "[똑똑한유통] CJ제일제당 전북 식품 후원, CJ프레시웨이 수방사 급식 전수…선진·파리바게뜨·파스쿠찌·국순당·노랑풍선",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9neXJTOXNTYWJUQ0ZGcE5yVl9pYUE1QTBVeVhodXJob2RmVnA2OER5YkJDTWlQUmNFVVV1T3Zkdk0wRTR0ZXFESW4zZ0djV3NucVNFYXdXbFZWMEU?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-18T09:18:33.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[유통갤러리] 맥도날드X피스마이너스원, 한정판 컬래버 굿즈 3종 출시 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSDU4RUhzMWVsUVgwTlYwakV6RjF6V05OSHY1aVJtaXZyZDI2NjdpZ05zSjBuUDVJSnk4M3puUnRkUzcxZGwzbTZ1bi13TG9RWC1TQ1F1RnY?oc=5",
-          "source": "뷰어스",
-          "sourceInitial": "뷰어",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-18T02:33:45.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2작전사, '불량 식자재 막는다'…추석 전 군 급식 점검 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vemI5S1ZrNFRkQUZINUdheFhHUndtS0d0WVVkaV9kTWFGTVc3ZkVVUzZXOHRyOEhzX1lOcnFsN0NxcG4zMjRtTHlfVlk2OUpRUXhjVTBDdmlBcWJPOWhlOWpTSVpzVGtfLTluOGloY0M1OEdTYV9Bc9IBeEFVX3lxTE9vemI5S1ZrNFRkQUZINUdheFhHUndtS0d0WVVkaV9kTWFGTVc3ZkVVUzZXOHRyOEhzX1lOcnFsN0NxcG4zMjRtTHlfVlk2OUpRUXhjVTBDdmlBcWJPOWhlOWpTSVpzVGtfLTluOGloY0M1OEdTYV9Bcw?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-18T23:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "예산군, 어린이집 급식에 지역농산물 공급 확대…10월부터 시작",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1laXE3VVg1T05JMHpvWjJ4a3YwTDdlMTczUDlMM3R2U3k5ekxUNlhRLTJ1QVFGSXJENTJCUDBZbWtfSEhDOGd1QzZmMUpLd1dUczRKMmNRVXJDZVNfR0xPSzg0dk54RHJxd3VZUg?oc=5",
-          "source": "aflnews.co.kr",
-          "sourceInitial": "af",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-18T09:10:17.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[채널Who] 서울시장 사퇴 낳은 무상급식 논쟁, 이젠 '누가' 아닌 '무엇을 어떻게' 할지 고민할 때",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ucm16QzEwMnJNMHpsa3ZzcmVESDFhcUFSZWY1Vk9jMTctQUpPa1BaSU5VQ2plMGowRExNUDVfVS1xR2w4Mjd3c3hLVFAzNHI5RGhlZkJ1eUJweHBhUnQ3NFJnMUpyVGpleExtMzJ3OHZvX2s?oc=5",
-          "source": "비즈니스포스트",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-18T08:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "17년째 직접 웍 잡는 월포반점 김동준 대표··· “내 가족 먹는 음식처럼”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzcmY5Wk5IZldhLXRJNUN1NDc2M2I2b1JDQUhPbWdLcXM5ZmxwSlpzWXhwSURtRjNISlFKcHFEX2ZOSHh0a0N4bkExV3Y5djBmWmNEd2VBMmhuM0JyTjNVUkZJS05KSGtIX0pCRHJqTGZrOVpsaGtvZ3Z2N2QtYlXSAX9BVV95cUxQM3JmOVpOSGZXYS10STVDdTQ3NjNiNm9SQ0FIT21nS3FzOWZscEpac1l4cElEbUYzSEpRSnBxRF9mTkh4dGtDeG5BMVd2OXYwZlpjRHdlQTJobjNCck4zVVJGSUtOSkhrSF9KQkRyakxmazlabGhrb2d2djdkLWJV?oc=5",
-          "source": "뉴데일리 대구경북",
-          "sourceInitial": "뉴데",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-18T06:43:12.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, 수방사에 '단체급식 노하우' 전수",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUkFBUGxoUkxiN3FDSV9VZk1qc2EtV0hjb05VRS1UMFVtQ1RoMi1ic3Z6aUl0dXdVeTRGZG9aX2dSbWN6N0ZWMFE3MHdOSm5YRkcxRmpablJrUDhtY3FvRmZHQkM0QVFL?oc=5",
-          "source": "ebn.co.kr",
-          "sourceInitial": "eb",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-18T05:53:13.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "price-policy",
@@ -378,51 +52,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
-      "items": [
-        {
-          "title": "곰팡이 독소 결합 첨가제 시장 2035년 전망: 사료 안전 규제와 축산 확대가 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3BMWFdZemJ6WVhqU3hLSEJwOTByS1ZsZW04dHppYWRkZHhBNDFCUjdOSlQ5YlFKakFnYWY0aUNQQVdJUzhTX3JfcjI3bWtTV2hnMHh2MEZsRHVSS3AwajdNX0tXNVppbjZDYnJBNFJIWVJJUDlNZjR4TEk1UUVpbGg2TUtIT1lwdDBWSlQtWFdzdDVjbW1KNWpwaWs0dVRHS1NEX0xhZS1LWUdsVDB0MFdUbEI5aWlTUW8xTm1WRF94S0V6YnhzN1VfVQ?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-19T00:11:20.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "추석 '밥상 물가' 잡아라... 유류세 인하 2개월 더, 농축수산품 최대 50% 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtXzFwZVVRcGpiaDFxQjVYWVZtdHgtdkozQTZlWHpHUkduU1RPSGptckpwME5xd05mTF8tT19VU1Y2NlNjX2xsTTZ1cENjRUVOZ0NVNjE1cXJSazF0aG9aVWswSmFvSnVqRER4RC1ubHhCWWfSAXNBVV95cUxQbV8xcGVVUXBqYmgxcUI1WFlWbXR4LXZKM0E2ZVh6R1JHblNUT0hqbXJKcDBOcXdOZkxfLU9fVVNWNjZTY19sbE02dXBDY0VFTmdDVTYxNXFyUmsxdGhvWlVrMEphb0p1akREeEQtbmx4Qlln?oc=5",
-          "source": "한국일보",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-18T05:00:00.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[경제 이슈] 미 연준, 물가 제동 걸기 위해 0.25%p 기준금리 인상…“연내 추가 인상 시사”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pNVQ0NDFJaXZrQllKdGl5b01DTkZjLVFVU09IdVdUS04yOXgyYUN4TXNYdjFhb3JfWWRhZ29pUG53Q1pmTFZ6ZDRzTF9vV0dZYTZvMnJTSmZsLWxZOUtiWTJnMVJJWE5o?oc=5",
-          "source": "시사캐스트",
-          "sourceInitial": "시사",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-18T00:06:15.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "product-trend",
@@ -433,47 +64,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
-      "items": [
-        {
-          "title": "웅진식품, '핑크구아바' 체험 이벤트…100명에 신제품 증정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1idjdaTXpqMTNKcVVIWTZfN0R4anBDVmRYcUVJSnRhZ0ZOX21oT0Y1VkwtWi1PZkw2ZFNqa1BXcWhrY2w3ZmJRNXEyQTBXZw?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-18T01:07:19.000Z",
-          "tags": [
-            "신제품"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "[위클리오늘] 동서식품, 대상그룹 소식(9.18)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NNDktbldEamRvVGZiWkJnODF0VlI5Y2lwSVA0NTYwU2ZsVkNqT2pZUjMzMVNjOWtBOC10dUxzUTZpVjBZY3hKMTJ6bGkzOGtZRG5jSFdVN0lRTzRxbnl0U3Fud2hCWXFhQ2ZOXzZUTQ?oc=5",
-          "source": "위클리오늘",
-          "sourceInitial": "위클",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-18T06:08:38.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 18일 식품업계 소식] CJ제일제당·롯데칠성음료·오뚜기·풀무원·CJ프레시웨이·아워홈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqNENZeExUWXpSX0FiVFBLSjFrUHE2U1VHV1I2X3o1eHV4TVp0bTB4VndBN0pwT2s0d0xfSmZOYjRpTzY4U09DTF9hd0VNSEcyVGwxMndNYzRrN3o2OXgyNWZ2bUJQeWQ0b3RhYg?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-18T02:27:02.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     }
   ],
   "trends": {
