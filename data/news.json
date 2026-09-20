@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:59:27.309Z",
+  "generatedAt": "2026-09-20T20:42:40.578Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,18 +16,18 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
-          "title": "[랭킹연구소] 카페 10만개 시대 ‘가성비 커피’의 민낯…커피프랜차이즈 식품위생법 위반, 컴포즈커피>메가커피>빽다방>더벤티>투썸플레이스>이디야커피 順",
+          "title": "K-푸드, 美 급식·외식으로…'B2B 식자재' 시장 정조준",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fMDEtLTV4MXp5eE1kTmZXd196TUNqWDNTOTZsSzc0bHhyNWdEMXhTbVZMdk9XaVR1WUhjcXA2ZUEwV3VkSjBRZ2JqbV9ZOU83Q2dDM0RuUVA0dG5EUThZcg?oc=5",
-          "source": "뉴스스페이스",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-20T13:19:34.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBZ2EzbHY1N01uTHdBV0RxOVR2aElpR1VPek9kWERnRllWMDFGRTNyM1VnTHVQMUx6Vnh0b2RuMVZmUFVJeVRfSElQdmp2NDhpNlc4LXFFR2twcDIxa05GYW1WT2JLQmFMRUh5NHRYajBZZzl10gF0QVVfeXFMUEFnYTNsdjU3TW5Md0FXRHE5VHZoSWlHVU96T2RYRGdGWVYwMUZFM3IzVWdMdVAxTHpWeHRvZG4xVmZQVUl5VF9ISVB2anY0OGk2VzgtcUVHa3BwMjFrTkZhbVZPYktCYUxFSHk0dFhqMFlnOXU?oc=5",
+          "source": "포인트데일리",
+          "sourceInitial": "포인",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-20T15:48:11.000Z",
           "tags": [
-            "프랜차이즈"
+            "외식"
           ],
           "price": null,
           "feat": true
@@ -39,7 +39,21 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-20T12:10:01.000Z",
+          "publishedAt": "2026-09-20T12:09:40.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[랭킹연구소] 카페 10만개 시대 ‘가성비 커피’의 민낯…커피프랜차이즈 식품위생법 위반, 컴포즈커피>메가커피>빽다방>더벤티>투썸플레이스>이디야커피 順",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fMDEtLTV4MXp5eE1kTmZXd196TUNqWDNTOTZsSzc0bHhyNWdEMXhTbVZMdk9XaVR1WUhjcXA2ZUEwV3VkSjBRZ2JqbV9ZOU83Q2dDM0RuUVA0dG5EUThZcg?oc=5",
+          "source": "뉴스스페이스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-20T04:18:51.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -107,18 +121,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "아시안게임 개막인데 F&B·편의점 온도차…'희비' 갈린 이유는 - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoRU55UFBETklFc052N3RXb1JmckxibmZjempWbC1YOHVpMUloOU1CWGNrZ2pKcGJidUNGa2RJQW5XbjNTenRZTGxpcDlNelp3LUpKcTY0R3UwdW55TmpBZUF4c2pZd3poSlVac0c1c9IBb0FVX3lxTFBoRU55UFBETklFc052N3RXb1JmckxibmZjempWbC1YOHVpMUloOU1CWGNrZ2pKcGJidUNGa2RJQW5XbjNTenRZTGxpcDlNelp3LUpKcTY0R3UwdW55TmpBZUF4c2pZd3poSlVac0c1cw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-18T22:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -131,7 +133,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
         {
           "title": "“1000원→2000원, 한달 새 100% 폭등” 가격 보고 ‘화들짝’…국민 채소 어쩌나",
@@ -202,6 +204,18 @@
           "feat": false
         },
         {
+          "title": "파라핀 코팅 부직포 시트 시장 2035년 전망: 식품 서비스 수요가 연평균 4.8% 성장 견인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1dXSUJ2NDJlZEJqLUhuTUhycmlEcVNmdHQ0cFhCLUFHanFWMnBSbXFhdk4yNXBqak9BbF9GTjR0ajZFLV9scHpzVHBiR3Y0NlVVZWtSNDlTeGZVTWQwMG10cGJyZzJsT1RfeEVCeTZ5VVBfQWJfUUNQbjFaVkhxMXZSNmc1MTZKRkljbWdKODRNdTRMUm1CYVhVV2I2X3dpaU9FRHprN1M5ZE1lM2dIYUNRanppMUtYV2U3NnJfZU4?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-19T23:26:13.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "추석 차례상 19만6630원…대형유통업체 7.6%↓·전통시장 1.6%↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6cEswWDFfaU1RaTV1MGRSRFRtcEJ3MGZDR0ZWdTE5Sm9DMjJRSXlQaUoxVGNHdjE3YlV3dHBRVU00ai1oT1Z2RjdWcWVFaEZNZlZLYQ?oc=5",
@@ -221,18 +235,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-19T20:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2035년 디지털 굴절계 시장 전망: 식품 안전 규제와 음료 자동화가 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaktYNlFPODdrcXkwMy01YlZFZG9IRG9TWVQ3STJ2SGhudUc1V0lGbjNwem91aHV4OXJ3YVBwZVFodDRLUFV4aG16S0s0T0l4eGlJZFpHQzhheFJmMTJVVm9KUDBsNUJQd0pHU25aTS1Gc0VEbEEycnNWcjZ5SmFmVWV3Z09zOTUwaGxkTUlBVFlISWQ4U1Exb2hYQ2hvYm1pNFhOR1VvajBHakM0UXlRREJjR1djUXlNdEtHUTBFUVVNMUk0OFJfZFpJRzRoZGhscllJWUJqSDZ2RWl4c0E?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-19T18:56:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -323,7 +325,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "오늘까지 전통시장 2만원 환급·농할상품권 20% 할인···월말까지 농축산물 20% 할인",
@@ -348,18 +350,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "파라핀 코팅 부직포 시트 시장 2035년 전망: 식품 서비스 수요가 연평균 4.8% 성장 견인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1dXSUJ2NDJlZEJqLUhuTUhycmlEcVNmdHQ0cFhCLUFHanFWMnBSbXFhdk4yNXBqak9BbF9GTjR0ajZFLV9scHpzVHBiR3Y0NlVVZWtSNDlTeGZVTWQwMG10cGJyZzJsT1RfeEVCeTZ5VVBfQWJfUUNQbjFaVkhxMXZSNmc1MTZKRkljbWdKODRNdTRMUm1CYVhVV2I2X3dpaU9FRHprN1M5ZE1lM2dIYUNRanppMUtYV2U3NnJfZU4?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-19T23:26:13.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -372,15 +362,15 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "간편식에 '푸드테크·SNS·계절' 접목…편의점업계, 먹거리 트렌드 \"집중공략\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVLVhzaFJhd20tMXhwVDdKUUJkMURHMGJrQnZlVk9kWDF6aFBrWHpBNG5lMXFQbjZVM2tRUG9qRWVMUmRhb3I2Q2tZR2s0REhBY256V0JDcnVtOVNYVldwVG1valhqck0?oc=5",
-          "source": "youthdaily.co.kr",
-          "sourceInitial": "yo",
-          "sourceColor": "#1a4d8f",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-19T23:00:00.000Z",
           "tags": [
             "간편식",
@@ -407,9 +397,9 @@
           "title": "유한양행, 6년근 홍삼 건강기능식품 ‘유한 데일리 홍삼’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2M2E5NmpHN2ZpOHBVbUg1c0d6WW4wZnVQMGNzNGd3SDNSUW9nS2VacUE3blZWMlpDZzNiNXpfR2pHYXF3N25HN2l5VHR1d09RbEJ4eHd30gFUQVVfeXFMT29KVG1XWGRDM0dzYnZjaXVRNXVYekRaVDRldzMzUzE0Y3NNby02Rm5tWUFEcXJvVllFcTVIMUpwSGYwTjlleVdHalh5NXMwR1FGM2ZS?oc=5",
-          "source": "segye.com",
-          "sourceInitial": "se",
-          "sourceColor": "#b03a6a",
+          "source": "세계일보",
+          "sourceInitial": "세계",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-18T21:01:02.000Z",
           "tags": [
             "출시"
@@ -418,13 +408,25 @@
           "feat": false
         },
         {
-          "title": "LG생활건강, 한국식품연구원과 ‘웰에이징’ 기술 맞손",
+          "title": "바닐라향 더하고 라벨 덜고… RTD 커피 대표 ‘맥심 티오피’ 변신",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkVObmp4dl9UOVJyYWRQbHNJcmt3YUs0Ni0zOHlraXJZTXgzOEVNREhCN3ZkMkdkX3BJbWJQZDBrcmVuWFpjd0hrVlNkRC00QnVOc1dCTWtHMHFLWm1kdzRmXzdKbnJfN2FF?oc=5",
-          "source": "주간신문씨엠엔",
-          "sourceInitial": "주간",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-20T08:10:23.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpdnJmZzAxbElaXzZlQmtQaDEzWW9fVTNCbW1sU0JCeXNQSUJSRU1pS2VhSTFLVTVYZU5tTDh3YV85MUFza3ZfZEExWnhmaGZCSlJKTUd0QkxzNTlLR1ZhckR2SDdXY2lFNWFqSUF4WGpkeU5SYWfSAWZBVV95cUxNWjNYUkk2ZEdqbTNGblY4VXJaS3Rla19hVVEybmVacXlxSFhWU29vb1dZSHhhV1h4ZTF3ZGRzc29LQ18zV1RYbWJVUndCTnBaYlhpY1VXQnNQVGVVZjdWN3RiLTlnalE?oc=5",
+          "source": "donga.com",
+          "sourceInitial": "do",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-20T19:30:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "LG생활건강, 식품연 '패밀리' 지정… 고부가가치 건기식 새 지평 예고 : 기업·산업",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VUnRWTE1tM2tETDdRcGNHOGlIYnk1Q0ktQXdOQ1liM2lRc0h0VTRPMUdYUlI3Ql9wVHJIZjNrOW42WHJPQ25lVWdB?oc=5",
+          "source": "재경일보",
+          "sourceInitial": "재경",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-20T01:05:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -461,18 +463,6 @@
           "sourceInitial": "한",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-19T06:19:34.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "900원 커피·990원 아침밥…고물가에 불붙은 '1000원' 경쟁",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OSTJvWUlwY1ktMDc4ckN1TXJsd2NxRDBKWDFpT1VDaURXZ2tiY281MGIwSkNxVXk0UWFuQnV2bUg0R3o1WkE?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-18T22:06:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
