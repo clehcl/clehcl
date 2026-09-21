@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:05:21.694Z",
+  "generatedAt": "2026-09-21T22:43:19.814Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -22,8 +22,8 @@
           "title": "토종 매운우동 프랜차이즈 '깡우동', 가맹점 '200호점' 돌파…\"수원서 시작해 전국구로\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jY3VuNGh3VmpfcWo3Y0s4YkgxdDk1alJmaE1vNjlmc01SM0FQRUhITDFwTHNCbklRczJZcW9zeW5FTWJfZE5OeU0tY2xETXBDUlExdU1NVWI0bUxxYjlPUDR2TVlSWHhrZkhIZ2JXa2lMdw?oc=5",
-          "source": "joongangenews.com",
-          "sourceInitial": "jo",
+          "source": "중앙이코노미뉴스",
+          "sourceInitial": "중앙",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-09-21T08:54:32.000Z",
           "tags": [
@@ -143,8 +143,36 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 13,
       "items": [
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-21T10:28:05.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "더원식자재마트, 추석 앞두고 대곡동 31개 경로당에 이웃돕기 물품 전달… 우지연 시의원 참석",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qd2NSdzk0VmY3ZU82ck44b2gtWU1JZXVaVTFNZm1wcmt4cVBpUjgzT09XZHFMRDRPTUtyLVF3N3phNGNnNlduRHVfMU9TMDRUSGFLS3N5S1lZUQ?oc=5",
+          "source": "데일리김천TV",
+          "sourceInitial": "데일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-21T06:15:00.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "“어디가 제일 싸지?”…AI가 마트별 농축산물 가격 비교해준다",
           "summary": "",
@@ -157,7 +185,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "속초 착한가격업소 58곳, 상품권 결제하면 5% 자동 캐시백",
@@ -222,30 +250,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "동원F&B, 추석 맞이 건강기능식품 프로모션",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oMHU4cGhJRy1jZ1VCazk5VHk5ajJxV01PVXhQUWhzdGtkX19fUzczOGNNMV9MQThoNmNIVXlLcmVEOURlV0IxQ1NTTkNFR21IZEVZMXpuR1hCQnUzRzR4azBIVQ?oc=5",
-          "source": "보건신문",
-          "sourceInitial": "보건",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-21T06:41:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "학교 급식비가 하루 35,000~40,000 VND인데, 질은 어떤가요?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWplMlJSZ0VFUnFlNDJTaGJfU1hLRVREbGlTTTZmTXBTTFJNYlMzbEdId1I1QUdPeU4wdlVFQnJaX0JIeXV5UnJZb0RXMkg0MjZJOEZUX2J3VlM3ZUoxajRQZXp6azBLNEQyMGg3WUh1Z1ZiV2gyZ2w5dFJ3cC1yMnp1eTliWTdtY0E?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-20T23:54:56.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -277,10 +281,10 @@
         {
           "title": "김포금쌀 6t, 단체급식서 소비 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81V2NoNHFSa1ZMeXpTLVp1eEc0ZGlwT0ZTTWI1anpud3FZazZ4MkFRN0JUcE54a1JnQXlzWkEwNjYzeEJHd3ZxRE9US1VpMzEzazhCamtUcDBaZFpPRGpTVFV3YTdTZWJY?oc=5",
-          "source": "대한급식신문",
-          "sourceInitial": "대한",
-          "sourceColor": "#b03a6a",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByM2E4ZXR0U1M2UWFnRnZyOWk5Wi1JNjVFX2FJNDB2cm42cWc3UEhzRWYyTkk1ejBhMnNRQ1BKV0hGOWlYY2pNT01UbFF5TjJLRmh5QzhVQjlVd3ljeE1odFBwRnd4QnRNS2c?oc=5",
+          "source": "fsnews.co.kr",
+          "sourceInitial": "fs",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-21T13:14:19.000Z",
           "tags": [],
           "price": null,
@@ -302,9 +306,9 @@
           "title": "CJ프레시웨이, CJENM '로컬콜링'과 협업해 단체급식장에 김포금쌀 6톤 공급",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZmo4TW50U1cxUjg1LVFtUDdYVldKVU5GYkt4RGpsNFN0TzZhd3ByMFVtX1FpZGszUXZGTXgyM1FiMUtJMU1STWhxWmZ3ejBqQVVmVnIxZHFfVlEyRkFqWXgzeXRWWHd5S3ZBREZIZEp2aVk?oc=5",
-          "source": "businesspost.co.kr",
-          "sourceInitial": "bu",
-          "sourceColor": "#8a5cc4",
+          "source": "비즈니스포스트",
+          "sourceInitial": "비즈",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-21T05:13:55.000Z",
           "tags": [],
           "price": null,
@@ -369,7 +373,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 5,
       "items": [
         {
           "title": "폴리프로필렌 극세사 필터 시장 2035년 전망: 식품 안전 규제와 유제품 수요가 연평균 5~7% 성장 뒷받침 - 뉴스 및 통계",
@@ -400,39 +404,13 @@
           "feat": false
         },
         {
-          "title": "[2026 추석民心] ① 추석 코앞인데 물가 다시 3%대…장바구니는 아직 무겁다",
+          "title": "곡물용 돌 제거 스크린 시장 2035년 전망",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OLWxKM1NUZ29WeFBHalFkczhJLUJoV3RDX0t2bU1VY1R2a0xIaHZYWURKeXVmUnNIVjdHSWIzX2dVdDlsZ3o1RzEyTU5xZHY2M19RZl9QVHNtamhNZGQ3U2pYN29SQV9aOHB1c1dn?oc=5",
-          "source": "뉴스후플러스",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-19T20:00:00.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "디지털 곡물 수분 측정 시스템 시장 2035년 전망: 정밀 농업과 저장 품질이 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWTM0SHh4cjJoWU1iSFgzcUdXX1ItZ2luc2xzYWcxZkdPVXdoSHZESzVrMmJxVkxOc0VJcmEwTXdGa2FSQ2R3ZmNTRFVBUVBMUHNWMFAzZWJ4ejVvaWNwa1gxSW5taGVxQnhVQVVMbzRBaDFqWHZBX1pjUGZGWGZxc19UeFdlYzZOR0s2clEtQkI2N2V6akVRSXQya2lqMm9nTktvMWh2MTYyckRkeENvRy1IR0wzWkxCbzJ1aEwtM1VIM181UGIzWWRfcVlEOEJNNC00NlJFZGNOY2llVHdJSmE4RU5OSTh5QWZPZ2RaNDNvNHZKRENCbnhSdHBaV0M2WDVIdGd3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWRNSUdFM3B3QzlGOXAwSGFvdmN1TzlKaTZxYkJ4ZVQyVHZWVllMX2dzRlM5SkNzUGFQUWtiTklWWFZmMkg3dnZLODhpcWY0YWR4SXdiZzZwR0dudmNaQnd3dGlSd2dTdnhFdFFMM2IyMFI2SVlNcFg4Q0loZ0VOSjRodkw5SzdtZkxrNzU4MzM?oc=5",
           "source": "IndexBox",
           "sourceInitial": "In",
           "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-21T04:51:15.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "추석 식품안전 상식, 퀴즈로 확인하세요…‘한입 퀴즈’ 10월 5일까지",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11bklqeTVkNVZZYk5zdEZBOUJGVVE0TS1qS3E0S3RjOUlxejV2bC0tTDNJaHRxZ1FBV1F1UlFuOWZHeDhBdllpT3FNcGR3OWw3MU1V?oc=5",
-          "source": "유스연합",
-          "sourceInitial": "유스",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-21T02:55:40.000Z",
+          "publishedAt": "2026-09-21T19:46:16.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -453,9 +431,9 @@
           "title": "“호르무즈 막히자 수익률 치솟았다”…요즘 ETF 시장은 원유·농산물이 접수 [원자재로 살아남기]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMkVLRE0zekRYVnE3U0pOUlVaZTdwZk1DNVFvaFlXWERIYkJ4aEJTN2NRQ1BlUUJVN0JXUW9RdHB3UVg0VlpkV3kxYTR4SExlSnc?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
+          "source": "mk.co.kr",
+          "sourceInitial": "mk",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-19T23:55:48.000Z",
           "tags": [],
           "price": null,
@@ -541,11 +519,11 @@
         {
           "title": "[오늘의신상]\"통곡물에 건과일까지 원물 가득\"…보앤미 건강빵 5종",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wNnZwYXJQRjN3YTg0WTQ1ZUk0R1N4QXljMU1PZVkxQmJBd1dhZEdVckpNN1JZeWZLajJFMV9nY25LZHpwMDlZbS1PRE9uRG8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOTHlGSmNoTlA1VHpTaTFjSnU1czUzTjctbUtMWU5TaE9GNDU5WHhLenB6SC05VEFuR0RsbkFBMFFtZlRFWlE?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-20T23:04:53.000Z",
+          "publishedAt": "2026-09-20T23:04:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
