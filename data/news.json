@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:39:39.996Z",
+  "generatedAt": "2026-09-21T19:05:21.694Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,14 +16,14 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 22,
       "items": [
         {
           "title": "토종 매운우동 프랜차이즈 '깡우동', 가맹점 '200호점' 돌파…\"수원서 시작해 전국구로\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jY3VuNGh3VmpfcWo3Y0s4YkgxdDk1alJmaE1vNjlmc01SM0FQRUhITDFwTHNCbklRczJZcW9zeW5FTWJfZE5OeU0tY2xETXBDUlExdU1NVWI0bUxxYjlPUDR2TVlSWHhrZkhIZ2JXa2lMdw?oc=5",
-          "source": "중앙이코노미뉴스",
-          "sourceInitial": "중앙",
+          "source": "joongangenews.com",
+          "sourceInitial": "jo",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-09-21T08:54:32.000Z",
           "tags": [
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
           "title": "“어디가 제일 싸지?”…AI가 마트별 농축산물 가격 비교해준다",
@@ -163,9 +163,9 @@
           "title": "속초 착한가격업소 58곳, 상품권 결제하면 5% 자동 캐시백",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85YzAyRWl3cnFaZUdiMWctaDdLWWJyNDFkMWNrdGpIa1dVVndFMHZITnlQMWhaa2RGcDVwZ1JnU08xTktSbm92RWNMZF9nS21GSllHc21GanFYczdDdHBGcldZelRzYmg1cmFhSQ?oc=5",
-          "source": "NANOOM ENERGY",
-          "sourceInitial": "NA",
-          "sourceColor": "#c0392b",
+          "source": "한국사회복지저널",
+          "sourceInitial": "한국",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-21T02:35:02.000Z",
           "tags": [
             "가격"
@@ -177,38 +177,10 @@
           "title": "광명시, 착한가격업소 결제 환급률 10%로 상향…1인 최대 5만원 혜택",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KcXhDUzBKNWU4djhmY0FwVXVJVTBiR19lNlk5V1hzeGFNZzc5bTVNQnZKSkUydVo4WXRobUphU1gzelBYX0RoMGx3TW1VSm9GSEs0aVlVYVhaM2gwb1oxYlZhU3RuVVEwX0h2aw?oc=5",
-          "source": "NANOOM ENERGY",
-          "sourceInitial": "NA",
-          "sourceColor": "#c0392b",
+          "source": "한국사회복지저널",
+          "sourceInitial": "한국",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-21T00:14:53.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"4500원 담배, 더 비싸지나\" 유해성분 첫 공개에 가격 인상설, 왜",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXNLbEk3QUEwdHFaVnhkaVhNNVV3RHE1Nk9FYm1Dd2w2UE80bWJJSE80a0VaUWREUkZ3TDRyekJsUldWOERia0JmTTE5UG9iOGc5OWpuSmtQMGN5b3Z6TTJldTRuV1FLRWhGc0ZUZ3M2LUdzUG8tV3ZuMnBmV1pZTA?oc=5",
-          "source": "edaily.co.kr",
-          "sourceInitial": "ed",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-20T08:00:58.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“1000원→2000원, 한달 새 100% 폭등” 가격 보고 ‘화들짝’…국민 채소 어쩌나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmNkZmb0lZdzdpRlBHSkFjd1RwQVNoMFJqMFQ2WDgzYVI4TDgzTWN1bHpianFCZGFhdkZhS1dtZ2xVcFp2SW1Hdm1xS2ZfSjQ?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-20T07:41:51.000Z",
           "tags": [
             "가격"
           ],
@@ -250,6 +222,30 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "동원F&B, 추석 맞이 건강기능식품 프로모션",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oMHU4cGhJRy1jZ1VCazk5VHk5ajJxV01PVXhQUWhzdGtkX19fUzczOGNNMV9MQThoNmNIVXlLcmVEOURlV0IxQ1NTTkNFR21IZEVZMXpuR1hCQnUzRzR4azBIVQ?oc=5",
+          "source": "보건신문",
+          "sourceInitial": "보건",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-21T06:41:23.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "학교 급식비가 하루 35,000~40,000 VND인데, 질은 어떤가요?",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWplMlJSZ0VFUnFlNDJTaGJfU1hLRVREbGlTTTZmTXBTTFJNYlMzbEdId1I1QUdPeU4wdlVFQnJaX0JIeXV5UnJZb0RXMkg0MjZJOEZUX2J3VlM3ZUoxajRQZXp6azBLNEQyMGg3WUh1Z1ZiV2gyZ2w5dFJ3cC1yMnp1eTliWTdtY0E?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-20T23:54:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -282,9 +278,9 @@
           "title": "김포금쌀 6t, 단체급식서 소비 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81V2NoNHFSa1ZMeXpTLVp1eEc0ZGlwT0ZTTWI1anpud3FZazZ4MkFRN0JUcE54a1JnQXlzWkEwNjYzeEJHd3ZxRE9US1VpMzEzazhCamtUcDBaZFpPRGpTVFV3YTdTZWJY?oc=5",
-          "source": "fsnews.co.kr",
-          "sourceInitial": "fs",
-          "sourceColor": "#333333",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-21T13:14:19.000Z",
           "tags": [],
           "price": null,
@@ -306,9 +302,9 @@
           "title": "CJ프레시웨이, CJENM '로컬콜링'과 협업해 단체급식장에 김포금쌀 6톤 공급",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZmo4TW50U1cxUjg1LVFtUDdYVldKVU5GYkt4RGpsNFN0TzZhd3ByMFVtX1FpZGszUXZGTXgyM1FiMUtJMU1STWhxWmZ3ejBqQVVmVnIxZHFfVlEyRkFqWXgzeXRWWHd5S3ZBREZIZEp2aVk?oc=5",
-          "source": "비즈니스포스트",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
+          "source": "businesspost.co.kr",
+          "sourceInitial": "bu",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-21T05:13:55.000Z",
           "tags": [],
           "price": null,
@@ -373,8 +369,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
+        {
+          "title": "폴리프로필렌 극세사 필터 시장 2035년 전망: 식품 안전 규제와 유제품 수요가 연평균 5~7% 성장 뒷받침 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek9yTDF5dEpWZTBsY3BlRXhMOV81Q3p3Q2hFQmpva2RlZG91RXdoOVU4RFVmcjhOMmk0T04tM2tENEpzNWNMMHFUdkFOSnpwX3hwWl8zOEN5UDdMTWVJdlN3d21meEI1TlZOREV1bktBREVMOE90akROc0FuWnMyMGdGTWdsYlFSRHZ6UE42aWhhQ1dUY0dkdDluWjBJSXZTSm1kdUwxVGt6SnpnNWxoeGFQZFJxRTFzZk4xcnp4c0xMRWhaSzE4VmMtRjdkd2JMYUJuOTBVd0J6dUtQ?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-21T15:56:17.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "식약처, K푸드 중국 수출 지원…한ㆍ중 식품안전 성과 공유",
           "summary": "",
@@ -387,7 +397,7 @@
             "식약처"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[2026 추석民心] ① 추석 코앞인데 물가 다시 3%대…장바구니는 아직 무겁다",
@@ -400,6 +410,18 @@
           "tags": [
             "물가"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "디지털 곡물 수분 측정 시스템 시장 2035년 전망: 정밀 농업과 저장 품질이 성장 견인 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWTM0SHh4cjJoWU1iSFgzcUdXX1ItZ2luc2xzYWcxZkdPVXdoSHZESzVrMmJxVkxOc0VJcmEwTXdGa2FSQ2R3ZmNTRFVBUVBMUHNWMFAzZWJ4ejVvaWNwa1gxSW5taGVxQnhVQVVMbzRBaDFqWHZBX1pjUGZGWGZxc19UeFdlYzZOR0s2clEtQkI2N2V6akVRSXQya2lqMm9nTktvMWh2MTYyckRkeENvRy1IR0wzWkxCbzJ1aEwtM1VIM181UGIzWWRfcVlEOEJNNC00NlJFZGNOY2llVHdJSmE4RU5OSTh5QWZPZ2RaNDNvNHZKRENCbnhSdHBaV0M2WDVIdGd3?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-21T04:51:15.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -435,18 +457,6 @@
           "sourceInitial": "매",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-19T23:55:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "파라핀 코팅 부직포 시트 시장 2035년 전망: 식품 서비스 수요가 연평균 4.8% 성장 견인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1dXSUJ2NDJlZEJqLUhuTUhycmlEcVNmdHQ0cFhCLUFHanFWMnBSbXFhdk4yNXBqak9BbF9GTjR0ajZFLV9scHpzVHBiR3Y0NlVVZWtSNDlTeGZVTWQwMG10cGJyZzJsT1RfeEVCeTZ5VVBfQWJfUUNQbjFaVkhxMXZSNmc1MTZKRkljbWdKODRNdTRMUm1CYVhVV2I2X3dpaU9FRHprN1M5ZE1lM2dIYUNRanppMUtYV2U3NnJfZU4?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-19T23:26:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
