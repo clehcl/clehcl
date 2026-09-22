@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:22:49.431Z",
+  "generatedAt": "2026-09-22T17:09:05.043Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 17,
       "items": [
         {
           "title": "\"6000만원 내고 매장도 못 열어\"…직영투자형 프랜차이즈 신종 모델, '法 사각지대' 방치 |",
@@ -144,10 +144,10 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
-          "title": "웅진식품, 10월부터 하늘보리·아침햇살 등 20여 개 품목 가격 평균 7% 인상",
+          "title": "웅진식품, 10월부터 하늘보리·아침햇살 포함 20여 개 품목 가격 평균 7% 인상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNldJcjV5d2paNVVxYk9kZ1dTajNybUlZTGVPcU1uOTNYSGo2aXNwbzd1N2VDZ01kbndSNjUwbzNQZjQ3Rk41c3FtdHljT2tQNmpUUVlNZEJabG9qSUJsYUE2M3dTTXVRbjhya0d2QUVuRU0?oc=5",
           "source": "비즈니스포스트",
@@ -159,20 +159,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "IBS 급식 개선됐지만…가격 대비 불만족 40.9%",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pbkZxcVJmZ196cEVYSUVSenh3d1J2Vy1rTDZCX20zU2lnbXRDSzBsNERhbjVFWEs1a2NRbjVxUE9TZ1R2OFlPYWJWQWtUNUkwM0ZBVXdtSjFmaHVTbzluSlpSODFIcWhZSlVTQWp3?oc=5",
-          "source": "뉴스홈(newshome)",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-22T06:38:08.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "웅진식품, '아침햇살' 등 제품 가격 평균 7% ↑",
@@ -203,40 +189,12 @@
           "feat": false
         },
         {
-          "title": "웅진식품, 하늘보리·아침햇살 등 20종 가격 평균 7% 인상 - 조선비즈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmJ4MlVGWmJCY0ZPeGs0ZWlKdHFOZV9YZy1Rckx4QmY1YmtCSzVFWV8yYjd3TkRHUnJ4UEpQTTk2YUpTWlVBdkk1SGxCbVZIaXk1YmF4R0pkNzUwRG9HRjlxcFRaQ2UtcjdTSXZvTkR5aFZwa0hKQ1J4QzhiMWxnckJEV0lVU0JoSTFMYloteFF1aFI1U3dab3Zn0gGaAUFVX3lxTFBOYngyVUZaYkJjRk94azRlaUp0cU5lX1hnLVFyTHhCZjVia0JLNUVZXzJiN3dOREdScnhQSlBNOTZhSlNaVUF2STVIbEJtVkhpeTViYXhHSmQ3NTBEb0dGOXFwVFpDZS1yN1NJdm9ORHloVnBrSEpDUnhDOGIxbGdyQkRXSVVTQmhJMUxiWi14UXVoUjVTd1pvdmc?oc=5",
-          "source": "Chosunbiz",
-          "sourceInitial": "Ch",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-22T05:07:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "유기농 하늘보리 2600원·아침햇살 2500원…웅진식품, 음료 가격 평균 7%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PLXZaZGRwYWlRakdWaldSS3JVMGd0SWR0U0NWMzBGSkd3Nlk4XzdDSXlkR0ZuSlgwWHNXNXBSQkxvRGpWT21qV0pCVkMwQQ?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-22T01:39:40.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
+          "source": "kukinews.com",
+          "sourceInitial": "ku",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-21T10:28:05.000Z",
           "tags": [
             "식자재"
@@ -257,6 +215,44 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "“어디가 제일 싸지?”…AI가 마트별 농축산물 가격 비교해준다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ScmtZdWE2UkpFdmw4ek9hQnlJOUZhTUdEM2lBWThfQXU5N1lLWUlRTF9Mbk1XZDE5UERrQ2hrLU5XYWtMTnA4LXhBXzFYQQ?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-21T05:40:39.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "웅진식품, 내달 하늘보리·아침햇살 등 20여종 평균 7% 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zVk9QRmZlOVVRLUpBV05wY2N3VUxoWHZMcWFNejNEWUxTSlNWUTM1UnBPWU03dWFlc0JpNWZKd04xY1JDYkQxTEpJWUt6T3NxdkVwN3JzTkpFX2ZSOXBuLUY5cTNyV2pf0gFoQVVfeXFMTjNWT1BGZmU5VVEtSkFXTnBjY3dVTGhYdkxxYU16M0RZTFNKU1ZRMzVScE9ZTTd1YWVzQmk1Zkp3TjFjUkNiRDFMSklZS3pPc3F2RXA3cnNOSkVfZlI5cG4tRjlxM3JXal8?oc=5",
+          "source": "매일일보",
+          "sourceInitial": "매일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-22T05:56:41.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[환율효과]④ 1500원대서 1300원대로…유통업계 희비 가른 '달러 손익계산서'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fVlBJNldvOWJDakRPY0RuNU5Nakc1djF6T3RyRF9NSlc2a0J0SVFDalpWckRXaGFSamp6cm5sUVJYSEZUSXNSWnB2UWQxeTdIM3NBblJXYjJORV8zS2dtc2N3eUxrRW5fUWp3SDRjcENFdw?oc=5",
+          "source": "중앙이코노미뉴스",
+          "sourceInitial": "중앙",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-22T05:08:12.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -269,8 +265,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
+        {
+          "title": "[똑똑한유통] NS홈쇼핑, 우아한형제들, 쿠팡, 롯데면세점, 현대백화점",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52Y1pISmg0N0JXUENhNmtCNm85Q2Q4RTBsb1ZIZmxKbk5oOWVyVUVHTW1PU1ZnRzZSZmprOWFmR1dFQjJQRjlqVVBJTnd3QWFkR1ZrRWprb01aUmo5M1lzc0pR?oc=5",
+          "source": "에너지경제신문",
+          "sourceInitial": "에너",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-22T13:59:34.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "\"학점 4점대 안뽑아요\"…식품·유통 하반기 채용 어디가 주목받나 [권용훈의 트렌드워치]",
           "summary": "",
@@ -283,7 +293,7 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[똑똑한유통] CJ제일제당 채용 컨퍼런스, KT&G 한국IR대상 최우수상…롯데칠성·오뚜기·CJ프레시웨이·풀무원·동서식품",
@@ -358,18 +368,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, 김포금쌀 6톤 매입…단체급식으로 지역 농가 판로 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HOFpYN1ZwWlF3T2U0em53Z1Bfak5lZjI4bVJTVnBndHJfODlNRGVLRkpvMEs3clhMaEY4OTNIYmU5eG51S3h1T09zMm1SUQ?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-21T02:18:34.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -382,7 +380,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "2026 추석 차례상 비용 9년만에 하락 - 정부 역대 최대 물가안정 대책 효과",
@@ -442,6 +440,18 @@
           "feat": false
         },
         {
+          "title": "식품 생산 및 안전 관리 분야에 결의안 57을 도입합니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2xVTkhKQ1ZJTy15TnJsM3c3U0FFNjU5WXpPeWN4RTh5ZTBxYzVUTG9iVy1STllBN3Z6UTdxazVsMlBydll3bE1XRkJzNVdMb0I2dEt3WC1uRFNMOTdWdXVYMkNuX09tNTJvd0Z3ZVEyWnRpNE5OWUVqblFSRzI0dWdUSTNiM1VQRElNTWFn?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-22T10:45:35.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[단독]15조 규모 ‘설탕·밀가루 담합’에도 과징금 10%대 그쳐…“카르텔 타파 시급”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNlh0cHVta040T1ZNM1lFdF9VakNDZThNTFFxN3Z2bXdBc1RkMW1SeXRPV2hHQ0dwVE12V0c3dnRTWW5VQ2xtZUlJV2ZHSDJmcUhtVVF0WEV2Vy14dDZfU2lPY3VUbGVMZkVtaUd2X21RdXF1eHBv0gFmQVVfeXFMTVpGQi03d3g3R2JvODlyWXVjOVozMThFMERXcUpSUXBtTjlmd0lITTIzbGwtdjd0NlBLQnBvR0lpdGxJVDZqN0dEQWw4dkFDS1d0b3NjaE1Ubi1ZbHgtWkF3ZDM4Y01B?oc=5",
@@ -464,7 +474,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "이디야커피, 가을 음료 라인업 강화…피스타치오 신제품 2종 출시",
@@ -492,18 +502,6 @@
           "tags": [
             "출시"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "세계 최대 식품 박람회 ‘SIAL 파리 2026’ 10월 개막…130개국 8000개사 집결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16cjUtYVZTZ0hRREpCbUlqWkF1b1VWaXVYUjItdUVDSmVZLTdhZXh5bGJVZTJGVnVQdGRsM1VVSmpZb08yNWw5OXdybkFRRkNULU1laERUWGh1OGU5SXFjVzJyQS1VV3NnZjZxSC1RYw?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-22T08:20:36.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -563,6 +561,18 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-21T06:58:10.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "교촌치킨, 앱 주문하면 메달 적립…최대 5000원 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tUVliNTRNX2Rtb3IycFc5eGpkTTdsRms1bUZ1ZVpHRE5qUUh3bDJ5b3lqTWVrZldIN1NQWkV0Q0xKUm1aaXh3NTgxQ0lrbENjX3g3Ry1Vc0syWGhCaVVSUkNqTnlkVXNLQ0E?oc=5",
+          "source": "한국면세뉴스",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-21T05:00:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
