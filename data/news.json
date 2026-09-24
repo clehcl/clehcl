@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:33:25.984Z",
+  "generatedAt": "2026-09-24T21:59:53.195Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 23,
       "items": [
         {
           "title": "커피 프랜차이즈 가맹점 3년 새 41% 급증…점주 매출은 ‘제자리’",
@@ -177,9 +177,9 @@
           "title": "바이오센서 부패 감지 라벨 시장 2035년 전망: 식품 폐기물 규제가 도입 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMERjdmdib2ZBeFQyUnFfdV9jNkZMVHJ3R3VGMVlta2VUOExVcWVYWGdVQlVwMTllQW9lRU11aTIxb01UUE40Tk1ITi1XNTNTdGpzVnV1blhINENYOE9uVUN5ZWxZbWtUblgwUzJfcG1MVFVFYWdiRlBCS3Qwd3ZSMlhtNWZDUU80a0tIdExhTFY3YUNTRXBab0pWMXpxaGVJdm1xSElGQUg4ekt5ZW90ZWozbjFqeE1oalV4VS1WbHd3Zw?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
+          "source": "indexbox.io",
+          "sourceInitial": "in",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-24T17:06:04.000Z",
           "tags": [],
           "price": null,
@@ -323,6 +323,18 @@
           "feat": false
         },
         {
+          "title": "어민 외면하고 수입산에 점령당한 수협… 공판장 수입 수산물 비중 최대 54%",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRN28zN2Vja0FOamI3NzNLSnJ2MGRsalNuMTY4RnhCVnpnc2gxRGNZN3FSN2pzblRmLWdjY2tKZnVGWW5hZ3UySHN5bUtuVUNPcEFNUFhrSXQ1aUREQWlCLTJxc3hPNEVzLWF6N3Fpaw?oc=5",
+          "source": "진일보",
+          "sourceInitial": "진일",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-23T05:05:09.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "CJ프레시웨이, ‘김포금쌀’ 6톤 매입…단체급식으로 지역 농가 판로 넓힌다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1WkdnNnkxc01vSlVITDJ1cGM1UTlVV1lXOG1iblNiUFRqNEY2dURHSTYzMGx1Q01PaHZ4MUdBT0YxNUh4bWZoQUx1c0tTMUNPOUNMN01pajJ3bHZVRVV0bzUwdUF2TlVMbTkxSEZBaw?oc=5",
@@ -345,18 +357,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "수협 공판장 수입 수산물 비중 54%까지 치솟았다… 어민 외면하고 ‘수입산 점령’ 허용",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vZnFKMlFqUlRSYkxOUzBodElQb1M3SVdRMGZwcDRnYlpLcENGRGs1OXFpWTRuVFh4WEpXUkZhSk5uZTlYaFhZNXBBcWg1djBhMXp0b3RvOWRjT05RNlF2d2Robld6SGZ1ZWc?oc=5",
-          "source": "청년투데이",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-23T02:04:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -369,7 +369,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
         {
           "title": "익산시, 기능성식품 규제 실증 착수…158억 투입",
@@ -470,13 +470,13 @@
           "feat": false
         },
         {
-          "title": "“수산식품 수출길 열어준다”…aT, 최대 5천만원 바우처 지원",
+          "title": "식품업계 '15조 밥상 담합' 폭리… 과징금은 1.8조 \"솜방망이\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KUVRVaTZhbkkxVkROaXNWRy1BN1ZEaGVCN3dMd0NsUmhtVDN2RU5zdkZNN2RQN1FqWVVF?oc=5",
-          "source": "식약일보",
-          "sourceInitial": "식약",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-24T11:02:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95LXQtcldDdHBDVmwwVklHWC1idm5rU3VmU2xHYW83cUlwVHllQklIS2NNTFlnbFhnU1RRUEZBS1VXMmhCY2szVFhaMmxDekEwbHJ5VzRMX0xuQzJoM1EwZg?oc=5",
+          "source": "metroseoul.co.kr",
+          "sourceInitial": "me",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-24T20:56:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -492,7 +492,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
         {
           "title": "bhc, 샘킴 셰프와 ‘콰삭모짜킹’ 출시…통모짜렐라 치킨 선봬",
@@ -550,10 +550,22 @@
           "title": "동서식품 ‘맥심 티오피’, 가을 RTD 커피시장 공략…라인업 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR3ZiRU5iYjN6MUM5YnhPd0tOeE40bFNMeUg1d3ZLQXJPTzQzblpTbmZKbkRCN05XaU1FMm9IUXdSWXAwZmtReW11a2xVa2EzN1l1enU1M2g1LWxoWVFMWmV6b1g?oc=5",
-          "source": "4th.kr",
-          "sourceInitial": "4t",
-          "sourceColor": "#333333",
+          "source": "포쓰저널",
+          "sourceInitial": "포쓰",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-23T05:14:22.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[굿모닝! 23일 식품업계 소식] 롯데웰푸드·오뚜기·농심·오비맥주·삼립·풀무원헬스케어",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QX3FUWjFBQzk4Tzg3Y1BlRDY5WlphS3ZlR29KSWE5Q2xTbkFJNmVIUjdkbEN4VFY3WmFjcmlKeWNGdjdSajJ5MlVvVE5XUnV2b19NSjJWN1FCRE0zNDBXRW9WcDFzY3NndGdMWQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-23T01:55:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
