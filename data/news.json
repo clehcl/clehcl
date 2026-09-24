@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:51:50.340Z",
+  "generatedAt": "2026-09-24T03:23:04.283Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 19,
+      "total": 18,
       "items": [
         {
           "title": "외식 프랜차이즈 추석 할인 최대 50%…앱으로 몰아준다",
@@ -58,6 +58,20 @@
           "publishedAt": "2026-09-22T04:08:52.000Z",
           "tags": [
             "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서초구, 외식업 경영 아카데미 9기 수강생 모집",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TTnZKWURKN3RVUU5WeS1ERVRXaDNCSmJfRTUzaFdoSzE1dUdIZUZSTTFSMVdRa0JFY0Y5a1duRDV3VEc4STk3Y1VSU1pwR0JHUVV1VWl6MWNLZW1UdlBXQ0t6NXM2S0JIcXc?oc=5",
+          "source": "탐사일보",
+          "sourceInitial": "탐사",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-23T22:36:04.000Z",
+          "tags": [
             "외식"
           ],
           "price": null,
@@ -118,20 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "호영식품, 분모자 외식·급식·HMR 시장 공급 확대… 식재료 영역 다각화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTmFEc2VlRXlPY3pqWExCdXo2ZGV5c0RESFZYb195aE5ERFE1d3JtX2VxV0MyS3R3TkdQWWNPd1U0UFozZk9KNmJvSUI4Wk13UDZ6aFR6NkhZSWVKdEHSAVZBVV95cUxNVXRRY3R1dnhOelpqZ2pOSlh5VWc2Y1lOaXZ6YkNOb1MxTHZxZGhRN3M1SmZaVFFtcHg3SHY1ME15eU5kaGo3ajBoLWZhMmZ4d054XzQ3UQ?oc=5",
-          "source": "피앤피뉴스",
-          "sourceInitial": "피앤",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-23T06:11:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,15 +144,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 21,
       "items": [
         {
           "title": "아이폰 듀오가 베트남에서 공식 출시되었으며, 가격은 6,500만 VND부터 시작합니다. 이 제품은 독특한 접이식 화면 기술을 특징으로 합니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzE0ZkZFRy1NN3J5U3ZFSlNTQlNURFo4N3BzU3UyQjF0ZTlIenNHS1ZYWXdQRk9xWTlzblJYSXdVTHROUFAtazdick02RC1qVzhTQWE4T1RZbGdWTGlHSEpVZG9NQ2JPNWxObGk4TEhTUXFhTDhRcVluUlFtMFBHQmx4VEx4ZXBCa0VUSlRWNU5zejE5WWRMY0psc0p2aE5YdENrRnhKVWVObnB0MkJDTFpBZ3gwSU5MZkE?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-23T04:46:54.000Z",
           "tags": [
             "가격"
@@ -206,10 +206,24 @@
           "title": "웅진식품, 10월부터 하늘보리·아침햇살 포함 20여 개 품목 가격 평균 7% 인상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YNldJcjV5d2paNVVxYk9kZ1dTajNybUlZTGVPcU1uOTNYSGo2aXNwbzd1N2VDZ01kbndSNjUwbzNQZjQ3Rk41c3FtdHljT2tQNmpUUVlNZEJabG9qSUJsYUE2M3dTTXVRbjhya0d2QUVuRU0?oc=5",
-          "source": "businesspost.co.kr",
-          "sourceInitial": "bu",
-          "sourceColor": "#8a5cc4",
+          "source": "비즈니스포스트",
+          "sourceInitial": "비즈",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-22T08:26:16.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "웅진식품, '아침햇살' 등 제품 가격 평균 7% ↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BZk5aSWtlejljUHFKbW5WQW00bEJ1ZmtuU1dkRDU3Uk1DaHhhaWYyVURJR2tGbTJ3U2E2NXVNUmNZVEFjNVc4c3NDYUVwUDFzbF9hekNJRkJHTXFEejBtTldnejU?oc=5",
+          "source": "디지털데일리",
+          "sourceInitial": "디지",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-22T06:36:10.000Z",
           "tags": [
             "가격"
           ],
@@ -220,9 +234,9 @@
           "title": "웅진식품, 하늘보리·아침햇살 등 20여 제품 가격 인상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fV0tiQ1dsUVo0WE9lNURIVDBWM3JLRmphMTFVYXhKb0R3SzMwVnJ4Y2hUWkNTVlhmUjVoNnE4VVZNZkFSTXNjak9xQ0Z2Yi0wQ1MzM0tiOExDWTJnV2Zad044VWdqNmFCekE?oc=5",
-          "source": "월요신문",
-          "sourceInitial": "월요",
-          "sourceColor": "#2f7d4f",
+          "source": "wolyo.co.kr",
+          "sourceInitial": "wo",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-22T05:33:36.000Z",
           "tags": [
             "가격"
@@ -243,20 +257,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "웅진식품, 내달 하늘보리·아침햇살 등 음료 가격 평균 7% 인상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VSTFScEVZUld5MmU2eXVuWGdhYVB2YklfSmwxaDZWcS1kNDZ1dEZfRFRoTXlrbTBQTGhNY0FqaFVIRkZJQklJX0xDeXpkR0tPRElldTZnRjdCUVhGUzBV0gFkQVVfeXFMUDhQRy1sb3pzNF9IR3h1QnhiYmJVUkYwellqY3cycUZzTS1ldS1XWGlLNEVUeThZSHd5T096VmVyb0dvRXVmOE5LcF93eFowMGRJM28xa1JVNVB1TzgzVTc0UWw3Vw?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-22T01:54:16.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -269,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "한국농수산식품유통공사, 하반기 신입직원 66명 공개채용",
@@ -289,9 +289,9 @@
           "title": "서울시농수산식품공사·강서시장 유통인, 추석 맞아 지역 취약계층에 식재료 1050상자 기부",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50UEE2Rms1dkxPb1RyNlEyZnVCUTJtQTBoN2dKS0l3LWJLQldIMGY4Y05xZVFmallJbC1LemN3alZGQWFiM2ZUZE44TjVVcDh6Y0hsSzdGN2VOMFVveWhRM1dwRDlTa0ZyaWc?oc=5",
-          "source": "청년투데이",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a4d8f",
+          "source": "fnnews21.com",
+          "sourceInitial": "fn",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-22T23:58:16.000Z",
           "tags": [
             "유통"
@@ -302,25 +302,11 @@
         {
           "title": "[똑똑한유통] NS홈쇼핑, 우아한형제들, 쿠팡, 롯데면세점, 현대백화점",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BelVTbkJSc3h5dmtWdXVGVFNnREJGNi1XR0RuRUZIZEI0OUFCNEdYcTZkdGNYUTBHa0pYLW5tVkNVVWRGSE1xVGFHSkhJVE1vOXF5bTBaam1XWXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RN1B4WEpVUzkxOWxneUcwVG5CdjRIYm5mXzlMSnB2TjAtOXJycGR6LVJWV1lJZU5LSEp6eElZd2loSU9hV3BDbjUxWWtsYk5teUllZXViN2xYQmUwQkIwUzhRbw?oc=5",
           "source": "에너지경제신문",
           "sourceInitial": "에너",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-22T13:59:34.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"학점 4점대 안뽑아요\"…식품·유통 하반기 채용 어디가 주목받나 [권용훈의 트렌드워치]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51VDZ0b290Q2tLYW8wQnVwSnZjSjFFRTQ0NUVUMW0zaGo0dEpvOWxhdWIwUlNTdzhDSDlubjU2SEhmYzlxWERCT2IycThQOC1QRUx1WF9HRUZhdw?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-22T01:33:09.000Z",
           "tags": [
             "유통"
           ],
@@ -355,9 +341,9 @@
           "title": "CJ프레시웨이, ‘김포금쌀’ 6톤 매입…단체급식으로 지역 농가 판로 넓힌다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1WkdnNnkxc01vSlVITDJ1cGM1UTlVV1lXOG1iblNiUFRqNEY2dURHSTYzMGx1Q01PaHZ4MUdBT0YxNUh4bWZoQUx1c0tTMUNPOUNMN01pajJ3bHZVRVV0bzUwdUF2TlVMbTkxSEZBaw?oc=5",
-          "source": "비즈트리뷴",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c98a2b",
+          "source": "biztribune.co.kr",
+          "sourceInitial": "bi",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-23T04:56:48.000Z",
           "tags": [],
           "price": null,
@@ -374,6 +360,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "수협 공판장 수입 수산물 비중 54%까지 치솟았다… 어민 외면하고 ‘수입산 점령’ 허용",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vZnFKMlFqUlRSYkxOUzBodElQb1M3SVdRMGZwcDRnYlpLcENGRGs1OXFpWTRuVFh4WEpXUkZhSk5uZTlYaFhZNXBBcWg1djBhMXp0b3RvOWRjT05RNlF2d2Robld6SGZ1ZWc?oc=5",
+          "source": "fnnews21.com",
+          "sourceInitial": "fn",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-23T02:04:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -386,23 +384,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 16,
+      "total": 11,
       "items": [
-        {
-          "title": "추석 차례상 비용 9년 만에 하락...與 \"정부의 물가 안정 노력 성과\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41anNMNGtWNThrU0hueDFFRldxYXdFTlhuZUFYcFNGSW9zbWstdFpMYzBYQUhCMm1jVVFYd3ZkYXlibnJHRG5kNUJHR3NGanBQZFlJTVRUODR2Z3QyeXowVk1XTlZMTHFleFFpZVI5aw?oc=5",
-          "source": "조세일보",
-          "sourceInitial": "조세",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-23T06:04:39.000Z",
-          "tags": [
-            "물가",
-            "정부"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "익산서 기능성식품 규제 ‘실증으로 푼다’…70억원 투입해 사업화 문턱 낮춰",
           "summary": "",
@@ -415,7 +398,7 @@
             "규제"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "식약처, 추석 성수식품 일제점검 결과 위반업체 150곳 적발·조치",
@@ -460,20 +443,6 @@
           "feat": false
         },
         {
-          "title": "CJ제일제당·삼양사·대한제당, 밥상 물가 담합…관련 매출 15조에 과징금 12%?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQaW5ldFdicXNIeXdsZjZHbmdjV21qVnlneXk3X1U4YWl1NmFwM0I4OWFwTWVDVF9OdGNYdEItSGdhNE5GTGU5SnpSVHk5YWhZSGRqMW5fNEdsbzVKUDRvd0dRYVpkQy0teVlJ0gFvQVVfeXFMT2R4UkQxRmZ0SkFQVm9nZDFEWUQxNEZWamxVcV9pbF9VU2E2aHcyQ0xaY0kya29VWUI2LW93M2tTbWRXR0hYbW5YT1gyVDZJbXh6YU9sLU1TdEZTWGFSM3VTckdRaS1NYndRNXJkTjAw?oc=5",
-          "source": "thepublic.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-23T01:27:17.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "aT, 2026년 수산식품 수출준비바우처 운영…최대 5천만 원 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SX29rZl90ZnZDUUdhUHQxQTRrcXJocXhsZDVjRS1tWnBfZnFrajlWcTVnajg2aExGcU9qNTdTVVZSVVNPb0hEejdkSnVRWFFIaG9POGpOWlNTeTlBR1FMZFhteWZ0RVNPQldJTTRR?oc=5",
@@ -496,6 +465,30 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "[2026국감]설탕·밀가루 왜 값 오르나 봤더니…\"담합으로 15조원 매출, 과태료는 찔끔\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YTmx1U1o2QUpkLWVDSWgwa2cwWUlvM0JoYTFhWFFnUHloUzJwSHBoMTlBSElIaE9rLUs0bHBZNE9FVlYwX0h1UzM3Z2ZKMGtYcjZKNlh1Um9nOHcyeVJLSWs5S2RWblZIRTc3UQ?oc=5",
+          "source": "이세종경제",
+          "sourceInitial": "이세",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-23T02:54:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "충북도, 충북보건환경연구원, 추석 명절 성수식품 안전성 검사 결과 ‘모두 적합’ 외 수시분-1",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zbGRWQlFSaHBla2h1QXpMYXZDZjlMWlRXUGduV2d1MklxbWZvRlo1UjkzaURZMklKLXAtUU5KNzd6QjE0dmM0SXNncGhiREw4SzMwYVVadTA4VHJIQ0swM3RB?oc=5",
+          "source": "충북데일리",
+          "sourceInitial": "충북",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-23T02:39:26.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -508,23 +501,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
-        {
-          "title": "이디야커피, 가을 음료 라인업 강화…피스타치오 신제품 2종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GbnF6ZFlDcFppbTJPLUNIMjBoeTJCNThWMm1SU0Fwa21BdjBPbXlCMHZ3Y3BvNmpnSUlSbG03WHlZMmhaQkJEdXlkb2pIU3NPSkRvVG1iRWpNdVpzd3V3RVVfVHJtbDE4NU1RZTdkdXI?oc=5",
-          "source": "스마트경제",
-          "sourceInitial": "스마",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-22T02:30:00.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "bhc, 샘킴 셰프와 ‘콰삭모짜킹’ 출시…통모짜렐라 치킨 선봬",
           "summary": "",
@@ -537,7 +515,7 @@
             "출시"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "요기요, 2026 추석 배달 트렌드…“‘쉐어링’·‘페어링’ 메뉴 수요 급증”",
@@ -549,6 +527,20 @@
           "publishedAt": "2026-09-23T02:03:37.000Z",
           "tags": [
             "트렌드"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "오뚜기, 추석 맞아 6·25 참전유공자·유족에 간편식 후원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tU0xvNWdXdkI0ZncyU1RLRjJRb1ZrUFk2cG5MdlNucnNKTFFHamZpeU1HRGZBTUlwaTV6bDhyeTJ5eXRlcW5ibjRYcDZMbXJZTTItMzNTMTVfRjgzZ3JWcFJCMlpzdm8?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-23T00:30:00.000Z",
+          "tags": [
+            "간편식"
           ],
           "price": null,
           "feat": false
@@ -568,20 +560,6 @@
           "feat": false
         },
         {
-          "title": "메가MGC커피, 가을 디저트·티 신메뉴 2종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DeXNaeGFuVUtWWGdsQmJ2c3BEcVhzSk54ak9JNUszbE5ldDdyWVRmR0RrY3NDaEFSZ3pnQUFjRmpISTZsM19Odk1Sbm5BUDV5VE1yRVk0YngwcXhEVExmbHh5N1oyalhNRVBkemdiZ0Y?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-22T00:10:00.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[식품업계 8월 동향] 동서식품 ‘2026 카누 바리스타 챔피언십’ 브랜드 캠페인 진행·집중호우 피해 지역에 구호물품 전달",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14M3J2Rnp6X3ZNUmE5VHctdXUyUmVtbGN4VzRNU2oxd043UWowRWNVQUhhbGdZalRpQXdfNWs4ODA2Z2lPblMwTk5Mc29qbFJaYkkxNWhHUndWZDd5Ukx0Z1g4VUFlZw?oc=5",
@@ -589,6 +567,18 @@
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-23T07:49:45.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[유통단신] 신세계 프리미엄 아울렛 여주점, 액티브 브랜드 '뷰오리' 입점 外 SSG닷컴·오비맥주·롯데웰푸드·농심",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJb2Rhck9ub0piMmZ0SzQwaEhlTFVrZGpmZjV4OVB6UkF4SHM3X1R3VVo3QzhVaWx0b0xiUkg1TU9vWXhRVFFDSmxlSGM4NkxaTWx2M2FHODE2dDZFeEVCLUtIOXVjSy1JM1UxQmNsWlXSAXBBVV95cUxQSW9kYXJPbm9KYjJmdEs0MGhIZUxVa2RqZmY1eDlQelJBeEhzN19Ud1VaN0M4VWlsdG9MYlJINU1Pb1l4UVRRQ0psZUhjODZMWk1sdjNhRzgxNnQ2RXhFQi1LSDl1Y0stSTNVMUJjbFpV?oc=5",
+          "source": "글로벌경제신문",
+          "sourceInitial": "글로",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-23T07:16:31.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -609,9 +599,9 @@
           "title": "[현장] \"김 사고, 여행용품도 한 번에\"...신세계면세점 인천공항 T1·T2 둘러보니",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBySnhSZzlkV0I0cFdSNXlJZnpZV0hWVVo1UGtZb1BBZDl0T2NJLXVkcklhWFplSk1wdnU4Q3JWOTdjVlJfZTJyUmpLakR5Q2NqVGVvcVBSUjM3VmhnazYyNWJEVlVxZ1FSNzdpZnU4MC1XeUU?oc=5",
-          "source": "startuptoday.co.kr",
-          "sourceInitial": "st",
-          "sourceColor": "#333333",
+          "source": "오늘경제",
+          "sourceInitial": "오늘",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-22T07:59:35.000Z",
           "tags": [],
           "price": null,
