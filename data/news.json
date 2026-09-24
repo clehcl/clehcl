@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:02:47.250Z",
+  "generatedAt": "2026-09-24T18:33:25.984Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 22,
       "items": [
         {
           "title": "커피 프랜차이즈 가맹점 3년 새 41% 급증…점주 매출은 ‘제자리’",
@@ -44,6 +44,20 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "커피베이, 멤버십 앱 통해 신메뉴 음료 500원 할인 쿠폰 제공 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE13VVIwZi1BUmdLY0VDVDhUdVd1Y0hkbW1zUDJUMlVBd2g4WEI3X1F0cS1CNlg0YWJnVU9MaDF5WnpMeEJKaHZtWUpydExScnVUN2pOckpoZjlpb2UySHdSMjJXLTcyRTZoV1oyTGZfSXRDTzA0VXVhclpGQjhvR08wRzhKdGhsZ0pvMmZn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-24T15:24:12.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -77,15 +91,15 @@
           "feat": false
         },
         {
-          "title": "커피베이, 멤버십 앱 통해 신메뉴 음료 500원 할인 쿠폰 제공 : 네이버 블로그",
+          "title": "커피 프랜차이즈 본사 매출 5배↑···점주 평균 매출은 제자리걸음",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE13VVIwZi1BUmdLY0VDVDhUdVd1Y0hkbW1zUDJUMlVBd2g4WEI3X1F0cS1CNlg0YWJnVU9MaDF5WnpMeEJKaHZtWUpydExScnVUN2pOckpoZjlpb2UySHdSMjJXLTcyRTZoV1oyTGZfSXRDTzA0VXVhclpGQjhvR08wRzhKdGhsZ0pvMmZn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWDNlV0VrRlJrZlVYVHYzcWMydVVMazhLZGRhbk5xcl9YdDRKRFFNaUp1TmRaUk5EQ05QQ3RUY1JiMWJCc1FXbG1WdWVpaGFBRUNfVlBBdmVwTWFrQmRGMlRqY0JDYWZfTmc?oc=5",
+          "source": "서울파이낸스",
+          "sourceInitial": "서울",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-24T03:24:12.000Z",
+          "publishedAt": "2026-09-23T23:41:56.000Z",
           "tags": [
-            "메뉴"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -117,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[대박창업] 프랜차이즈 성장 공식 바뀐다… ESG 경영 확산",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zNGgzVV9xLVZPdS05czlhSEJSWS1SQWpqSE4zaVp3azYxdExzdUN1MUtzWEpqNFdLMHRGcHZVcWRGdVZGZ3Z0RFRSWlRzNE5oaFBEQVdUUnZNX0xOVFM3d1RJREZYa3RHUDR5dXNSSQ?oc=5",
-          "source": "일요서울i",
-          "sourceInitial": "일요",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-23T08:28:12.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 15,
       "items": [
         {
           "title": "휴게소 수수료 최대 59.1%…음식가격 부담 키우나",
@@ -170,6 +170,30 @@
           "tags": [
             "가격"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "바이오센서 부패 감지 라벨 시장 2035년 전망: 식품 폐기물 규제가 도입 견인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMERjdmdib2ZBeFQyUnFfdV9jNkZMVHJ3R3VGMVlta2VUOExVcWVYWGdVQlVwMTllQW9lRU11aTIxb01UUE40Tk1ITi1XNTNTdGpzVnV1blhINENYOE9uVUN5ZWxZbWtUblgwUzJfcG1MVFVFYWdiRlBCS3Qwd3ZSMlhtNWZDUU80a0tIdExhTFY3YUNTRXBab0pWMXpxaGVJdm1xSElGQUg4ekt5ZW90ZWozbjFqeE1oalV4VS1WbHd3Zw?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-24T17:06:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "‘누룽지밥·단무지’ 논란 IBS 급식 달라졌다…불만족 52.5%→40.9%",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3d0NLS1JybFljTk82akRPb2o2MFo0SmEweVd3NDNPeFlLbHN3N3FoRHhWNEJ3NzFMdlg4MzZYM3U3TUJWSDFZblpjb0NDSG1UeTJKaEE1LXRySVNRRXJhRDlHcVZ2bmU1TUlTbmJnd9IBb0FVX3lxTFA3d0NLS1JybFljTk82akRPb2o2MFo0SmEweVd3NDNPeFlLbHN3N3FoRHhWNEJ3NzFMdlg4MzZYM3U3TUJWSDFZblpjb0NDSG1UeTJKaEE1LXRySVNRRXJhRDlHcVZ2bmU1TUlTbmJndw?oc=5",
+          "source": "연합투데이",
+          "sourceInitial": "연합",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-24T12:33:24.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -217,30 +241,6 @@
           "sourceInitial": "리뷰",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-23T20:44:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "소비자물가 458개 품목, 생활물가는 144개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PT3RSdktZenNxdzRDbk53MFpZLUswX2VHeng5bTRjUTVkeW5OQkUyWjNJTkgxY3c2T29ZcGNDNlptMi1ybXFnNzFoMlhGUXV6ZXQzSWVDVjg0bVJPV2JobFEtSjY2dw?oc=5",
-          "source": "비건뉴스",
-          "sourceInitial": "비건",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-23T12:19:45.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "美 GF 블렌즈, 프리미엄 믹스 ‘밀 글루텐 미표기’ 긴급 회수",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtSmtmbGdxcllwWUtJeF9KVTZZS0wtNVdmMHYzM1BQMFhBSjBCNllxdnQxdVdFdGFTNlJaSVg1akU0cW9WclpwUXlpUU5VdmFCRzlidWhDaDg3Vm5VRzFPSGtPSEZ2SHM?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-23T07:02:09.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -369,18 +369,18 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
-          "title": "국민의힘 이성권 “올해 비축농산물 폐기 급증…양파 83% 버려져”",
+          "title": "익산시, 기능성식품 규제 실증 착수…158억 투입",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QYkN3SzNNYU9EVWxmb1pXWHRaWXlpTDZ2SFdJeEtkTkVOQXZjeEFlcjloMWt4c0wxSkc1UUtTclRSa2lRcDBGSmU0eXgwSE8wR3dOVTlaa1M1Vkk?oc=5",
-          "source": "KBS 뉴스",
-          "sourceInitial": "KB",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-24T02:17:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vdk9pMkxieTN2c2k3YjA1bnBJbmNRaTROcEhqZ2RNYjJCbWtma2tHZTdoLTZITDN6eGdqX0J2MUV5Vy1fcjM0eTNNM2ZQcms2MjFEczlCSzhPTW4tRDRuVklYVUJDeWZUTDRKcdIBb0FVX3lxTE85Wi1fVjhkQ01kMkh0V3IyLU9pSW81a29qRHp2bXp2R2N3c0szektVU0d1c3lhb0pMc3E2T0F0VVJWOFl6M0puN0lRbzlnUTFSamw5dHZ6OTdxQjBOYVY5MHRPNmhIZWZzb0FDWFBhQQ?oc=5",
+          "source": "한스경제",
+          "sourceInitial": "한스",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-24T11:24:41.000Z",
           "tags": [
-            "비축"
+            "규제"
           ],
           "price": null,
           "feat": true
@@ -537,7 +537,7 @@
         {
           "title": "[유통단신] 신세계 프리미엄 아울렛 여주점, 액티브 브랜드 '뷰오리' 입점 外 SSG닷컴·오비맥주·롯데웰푸드·농심",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJb2Rhck9ub0piMmZ0SzQwaEhlTFVrZGpmZjV4OVB6UkF4SHM3X1R3VVo3QzhVaWx0b0xiUkg1TU9vWXhRVFFDSmxlSGM4NkxaTWx2M2FHODE2dDZFeEVCLUtIOXVjSy1JM1UxQmNsWlXSAXBBVV95cUxQSW9kYXJPbm9KYjJmdEs0MGhIZUxVa2RqZmY1eDlQelJBeEhzN19Ud1VaN0M4VWlsdG9MYlJINU1Pb1l4UVRRQ0psZUhjODZMWk1sdjNhRzgxNnQ2RXhFQi1LSDl1Y0stSTNVMUJjbFpV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6bDlMY3pmY3RiS3B0dGVwMmVFZWtFQnN5NEtsa0tKRDQzYjAxaVdOOVgyeEMxTzgwZlppM1d5ZG40R1ZGRVU2MGxTSkg3SnVocEhIclVKVHM1WDhyc0dGTDNlWkVmNGZpTkgwMNIBcEFVX3lxTFBJb2Rhck9ub0piMmZ0SzQwaEhlTFVrZGpmZjV4OVB6UkF4SHM3X1R3VVo3QzhVaWx0b0xiUkg1TU9vWXhRVFFDSmxlSGM4NkxaTWx2M2FHODE2dDZFeEVCLUtIOXVjSy1JM1UxQmNsWlU?oc=5",
           "source": "글로벌경제신문",
           "sourceInitial": "글로",
           "sourceColor": "#333333",
@@ -550,9 +550,9 @@
           "title": "동서식품 ‘맥심 티오피’, 가을 RTD 커피시장 공략…라인업 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR3ZiRU5iYjN6MUM5YnhPd0tOeE40bFNMeUg1d3ZLQXJPTzQzblpTbmZKbkRCN05XaU1FMm9IUXdSWXAwZmtReW11a2xVa2EzN1l1enU1M2g1LWxoWVFMWmV6b1g?oc=5",
-          "source": "포쓰저널",
-          "sourceInitial": "포쓰",
-          "sourceColor": "#b03a6a",
+          "source": "4th.kr",
+          "sourceInitial": "4t",
+          "sourceColor": "#333333",
           "publishedAt": "2026-09-23T05:14:22.000Z",
           "tags": [],
           "price": null,
