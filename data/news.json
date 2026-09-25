@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:59:53.195Z",
+  "generatedAt": "2026-09-25T00:27:41.752Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 19,
       "items": [
         {
           "title": "커피 프랜차이즈 가맹점 3년 새 41% 급증…점주 매출은 ‘제자리’",
@@ -174,12 +174,26 @@
           "feat": false
         },
         {
+          "title": "푸드로직, 마이샵온샵과 F&B 창업기업 원가관리 지원 위한 업무협약",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NV3dsZ0htVXhUYzQ1d3d2Rnp6cjdxWXdDSC1WMjBldjl2cXZlNi1PNnZwVWx2LXNrUDF2el9ya3FWWmdvM3YtbnNMaTJFQQ?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-23T00:37:57.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "바이오센서 부패 감지 라벨 시장 2035년 전망: 식품 폐기물 규제가 도입 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMERjdmdib2ZBeFQyUnFfdV9jNkZMVHJ3R3VGMVlta2VUOExVcWVYWGdVQlVwMTllQW9lRU11aTIxb01UUE40Tk1ITi1XNTNTdGpzVnV1blhINENYOE9uVUN5ZWxZbWtUblgwUzJfcG1MVFVFYWdiRlBCS3Qwd3ZSMlhtNWZDUU80a0tIdExhTFY3YUNTRXBab0pWMXpxaGVJdm1xSElGQUg4ekt5ZW90ZWozbjFqeE1oalV4VS1WbHd3Zw?oc=5",
-          "source": "indexbox.io",
-          "sourceInitial": "in",
-          "sourceColor": "#1a4d8f",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-24T17:06:04.000Z",
           "tags": [],
           "price": null,
@@ -189,9 +203,9 @@
           "title": "‘누룽지밥·단무지’ 논란 IBS 급식 달라졌다…불만족 52.5%→40.9%",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3d0NLS1JybFljTk82akRPb2o2MFo0SmEweVd3NDNPeFlLbHN3N3FoRHhWNEJ3NzFMdlg4MzZYM3U3TUJWSDFZblpjb0NDSG1UeTJKaEE1LXRySVNRRXJhRDlHcVZ2bmU1TUlTbmJnd9IBb0FVX3lxTFA3d0NLS1JybFljTk82akRPb2o2MFo0SmEweVd3NDNPeFlLbHN3N3FoRHhWNEJ3NzFMdlg4MzZYM3U3TUJWSDFZblpjb0NDSG1UeTJKaEE1LXRySVNRRXJhRDlHcVZ2bmU1TUlTbmJndw?oc=5",
-          "source": "연합투데이",
-          "sourceInitial": "연합",
-          "sourceColor": "#333333",
+          "source": "yhtoday.co.kr",
+          "sourceInitial": "yh",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-24T12:33:24.000Z",
           "tags": [],
           "price": null,
@@ -201,9 +215,9 @@
           "title": "남동면 경찰은 2026년 중추절 기간 동안 식품 안전에 대한 인식을 높이고 점검하기 위한 활동을 조율하고 있습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3ZVR2hFalpvWVJ2RkxCdXZObmpNR1dvWGo2MU5uV3h5blVDSnM5NWRUakpKMFROX3FvY1FyY3V0N3dQRUw4UGx4WTA2RDFWX195S1VKQktxN1ZqbnlMZEVQZ3k3Ry02bWhBX1VNM1gwN05VMzZna0FCUmthSF9ZLURmNzFSaW83SkR4MlBoV0NCdlotcEdrMjJkQ3FiNEJ4V2xBRlJneXdJZXhpamhKbHY5cDhRa1Vtbm9NOFpXd0tSYW1CSUJVQTlB?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
+          "source": "vietnam.vn",
+          "sourceInitial": "vi",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-24T08:18:15.000Z",
           "tags": [],
           "price": null,
@@ -232,18 +246,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[식품 리뷰] 소비기한 6개월인 1천 원짜리 중국산 빵, 먹어도 괜찮을까?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EWGZicHdpVS1SRkFvQllhXzcxXzZIS1FzcnRDLVJOamZyMmZYTUgtRl9yVjRDX1MtbjRtTXVQSUd5TEt6dWpjRjlIOXhVcS1TdC1vdFBxRTYtMlpsclV5UmxYZ2pGWkozcHBGMzMzcDY?oc=5",
-          "source": "리뷰타임스",
-          "sourceInitial": "리뷰",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-23T20:44:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -259,13 +261,13 @@
       "total": 9,
       "items": [
         {
-          "title": "한국농수산식품유통공사, 하반기 신입직원 66명 공개채용",
+          "title": "美 최대 식자재유통 B2B 시장 공략…농식품부, IFDA에 첫 한국관 운영",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LUFhfcGRBejVaRGhaUFcxUmhJZWl0Q0pJRVZiNXB5SHJGMlVROXZsTkhpNS1fZGFpRExvT3JtOFhxQzNBdS1mdWI5aW1iUDRwZ0xvYVVydjg5MG8wUTAxMkhZaWdMa1E?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyTTlyaExlamtYcVRPSTQ2dXpuaXFaTE03ZDI0X2Q1RDJramg1aDdHbjV4YzFoZ1h5NHI2bGRmVnU0cDU0cDc4NHhXZ2ZjcEJzeFMybmc3eWlLYjhQRjhRWi1VS3A1Y1U?oc=5",
+          "source": "kfmn.co.kr",
+          "sourceInitial": "kf",
           "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-23T02:55:08.000Z",
+          "publishedAt": "2026-09-23T07:06:04.000Z",
           "tags": [
             "유통"
           ],
@@ -273,13 +275,13 @@
           "feat": true
         },
         {
-          "title": "서울시농수산식품공사·강서시장 유통인, 추석 맞아 지역 취약계층에 식재료 1050상자 기부",
+          "title": "한국농수산식품유통공사, 하반기 신입직원 66명 공개채용",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50UEE2Rms1dkxPb1RyNlEyZnVCUTJtQTBoN2dKS0l3LWJLQldIMGY4Y05xZVFmallJbC1LemN3alZGQWFiM2ZUZE44TjVVcDh6Y0hsSzdGN2VOMFVveWhRM1dwRDlTa0ZyaWc?oc=5",
-          "source": "청년투데이",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-22T23:58:16.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LUFhfcGRBejVaRGhaUFcxUmhJZWl0Q0pJRVZiNXB5SHJGMlVROXZsTkhpNS1fZGFpRExvT3JtOFhxQzNBdS1mdWI5aW1iUDRwZ0xvYVVydjg5MG8wUTAxMkhZaWdMa1E?oc=5",
+          "source": "kfmn.co.kr",
+          "sourceInitial": "kf",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-23T02:55:08.000Z",
           "tags": [
             "유통"
           ],
@@ -290,9 +292,9 @@
           "title": "7년간 학교급식 식중독 환자 7543명 발생… 고등학교 2994명으로 최다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qR2lmekVnb3drcEhTSHdtUkg5MXN6RXl3VXVZSjg4dU1lQWp2SWhneExUaWpBZnFIamFTdUMxa3R4dm1KQVRkc1FRaXlvZmlsNEJMSEh6U3UyUGVHeXdCUVVOb1dyUQ?oc=5",
-          "source": "교육을 비추다",
-          "sourceInitial": "교육",
-          "sourceColor": "#8a5cc4",
+          "source": "kyobit.com",
+          "sourceInitial": "ky",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-24T12:58:59.000Z",
           "tags": [],
           "price": null,
@@ -302,8 +304,8 @@
           "title": "K-푸드, 이제는 ‘식자재’로 판다…북미·중미 B2B 시장 공략 본격화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51RUhJNW0yRnlJckVCUEhFd2FHUkYwd0xkRXlTMTRpLWQ0UUd5S3NjTkZncTVNZlZPYVFfb2FFMEh1MTR5TU9wTC1TbDBlUGNEdHNlZVhxYVF0b1RMTVEtVEVleGxGenM?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
+          "source": "kfmn.co.kr",
+          "sourceInitial": "kf",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-23T07:16:02.000Z",
           "tags": [],
@@ -369,7 +371,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "익산시, 기능성식품 규제 실증 착수…158억 투입",
@@ -384,6 +386,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "“ 국민 밥상 물가 털어 담합으로 15 조 벌고 , 과징금은 10 분의 1 불과 !”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aSzFRODJhcUNvTHRfb0RGLW9MLWxFN3c1eFI4SzRIZmFzYkJKVG9yZFB5UGowcUdqSGt4bmhGMkNQZ2lFUmc?oc=5",
+          "source": "sisakoreanews.kr",
+          "sourceInitial": "si",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-23T23:37:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "\"추석엔 장바구니 물가 오른다\"는 옛말?…성수품 19개 중 12개 내렸다",
@@ -468,18 +484,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "식품업계 '15조 밥상 담합' 폭리… 과징금은 1.8조 \"솜방망이\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95LXQtcldDdHBDVmwwVklHWC1idm5rU3VmU2xHYW83cUlwVHllQklIS2NNTFlnbFhnU1RRUEZBS1VXMmhCY2szVFhaMmxDekEwbHJ5VzRMX0xuQzJoM1EwZg?oc=5",
-          "source": "metroseoul.co.kr",
-          "sourceInitial": "me",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-24T20:56:13.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -492,7 +496,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "bhc, 샘킴 셰프와 ‘콰삭모짜킹’ 출시…통모짜렐라 치킨 선봬",
@@ -519,6 +523,18 @@
           "tags": [
             "간편식"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"당·소금 줄여도 입맛 착 붙네\"…4000만개 팔린 야쿠르트의 비밀[핑거푸드] - 머니투데이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14TUk5LTFwLWI3UG12cHlwR0M0azAzeEJFVUFreXZvYllESXRhM0VBbWNuS1FScHFGV09zSnkyRGZRMk5MbVRscU1BZXFvTU5oLVF0X1NvM2lxS25pbVNzYUZKaV9ia1BSeUs1SHhpUDZvYkRXODBYM1o0akHSAXxBVV95cUxNeE1JOS0xcC1iN1BtdnB5cEdDNGswM3hCRVVBa3l2b2JZREl0YTNFQW1jbktRUnBxRldPc0p5MkRmUTJOTG1UbHFNQWVxb01OaC1RdF9TbzNpcUtuaW1Tc2FGSmlfYmtQUnlLNUh4aVA2b2JEVzgwWDNaNGpB?oc=5",
+          "source": "머니투데이",
+          "sourceInitial": "머",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-24T23:05:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
