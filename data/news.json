@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:15:44.209Z",
+  "generatedAt": "2026-09-25T10:25:13.746Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 13,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대 : 네이버 블로그",
@@ -64,28 +64,13 @@
           "feat": false
         },
         {
-          "title": "외식 프랜차이즈, 추석 연휴 '자사앱 고객' 잡기...최대 50% 할인까지",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLVkZqc1hKZks5enJnc0xwb2d2MjNlMW5JU2NxYVVFNmgweXdDMVZNMTFGMVpIYV9IQ0tPZ0lOS2swX3hiTGtRaGRNd3RWMjRHWFV2dEdzUGhodjZJRkJNQkF1M09DSHl1?oc=5",
-          "source": "경인매일",
-          "sourceInitial": "경인",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-23T05:19:10.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "연세대 프랜차이즈 CEO과정, 10월 교류행사 개최예정 : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemE0NEdZLU9XUm9XZnBNYm14TnVOaGZ6OHRBQkhDT3hGU1FMQVpFbnZ2QkZiTGZxc1BoakZOWkpOSDEwbFJiM1REOFRVeXc2cy1aTTZ6SFR1elJ2eTFMMF9JQWpwTlBrc08xeENrZ1R6R1V2VVZWRWJRUTc4ejA5V1IwdEdIRVNCLXZvckRB?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-25T02:43:31.000Z",
+          "publishedAt": "2026-09-25T08:43:31.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -128,6 +113,20 @@
           "sourceInitial": "창업",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-24T07:23:47.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "커피 프랜차이즈 본사 매출 5배↑···점주 평균 매출은 제자리걸음",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWDNlV0VrRlJrZlVYVHYzcWMydVVMazhLZGRhbk5xcl9YdDRKRFFNaUp1TmRaUk5EQ05QQ3RUY1JiMWJCc1FXbG1WdWVpaGFBRUNfVlBBdmVwTWFrQmRGMlRqY0JDYWZfTmc?oc=5",
+          "source": "서울파이낸스",
+          "sourceInitial": "서울",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-23T23:41:56.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -254,22 +253,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 2,
       "items": [
-        {
-          "title": "美 최대 식자재유통 B2B 시장 공략…농식품부, IFDA에 첫 한국관 운영",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyTTlyaExlamtYcVRPSTQ2dXpuaXFaTE03ZDI0X2Q1RDJramg1aDdHbjV4YzFoZ1h5NHI2bGRmVnU0cDU0cDc4NHhXZ2ZjcEJzeFMybmc3eWlLYjhQRjhRWi1VS3A1Y1U?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-23T07:06:04.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "법 위반 추석 성수식품 150곳 '덜미'",
           "summary": "",
@@ -280,7 +265,7 @@
           "publishedAt": "2026-09-25T03:40:32.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "7년간 학교급식 식중독 환자 7543명 발생… 고등학교 2994명으로 최다",
@@ -290,18 +275,6 @@
           "sourceInitial": "교육",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-24T12:58:59.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "K-푸드, 이제는 ‘식자재’로 판다…북미·중미 B2B 시장 공략 본격화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51RUhJNW0yRnlJckVCUEhFd2FHUkYwd0xkRXlTMTRpLWQ0UUd5S3NjTkZncTVNZlZPYVFfb2FFMEh1MTR5TU9wTC1TbDBlUGNEdHNlZVhxYVF0b1RMTVEtVEVleGxGenM?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-23T07:16:02.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -317,7 +290,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 7,
       "items": [
         {
           "title": "CPTPP·농지 전수조사 화두…농산물 물가 대응도 도마 전망 [미리보는 국감-농정]",
@@ -334,13 +307,13 @@
           "feat": true
         },
         {
-          "title": "익산시, 기능성식품 규제 실증 착수…158억 투입",
+          "title": "익산, 기능성식품 규제혁신 본격화…158억 규모 실증사업 추진",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vdk9pMkxieTN2c2k3YjA1bnBJbmNRaTROcEhqZ2RNYjJCbWtma2tHZTdoLTZITDN6eGdqX0J2MUV5Vy1fcjM0eTNNM2ZQcms2MjFEczlCSzhPTW4tRDRuVklYVUJDeWZUTDRKcdIBb0FVX3lxTE85Wi1fVjhkQ01kMkh0V3IyLU9pSW81a29qRHp2bXp2R2N3c0szektVU0d1c3lhb0pMc3E2T0F0VVJWOFl6M0puN0lRbzlnUTFSamw5dHZ6OTdxQjBOYVY5MHRPNmhIZWZzb0FDWFBhQQ?oc=5",
-          "source": "한스경제",
-          "sourceInitial": "한스",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-24T11:24:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4waHc3SlF4X1ZPVmZhRlFvZlUzT210ZWpDTzYzeWFKcDJtMWtPekZLcXRucXFwcmEtLTJTQ2tqSTRCeVE1MzlhVUJjbDhMa2ZjOTZXTFJWOUdxNUd2REpudkJWbmFSMi1PY0N5Y29R0gFwQVVfeXFMTWhhSGVQM0tqcGlzdDdETEI2STI0SWZHV0wzZUlLLWlKQjZxbWVNdk5iTXE1UEZ0cFBrLWFPMHd2YVU1WXVzN2ljT0gzUEY4RFNSNVhvUjVtZDdTWXc4bjFZZEphZ2ZRcVFwcV9CWWYtRQ?oc=5",
+          "source": "전라일보",
+          "sourceInitial": "전라",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-24T00:33:43.000Z",
           "tags": [
             "규제"
           ],
@@ -376,34 +349,6 @@
           "feat": false
         },
         {
-          "title": "[뉴스 레시피] ‘착시 효과’ 끝나는 추석 이후…‘물가 안정’ 3가지 조건은",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52TVQ2VG01OXBtek01TEZmSXJLR3NORHBQVWQ0Y3BDMjItMFpNZ1pxdHVLalRrcEs3T3lfTURFNFdQQjVHbW1GTThXQnZySDQ1blVOaENuOGEtN0pzMGwxSFdfVlFKY1AzR01Z?oc=5",
-          "source": "더바이어",
-          "sourceInitial": "더바",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-09-23T07:27:30.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "익산서 기능성식품 규제 ‘실증으로 푼다’…70억원 투입해 사업화 문턱 낮춰",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aE9CMzZtNEhJdUhGUVp6WEdyTnhWYU1ONmxUUHNFQ3lDRXF3Tkk0cmNPeTZvbk1FTUhocXpxNUtpTU54MnU0SWNHeVhjNmIyUl9tS1JZaFJ0X1ZGUkVQeTFnWQ?oc=5",
-          "source": "더펜뉴스",
-          "sourceInitial": "더펜",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-23T07:01:05.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "밀키트에 혼행까지…1027만 '혼추족' 품은 추석 경제학",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3B5VGtSS3p6VnZSTDJZaDBUX2x6b3M1aGgxWEtBV243ckxTMjRwdUVETFlDZXlPeHdtN0cxV242MW9JVU1NS1ZPVWl3S1NaN3hDWHdJUExoMnRtUXZidnVOdzNmdWxLVHQ3aXpaYWx2LU80UGlaTGE4YlpNSXJQOA?oc=5",
@@ -426,6 +371,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "“수산식품 수출길 열어준다”…aT, 최대 5천만원 바우처 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KUVRVaTZhbkkxVkROaXNWRy1BN1ZEaGVCN3dMd0NsUmhtVDN2RU5zdkZNN2RQN1FqWVVF?oc=5",
+          "source": "식약일보",
+          "sourceInitial": "식약",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-24T11:02:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -438,22 +395,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 2,
       "items": [
-        {
-          "title": "오뚜기, 참전유공자 지원 이어간다…간편식 15만개 후원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCeV9aMGlRNTl2VXpmbDRiek1wekVIQmFydmc3a1hHbHdCOXE0aHBSTUNaTDkta0xLeWk5M2dzY2c2bkNrUldwWmVTdXgyc3BkU3dBVzRPd1lQS09CUk5nSnNQMkdyMEotd044?oc=5",
-          "source": "뉴스저널리즘",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-23T05:35:17.000Z",
-          "tags": [
-            "간편식"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "\"당·소금 줄여도 입맛 착 붙네\"…4000만개 팔린 야쿠르트의 비밀[핑거푸드] - 머니투데이",
           "summary": "",
@@ -464,7 +407,7 @@
           "publishedAt": "2026-09-24T23:05:00.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "추석 연휴도 잊었다…K푸드·뷰티 수장이 멕시코 찾는 이유는 [김연하의 킬링이슈]",
@@ -474,42 +417,6 @@
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-09-24T02:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품업계 8월 동향] 동서식품 ‘2026 카누 바리스타 챔피언십’ 브랜드 캠페인 진행·집중호우 피해 지역에 구호물품 전달",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14M3J2Rnp6X3ZNUmE5VHctdXUyUmVtbGN4VzRNU2oxd043UWowRWNVQUhhbGdZalRpQXdfNWs4ODA2Z2lPblMwTk5Mc29qbFJaYkkxNWhHUndWZDd5Ukx0Z1g4VUFlZw?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-23T07:49:45.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[오늘의 언박싱] 아워홈 컨세션 가을 신메뉴·bhc ‘콰삭모짜킹’ 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aY0gxWWVJYzlEU0NjQkNabmNRc2RucnR1YmxSdWtOTTZqaWZmQm5LTUY0YWZQRERha3ZzczlKMlBJa1JCOXFGNEFLYUM2QzR5UXZ5LWlrVFDSAVhBVV95cUxNWmNIMVllSWM5RFNDY0JDWm5jUXNkbnJ0dWJsUnVrTk02amlmZkJuS01GNGFmUEREYWt2c3M5SjJQSWtSQjlxRjRBS2FDNkM0eVF2eS1pa1RQ?oc=5",
-          "source": "미디어펜",
-          "sourceInitial": "미디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-23T07:26:12.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[유통단신] 신세계 프리미엄 아울렛 여주점, 액티브 브랜드 '뷰오리' 입점 外 SSG닷컴·오비맥주·롯데웰푸드·농심",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6bDlMY3pmY3RiS3B0dGVwMmVFZWtFQnN5NEtsa0tKRDQzYjAxaVdOOVgyeEMxTzgwZlppM1d5ZG40R1ZGRVU2MGxTSkg3SnVocEhIclVKVHM1WDhyc0dGTDNlWkVmNGZpTkgwMNIBcEFVX3lxTFBJb2Rhck9ub0piMmZ0SzQwaEhlTFVrZGpmZjV4OVB6UkF4SHM3X1R3VVo3QzhVaWx0b0xiUkg1TU9vWXhRVFFDSmxlSGM4NkxaTWx2M2FHODE2dDZFeEVCLUtIOXVjSy1JM1UxQmNsWlU?oc=5",
-          "source": "글로벌경제신문",
-          "sourceInitial": "글로",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-23T07:16:31.000Z",
           "tags": [],
           "price": null,
           "feat": false
