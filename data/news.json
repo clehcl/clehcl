@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:26:36.610Z",
+  "generatedAt": "2026-09-25T22:41:25.403Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대 : 네이버 블로그",
@@ -92,20 +92,6 @@
           "feat": false
         },
         {
-          "title": "서울 서초구, '제9기 외식업 경영 아카데미' 수강생 모집",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZWlDZnJTWUJwMUY3T1BISFp3STlmTVlMX1BQb0g4YXlBX3hRZlU3QWtxREVtaEFVVXZLdGhaeTJwNm4wZFNWNjBTRHBiRy0xakVvLXJ2NXlPZXNxejc3d0pydDJTT1U?oc=5",
-          "source": "c1news.kr",
-          "sourceInitial": "c1",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-24T20:23:44.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "커피 프랜차이즈 '본사만 배불리기'... 본사 매출 5배 늘 때 점주 매출은 11%↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNjAzOHRPcHlaSzJxUWRMT1JJTWM4YXYydnI5ZWtGZFFMN2FkVDdPVGhLZUIteGN6ajlSNHdTVzd3dFU0UjYtZTVUN3FFTEVTbGxlMEtEQy1yNTZESkJwRTd5ZG1UZjV4U3ZHdGRvZmjSAXRBVV95cUxNMlJ4aUZiRXZpZzU2RmxFUWlhNjgzU1E5ZjZPME1pY19JVlV6MFFWeXRXUDFMQktyRVlQa00yM1FFWU9lZlpfdHU1b0I5VUhESnBIRUlnSlFnbERBa2xpYjdhb2V2eG43WmJ3YjhOYlI5cGVJMg?oc=5",
@@ -123,12 +109,26 @@
           "title": "커피 프랜차이즈 본사 매출 5.6배 늘 때 점주 매출은 10%대…격차 왜 커지나",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00b00tXzVBMTNMZ0FGYWlsVUxCR0JIWmdiZE1FeXBodDh0UlQ5LXM0MkRBTmZMdnMwT2xja2taUXNuNVdWTzVEWlhtZHFNV2Y0b3ZDNjNKLVVsbTk3LTlHamJnYXdDcGdw?oc=5",
-          "source": "news33.net",
-          "sourceInitial": "ne",
-          "sourceColor": "#c15a37",
+          "source": "창업일보",
+          "sourceInitial": "창업",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-24T07:23:47.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서초구, 외식업 경영 아카데미 9기 수강생 모집",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvSFRfeWVtTl93QjNzQjFwUXRQTFpEQW4zQ3Q0WVVzVldKT3hlRDFHa3c0N0NrWHNuQTBUUjEtZHdRYzdSb3ZCOGJSWlVCSXlkRVZVYWJuLWM0M0NDVWhibTlLb05rVXJBVVQtVFBGVQ?oc=5",
+          "source": "seoulcity.co.kr",
+          "sourceInitial": "se",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-09-24T06:29:27.000Z",
+          "tags": [
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -147,16 +147,42 @@
       "total": 9,
       "items": [
         {
+          "title": "지난번 가격 조정 이후 9월 24일 연료 가격이 전반적으로 급등했습니다 | NewZMoney",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWZoaXdzWjBQSWpNZUctSGRIQkw2Z3lSWlVGcDZraDhPcmNKNkNLeUMtT3JfcjhQRU8tU0VFeXNaWnJ0am1pNjZyc1I5OUk3SV82SUExd0lHVDlxcEFaazVrQUVaUnhuWlFuMGFsU2JGWC1JTTkwQW95dkdkTkhieE5OQWoxWEJKT09DbEdIZkVNbUZXNlE?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-25T02:47:08.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "추석 물가 소고기 16%↑·달걀 8%↑ 축산물 강세…과일·채소는 안정세",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82OUx3U3V4OXZfTUhZNlR3dVJfbW1ZMjhObENLc0xBWHJiSERpejZISjhrLW9aRTB0ME92WkUzVmVUV0NDcnFvR05qRkx5X1U?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-25T22:06:51.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“50년 국민 커피 안 죽는다”… 커피믹스 지키며 캡슐로 넓히는 투트랙 전략 - 조선비즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEVGSFFJVW5fRDNFX0lzbGxmNEtoWWtCR0hqN25qLVNTVGlQZXRSemk0YXA0RlM5SmgtdndGQ3NQdlZYYlZBUlNsdnlQYXF5SlhVMlpXWFk2Y2wtQnJDaVlnUjhJOC1PSmVMRWZibkp2VElEb0pBVndHckVnYW1GWENHR0RqQdIBmgFBVV95cUxQQTlOeHZ3NEgzZmVDN01SbWRHcU9ZY01CeU0xYUJHMGwzYnlVVjRlVzVRc1BtQ3BPYmJYX1NsRmVwemV5QVFBVVZpV3VVSGZYWWM0YTVDOS0tUmVXeHZJVGVOWVBnVlp6RXh5SW5qOWhVRTh5NDlGdmJLbGtkdDZKMFY4T3RCUmFQSjNQMmtmcENjTG81SXBLZUl3?oc=5",
           "source": "Chosunbiz",
           "sourceInitial": "Ch",
           "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-25T18:26:04.000Z",
+          "publishedAt": "2026-09-25T21:28:48.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "바이오센서 부패 감지 라벨 시장 2035년 전망: 식품 폐기물 규제가 도입 견인",
@@ -217,30 +243,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "장바구니는 이제 누가 채우는가? 식품 유통의 승부를 가르는 AI",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KSklkd05VODdCd3RDamowWnZJVFpEekZzVEg5NnJwUmsxMFBlSUh3Sk9KV2xuQXM3NlNwSmYwejlySWxyeUtvUmRwWllmTTNTXy00Nkw3RjgtRENmNlBFd3V0NTlTY3JQTHdJSw?oc=5",
-          "source": "디지털포용뉴스",
-          "sourceInitial": "디지",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-24T01:09:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“2만원 과일도 징계”… 추석 선물, 30만원 이하라고 괜찮을까 - 조선비즈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVZucHdickd1WVVUMTNZMUtSSFJFMzJ3SU1tQmdsZEhHVW9JRHQ4ZHp2d0pPTkNEZzVRTng5YURHWlB6QkVWWXIxTGhXdEo4cHZDTF9qTENKTl82VEhvdUJnNURxc1JUT3E1QVNoMFJsNDNxNFhTR3h5RzNjMkxMX0ZNMzJhY2NPSkJ1SXZoVm5yOWRGakw40gGXAUFVX3lxTE5pVm5wd2JyR3VZVVQxM1kxS1JIUkUzMndJTW1CZ2xkSEdVb0lEdDhkenZ3Sk9OQ0RnNVFOeDlhREdaUHpCRVZZcjFMaFd0SjhwdkNMX2pMQ0pOXzZUSG91Qmc1RHFzUlRPcTVBU2gwUmw0M3E0WFNHeHlHM2MyTExfRk0zMmFjY09KQnVJdmhWbnI5ZEZqTDg?oc=5",
-          "source": "Chosunbiz",
-          "sourceInitial": "Ch",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-23T21:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -271,9 +273,9 @@
           "title": "7년간 학교급식 식중독 환자 7543명 발생… 고등학교 2994명으로 최다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qR2lmekVnb3drcEhTSHdtUkg5MXN6RXl3VXVZSjg4dU1lQWp2SWhneExUaWpBZnFIamFTdUMxa3R4dm1KQVRkc1FRaXlvZmlsNEJMSEh6U3UyUGVHeXdCUVVOb1dyUQ?oc=5",
-          "source": "교육을 비추다",
-          "sourceInitial": "교육",
-          "sourceColor": "#8a5cc4",
+          "source": "kyobit.com",
+          "sourceInitial": "ky",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-24T12:58:59.000Z",
           "tags": [],
           "price": null,
@@ -290,7 +292,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "CPTPP·농지 전수조사 화두…농산물 물가 대응도 도마 전망 [미리보는 국감-농정]",
@@ -349,6 +351,18 @@
           "feat": false
         },
         {
+          "title": "식품 안전 규정 위반에 대한 개인 벌금을 최대 15억 VND까지 인상하는 방안이 제안되었습니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDJCOGlNVFlrUmVsMVpjanNkT0ljajU2ZUxsRHpGSFhVRnNNNHMzeEFtTUxkak96RjI2dTAwc0Y2UFRyMzRDcGJmVEFZMy1ZMGREU3JOaWY3R2tLM3FzdHY3a01RMjBGRmx0d2xIVi1MOUpUTG5ySzVIeUFSMVpwbC1VYWd6QW45WnF0Y19NZEpva3owek5kT2JQZlBpamxjd29CUEJCQQ?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-25T07:06:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "밀키트에 혼행까지…1027만 '혼추족' 품은 추석 경제학",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3B5VGtSS3p6VnZSTDJZaDBUX2x6b3M1aGgxWEtBV243ckxTMjRwdUVETFlDZXlPeHdtN0cxV242MW9JVU1NS1ZPVWl3S1NaN3hDWHdJUExoMnRtUXZidnVOdzNmdWxLVHQ3aXpaYWx2LU80UGlaTGE4YlpNSXJQOA?oc=5",
@@ -395,19 +409,43 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 2,
+      "total": 4,
       "items": [
+        {
+          "title": "쌀쌀해진 가을 입맛 깨운다…식음료업계 시즌 신메뉴 '풍성'[이번주 Eat템]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rY0hST2hkU1dyMUVCTENWS3NDNFpnTzN4UDhha09qaDBEQ3d4YUg3MHZ2Z3NDV3hHbFdZWVBxZDFyWW1lN1pOclJVUzR6Tl8zSXdRemdBbDhaN21uQUZj0gFkQVVfeXFMTXdrUkNpa2lhelRLN0h3VVI3ZUFubjJVOTFmYVU0TDNCMldGM3pNTTJlY3ZONy1CakowOG13MU9yYkN3WUFMbktUNTFUbGE3YVJSTklaMFlYWE1DTHgyem1jWm15Tg?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-09-25T21:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "\"당·소금 줄여도 입맛 착 붙네\"…4000만개 팔린 야쿠르트의 비밀[핑거푸드] - 머니투데이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVnRORW5lLVpGZlFZWnlrc0RseHFyXzZWWUR2TGY0Q1QyX2ZNVDVhbUduV0RUM3VCX2hlVFVmejh5THZhUVQyTnN2dUlrenpxZl9GWXVmMXA5cjNBSU9USmJLOGNUazczaGF2X1cxa9IBb0FVX3lxTE8tVnRORW5lLVpGZlFZWnlrc0RseHFyXzZWWUR2TGY0Q1QyX2ZNVDVhbUduV0RUM3VCX2hlVFVmejh5THZhUVQyTnN2dUlrenpxZl9GWXVmMXA5cjNBSU9USmJLOGNUazczaGF2X1cxaw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
+          "source": "mt.co.kr",
+          "sourceInitial": "mt",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-24T23:05:00.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "미국 모기지 금리 7% 돌파, 주택 가격 하락",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlFScnlNNEhGc1U4cWVVYVhrTEJlVUo0YVlmR0VuMmM5OF9ncFMwLVRjSjlERXFmSXlRVThJcDVneVlSMm9NTTlxRUZVaG1Yc3lkQWppa1hvSUJtaTFhRTNRYllfUHFwUkNOcHFQdzRWOWlrUlZ0TVBia3lwdGNIanY1Q1hzM1ZHY1hSOXp6ZDlXMWJSX25IcQ?oc=5",
+          "source": "데일리바이트(DAILY BYTE)",
+          "sourceInitial": "데일",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-24T16:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "추석 연휴도 잊었다…K푸드·뷰티 수장이 멕시코 찾는 이유는 [김연하의 킬링이슈]",
