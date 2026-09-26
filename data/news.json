@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T19:02:46.676Z",
+  "generatedAt": "2026-09-26T22:05:18.417Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대 : 네이버 블로그",
@@ -37,9 +37,9 @@
           "title": "서울 프랜차이즈 외식점 5.4% 감소…출점도 갈렸다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jLVM4dXUtT1hqNklIMjlLS29MRTNIc09XS3h1di1fdzJrYlN1Q2xqMWIxekhvbmlOcEtycDAtOWZpTG96OFcxR3Nkbk95OWtBYmFNczVLcFNRVHQwMDN2VldkM2tMOEU?oc=5",
-          "source": "자본시장뉴스",
-          "sourceInitial": "자본",
-          "sourceColor": "#8a5cc4",
+          "source": "jabon.co.kr",
+          "sourceInitial": "ja",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-25T04:00:00.000Z",
           "tags": [
             "프랜차이즈",
@@ -69,7 +69,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-25T11:39:36.000Z",
+          "publishedAt": "2026-09-25T23:35:36.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -86,20 +86,6 @@
           "publishedAt": "2026-09-25T08:43:31.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "서울 서초구, '제9기 외식업 경영 아카데미' 수강생 모집",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZWlDZnJTWUJwMUY3T1BISFp3STlmTVlMX1BQb0g4YXlBX3hRZlU3QWtxREVtaEFVVXZLdGhaeTJwNm4wZFNWNjBTRHBiRy0xakVvLXJ2NXlPZXNxejc3d0pydDJTT1U?oc=5",
-          "source": "씨원뉴스",
-          "sourceInitial": "씨원",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-24T20:23:44.000Z",
-          "tags": [
-            "외식"
           ],
           "price": null,
           "feat": false
@@ -150,9 +136,9 @@
           "title": "“50년 국민 커피 안 죽는다”… 커피믹스 지키며 캡슐로 넓히는 투트랙 전략 - 조선비즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEVGSFFJVW5fRDNFX0lzbGxmNEtoWWtCR0hqN25qLVNTVGlQZXRSemk0YXA0RlM5SmgtdndGQ3NQdlZYYlZBUlNsdnlQYXF5SlhVMlpXWFk2Y2wtQnJDaVlnUjhJOC1PSmVMRWZibkp2VElEb0pBVndHckVnYW1GWENHR0RqQdIBmgFBVV95cUxQQTlOeHZ3NEgzZmVDN01SbWRHcU9ZY01CeU0xYUJHMGwzYnlVVjRlVzVRc1BtQ3BPYmJYX1NsRmVwemV5QVFBVVZpV3VVSGZYWWM0YTVDOS0tUmVXeHZJVGVOWVBnVlp6RXh5SW5qOWhVRTh5NDlGdmJLbGtkdDZKMFY4T3RCUmFQSjNQMmtmcENjTG81SXBLZUl3?oc=5",
-          "source": "biz.chosun.com",
-          "sourceInitial": "bi",
-          "sourceColor": "#2f7d4f",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-09-26T15:32:46.000Z",
           "tags": [],
           "price": null,
@@ -174,9 +160,9 @@
           "title": "원·달러 환율 1350원대로…항공주 강세, 해운·식품주는 셈법 복잡",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQlFUaExid3psVlMtQUZrRDBpa3JmM25uNXZHMjRiRERaZmNUcG5ERmJLb2hpLVY4UE1sMXZkNm93c25ZY0xJdmxpR09Tc0Zjd1FFTGU1dE1kZw?oc=5",
-          "source": "경북매일",
-          "sourceInitial": "경북",
-          "sourceColor": "#c0392b",
+          "source": "kbmaeil.com",
+          "sourceInitial": "kb",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-26T01:13:00.000Z",
           "tags": [],
           "price": null,
@@ -254,7 +240,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 4,
       "items": [
         {
           "title": "CPTPP·농지 전수조사 화두…농산물 물가 대응도 도마 전망 [미리보는 국감-농정]",
@@ -295,18 +281,6 @@
           "feat": false
         },
         {
-          "title": "차례상 비용 '19만6630원'…\"과일·축산물은 '대형마트' 수산물은 '전통시장'이 저렴\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcThrS09HY3FRVDNzWTJEdzZZM0RQcDNDNG9saE9xdGZFdzRtOFhfTUpSVDd3bHlHV0NkcGQ1WkNKdEMwYkJXbnYyaGc0cWhBSUF3RHU0ZmJUTUNuLXJIV0wwMlBrZG1YX3hMUzgxcFVxT2tpYURleXA0Rl9uUEVfNkF3?oc=5",
-          "source": "아시아경제",
-          "sourceInitial": "아",
-          "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-09-24T23:58:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "밀키트에 혼행까지…1027만 '혼추족' 품은 추석 경제학",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3B5VGtSS3p6VnZSTDJZaDBUX2x6b3M1aGgxWEtBV243ckxTMjRwdUVETFlDZXlPeHdtN0cxV242MW9JVU1NS1ZPVWl3S1NaN3hDWHdJUExoMnRtUXZidnVOdzNmdWxLVHQ3aXpaYWx2LU80UGlaTGE4YlpNSXJQOA?oc=5",
@@ -314,18 +288,6 @@
           "sourceInitial": "ed",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-24T23:00:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계 '15조 밥상 담합' 폭리… 과징금은 1.8조 \"솜방망이\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95LXQtcldDdHBDVmwwVklHWC1idm5rU3VmU2xHYW83cUlwVHllQklIS2NNTFlnbFhnU1RRUEZBS1VXMmhCY2szVFhaMmxDekEwbHJ5VzRMX0xuQzJoM1EwZg?oc=5",
-          "source": "메트로신문",
-          "sourceInitial": "메트",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-24T20:56:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -341,19 +303,31 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
         {
-          "title": "쌀쌀해진 가을 입맛 깨운다…식음료업계 시즌 신메뉴 '풍성'[이번주 Eat템]",
+          "title": "[국경 넘은 K푸드] 수출 56% 싹쓸이…대상 '종가', 90개국 뚫고 김치로드 확장",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rY0hST2hkU1dyMUVCTENWS3NDNFpnTzN4UDhha09qaDBEQ3d4YUg3MHZ2Z3NDV3hHbFdZWVBxZDFyWW1lN1pOclJVUzR6Tl8zSXdRemdBbDhaN21uQUZj0gFkQVVfeXFMTXdrUkNpa2lhelRLN0h3VVI3ZUFubjJVOTFmYVU0TDNCMldGM3pNTTJlY3ZONy1CakowOG13MU9yYkN3WUFMbktUNTFUbGE3YVJSTklaMFlYWE1DTHgyem1jWm15Tg?oc=5",
-          "source": "news1.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-25T21:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zb254cEJKSk81eTVyU3J2WUltc3pLZXZDd1hKZE53bEluQXdvMWpVeUlTQzlfZFdaYTh6ZlNpbDZMSm1qYUJVUm92TF9HN3ZIbzgzSWk0dUkzY0ZjV1JFWV9HZw?oc=5",
+          "source": "더구루",
+          "sourceInitial": "더구",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-26T22:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "쌀쌀해진 가을 입맛 깨운다…식음료업계 시즌 신메뉴 '풍성'[이번주 Eat템]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pYVZVZHZ5VTlDdTNQUHJ2d2ZScnFQbUstdlUtcHg2SnRGaTNXYThaa2JKak5hX2NPTVZ1R0p2S1ExaXROTmc?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-25T21:02:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "\"당·소금 줄여도 입맛 착 붙네\"…4000만개 팔린 야쿠르트의 비밀[핑거푸드] - 머니투데이",
