@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:26:08.227Z",
+  "generatedAt": "2026-09-26T11:41:40.163Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 9,
+      "total": 7,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대 : 네이버 블로그",
@@ -44,6 +44,20 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[뉴(NEW) 희망의시대] K프랜차이즈, 동남아·미주 시장으로 ‘글로벌’ 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05bGJralVfaWZJeHFKdllVU0t2aktZSzVONk9FUW5ZQlR4dW5fUHU1V19aWjhqY0hYVDdOX3o2WXg1YkVzRWNVS2E5bTFQUG9FZ1hIejRZekJZbVJtejAzMi1OaGRiZGhqLWZfNmpUSmPSAXRBVV95cUxPbXF5UWp5X0ZjNDQ1X05GYVJYNjdvYWNxdVJPMTRlMWpGcjRSMHBNZGN6cEJBYjE4MWdmSlBScURjTldLWEw5UTh5NUYtSG5rM3VzNjk1UEJUTUJHb3ViNXJ2RXlyeVlGMk9LOVRWWGZRWm5rQQ?oc=5",
+          "source": "주간한국",
+          "sourceInitial": "주간",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-26T05:00:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -77,6 +91,20 @@
           "feat": false
         },
         {
+          "title": "서울 서초구, '제9기 외식업 경영 아카데미' 수강생 모집",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZWlDZnJTWUJwMUY3T1BISFp3STlmTVlMX1BQb0g4YXlBX3hRZlU3QWtxREVtaEFVVXZLdGhaeTJwNm4wZFNWNjBTRHBiRy0xakVvLXJ2NXlPZXNxejc3d0pydDJTT1U?oc=5",
+          "source": "씨원뉴스",
+          "sourceInitial": "씨원",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-24T20:23:44.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "커피베이, 멤버십 앱 통해 신메뉴 음료 500원 할인 쿠폰 제공 : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE13VVIwZi1BUmdLY0VDVDhUdVd1Y0hkbW1zUDJUMlVBd2g4WEI3X1F0cS1CNlg0YWJnVU9MaDF5WnpMeEJKaHZtWUpydExScnVUN2pOckpoZjlpb2UySHdSMjJXLTcyRTZoV1oyTGZfSXRDTzA0VXVhclpGQjhvR08wRzhKdGhsZ0pvMmZn?oc=5",
@@ -86,48 +114,6 @@
           "publishedAt": "2026-09-24T15:24:12.000Z",
           "tags": [
             "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "커피 프랜차이즈 '본사만 배불리기'... 본사 매출 5배 늘 때 점주 매출은 11%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNjAzOHRPcHlaSzJxUWRMT1JJTWM4YXYydnI5ZWtGZFFMN2FkVDdPVGhLZUIteGN6ajlSNHdTVzd3dFU0UjYtZTVUN3FFTEVTbGxlMEtEQy1yNTZESkJwRTd5ZG1UZjV4U3ZHdGRvZmjSAXRBVV95cUxNMlJ4aUZiRXZpZzU2RmxFUWlhNjgzU1E5ZjZPME1pY19JVlV6MFFWeXRXUDFMQktyRVlQa00yM1FFWU9lZlpfdHU1b0I5VUhESnBIRUlnSlFnbERBa2xpYjdhb2V2eG43WmJ3YjhOYlI5cGVJMg?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-24T07:41:40.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "커피 프랜차이즈 본사 매출 5.6배 늘 때 점주 매출은 10%대…격차 왜 커지나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00b00tXzVBMTNMZ0FGYWlsVUxCR0JIWmdiZE1FeXBodDh0UlQ5LXM0MkRBTmZMdnMwT2xja2taUXNuNVdWTzVEWlhtZHFNV2Y0b3ZDNjNKLVVsbTk3LTlHamJnYXdDcGdw?oc=5",
-          "source": "창업일보",
-          "sourceInitial": "창업",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-24T07:23:47.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "서초구, 외식업 경영 아카데미 9기 수강생 모집",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvSFRfeWVtTl93QjNzQjFwUXRQTFpEQW4zQ3Q0WVVzVldKT3hlRDFHa3c0N0NrWHNuQTBUUjEtZHdRYzdSb3ZCOGJSWlVCSXlkRVZVYWJuLWM0M0NDVWhibTlLb05rVXJBVVQtVFBGVQ?oc=5",
-          "source": "서울시티",
-          "sourceInitial": "서울",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-24T06:29:27.000Z",
-          "tags": [
-            "외식"
           ],
           "price": null,
           "feat": false
@@ -158,6 +144,18 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "“50년 국민 커피 안 죽는다”… 커피믹스 지키며 캡슐로 넓히는 투트랙 전략 - 조선비즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNEVGSFFJVW5fRDNFX0lzbGxmNEtoWWtCR0hqN25qLVNTVGlQZXRSemk0YXA0RlM5SmgtdndGQ3NQdlZYYlZBUlNsdnlQYXF5SlhVMlpXWFk2Y2wtQnJDaVlnUjhJOC1PSmVMRWZibkp2VElEb0pBVndHckVnYW1GWENHR0RqQdIBmgFBVV95cUxQQTlOeHZ3NEgzZmVDN01SbWRHcU9ZY01CeU0xYUJHMGwzYnlVVjRlVzVRc1BtQ3BPYmJYX1NsRmVwemV5QVFBVVZpV3VVSGZYWWM0YTVDOS0tUmVXeHZJVGVOWVBnVlp6RXh5SW5qOWhVRTh5NDlGdmJLbGtkdDZKMFY4T3RCUmFQSjNQMmtmcENjTG81SXBLZUl3?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-26T09:30:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "호치민시 학생 급식에 생산일 6개월 전에 유통 기한을 기재한 요구르트",
@@ -230,18 +228,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "‘누룽지밥·단무지’ 논란 IBS 급식 달라졌다…불만족 52.5%→40.9%",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3d0NLS1JybFljTk82akRPb2o2MFo0SmEweVd3NDNPeFlLbHN3N3FoRHhWNEJ3NzFMdlg4MzZYM3U3TUJWSDFZblpjb0NDSG1UeTJKaEE1LXRySVNRRXJhRDlHcVZ2bmU1TUlTbmJnd9IBb0FVX3lxTFA3d0NLS1JybFljTk82akRPb2o2MFo0SmEweVd3NDNPeFlLbHN3N3FoRHhWNEJ3NzFMdlg4MzZYM3U3TUJWSDFZblpjb0NDSG1UeTJKaEE1LXRySVNRRXJhRDlHcVZ2bmU1TUlTbmJndw?oc=5",
-          "source": "연합투데이",
-          "sourceInitial": "연합",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-09-24T12:33:24.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -272,9 +258,9 @@
           "title": "7년간 학교급식 식중독 환자 7543명 발생… 고등학교 2994명으로 최다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qR2lmekVnb3drcEhTSHdtUkg5MXN6RXl3VXVZSjg4dU1lQWp2SWhneExUaWpBZnFIamFTdUMxa3R4dm1KQVRkc1FRaXlvZmlsNEJMSEh6U3UyUGVHeXdCUVVOb1dyUQ?oc=5",
-          "source": "교육을 비추다",
-          "sourceInitial": "교육",
-          "sourceColor": "#8a5cc4",
+          "source": "kyobit.com",
+          "sourceInitial": "ky",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-24T12:58:59.000Z",
           "tags": [],
           "price": null,
@@ -291,7 +277,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 4,
       "items": [
         {
           "title": "CPTPP·농지 전수조사 화두…농산물 물가 대응도 도마 전망 [미리보는 국감-농정]",
@@ -306,20 +292,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "익산시, 기능성식품 규제 실증 착수…158억 투입",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vdk9pMkxieTN2c2k3YjA1bnBJbmNRaTROcEhqZ2RNYjJCbWtma2tHZTdoLTZITDN6eGdqX0J2MUV5Vy1fcjM0eTNNM2ZQcms2MjFEczlCSzhPTW4tRDRuVklYVUJDeWZUTDRKcdIBb0FVX3lxTE85Wi1fVjhkQ01kMkh0V3IyLU9pSW81a29qRHp2bXp2R2N3c0szektVU0d1c3lhb0pMc3E2T0F0VVJWOFl6M0puN0lRbzlnUTFSamw5dHZ6OTdxQjBOYVY5MHRPNmhIZWZzb0FDWFBhQQ?oc=5",
-          "source": "hansbiz.co.kr",
-          "sourceInitial": "ha",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-09-24T11:24:41.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "식품 안전 규정 위반에 대한 개인 벌금을 최대 15억 VND까지 인상하는 방안이 제안되었습니다.",
@@ -356,18 +328,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "“수산식품 수출길 열어준다”…aT, 최대 5천만원 바우처 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KUVRVaTZhbkkxVkROaXNWRy1BN1ZEaGVCN3dMd0NsUmhtVDN2RU5zdkZNN2RQN1FqWVVF?oc=5",
-          "source": "식약일보",
-          "sourceInitial": "식약",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-24T11:02:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -398,9 +358,9 @@
           "title": "\"당·소금 줄여도 입맛 착 붙네\"…4000만개 팔린 야쿠르트의 비밀[핑거푸드] - 머니투데이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVnRORW5lLVpGZlFZWnlrc0RseHFyXzZWWUR2TGY0Q1QyX2ZNVDVhbUduV0RUM3VCX2hlVFVmejh5THZhUVQyTnN2dUlrenpxZl9GWXVmMXA5cjNBSU9USmJLOGNUazczaGF2X1cxa9IBb0FVX3lxTE8tVnRORW5lLVpGZlFZWnlrc0RseHFyXzZWWUR2TGY0Q1QyX2ZNVDVhbUduV0RUM3VCX2hlVFVmejh5THZhUVQyTnN2dUlrenpxZl9GWXVmMXA5cjNBSU9USmJLOGNUazczaGF2X1cxaw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
+          "source": "mt.co.kr",
+          "sourceInitial": "mt",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-24T23:05:00.000Z",
           "tags": [],
           "price": null,
