@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:41:40.163Z",
+  "generatedAt": "2026-09-26T15:53:15.679Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "365데일리뱅킹, 프랜차이즈 가맹점 대상 매출 익일 정산 서비스 확대 : 네이버 블로그",
@@ -63,20 +63,6 @@
           "feat": false
         },
         {
-          "title": "연세대 프랜차이즈 CEO과정, 10월 교류행사 개최예정 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemE0NEdZLU9XUm9XZnBNYm14TnVOaGZ6OHRBQkhDT3hGU1FMQVpFbnZ2QkZiTGZxc1BoakZOWkpOSDEwbFJiM1REOFRVeXc2cy1aTTZ6SFR1elJ2eTFMMF9JQWpwTlBrc08xeENrZ1R6R1V2VVZWRWJRUTc4ejA5V1IwdEdIRVNCLXZvckRB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-25T14:43:31.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 9월 26일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2wtZDV2aGFfSUtnTDdlYzlhMWRTZThiakkyNExnSjB5VFMtYVEtSU01eXh4Yk9ibEdjQURSX2gwV3dmQmNJLUkyYlNrUTdlQVFPTHNfalBHMFhXMzIwVmF5MlUyenZjSVA3U1RoRnBnMGk1NlBZLUNBMnpSUWhZRmZGRXVVTUxUelBsWjNn?oc=5",
@@ -84,6 +70,20 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-25T11:39:36.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "연세대 프랜차이즈 CEO과정, 10월 교류행사 개최예정 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemE0NEdZLU9XUm9XZnBNYm14TnVOaGZ6OHRBQkhDT3hGU1FMQVpFbnZ2QkZiTGZxc1BoakZOWkpOSDEwbFJiM1REOFRVeXc2cy1aTTZ6SFR1elJ2eTFMMF9JQWpwTlBrc08xeENrZ1R6R1V2VVZWRWJRUTc4ejA5V1IwdEdIRVNCLXZvckRB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-25T08:43:31.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -103,20 +103,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "커피베이, 멤버십 앱 통해 신메뉴 음료 500원 할인 쿠폰 제공 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE13VVIwZi1BUmdLY0VDVDhUdVd1Y0hkbW1zUDJUMlVBd2g4WEI3X1F0cS1CNlg0YWJnVU9MaDF5WnpMeEJKaHZtWUpydExScnVUN2pOckpoZjlpb2UySHdSMjJXLTcyRTZoV1oyTGZfSXRDTzA0VXVhclpGQjhvR08wRzhKdGhsZ0pvMmZn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-24T15:24:12.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -129,8 +115,37 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
+        {
+          "title": "아일랜드 39주차 도매 가격: 토마토·감자·채소 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkUzWmF3aE5OTnE1RVAxSmllOTRvN194Z3dnOGh2R0tUSllCaFljUkRTbVBFUGJZYl9wMjZBbVVOYVpOeVV1V0FGYlU5UmNGXzVKTGQwQ2xTOThWejVVVlhMdWVyZm9HUmRPVHlfQzk0QjVZQ3NGeXJrU2VMd3llT3UzemlWSXRGVi1KdWpveDRJdXNzWUJ2VUtZaVQ1TE8y?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-25T10:50:23.000Z",
+          "tags": [
+            "도매",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "버번 위스키 30배 가격 차이, 블라인드 테스트 결과는 의외였다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jVU54c2Z0RzRlSWhYQ2hsd1pzQkQwelZDVEctdXZLbTJyczd2bE52NS1NaGJhZjNRblgwTFVURTQ5Uzc1V1FLaUFXV2JrbGVXdWE0VXhFc2psak5SYno0REpsbGxKaTNnRVQ0cURR?oc=5",
+          "source": "famtimes.co.kr",
+          "sourceInitial": "fa",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-09-26T04:43:27.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "지난번 가격 조정 이후 9월 24일 연료 가격이 전반적으로 급등했습니다 | NewZMoney",
           "summary": "",
@@ -143,7 +158,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "“50년 국민 커피 안 죽는다”… 커피믹스 지키며 캡슐로 넓히는 투트랙 전략 - 조선비즈",
@@ -152,7 +167,7 @@
           "source": "Chosunbiz",
           "sourceInitial": "Ch",
           "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-26T09:30:58.000Z",
+          "publishedAt": "2026-09-26T15:32:46.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -204,30 +219,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "유가 100달러 돌파에 식품·물류 비상…추석 뒤 밥상물가 다시 뛰나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9melU5M1ZKRS1pbW9EUUxQTFNubVdGWV9kenByUUpfNkFWVEpsTWtRQV83N3IwbWdiR042SlVfek14NXVoaUxOQ0RUZHU5dGVjSE8tTU1IUzhNWUJ0N3pUd1ZrbWY5VHc1VFU4WtIBbEFVX3lxTE9melU5M1ZKRS1pbW9EUUxQTFNubVdGWV9kenByUUpfNkFWVEpsTWtRQV83N3IwbWdiR042SlVfek14NXVoaUxOQ0RUZHU5dGVjSE8tTU1IUzhNWUJ0N3pUd1ZrbWY5VHc1VFU4Wg?oc=5",
-          "source": "직썰",
-          "sourceInitial": "직썰",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-25T22:01:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "바이오센서 부패 감지 라벨 시장 2035년 전망: 식품 폐기물 규제가 도입 견인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMERjdmdib2ZBeFQyUnFfdV9jNkZMVHJ3R3VGMVlta2VUOExVcWVYWGdVQlVwMTllQW9lRU11aTIxb01UUE40Tk1ITi1XNTNTdGpzVnV1blhINENYOE9uVUN5ZWxZbWtUblgwUzJfcG1MVFVFYWdiRlBCS3Qwd3ZSMlhtNWZDUU80a0tIdExhTFY3YUNTRXBab0pWMXpxaGVJdm1xSElGQUg4ekt5ZW90ZWozbjFqeE1oalV4VS1WbHd3Zw?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-24T17:06:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -240,7 +231,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 2,
+      "total": 1,
       "items": [
         {
           "title": "법 위반 추석 성수식품 150곳 '덜미'",
@@ -253,18 +244,6 @@
           "tags": [],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "7년간 학교급식 식중독 환자 7543명 발생… 고등학교 2994명으로 최다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qR2lmekVnb3drcEhTSHdtUkg5MXN6RXl3VXVZSjg4dU1lQWp2SWhneExUaWpBZnFIamFTdUMxa3R4dm1KQVRkc1FRaXlvZmlsNEJMSEh6U3UyUGVHeXdCUVVOb1dyUQ?oc=5",
-          "source": "kyobit.com",
-          "sourceInitial": "ky",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-09-24T12:58:59.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -277,7 +256,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 6,
       "items": [
         {
           "title": "CPTPP·농지 전수조사 화두…농산물 물가 대응도 도마 전망 [미리보는 국감-농정]",
@@ -294,6 +273,18 @@
           "feat": true
         },
         {
+          "title": "농수산식품유통공사(aT), 신입 66명 공개채용 및 수산식품 수출준비바우처 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KR20zY1BmTGxNeWItUjdESUlLMlFVeVppS2ZpWkpBMkItTEdhNTRJZndMMmpneE9ONUxxM0cxMXhBV282SU9KYVdvNUU0N2xndy1wekhUOVoyaDh6NktwVnh0R3RKVG14QXc?oc=5",
+          "source": "컨슈머타임스",
+          "sourceInitial": "컨슈",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-26T04:20:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품 안전 규정 위반에 대한 개인 벌금을 최대 15억 VND까지 인상하는 방안이 제안되었습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDJCOGlNVFlrUmVsMVpjanNkT0ljajU2ZUxsRHpGSFhVRnNNNHMzeEFtTUxkak96RjI2dTAwc0Y2UFRyMzRDcGJmVEFZMy1ZMGREU3JOaWY3R2tLM3FzdHY3a01RMjBGRmx0d2xIVi1MOUpUTG5ySzVIeUFSMVpwbC1VYWd6QW45WnF0Y19NZEpva3owek5kT2JQZlBpamxjd29CUEJCQQ?oc=5",
@@ -301,6 +292,18 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-25T07:06:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "차례상 비용 '19만6630원'…\"과일·축산물은 '대형마트' 수산물은 '전통시장'이 저렴\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcThrS09HY3FRVDNzWTJEdzZZM0RQcDNDNG9saE9xdGZFdzRtOFhfTUpSVDd3bHlHV0NkcGQ1WkNKdEMwYkJXbnYyaGc0cWhBSUF3RHU0ZmJUTUNuLXJIV0wwMlBrZG1YX3hMUzgxcFVxT2tpYURleXA0Rl9uUEVfNkF3?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-09-24T23:58:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
