@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:53:57.193Z",
+  "generatedAt": "2026-09-28T22:24:53.727Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -63,20 +63,6 @@
           "feat": false
         },
         {
-          "title": "25년 브랜드 보드람치킨, 충남 홍성 남장리 첫 매장 운영 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTMwdm5WZTNRQzBRODk4UXdrZ2lydkJwMmtxYlpfWHlRVkNuUnJOcWtwYzZCdmNyRW9IdktaZDBLYTRfVm84U1Z5TV9ySnhWMU9hbTlRZXdLcXVBblhlZ3lGTnU4TUd3bEItWHZzTE8wVnltWVI5NEVPREFHeW04Y2ZtUDlPc3Exckw4TXJR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-09-28T11:14:27.000Z",
-          "tags": [
-            "매장"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "창업도, 2026년 9월 넷째 주 인기 프랜차이즈 순위 공개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wSlM2NkFFWVYydkdWM2FzYXBOVXYwckxmeUpHdVNwN1JnV1lTNlJyX0VHUnNYcU5NcFctSlpuekdQVEtsM1kwdTdxTQ?oc=5",
@@ -86,6 +72,20 @@
           "publishedAt": "2026-09-28T06:27:23.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "25년 브랜드 보드람치킨, 충남 홍성 남장리 첫 매장 운영 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTMwdm5WZTNRQzBRODk4UXdrZ2lydkJwMmtxYlpfWHlRVkNuUnJOcWtwYzZCdmNyRW9IdktaZDBLYTRfVm84U1Z5TV9ySnhWMU9hbTlRZXdLcXVBblhlZ3lGTnU4TUd3bEItWHZzTE8wVnltWVI5NEVPREFHeW04Y2ZtUDlPc3Exckw4TXJR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-09-28T05:17:27.000Z",
+          "tags": [
+            "매장"
           ],
           "price": null,
           "feat": false
@@ -122,9 +122,9 @@
           "title": "죽이야기&밥, 평택 PMC 박병원점 개점…죽·밥 메뉴 구성 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtT0Vld2tHbWlKVnJGVkluXzNxQTBPMTBjVURwVS1YLVc2Q25pWHlGaWY4NmxtZ2xLbTNhSVB4SGJiaTFiNnk4R1RZOWZ5Y2owR3lDZjE1b2dpZFRmZ0I0NDBKUi1tVU84T3R3ZFlvUkU?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
+          "source": "shinailbo.co.kr",
+          "sourceInitial": "sh",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-09-27T10:10:00.000Z",
           "tags": [
             "메뉴"
@@ -143,16 +143,16 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
-          "title": "10월부터 해태 과자 등 식품 가격 인상",
+          "title": "UBS, 식품 가격 위험으로 채권 수익률 상승 경고",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWelVPQVFsdEkzSEEzVTBqQVJ4aVA5ZlliYWxwRnhtYkw4UmxTMmhqWDlMRnAySDlQYkxBaXFRaTdBMzhDZ0RmZkMtVml5TGRncXFNdA?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-28T06:20:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11T1JNVUJuYnpBb0x3Mllza2I1V3FMYXBrd1gxU2trUFV3ekkwTXpmczdyMlRBcnpLeS1OUERqdWhYUlQtVHlnOWpidjBncmc0VmV4ZmMzMXhhMGVYU21tbWUyVFJIcnJaRTlsUUtmaHJTcXExUENv?oc=5",
+          "source": "Investing.com 한국어",
+          "sourceInitial": "In",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-28T18:12:00.000Z",
           "tags": [
             "가격"
           ],
@@ -160,13 +160,27 @@
           "feat": true
         },
         {
+          "title": "허니버터칩·아침햇살도 오른다…10월 먹거리 가격 줄인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VT2dydWdtSzVkZzJYNnNNS2NFamZwYjhvUkpRQUk3NTVackhFM1pqUmNxbjNBWXhIQXpEWWtRcjFQODR6N2JYN3I2cFFzaTBmZDgtZldaMDVDOUhJb1JXOHlDT0FDelc3N3c?oc=5",
+          "source": "경남도민일보",
+          "sourceInitial": "경남",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-28T08:04:29.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "밀·설탕·유지류 가격 일제히 ‘고공행진’…과자값 또 오르나 [푸드360]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VbEQwUlI3OXloM0RZYmwzQkctXzZwYkZZRHJNcGp6djZGZi1tc1hrNE52NF9pQWhlZkUzbUlreTg0TmxZdl9fMVY2UGVIaGw4X1Ntc0Zn?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-28T02:40:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ERFAzUUs1MkNGbFcwRnJRTXZMY0Y5TmIwa3ltT3I0RWlvaFlJZ2ZWOU5MNXRpbjBJajdqcm4xZjNtZktlcGc?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-28T02:42:16.000Z",
           "tags": [
             "가격"
           ],
@@ -219,8 +233,8 @@
           "title": "15조 ‘밥상 담합’에 과징금 12%···식품업계 CEO, 국감 줄소환",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1NFFiN3dlZVJzaU83TnU5U2lvM2FLU2JEVVYwVEE3bTVNemowSnVaelVrZjROYmhDWFhZbVpXQ1JnSDg2Q2NMVkFCME92OWNLNWJsSER4eFNRYnNORTZORXJOeGhBbVBD0gFsQVVfeXFMTXl3anlsazA4bDRvYlotWW5RNzFzczNXWWRnZWlwaUk5ajAtVUtIc1NueFllVEs3N1FWc3o5cXcwUTRBc1NOSThMNGRwNTZsWnJPRm80eV9vTEFWbGVFZDg1QUhJR3hHZnNuckZo?oc=5",
-          "source": "직썰",
-          "sourceInitial": "직썰",
+          "source": "ziksir.com",
+          "sourceInitial": "zi",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-28T06:00:00.000Z",
           "tags": [],
@@ -235,18 +249,6 @@
           "sourceInitial": "캐어",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-09-28T05:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "CJ·롯데·GS 경영진 줄줄이 국감행…유통·식품업계 ‘거래 관행’ 집중 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zYWMtYkQ4elg1RkNSMGY5NUxFVy1kZnBHWnd2LThXMl8tdUpIRG5yOFZDay1YUEZUckV3N1pWeFlxVzVyeVNzRkRsVlBsZE9DYmtVN2paMkw5Uk5sV2tmdw?oc=5",
-          "source": "마이데일리",
-          "sourceInitial": "마이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-09-28T02:20:02.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -265,13 +267,13 @@
       "total": 4,
       "items": [
         {
-          "title": "제조·물류 갖춘 식품업체 매물로…IT 상장사 볼트온 채비",
+          "title": "제조·물류 갖춘 식품업체 매물로…IT 상장사 볼트온 채비[M&A 딜보드]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xSWZzRk9VN0N0UDFjUkltei16clRuRGtUMTFXTEdhRmwzLWtYdWQyRW0zclVVTDFZTUQ3ZW11WG5VbUxNYzYwdEpNaFRHT2VpNVRXVWl6VmZ5ZmFDU1RNalEtdTIyOHJqVjBtODhlZWI5QQ?oc=5",
-          "source": "마켓인",
-          "sourceInitial": "마켓",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-27T03:00:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlhianhkcFBXTGxuZFNKUS1uWjVnYjBBQVZMVkRXYUJYX1c5UXJ3WUxsSE9lbWZUMzNTMERyOWRrdl9Id1ZGUm1vTDBqYTFhZE1MZ3VsaGJ2Sks2NTVTX0E4RTRYUmRvNzhrQUo3Sm9GMVAzaWs5ZU5Jb3h6X2ZfVQ?oc=5",
+          "source": "edaily.co.kr",
+          "sourceInitial": "ed",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-27T04:01:03.000Z",
           "tags": [
             "물류"
           ],
@@ -282,9 +284,9 @@
           "title": "충남교육청, 10월 8일까지 13개 학교급식지원센터 대상 도청과 합동점검",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EbHpmdmZHRGRlRXNMWVRZcGFLQjVhaDU5c1ZPdHNCU3NoelVGX0ZQbmNPNFB3VDJXRFdrektDMzRtanQteVk2R2NSS045MFFNSUFsMkJFQjlLcWxBZFYwWDR0ZktYMk56NmZxLUluM1LSAXRBVV95cUxPbFl2Y2xzZlhTYklDWk5PNXNwV0cxeEVVT1liT1g1bmphX0NVdmVZOTJ2dzVzbHdxdF9pSmprN0ZjTnN6cjBUd1dRZUl5bV9QdUxYVmhSTHp1UUZGaXVPcm1lNjgxcF9mb2p1R0FSVTRlckx1dw?oc=5",
-          "source": "뉴스워커",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c15a37",
+          "source": "newsworker.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-28T09:08:00.000Z",
           "tags": [],
           "price": null,
@@ -306,9 +308,9 @@
           "title": "오리온·CJ프레시웨이, 내년 매출 4兆 정조준… 식품업계 ‘4조 클럽’ 늘어난다 - 조선비즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYllQWVMyTzZkMk11TWNhemJERXVoNWFnVFFJc1M2X3pjcktUTEdiQlJEcklIMWpWWmp0TWVKZTc0TTJ2MGJWYi1ZREFVR3U4VnVvSDFfbEV6dEQtbVcyS0tfcUtuVklaOEhVZTg3OXBSdTZrTnVmQ3dEWHpPdnRpYWdsVDdnUdIBmgFBVV95cUxPTkgwN19QZHNtUi1iWEwtSTRKaU5lanZDMGdBMVZOb1lTZmQyMU52dmpmRzNMWFA3VWEwemxZTXdhZm9UQXluRTNPMm9iNm55R3RXYkplZ1VZc21VUncyNW11clkxNG5EcXhuVEVxVzRueUxNdE41TmpaZUk5LXo5eEUtV2F4VDBqeVJtS0cwN0oyemNDNjREX2dn?oc=5",
-          "source": "Chosunbiz",
-          "sourceInitial": "Ch",
-          "sourceColor": "#3a6ea5",
+          "source": "biz.chosun.com",
+          "sourceInitial": "bi",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-27T21:00:00.000Z",
           "tags": [],
           "price": null,
@@ -325,19 +327,33 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
+        {
+          "title": "살균 플레이트 시장 2035년 전망: 식품 안전 규제와 유제품 수요가 성장 견인 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQTNCN3g1TkZqWHhnd1EyeGxUUnB3RVh0d2F4aW44ZDAwcU5KdFJZa3hBTGpHa3A1cDY1cXQ1bFNxTmxyQ1NTTjFvX0dMOUZyTE5BN012cUsxc1ZfZ0VaQzk4RzZDYkFJWUxoUlJCeDNTQjk1NjJ5SktOQUxsZi0wT2R6S1BVSVM5dWhqM2hLX3VvR3R2eVQ3THZOQUpjSnZXXzVvMTNSREY3NS1MbGczRWZMLWZRZjRsT1kwYkVrWEVPbG5GRHBGYTZuekVhaWNFX0E?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-09-27T19:41:05.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "동국대 박유헌 교수팀, 식품 내 에틸렌옥사이드 검출 해석 '3단계 판단 틀' 제시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sVjVtZ1hkQXdGNUk2bFVNcjhma0FsMTNvVWN4cXVnUXdUOTJfajdUZzhKY2RyQmxHdk8tUk93UkFOQjRJVEllN05jVnRUbTlZTHdCejhPVkZJYlBUZ1d2ODlFRWhTaEY4NEVUb0E5c0tRUU12MjFwNkF1aGY?oc=5",
-          "source": "beyondpost.co.kr",
-          "sourceInitial": "be",
-          "sourceColor": "#c0392b",
+          "source": "비욘드포스트",
+          "sourceInitial": "비욘",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-28T03:31:39.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "고밀도 폴리에틸렌(HDPE) 시장 2035년 전망",
@@ -362,7 +378,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "[똑똑한트렌드] 면사랑 ‘매콤 간편식’, 본푸드서비스 ‘런치테인먼트’, BBQ 관심도 1위",
@@ -447,9 +463,9 @@
           "title": "[굿모닝! 28일 식품업계 소식] CJ제일제당·오뚜기·상하농원·아워홈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQlkyaGt4MzhZbjFwX0xMRWN5MENDSDktYXpuejFFZ292b1ZWV1J5MWw3dEZVelNVSE5WaWo3ay0zcnFvYXFRQU9sUEpZZzhRUWtkNmVUb0dCMkU1MzY4bWZZSHU1QnpLa2RvZg?oc=5",
-          "source": "goodkyung.com",
-          "sourceInitial": "go",
-          "sourceColor": "#c98a2b",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-28T02:39:46.000Z",
           "tags": [],
           "price": null,
