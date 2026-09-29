@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T20:07:46.109Z",
+  "generatedAt": "2026-09-29T23:52:55.954Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -52,9 +52,9 @@
           "title": "[ 2026년 9월 30일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjd4TGJmc0lXRng2dVkxZnpHSlhEV1Qtc3A0QzBrSHdOVFhtWm5SSXY0RGMzMkRHLWZCd2piOGJtN09Sdnh2VEs3UFZxYWs4U0JHbV9HcERBV0gySXB2T1FFX3U4V2NqakFQOUVJSXJUUjVpS3Q0VG9kVFc0YzIwVHQ0b0NTSEF5dm5uQXFB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
+          "source": "blog.naver.com",
+          "sourceInitial": "bl",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-29T14:08:23.000Z",
           "tags": [
             "프랜차이즈"
@@ -108,9 +108,9 @@
           "title": "25년 브랜드 보드람치킨, 충남 홍성 남장리 첫 매장 운영 : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTMwdm5WZTNRQzBRODk4UXdrZ2lydkJwMmtxYlpfWHlRVkNuUnJOcWtwYzZCdmNyRW9IdktaZDBLYTRfVm84U1Z5TV9ySnhWMU9hbTlRZXdLcXVBblhlZ3lGTnU4TUd3bEItWHZzTE8wVnltWVI5NEVPREFHeW04Y2ZtUDlPc3Exckw4TXJR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
+          "source": "blog.naver.com",
+          "sourceInitial": "bl",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-28T17:14:27.000Z",
           "tags": [
             "매장"
@@ -143,8 +143,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
+        {
+          "title": "글로벌·가격·환율까지 호재…3분기 식품업계 깜짝 실적 기대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fZE9GZ3huclhmTWxjRUVWd3owMEFIdE80X3lkaERHNFFEQWpWMUs3X0NMLUJCdUVNTDBOSW9HVkh5NTkwYTZzR0FZc3RjSnJXUm5XVDM2RVBJckNfYWVKMg?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-09-29T21:29:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "과자·음료값 10월부터 줄인상…해태제과·웅진식품 가격 올린다",
           "summary": "",
@@ -157,7 +171,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "원가 상승 핑계 대더니 뒤에선 설탕·전분 14조 ‘짬짜미’…CJ제일제당·삼양사 경영진 국감 심판대 선다",
@@ -177,9 +191,9 @@
           "title": "UBS, 식품 가격 위험으로 채권 수익률 상승 경고",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11T1JNVUJuYnpBb0x3Mllza2I1V3FMYXBrd1gxU2trUFV3ekkwTXpmczdyMlRBcnpLeS1OUERqdWhYUlQtVHlnOWpidjBncmc0VmV4ZmMzMXhhMGVYU21tbWUyVFJIcnJaRTlsUUtmaHJTcXExUENv?oc=5",
-          "source": "kr.investing.com",
-          "sourceInitial": "kr",
-          "sourceColor": "#8a5cc4",
+          "source": "Investing.com 한국어",
+          "sourceInitial": "In",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-28T18:12:00.000Z",
           "tags": [
             "가격"
@@ -195,20 +209,6 @@
           "sourceInitial": "헤",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-28T02:40:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "장류 가격 인상, 담합부터 의심할 일인가?-하상도의 식품 바로보기(447)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYZUc3TU5HRzlOcFNEY180QnktelUzNkZsQVUzS0sxTWFScGNCTk1ITVE4enFMU0h2VmZNUXZHelpvbjNVWFZHZk53ZGd1R2duSmNYOU5DX01MVktvOTVFUDkzcGJBbmJqVWhqZlhxNA?oc=5",
-          "source": "thinkfood.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-27T22:44:00.000Z",
           "tags": [
             "가격"
           ],
@@ -243,8 +243,8 @@
           "title": "[한국식품산업협회 기자간담회] GMO 표시제·고유가 리스크 산적한데 자구책 없어 '아쉬워'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE93T29TY0U4YXFwdEVvWWJXcHo0a3RadUgyWW5uaFl6bmU5cnN6dWY0RWp4MDFxRTV4MUxZZURLVjA?oc=5",
-          "source": "kfdn.co.kr",
-          "sourceInitial": "kf",
+          "source": "식약일보",
+          "sourceInitial": "식약",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-29T07:44:00.000Z",
           "tags": [],
@@ -262,7 +262,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "[이천 민선 9기 공약 대해부⑧] 성수석 시장, 농산물 생산·유통·소비 잇는다",
@@ -296,9 +296,9 @@
           "title": "사업 재편 나선 한화M&S... 김동선의 성장 청사진은? [시경Pick]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByWFY3SkItYldiWDJoWDFzU2lSbGp3azEybnN1cHowOWpXanN5WnQ2TkdyMWpTNU9zUkR4ZmZ1RkdCQ2VJcXM1VTFWc0MyY0RxVG5LZlV3bWpEdEdBQkNjSnpfMzJiZW1qSTZzUjZqXzg?oc=5",
-          "source": "시장경제신문",
-          "sourceInitial": "시장",
-          "sourceColor": "#c0392b",
+          "source": "meconomynews.com",
+          "sourceInitial": "me",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-09-29T00:39:52.000Z",
           "tags": [],
           "price": null,
@@ -308,22 +308,10 @@
           "title": "글로벌 식재공급망, K-FOOD 기업의 성장을 연결하는 산업 플랫폼-함선옥 교수의 급식·외식 인사이트(20)",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pd3U5RzBjMm9USVZDRHZfbWZFX2JWdmtBSkY5dFdhX0R6LWlJaUludXNGbGdocHZsMHZvMEk3Q0NRbVhJRjZIc3E0cXZmd1FhbW9VUy00LThqNjYycVJOZkZIVTlUdHRWT1hBQzREZw?oc=5",
-          "source": "thinkfood.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#1a7a5a",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-28T22:45:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "오리온·CJ프레시웨이, 내년 매출 4兆 정조준… 식품업계 ‘4조 클럽’ 늘어난다 - 조선비즈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYllQWVMyTzZkMk11TWNhemJERXVoNWFnVFFJc1M2X3pjcktUTEdiQlJEcklIMWpWWmp0TWVKZTc0TTJ2MGJWYi1ZREFVR3U4VnVvSDFfbEV6dEQtbVcyS0tfcUtuVklaOEhVZTg3OXBSdTZrTnVmQ3dEWHpPdnRpYWdsVDdnUdIBmgFBVV95cUxPTkgwN19QZHNtUi1iWEwtSTRKaU5lanZDMGdBMVZOb1lTZmQyMU52dmpmRzNMWFA3VWEwemxZTXdhZm9UQXluRTNPMm9iNm55R3RXYkplZ1VZc21VUncyNW11clkxNG5EcXhuVEVxVzRueUxNdE41TmpaZUk5LXo5eEUtV2F4VDBqeVJtS0cwN0oyemNDNjREX2dn?oc=5",
-          "source": "Chosunbiz",
-          "sourceInitial": "Ch",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-09-27T21:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -339,26 +327,80 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 7,
       "items": [
+        {
+          "title": "위상 높인 농산물 수급조절위 8기 닻 올려… “과수까지 품고 수급관리 고도화”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPU25nYlgzWEJHa1U2bmpqbFJSaDBlcXVVdUpvMlVUcWdFN2JxazFET2ZSNG1lZFBhdHlQQmF6Z0FfUUYxcVBlZXJIeUhyQUN0cVE4b0Q2S0o4N0o5LWV4MnNZcnpYWTExYkJ5R05R?oc=5",
+          "source": "팜인사이트",
+          "sourceInitial": "팜인",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-09-29T23:23:33.000Z",
+          "tags": [
+            "수급"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "\"김장철 물가 안정 총력전\"…롯데마트·슈퍼, 절임배추 물량 20% 확대 공급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15NThfdV9RYVUtZEhzVjVzMkJwOWxUUFA1eldPLUtTR1o2Ujd3UE9QeDAxOWp5SHFNRVB5cGtmVVAxQjZQTG82UWVRODZzMkhrd21hMngtMDlwYUlXb2lyY3p0SjJQUTRvd2kzeGRpcUQ?oc=5",
+          "source": "thefairnews.co.kr",
+          "sourceInitial": "th",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-09-29T22:25:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[창간 30주년 특집 Ⅴ] 오래된 품목별 규칙 걷어내는 미국 식품 규제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZTlh0VHZoZjZJUndmZGM0RW1pSDFENS1DYWpYVkNxb2NhS3o0UGluSjFUZGRRV1BkQ3VaNnNVZkxzUWhaZUYyM0dIeFoxUV9MZkVnLUMyWVp4YTNjbUxSZVpzU1VCazFQRWFHSWdTRQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-09-28T22:51:00.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "수입식품 정밀검사 최대 5회→20회…위해 우려 제품 관리 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iTkJUNjBTRl9iVUhwbUpib3B6a3I5d1ozVDl2Ykt0YjZLaDZ4UnVlTXhPWFc0bWhpbDBNVmNUQjdYcllfWTJpSGM4SG0xVmRaek5Yd2pUTFAxTmF3M2l1Z1U1N19CSllEbjVQU0N3V0YxTFF2?oc=5",
+          "source": "연합뉴스 한민족센터",
+          "sourceInitial": "연합",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-09-29T23:38:49.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "‘식품기업지원센터’ 10월1일 출범…“GMO 완전표시제 조기 도입 최선”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HWnZPdXBFMHVTU0RoOEd1U29kRnJWQkxuUUUwWWZ1WmpRdjc2MHA1b2t4TFV2QV9GcDlFU2NfcmFKeTFwLWtzc3pJdWdzS0RTZkFHSFQtdk5lQQ?oc=5",
-          "source": "nongmin.com",
-          "sourceInitial": "no",
-          "sourceColor": "#1a7a5a",
+          "source": "농민신문",
+          "sourceInitial": "농",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-29T08:45:00.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "“식품 중소기업 경영 애로, 1:1 맞춤형 진단부터 위기 대응까지 원스톱으로”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Qjl1NF8tV05tdWVUWllFdjNWeU84NzI1YXY1QjhSUFJPSjlLQjhtZkVZdVpwbmJkSkpVSW1zNUc2TzliSzNtQU9HZi00b3FMODcwZkdZc05Zcy15Ti0zQjQ1NGZaalE?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
+          "source": "kfmn.co.kr",
+          "sourceInitial": "kf",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-09-29T07:25:23.000Z",
           "tags": [],
@@ -373,18 +415,6 @@
           "sourceInitial": "연",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-09-29T02:53:56.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동국대 박유헌 교수팀, 식품 내 에틸렌옥사이드 검출 해석 '3단계 판단 틀' 제시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sVjVtZ1hkQXdGNUk2bFVNcjhma0FsMTNvVWN4cXVnUXdUOTJfajdUZzhKY2RyQmxHdk8tUk93UkFOQjRJVEllN05jVnRUbTlZTHdCejhPVkZJYlBUZ1d2ODlFRWhTaEY4NEVUb0E5c0tRUU12MjFwNkF1aGY?oc=5",
-          "source": "비욘드포스트",
-          "sourceInitial": "비욘",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-09-28T03:31:39.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -503,13 +533,13 @@
           "feat": false
         },
         {
-          "title": "[굿모닝! 29일 식품업계 소식] CJ제일제당·농심·매일유업·오리온·동서식품·하이트진로",
+          "title": "300만 잔 터졌다…2900원 즉석 과일음료에 몰린 2030",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oNGFVTloxalBDR0hHdDFHUmlQYVFhUmdRSGktbl9ITUl0bVBVNS1NNXRTaVhJdXZ6LVl6TjBMWGZUdU9LMDlOLVhLTVhfbHFBNnBLQWJLSUdsdVZJLS1Wb1NXMXF4Njg0ejFVeg?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-29T02:29:13.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IOThISHJCUlZpQWRmTEd1RlU1amo4S2E3dEs3S2ZTVU54ZUJIc2I5MDlCNXhOTTNyOHNIWEhTRFRyVFpheC1jcXFWb1RKV19BY1Y5aDc3THdrZw?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-09-29T23:36:28.000Z",
           "tags": [],
           "price": null,
           "feat": false
