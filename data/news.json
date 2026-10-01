@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T14:13:41.692Z",
+  "generatedAt": "2026-10-01T19:41:30.068Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 28,
+      "total": 30,
       "items": [
         {
           "title": "외식 프랜차이즈 유일 100대 브랜드 선정... BBQ, 글로벌 800개점 돌파",
@@ -51,7 +51,7 @@
         {
           "title": "삼성웰스토리, 외식 메뉴 급식으로 확장…hy, '쿠퍼스' 2종 리뉴얼 [유통 PICK]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KVXcyY2dHbi1rNjZxeHlCTG5vOGZVOFF5YlVqWW4xUFItUkQwYlJIeHphS1RuRzU5b1F6dnNDSVBsNXhyb0VNUmwwa3prZ052Vm5vQnh0MC03bHE2OUZMNGkxOEd2Qmtu?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56YTFKZEs1RlFlS2JHQVg5d2pVX1V2X3FudzJsRGpOeEU2ekxnSFU2NHg0Tm5DY0xsRVV6TU85Um1SX0VMdHhUNm9oWDFjMzl6Zkd0QzFBQ2szQWZkNkVQYWhiQ3o5UjRjUUE?oc=5",
           "source": "뉴스포스트",
           "sourceInitial": "뉴스",
           "sourceColor": "#b03a6a",
@@ -127,9 +127,9 @@
           "title": "‘2026년 프랜차이즈 가맹 소상공인 법률 지원사업’ 참여자 모집",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwaWYzY2xzWFBXeEJGdkhuTHRLNk5Bb0pvQi1UenJxcG5pSC13WEpFWWJNQzRVekdCa0JFNFp2Uk8wb0tXbmJyams4Q0JPbVQ3aTJ5RmpzN0NVckRZTktLd3lPYVluelhobnpIaQ?oc=5",
-          "source": "백제뉴스",
-          "sourceInitial": "백제",
-          "sourceColor": "#1a7a5a",
+          "source": "ebaekje.co.kr",
+          "sourceInitial": "eb",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-30T04:20:34.000Z",
           "tags": [
             "프랜차이즈",
@@ -149,10 +149,10 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
-          "title": "엑스오푸드빌리지, PC방 창업자 대상 원가 절감 위한 '상생지원정책' 펼친다",
+          "title": "엑스오푸드빌리지, PC방 사업자 대상 원가 절감 '상생지원책' 전개",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yY2UzOXVnMlVLTTQxYnRSbVVtWDFlM1BUSDdpQ2ZEY0ZIeDR3NWhqbXhOcC1sdTg5UzBfMWRJdktZLXpPeFZhQndKYVJHbG5aU1FjblVyY2hnaWpYNE83enhPN1hoUmR0SFpaSDU4SQ?oc=5",
           "source": "아이러브PC방",
@@ -274,7 +274,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "식당 냉장고 안까지 배송…43조 식자재유통 대전",
@@ -320,24 +320,12 @@
           "feat": false
         },
         {
-          "title": "충남 청양군, 농민 소득 안정을 위한 2026년 제3회 청양 농산물 기준가격 보장위원회 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vb3FrcHRBeUZfTXMzWXhOd1NpMXF1V1VIdk5PTkRKemZIbjdUYnJvbWg3eUpvMjAyamVacU9NM0JwUnJEY1ZFd1A0aUV5NG1QTVpiUzR0bjdhdmhHbElxMkc2Q2sxVkFCSmc?oc=5",
-          "source": "충청매일",
-          "sourceInitial": "충청",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-01T04:55:10.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "삼성웰스토리, 외식 브랜드 메뉴 급식으로…‘랍스터 특식’ 1만3000명 맛봤다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tbFJIUWVWbEJnYzJSRE9OY0NEMHpVRTRRV1Vaa1l3YU93TGZuY0gzWThzUkJpazY1Q1VyWWVzYUxfU1BCYUZVUldadVVIdlRoeVVuczJ6QlZPWEIzcjY4ZE9hOEJHU2Joa3RUN1lJVFZkMFnSAXdBVV95cUxNenRBejBxb2ZFbUY5RGZULXFka3JJNmQ0bTB1N1hUVXZEaDZVbEFqUzJHWjFLcHpKc0FLTjZaVWRzUTZsdXp0ZjY4WFVMMTNWQlI5UmEyWnkweDdGVlV0WDNud3JrdDZpaVZRT0lobkxYbE1zS3hIYw?oc=5",
-          "source": "인사이트코리아",
-          "sourceInitial": "인사",
-          "sourceColor": "#c98a2b",
+          "source": "insightkorea.co.kr",
+          "sourceInitial": "in",
+          "sourceColor": "#3a6ea5",
           "publishedAt": "2026-10-01T02:48:00.000Z",
           "tags": [],
           "price": null,
@@ -351,6 +339,18 @@
           "sourceInitial": "팝콘",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-10-01T01:33:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "청양군, 농민 소득 안정을 위한 2026년 제3회 청양 농산물 기준가격 보장위원회 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xd1RMdUdUQkhqZnZZUGxvX3UyMkhjZWNjckV5dktwRWRaeThPS292RUdyZUpQTFlqcm50akxDSXU2OTRfYXM2elNJYm0?oc=5",
+          "source": "더시그널뉴스",
+          "sourceInitial": "더시",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-01T00:09:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -396,9 +396,9 @@
           "title": "미국·EU도 규제 칼날…'초가공식품 규제 암초'에 韓 정부 대응은 '깜깜' - 머니투데이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OY0p1UEZkWWtkN0dSWGtJekZJaVFUbzBfekZPNXFsd0N1UVpDTHFnUTdJSzJCanRlNlI0TFdlM1U5Sy0tQk0yME9jMVI2bndkdDlvblJJMllkZjl2ZHNaNl9DZkpTUlB2ZUHSAW9BVV95cUxQcUZsRXJaX1A5YTlFb2lWY2tiUkRhSW9NSER5Q3hFWW5WU0xNc3NCREhHN2tMTGczb19GeGcyZ3ZacGZwbV9pMkREQ2NheEVaWEh6WTFZM3hMMjAyWmdlTGhyaHdtcmV6cU05WVV2dm8?oc=5",
-          "source": "mt.co.kr",
-          "sourceInitial": "mt",
-          "sourceColor": "#b03a6a",
+          "source": "머니투데이",
+          "sourceInitial": "머",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-30T06:57:58.000Z",
           "tags": [
             "정부",
@@ -411,9 +411,9 @@
           "title": "위상 높인 농산물 수급조절위 8기 닻 올려… “과수까지 품고 수급관리 고도화”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPU25nYlgzWEJHa1U2bmpqbFJSaDBlcXVVdUpvMlVUcWdFN2JxazFET2ZSNG1lZFBhdHlQQmF6Z0FfUUYxcVBlZXJIeUhyQUN0cVE4b0Q2S0o4N0o5LWV4MnNZcnpYWTExYkJ5R05R?oc=5",
-          "source": "farminsight.net",
-          "sourceInitial": "fa",
-          "sourceColor": "#3a6ea5",
+          "source": "팜인사이트",
+          "sourceInitial": "팜인",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-09-29T23:23:33.000Z",
           "tags": [
             "수급"
@@ -463,9 +463,9 @@
           "title": "\"5회서 20회로\"…위해우려 수입식품 검사 늘린다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiR0RQTW9lOTdiZzdRYVdSMVFOY0pLbjl6N2ZZTHBzSEVGYkdIajVVdjJ1a0ZfTzI3SjJFQ1pfWkQ2a3hoNHFJWW9Vanc2b1hFSE9ndXJzMFdLd1NidHd6SGVnZ2xpcHA4Uk9kdnpseVlQdF9neXBST9IBeEFVX3lxTFBiR0RQTW9lOTdiZzdRYVdSMVFOY0pLbjl6N2ZZTHBzSEVGYkdIajVVdjJ1a0ZfTzI3SjJFQ1pfWkQ2a3hoNHFJWW9Vanc2b1hFSE9ndXJzMFdLd1NidHd6SGVnZ2xpcHA4Uk9kdnpseVlQdF9neXBSTw?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
+          "source": "newsis.com",
+          "sourceInitial": "ne",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-30T00:35:57.000Z",
           "tags": [],
           "price": null,
@@ -482,7 +482,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 23,
+      "total": 25,
       "items": [
         {
           "title": "[유통 트렌드] CJ제일제당, 美서 비비고 김밥 매출 59% 성장…K-푸드 관심 확대...外",
@@ -586,9 +586,9 @@
           "title": "이연에프엔씨, 9월 기준 HMR 누적 매출 50억 원 돌파… 전년比 41.7% 증가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pLVZHa2pNYlhqcjdmM2haLVRrSTM0MjJhX20zNXRJbWE2SFNXRDNXU2c0QXFuRjZiNm5hVk9Tc054TUhuakJFMHpsZUhWLXhYX3hGRGJCZERfcnZsVXlBVExOdFkxWVNBb1BXZmx3V3Zrdw?oc=5",
-          "source": "discoverynews.kr",
-          "sourceInitial": "di",
-          "sourceColor": "#b03a6a",
+          "source": "디스커버리뉴스(DISCOVERYNEWS)",
+          "sourceInitial": "디스",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-09-30T01:18:13.000Z",
           "tags": [
             "HMR"
