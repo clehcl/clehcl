@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:39:29.582Z",
+  "generatedAt": "2026-10-02T16:30:19.326Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 27,
+      "total": 29,
       "items": [
+        {
+          "title": "BBQ, '100대 브랜드' 3분기 21위…외식 프랜차이즈 중 '1위'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83bWlZdTNpNlFxTFhoN2xQVlRJOEI3U3RhdFF3OVpFdlB4dTl0Z29DVGJxb2dTYkVnMktYWkRpbXBDV3ZDbmJJOHN6M0F1VHBwUEpfUWhxT3Y0U0lDT1h3VTRkUmtheFFyN1dv?oc=5",
+          "source": "매일경제TV",
+          "sourceInitial": "매일",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-02T07:56:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "외식 프랜차이즈 유일 100대 브랜드 선정... BBQ, 글로벌 800개점 돌파",
           "summary": "",
@@ -31,7 +46,7 @@
             "외식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "BBQ, '대한민국 100대 브랜드' 3분기 평가서 종합 21위…외식 프랜차이즈 업체 중 유일",
@@ -41,21 +56,6 @@
           "sourceInitial": "핀포",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-01T07:14:43.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "BBQ, ‘대한민국 100대 브랜드’ 3분기 21위 …외식 프랜차이즈 중 ‘1위’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kR3pKT3QzZDhPcDhWMjVIZVFZX1UtVEpCbDJDcWs5U24wU0ZWeERqbTJ3eDhHSEtGYU9COWw4WEY3M2lhWmx0MVdrRDlraDJxVG51REZIM2lGTFR0aDNVa1ltNEZGV2JQelVIYU9fTGfSAXBBVV95cUxNZEd6Sk90M2Q4T3A4VjI1SGVRWV9VLVRKQmwyQ3FrOVNuMFNGVnhEam0yd3g4R0hLRmFPQjlsOFhGNzNpYVpsdDFXa0Q5a2gycVRudURGSDNpRkxUdGgzVWtZbTRGRldiUHpVSGFPX0xn?oc=5",
-          "source": "jeollailbo.com",
-          "sourceInitial": "je",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-01T05:37:29.000Z",
           "tags": [
             "프랜차이즈",
             "외식"
@@ -111,11 +111,11 @@
         {
           "title": "BBQ, ‘대한민국 100대 브랜드’ 21위…외식 프랜차이즈 유일",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NWUh3c054TWg3Wk5pU19XeWdkZFNEN05XT2hWV0JtUFpobGpSN1BjT21LVkVtNFUtRjViaGhLUmtEb0Y3ZEdJZ1haWm5qQlItd2pvMA?oc=5",
-          "source": "v.daum.net",
-          "sourceInitial": "v.",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-01T00:50:08.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnbkFZaU16MGNOcUhYaWtYUU4xMFpxUG12RlQ3N1FoSVl2NDZrMVhweUhCNlhoWUJ4d3VSWnpUdW5TSFNCZkpVWGxFQXQ4eGlMQjZfRQ?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-01T00:49:00.000Z",
           "tags": [
             "프랜차이즈",
             "외식"
@@ -149,7 +149,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 22,
       "items": [
         {
           "title": "[대박창업] ‘서민 음식의 배신’인가, ‘원가 구조의 붕괴’인가… 5000원 김밥의 딜레마",
@@ -294,9 +294,9 @@
           "title": "오프라인 유통의 엇갈린 명암…편의점 ‘나홀로 성장’ 속 대형마트 9.7% 급감",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yWU5faVBEeHczRXlyVUdWZHV6bl9hVXVyRkNDMXEtZE5ic0sxZm1PRWlZb05IRjZaNTk0TzNRZTlTdHRrejlYNHhEMl9jSnBhTExPUmk1XzduYVd3RDJVWmZhMl8tLWJxTEJ6dDZWWQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
+          "source": "thinkfood.co.kr",
+          "sourceInitial": "th",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-10-01T07:02:25.000Z",
           "tags": [
             "유통"
@@ -317,6 +317,18 @@
           "feat": false
         },
         {
+          "title": "‘급식’ 민물장어 만족도 93.3%…“일상 식재료로 가능성 확인”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hekxvbWtzc0tobmdTRW85RFhCaG1Sem9Dcmk3RWw1VHhwZHhVM0pUZ1hPMUQ4cVBuUlBBdnBTdlVOT0FOY1RlVUcwb3F2LWQ4OXFzTkpZT1A2cFdEdldkS0dpNXlyUDNqQXZsMQ?oc=5",
+          "source": "한국농어민신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-02T07:38:40.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "한국 발효 장의 활용성...신송식품, 인도 ‘아누가 셀렉트 인디아 2026’ 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55U3F1ZDBJZzJ6TnNIOHNreVhrdTFTWlpsUU11R2hfMnFnVldjQWUxdUJZNzVnLTR0WGxoZllVZXNwVHYxc0FiRmNEanVXclFiUUcxTmpONUpDVEhCNDY3T2lxajk1UQ?oc=5",
@@ -324,6 +336,18 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-02T04:35:59.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "충남 청양군, 농민 소득 안정을 위한 2026년 제3회 청양 농산물 기준가격 보장위원회 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vb3FrcHRBeUZfTXMzWXhOd1NpMXF1V1VIdk5PTkRKemZIbjdUYnJvbWg3eUpvMjAyamVacU9NM0JwUnJEY1ZFd1A0aUV5NG1QTVpiUzR0bjdhdmhHbElxMkc2Q2sxVkFCSmc?oc=5",
+          "source": "충청매일",
+          "sourceInitial": "충청",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-01T04:55:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -351,30 +375,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "청양군, 농민 소득 안정을 위한 2026년 제3회 청양 농산물 기준가격 보장위원회 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xd1RMdUdUQkhqZnZZUGxvX3UyMkhjZWNjckV5dktwRWRaeThPS292RUdyZUpQTFlqcm50akxDSXU2OTRfYXM2elNJYm0?oc=5",
-          "source": "더시그널뉴스",
-          "sourceInitial": "더시",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-01T00:09:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“농민도 AI를 비서로”…천안 공공급식 농가 120명 실전교육",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93b2VVX1dhVEtDeWt4eGlEX3JGYTVyVkdzRU9Eem5XVkw5VC1VUjh1eEd1cjgzY09kSjRLN3V0aFpaTmNUS2ptUVF4aXhIeUU1dGtjXzdtOTIwLTJtSnVhY096OVVxb2tpdHJCQVZn?oc=5",
-          "source": "newskorea.ne.kr",
-          "sourceInitial": "ne",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-30T10:41:29.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -392,7 +392,7 @@
         {
           "title": "정부 \"석유 최고가격제로 9월 물가상승률 3.5%→2.9% 완화\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUY5dm5wdWFlWmhtN28yR1JRbGxuXzg2a1JvaEUtaWZlZ2I3N1hlSEdJZ29sZmwyN2NReDI2TGRpQWFTY1cxVk5kbnU5UjI5b3RaNHVvYXpfU3BDM2NBRzVRb3doZnRGeU9wWHlSWmoyeXJLTXd3RUNUTFhLVnlCNjBsRFdBQ3N2X2hjbEdRYWJLNVFqcXFGSA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGlVRTdJRjV0ZU9IR0lrdnNBR3FOaXFwdHVlVWlOeUp2UC15VW1zMS1FN200dHV2N0dkZm54bG5jbTNsMVgycUhYTllENWZDQ3c5ZXA2UjBmaFJja3NEVk5OSEVwS0twUkZ3NWNRRkdRc2Q3VHNldFFqUm9haDFZVGxFLUdBUEkwQndzX1l3?oc=5",
           "source": "국제신문",
           "sourceInitial": "국제",
           "sourceColor": "#1a4d8f",
@@ -405,13 +405,13 @@
           "feat": true
         },
         {
-          "title": "9월 소비자물가 2.9% 상승…정부 \"석유 최고가격제로 0.6%p 억제\"",
+          "title": "정부 \"9월 물가 2.9%…석유 최고가격제로 상승률 0.6%p 낮춰\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpaTVFXzlyUzF3QUNrMl9QZ3JabVBBSV8tZDc1ME1fY25PQ09IOUQ4a2tHdlBEMVJ2UE5lalZIX0prWGVPbTl0WjBmdDB2Rnh1SEJGOWxEbmZUd09YUzJwMm5B?oc=5",
-          "source": "매일신문",
-          "sourceInitial": "매일",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-01T23:03:29.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZ0ZUMGNpWEFFcURLbzk4VU4xX0gtS0lYd2xsNHgtMHVPc0wteDl0Wl9BQlN1TUJycXlGWnFtS2pTREEycDhCaGQyY2J5dnVkOFA4dTVKS0Uxd9IBWkFVX3lxTE5qZ0ZUMGNpWEFFcURLbzk4VU4xX0gtS0lYd2xsNHgtMHVPc0wteDl0Wl9BQlN1TUJycXlGWnFtS2pTREEycDhCaGQyY2J5dnVkOFA4dTVKS0Uxdw?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-01T23:00:00.000Z",
           "tags": [
             "물가",
             "정부"
@@ -420,28 +420,27 @@
           "feat": false
         },
         {
-          "title": "식약처, 위해 우려 수입식품 정밀검사 최대 20회로 강화…현장 규제도 개선",
+          "title": "9월 소비자물가 2.9%↑...\"10월 상승률 3% 내외 높은 수준 예상\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uQVNNSkRieFJTZUQ4LTZpX3BuSUlGNXRHaURaTTVQOUJGaC1jckk2TFBRZEhfcDMxSkpOci1GS2xHVmZaMXNNazh0TmJnYzNwQzJvYTgzNnc?oc=5",
-          "source": "안티에이징뉴스",
-          "sourceInitial": "안티",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-09-30T11:06:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51WHdsNnBmc0NiaHdiMF9CVVZkSDBkWTBkNFd6cUJZT0NJeGoteEVaNHJFRHlKVGlPaU0wcG4tMnpQUzBIaXJ0NHNHdUljU09uYTRDYldiLWh6a3owOXc?oc=5",
+          "source": "YTN",
+          "sourceInitial": "YT",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-02T13:53:00.000Z",
           "tags": [
-            "규제",
-            "식약처"
+            "물가"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "9월 소비자물가 2.9%↑...\"10월 상승률 3% 내외 높은 수준 예상\"",
+          "title": "9월 물가 2.9%로 낮아졌지만…석유류 14.8%·공업제품 4.2% 상승",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iVVB1SHU0Q2dQVFM4WklvNDZUNlJjTEwzTXF1V2QzSk5YYzg3THpOVmdqY2lfUFJ4V2poWmtKZW1PXzZnMGRGcFh2NUQ0MXRMNlZUMDFRTjB2dEdvSVE?oc=5",
-          "source": "ytn.co.kr",
-          "sourceInitial": "yt",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-02T09:16:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaQ2RwcG5sc2UtZzRkdzlWVFp4ZDloc2xqbC1JSko2a0xHVEhBYklSZEdydEFvbVQ2V29ISF90MVhLd0pzUXkzRUx0Y1h4WFRhdTRlRjFNNDhoREtpVGc?oc=5",
+          "source": "dailyt.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-02T11:31:00.000Z",
           "tags": [
             "물가"
           ],
@@ -477,20 +476,6 @@
           "feat": false
         },
         {
-          "title": "9월 소비자물가 2.9% 상승...농·축·수산물 0.3%↓·석유류 14.8%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HTk5MSk91R095dFZBVlZFWmZmQnliSFZpcnpubU5sR202M1YwSHhzYlJRN0YwYTd1Vnc5UnpRZXJlTXcyV0JlTlBnZU1UcE5LNVE2VmpEdnhjODVBSFlSNDVNNldsS2tvNHpSdkJaQ0pkVjZHUlE?oc=5",
-          "source": "ytn.co.kr",
-          "sourceInitial": "yt",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-02T02:50:00.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "추석 '1900억' 쏟아도 들썩이는 물가…10월 3%대 복귀하나 - 머니투데이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SRVpfajNVR0NqNy1lSURWalRBd1R3ekJaSGlSUGdJOG8tUFUySVlxeFJUbEg1NFEtenVubHlnN1ZIZEhjUTJvQk1qUXo0Rm90TGZ3b2lLd2prc0UtUzNJNi1adXJQWTF0a2RLTUM0cW3SAXBBVV95cUxOUkVaX2ozVUdDajctZUlEVmpUQXdUd3pCWkhpUlBnSThvLVBVMklZcXhSVGxINTRRLXp1bmx5ZzdWSGRIY1Eyb0JNalF6NEZvdExmd29pS3dqa3NFLVMzSTYtWnVyUFkxdGtkS01DNHFt?oc=5",
@@ -498,6 +483,20 @@
           "sourceInitial": "머",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-02T02:47:12.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "9월 소비자물가 2.9%…석유류 14.8%·IT내구재 급등세 지속 : 경제",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JdkNBTjZtd0ZfTG9VUTdqdHJ5bU1aN1BxRnloTGh3MmlJdlppdnFoVElhS1NvTTA2Vm1TdGJheVdrWjlqb1dsb1RoMA?oc=5",
+          "source": "재경일보",
+          "sourceInitial": "재경",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-02T02:01:00.000Z",
           "tags": [
             "물가"
           ],
@@ -620,9 +619,9 @@
           "title": "HMR, 중소 식품기업 성장통로 부상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1odWs3UVJIVkNfNWJKX1psbl95dTN4UVRxeDRZTUdZNHpxdm0xdTNsUkVXcUdUZGdraXpBLUtjbUZsaURfZUxHZXpMNS1jekJaTkNKVE5aOE1JSlJqY21SMjdnaDNkS09KZU03V2ZR?oc=5",
-          "source": "smedaily.co.kr",
-          "sourceInitial": "sm",
-          "sourceColor": "#3a6ea5",
+          "source": "중소기업신문",
+          "sourceInitial": "중소",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-01T02:09:52.000Z",
           "tags": [
             "HMR"
