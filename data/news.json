@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:30:19.326Z",
+  "generatedAt": "2026-10-02T20:55:39.465Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 29,
+      "total": 27,
       "items": [
         {
           "title": "BBQ, '100대 브랜드' 3분기 21위…외식 프랜차이즈 중 '1위'",
@@ -67,9 +67,9 @@
           "title": "삼성웰스토리, 외식 메뉴 급식으로 확장…hy, '쿠퍼스' 2종 리뉴얼 [유통 PICK]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56YTFKZEs1RlFlS2JHQVg5d2pVX1V2X3FudzJsRGpOeEU2ekxnSFU2NHg0Tm5DY0xsRVV6TU85Um1SX0VMdHhUNm9oWDFjMzl6Zkd0QzFBQ2szQWZkNkVQYWhiQ3o5UjRjUUE?oc=5",
-          "source": "뉴스포스트",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
+          "source": "newspost.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-10-01T04:59:12.000Z",
           "tags": [
             "외식",
@@ -111,11 +111,11 @@
         {
           "title": "BBQ, ‘대한민국 100대 브랜드’ 21위…외식 프랜차이즈 유일",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnbkFZaU16MGNOcUhYaWtYUU4xMFpxUG12RlQ3N1FoSVl2NDZrMVhweUhCNlhoWUJ4d3VSWnpUdW5TSFNCZkpVWGxFQXQ4eGlMQjZfRQ?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-01T00:49:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NWUh3c054TWg3Wk5pU19XeWdkZFNEN05XT2hWV0JtUFpobGpSN1BjT21LVkVtNFUtRjViaGhLUmtEb0Y3ZEdJZ1haWm5qQlItd2pvMA?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-01T00:50:08.000Z",
           "tags": [
             "프랜차이즈",
             "외식"
@@ -149,15 +149,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 23,
       "items": [
         {
           "title": "[대박창업] ‘서민 음식의 배신’인가, ‘원가 구조의 붕괴’인가… 5000원 김밥의 딜레마",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80NmhsYWppYVR3TG13Q2RsemMtOExOdVpHTVdnYjRXdjVnaWtHeVl3N1RCMFowNUZTcTE5SlV6TGhCQlR5SjYtTjNuNXU2UDdOLVNYWGNzcHR5ZVhmM1EtZzdxQ2tKX1pwRWVILVpVcw?oc=5",
-          "source": "일요서울i",
-          "sourceInitial": "일요",
-          "sourceColor": "#1a4d8f",
+          "source": "ilyoseoul.co.kr",
+          "sourceInitial": "il",
+          "sourceColor": "#b03a6a",
           "publishedAt": "2026-10-02T08:28:51.000Z",
           "tags": [
             "원가"
@@ -166,12 +166,26 @@
           "feat": true
         },
         {
+          "title": "밀가루 내렸는데 라면값은 왜?… 인니 '팜유 빗장'에 4분기 원가 또 복병",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LR2lsWXBJcVNjY1ZaY1pNQUZkbE9PcUJ5RjR1S0V2NmpXd2d1SnltWVFScnB4N3JwRDV3VXdPdDNPY1JRQkhScFQ1TW1VSHVYdDZ0WHpzODlnejE0U2tjZjZSUFpqU1d4TXNKX25R?oc=5",
+          "source": "polinews.co.kr",
+          "sourceInitial": "po",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-02T06:47:00.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "9월 소비자물가 다시 2%대…추석 할인·석유 최고가격제 효과(종합)",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PRTlUNHQwb1VlZnpBQXBzZTJMNVJ0VjhYOWFjME5UVm5raHZYQ092RnNPOERDa3Z6b0tSdVBFX2M1M283S0RVS2Fid2FXa0JEWmZ0dGw4blROQjlDckZVU3Ewc3hUWThmSzdqSGI2V3BEODg?oc=5",
-          "source": "마켓인",
-          "sourceInitial": "마켓",
-          "sourceColor": "#3a6ea5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVF2Y0s2SmhBZnZoc2R0SjdUMVBvdUV1amdRSmYwRF92SHZYY0NLRUg4N2NuYnlHRW9XblRvNnd5ODRIU2g1NU9yWWdHVUFiV3h1Nk00a0RNb2xodE9BVGQ1ejhwZmhIZjctUWF4V0hUMHJGVGJISC1reEIyS1BvSA?oc=5",
+          "source": "edaily.co.kr",
+          "sourceInitial": "ed",
+          "sourceColor": "#1a7a5a",
           "publishedAt": "2026-10-02T01:11:35.000Z",
           "tags": [
             "가격"
@@ -197,9 +211,9 @@
           "title": "식봄, 신선식자재 품질보장 대상 1만7000여개로 늘려",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02aGxubFpkYkUtd3NBRnZoUlFFY0R3bTdrS00yQl9XSnlUWHVySkdzaU9OR01VaVVpY2RkaTFyZ002TFAzd28tUzA4SUczbmtMZkUtNElYQ1pwVEdiclVkcHNXZU5CSEpBWW1JX2EtTnFOZlJna1NodWMyUUo?oc=5",
-          "source": "비욘드포스트",
-          "sourceInitial": "비욘",
-          "sourceColor": "#2f7d4f",
+          "source": "beyondpost.co.kr",
+          "sourceInitial": "be",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-10-01T23:55:11.000Z",
           "tags": [
             "식자재"
@@ -248,20 +262,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[오늘 일본은] 日 식품 3153개 품목, 10월 가격 오른다…주류·음료 인상 가장 많아",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zN0tQN3ZrQk0xTTAxRDN1R1lpSE4yaWVPRmNwN0lvTjlqSzd1Z25aT2p1bzZSRHdCZ1dYVGhfaGR0Wi1HNGtWSFI0REtYUjJ2ZHFBbmx1b0FnZktxZ0N6UVNZM25GT2lBUUE?oc=5",
-          "source": "포인트경제",
-          "sourceInitial": "포인",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-09-30T23:18:05.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -274,7 +274,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "[유통 Pick] 식자재 보장부터 대화형 시스템·체험존 운영",
@@ -294,9 +294,9 @@
           "title": "오프라인 유통의 엇갈린 명암…편의점 ‘나홀로 성장’ 속 대형마트 9.7% 급감",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yWU5faVBEeHczRXlyVUdWZHV6bl9hVXVyRkNDMXEtZE5ic0sxZm1PRWlZb05IRjZaNTk0TzNRZTlTdHRrejlYNHhEMl9jSnBhTExPUmk1XzduYVd3RDJVWmZhMl8tLWJxTEJ6dDZWWQ?oc=5",
-          "source": "thinkfood.co.kr",
-          "sourceInitial": "th",
-          "sourceColor": "#1a7a5a",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-01T07:02:25.000Z",
           "tags": [
             "유통"
@@ -341,13 +341,13 @@
           "feat": false
         },
         {
-          "title": "충남 청양군, 농민 소득 안정을 위한 2026년 제3회 청양 농산물 기준가격 보장위원회 개최",
+          "title": "CJ프레시웨이, 식자재 플랫폼 경쟁력 강화…식봄 품질보장 1만7천개로 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vb3FrcHRBeUZfTXMzWXhOd1NpMXF1V1VIdk5PTkRKemZIbjdUYnJvbWg3eUpvMjAyamVacU9NM0JwUnJEY1ZFd1A0aUV5NG1QTVpiUzR0bjdhdmhHbElxMkc2Q2sxVkFCSmc?oc=5",
-          "source": "충청매일",
-          "sourceInitial": "충청",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-01T04:55:10.000Z",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RcWhteXYyaGlMYTVFXzJncGFIdXVzeFR3T1JuV2ZRU2ItYkxYSzdZRmtaVDJ4MFZ4X0lLUGNESzRhb25QNURIUm1lbENQWTFlTExjS1dOUTZDZzV2SmNrTmtoQU9IUUtrWHJOemNEUlo?oc=5",
+          "source": "dailysmart.co.kr",
+          "sourceInitial": "da",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-02T01:28:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -387,23 +387,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 18,
+      "total": 17,
       "items": [
-        {
-          "title": "정부 \"석유 최고가격제로 9월 물가상승률 3.5%→2.9% 완화\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGlVRTdJRjV0ZU9IR0lrdnNBR3FOaXFwdHVlVWlOeUp2UC15VW1zMS1FN200dHV2N0dkZm54bG5jbTNsMVgycUhYTllENWZDQ3c5ZXA2UjBmaFJja3NEVk5OSEVwS0twUkZ3NWNRRkdRc2Q3VHNldFFqUm9haDFZVGxFLUdBUEkwQndzX1l3?oc=5",
-          "source": "국제신문",
-          "sourceInitial": "국제",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-01T23:33:00.000Z",
-          "tags": [
-            "물가",
-            "정부"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "정부 \"9월 물가 2.9%…석유 최고가격제로 상승률 0.6%p 낮춰\"",
           "summary": "",
@@ -417,7 +402,7 @@
             "정부"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "9월 소비자물가 2.9%↑...\"10월 상승률 3% 내외 높은 수준 예상\"",
@@ -437,9 +422,9 @@
           "title": "9월 물가 2.9%로 낮아졌지만…석유류 14.8%·공업제품 4.2% 상승",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaQ2RwcG5sc2UtZzRkdzlWVFp4ZDloc2xqbC1JSko2a0xHVEhBYklSZEdydEFvbVQ2V29ISF90MVhLd0pzUXkzRUx0Y1h4WFRhdTRlRjFNNDhoREtpVGc?oc=5",
-          "source": "dailyt.co.kr",
-          "sourceInitial": "da",
-          "sourceColor": "#2f7d4f",
+          "source": "데일리환경",
+          "sourceInitial": "데일",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-02T11:31:00.000Z",
           "tags": [
             "물가"
@@ -469,6 +454,20 @@
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-02T08:51:24.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "9월 소비자물가 2.9% 상승...농·축·수산물 0.3%↓·석유류 14.8%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRlkxX1JEUUFmcEVPMk51blpsenV6WjBuMUtPdk1UUXpiaGVMbDVnZl9GNThielZEVG14R3FqWFlNMjhSYk9zcjJKZ2xla0dQZHNzTUdGRUdQT0JVajZiY1VLMnNTcHFtZjRMZHB2TnBuQU4zS1E?oc=5",
+          "source": "YTN",
+          "sourceInitial": "YT",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-02T02:50:00.000Z",
           "tags": [
             "물가"
           ],
@@ -514,7 +513,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 26,
+      "total": 24,
       "items": [
         {
           "title": "삼립, 대만 밀크티 브랜드 ‘3:15pm’과 베이커리 신제품 8종 출시",
@@ -618,7 +617,7 @@
         {
           "title": "HMR, 중소 식품기업 성장통로 부상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1odWs3UVJIVkNfNWJKX1psbl95dTN4UVRxeDRZTUdZNHpxdm0xdTNsUkVXcUdUZGdraXpBLUtjbUZsaURfZUxHZXpMNS1jekJaTkNKVE5aOE1JSlJqY21SMjdnaDNkS09KZU03V2ZR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UNzlabHd5U3F0NWdsVkxBTU9ua0JQeEJEeThHeVFYaEptdjltYzJvRTZZNkwtdVJoaUdkeWJRelM5NGVRZjFHRWZTcnd4ZkxKM19IQlRVLW9lOGtuMVNYX0dZc3dEWWtUdWx5WA?oc=5",
           "source": "중소기업신문",
           "sourceInitial": "중소",
           "sourceColor": "#c98a2b",
