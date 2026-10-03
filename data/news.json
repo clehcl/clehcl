@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:46:48.375Z",
+  "generatedAt": "2026-10-03T21:59:50.962Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -104,6 +104,20 @@
           "feat": false
         },
         {
+          "title": "‘스벅 100호점’이 주목받던 때 있었는데…프랜차이즈 ‘4500호점’ 시대 왔다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TR3FZWW0weHlFT3NFdnVlcklKVGdhZWlPMlFyZXM3M2k2OTduMjRua3BBTzFRUExORklWRDFvclJnVTVrczM3ZnRFTTU1dHdUMVpReWk5QTfSAVRBVV95cUxQU1hOWGhra0hlMXdsUHNzYlA2VG01V29sNldkYXBZbVg1U0ExUC1TbE9GSV9Wc05QZV9lZWZybE55RXRBQzZCc1NBM1ZVdUprYndFQWc?oc=5",
+          "source": "세계일보",
+          "sourceInitial": "세계",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-02T06:00:07.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "메가MGC커피, 4500호점 돌파…커피 프랜차이즈 1위 굳힌다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Nlp1OHZlbTFQSGpDZ1NURGdVcVBhTGZxLUxNc2gzQkUxbTk4NWY3RGR5bkI1MzBhTWZUQThNeHZ3RlFSU3E0bmxkbEN0MmZ3YzNTXzZNOFM2dzEtSkR0X0puOWZFaVFXajY5dA?oc=5",
@@ -113,20 +127,6 @@
           "publishedAt": "2026-10-02T05:48:18.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "메가MGC커피 4,500호점 달성... 차별화된 가맹점 경쟁력으로 질적 성장 입증",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hVUl0YmNiYlN5Z0VTMzI2WUZUQ2lNem9LUHpnUEdSOEdBVUNQUVRfVElIdWRrbEdVbTFLaXlGY2g4aHNkVmVrYjZ4dHZ5bGhnTEYydVc1TUc1anQ4cHhldVg4RHFiQmgw?oc=5",
-          "source": "2news.co.kr",
-          "sourceInitial": "2n",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-02T02:46:53.000Z",
-          "tags": [
-            "가맹"
           ],
           "price": null,
           "feat": false
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 28,
+      "total": 32,
       "items": [
         {
           "title": "[NBN심층분석] 음료·과자 가격 인상, 원가 부담은 왜 소비자 지출로 이어지나?",
@@ -174,6 +174,20 @@
           "feat": false
         },
         {
+          "title": "흑해 막히자 밀·옥수수값 뛰었다…세계 식량가격 전월比 1.5%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FNUdIMWxyLXlSOVU4U3F5ZDc2Y3ROVDQ1eDRoM21lSDhERndNd1hiZ29ScGlvUW5wMHg5NTQxbFBJRjBCZ0JOMHhCZ1pYbEtkeTJRblViZEtGeEFVU1FN0gFfQVVfeXFMT0U1R0gxbHIteVI5VThTcXlkNzZjdE5UNDV4NGgzbWVIOERGd013WGJnb1JwaW9RbnAweDk1NDFsUElGMEJnQk4weEJnWlhsS2R5MlFuVWJkS0Z4QVVTUU0?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-03T06:15:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "FAO, 9월 글로벌 식품 가격 2022년 이후 최고치 기록",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmNlTUJoMXN6WnZGeUI0ZzdyTmtVTndROXRKNE5oQlB5V2ZpTmpTVmdqZ1ZyaXlTNl9iV2Q1VnhJNWlySVVmM0t6MnhJUzk2cldacFlLN21RcG10UENuR0lfc2pCVm9YSkpjSm4taVVrWkI4OEtOenpkRzYyZHl0dEM5LWlueFN4bjBnV01OZGVRWlRIWDI5cA?oc=5",
@@ -181,6 +195,34 @@
           "sourceInitial": "데일",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-10-03T04:11:27.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "미얀마 뉴스 - 미얀마 양파 소매가 1비스 1만짯 넘어…수출 수요·공급 감소에 가격 상승 - AD Shofar",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LUk9jNlBUMkNFVTlVWVZTWVRXR0pyandMSWtzNThjZXhDNkY4WU94MEQtWEd6VkV6MUNveGJPV0F2NkFqQ3BuOXVqaFppS0ZLRXNNeWl0eEZjc1nSAVtBVV95cUxNS1JPYzZQVDJDRVU5VVlWU1lUV0dKcmp3TElrczU4Y2V4QzZGOFlPeDBELVhHelZFejFDb3hiT1dBdjZBakNwbjl1amhaaUtGS0VzTXlpdHhGY3NZ?oc=5",
+          "source": "AD Shofar",
+          "sourceInitial": "AD",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-03T04:06:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "세계 곡물가격 1년 사이 17.2% 급등...밀과 옥수수가 주도",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Bem5sSlBBeWxSalR0RkRhWDJ4S3BpcXRsaDBLZDF4bTZuTWtxZTF3dkp3d05hdklpdy1lQ1B1bTZjalVwZFYyQktSeUxRd0s2Mno2VWpQczY3RGx6b0NxQzBGT0MycHBuMTlsZHl1UUstdw?oc=5",
+          "source": "thecommoditiesnews.com",
+          "sourceInitial": "th",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-03T01:36:35.000Z",
           "tags": [
             "가격"
           ],
@@ -214,48 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "밀가루 내렸는데 라면값은 왜?… 인니 '팜유 빗장'에 4분기 원가 또 복병",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LR2lsWXBJcVNjY1ZaY1pNQUZkbE9PcUJ5RjR1S0V2NmpXd2d1SnltWVFScnB4N3JwRDV3VXdPdDNPY1JRQkhScFQ1TW1VSHVYdDZ0WHpzODlnejE0U2tjZjZSUFpqU1d4TXNKX25R?oc=5",
-          "source": "폴리뉴스 Polinews",
-          "sourceInitial": "폴리",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-02T06:47:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[유통 Pick] 식자재 보장부터 대화형 시스템·체험존 운영",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ldFZwSFhnN2UydFZ3Qmhmc05JeDEyVTlRMGNSQnFsSXhXclNFS2J2dDU5VS1LVFZuZkd2b3IzTGZPcmJ3d19rbXdwUTJVREVwc2VyUjFGT0FsNmQ2RlY1M1FmeWsySUtNLWJn?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-02T05:55:00.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "9월 소비자물가 다시 2%대…추석 할인·석유 최고가격제 효과(종합)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVF2Y0s2SmhBZnZoc2R0SjdUMVBvdUV1amdRSmYwRF92SHZYY0NLRUg4N2NuYnlHRW9XblRvNnd5ODRIU2g1NU9yWWdHVUFiV3h1Nk00a0RNb2xodE9BVGQ1ejhwZmhIZjctUWF4V0hUMHJGVGJISC1reEIyS1BvSA?oc=5",
-          "source": "edaily.co.kr",
-          "sourceInitial": "ed",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-02T01:11:35.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -268,33 +268,19 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
-        {
-          "title": "[똑똑한유통] CJ프레시웨이 식봄 품질보장 확대·롯데리아 한글날 팝업…백미당·갤러리아·메가MGC커피·도미노피자",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fTDJaaXJVYnZPVFNpUC1OZUFSMlJPTGxpT3hxdExIM2ZONVBVWjZhNk5hdnVaR0FORENCTnlTNWYzN3I3RzZfb3pDV1IzMGhycVl0al9aZUFXVzA?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-02T09:08:01.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "동원, ‘참존’ 인수 추진…김남정 회장 첫 M&A로 K뷰티 시동",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54Y3ZSSzlrdDE2TDAyTnhteW4zY1BxUkozTUVZdDNlYUM5Qms2amxnZjRrWnFNdGxvUzRBUDluYkNJZEtlVUJpZ3ZCaHR3R3NUUVB1WGlLOUsxdGpqU255Q0ZqWV8?oc=5",
-          "source": "서울경제TV",
-          "sourceInitial": "서울",
-          "sourceColor": "#1a7a5a",
+          "source": "sentv.co.kr",
+          "sourceInitial": "se",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-02T08:15:40.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "‘급식’ 민물장어 만족도 93.3%…“일상 식재료로 가능성 확인”",
@@ -312,9 +298,9 @@
           "title": "한국 발효 장의 활용성...신송식품, 인도 ‘아누가 셀렉트 인디아 2026’ 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55U3F1ZDBJZzJ6TnNIOHNreVhrdTFTWlpsUU11R2hfMnFnVldjQWUxdUJZNzVnLTR0WGxoZllVZXNwVHYxc0FiRmNEanVXclFiUUcxTmpONUpDVEhCNDY3T2lxajk1UQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-02T04:35:59.000Z",
           "tags": [],
           "price": null,
@@ -343,7 +329,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 20,
+      "total": 21,
       "items": [
         {
           "title": "정부 \"9월 물가 2.9%…석유 최고가격제로 상승률 0.6%p 낮춰\"",
@@ -406,9 +392,9 @@
           "title": "9월 물가 2.9%로 낮아졌지만…석유류 14.8%·공업제품 4.2% 상승",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaQ2RwcG5sc2UtZzRkdzlWVFp4ZDloc2xqbC1JSko2a0xHVEhBYklSZEdydEFvbVQ2V29ISF90MVhLd0pzUXkzRUx0Y1h4WFRhdTRlRjFNNDhoREtpVGc?oc=5",
-          "source": "dailyt.co.kr",
-          "sourceInitial": "da",
-          "sourceColor": "#2f7d4f",
+          "source": "데일리환경",
+          "sourceInitial": "데일",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-02T11:31:00.000Z",
           "tags": [
             "물가"
@@ -448,9 +434,9 @@
           "title": "9월 소비자물가 2.9%…석유류 14.8%·IT내구재 급등세 지속 : 경제",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JdkNBTjZtd0ZfTG9VUTdqdHJ5bU1aN1BxRnloTGh3MmlJdlppdnFoVElhS1NvTTA2Vm1TdGJheVdrWjlqb1dsb1RoMA?oc=5",
-          "source": "재경일보",
-          "sourceInitial": "재경",
-          "sourceColor": "#1a7a5a",
+          "source": "news.jkn.co.kr",
+          "sourceInitial": "ne",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-02T02:01:00.000Z",
           "tags": [
             "물가"
@@ -469,7 +455,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 11,
       "items": [
         {
           "title": "삼립, 대만 밀크티 브랜드 ‘3:15pm’과 베이커리 신제품 8종 출시",
@@ -501,20 +487,6 @@
           "feat": false
         },
         {
-          "title": "日 고등학생 음식 트렌드…마라탕 1위·요아정 2위·쓰키미 버거 공동 3위",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YME56NzFKMU1uSGlrRG9lb2FMcHE2aEd1ZHQtcDZpaGF6SFFscVU1V1VFRkdZNE5JX3dlMzdFc1lVUXJGeTRSRC1WMXVtVnkybWxmaTZ2d2lHa2QyWnlfdFRRemtFRjFNcXhHdA?oc=5",
-          "source": "재팬코리아데일리",
-          "sourceInitial": "재팬",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-02T08:42:36.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "편의점 ‘치즈 미역국’은 어떻게 출시됐나… AI로 ‘다음 유행’ 찾는 식품업계 - 조선비즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcDJabFVUbHJUZnA1d1Z0UkQ2RzVuT3B1cjdhWlJ0c1UxeHFBdzRLZnFFYjF5b0pTNXQ0d196S3I0ZVY5dlJ3QnpGdUd5aGxOaFNma0ZsN0llcXdjV1BtRzItOHpCbXVqbDJtY3VRcGZfRm1vNjEwNkVZaXZaSlIxTDBJVVJDd9IBmgFBVV95cUxOQW5henlqcDJ5cDY0YUhUZjFjVVlUQW1sa2M0aVZVYUdzV3dvZnVNZU5sbjVtN0plTElJcjNfcmtqRjdFanA0eXZVMnVwdHJuTkU0ejc4SUVGWjhaRWVfWG92Zl9nVHRRX0NYS3BjNVgxS0J5MlJ0NXZmNWU4a0VZOXBFLUdkZHczWG9DTkFvejVKMkFFN1dYdDBB?oc=5",
@@ -532,9 +504,9 @@
           "title": "컬리, 넥스트키친 100% 자회사 편입…간편식·K-푸드 강화",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yZU1fYnBiY2tSMmtoOWdiN0pCRFJ5dzVvRDRqcW92ZWtTSnhFWmJPMmpPUHBuYmdTTjRMUmp2azA0SkIzSkhSYjNud2pmOXJNYnNMOC1xZFhCbkM4QUxiTkVDc0g0Zw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-02T03:29:04.000Z",
           "tags": [
             "간편식"
@@ -572,10 +544,22 @@
           "title": "日 10월 2일 ‘두부의 날’ 맞아 식품업계 SNS서 두부 활용 콘텐츠 잇따라",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUkNIWHJLMmd6U0pyY0pjRVlJOVVpWTBreE1aN3RfREJ3elg5Vll6X3RwMUUtd1RqNlRwT0xuM0NZWl80ZWpFMS1tSUd0VHl4VGJoTkI2dEFQRFJ0dXR3aTRwTkxadXBheUtRWg?oc=5",
-          "source": "재팬코리아데일리",
-          "sourceInitial": "재팬",
-          "sourceColor": "#2f7d4f",
+          "source": "jk-daily.co.kr",
+          "sourceInitial": "jk",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-10-02T08:57:13.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "올가홀푸드, 김장 사전예약…절임배추·김치 최대 20% 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiNGw0ZUJBRTFxajdFbmwzUFVwdUNteEFMa293TlVMT3BLVGdNMW4yZ1l4dUxyMnowYjB2NjJTMGdXU0NHM2lwQ1BmdnBxZWtTajF4OTY0bGw0UmUwVUlXdmdlbVBrQQ?oc=5",
+          "source": "foodtoday.or.kr",
+          "sourceInitial": "fo",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-02T04:41:36.000Z",
           "tags": [],
           "price": null,
           "feat": false
