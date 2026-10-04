@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:44:51.385Z",
+  "generatedAt": "2026-10-04T17:18:39.448Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "[ 2026년 10월 5일(월) 프랜차이즈 뉴스 ]",
@@ -25,12 +25,26 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-04T08:31:05.000Z",
+          "publishedAt": "2026-10-04T13:45:47.000Z",
           "tags": [
             "프랜차이즈"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "LA는 지금 '치맥' 열풍…한인타운 넘어 美 외식 시장 점령!",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUTh3VUdfenp1d2x1ZEp1Rml4by1Kb2gxUktuOUU4OWtkLTgzY2I2WHNEXzVVZ1lnT09sYW1NY2QxRldIcGVGYWhQRXVkQWtpazdxV3RBVTFxbktFWFE?oc=5",
+          "source": "YTN",
+          "sourceInitial": "YT",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-04T10:25:00.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "자동 전문 드립 커피 머신 시장 2035년 전망: 외식업 자동화와 커피 수요가 성장 견인 - 뉴스 및 통계",
@@ -61,6 +75,18 @@
           "feat": false
         },
         {
+          "title": "여우애김밥, 6000원대 키토김밥으로 가성비 승부…저속노화 트렌드 정조준 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzMwQWw3a2FzQ1U3R3M1a3dGSWNNX3M3c3d2eU90a2QzdGRjNzZaX0dmQ3FZZ1RHVkpJY0plblBfd0J1Ymh3VVlMcElQY2p2V3dJc3FhYzhmSXhSRExOVkpSN2NLUEVLUzN4empMcGktel9tSy01WTZiYVhXMl9rSGg1MFZJeXlGWjMwZE1HZUZORTA1X3ltdU5FaWd3NlNSMzA1NVR0c0tqZ3JKV1ZyV3B3dThKZ0FWeVpjaA?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-03T18:38:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "이디야커피, 11월 한 달간 풍성한 혜택 쏟아진다 [ 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMkVoMWFWOW93RHhrTk55dHktS3RmYU12aUpyRHhRODhEWFJmVkFkcFpBeGY1NHJJS0ctUGV4VFNJR080M21rbE1lZGpnN0N3NHpsQmUyTDU?oc=5",
@@ -68,18 +94,6 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-02T23:27:57.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "bhc 비정기 세무조사 진행…'치킨값 점검' 예고에 업계 긴장",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xS0NvVEx3SkZFaktQYkhoVHFxUjhoZXo3MXhGWmtSTzBaQm1RZkNUOWwwQzR1RGVnenRTLThwMDZTU0VCT1lzY2VqT0QxWkFOU1NVS1kzNFk0Q3JjT0tLdGRpcEFQMnNCREJJdQ?oc=5",
-          "source": "미래경제",
-          "sourceInitial": "미래",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-02T13:56:34.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -95,8 +109,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 10,
       "items": [
+        {
+          "title": "된장 19%↑ 컵밥 25%↑ 가공식품 가격 무서운 오름세",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEpCb015UkRKVEZ2N3Q2dXZXVHhFQjNCdzlzQ2huZkR0Mnh4S1JBeExrSmpFOWt0a0NpbVVUZ3hPMG9HaUNqQ3Z2UVhFaWxzYWNRZ3N6dmhkeEN3aW5Uc19VWUZoOEpSU1VsZDlpZFRSdm9lR2VyMkw5U0tKWVlnZkpwdFRLZnctTnpyaEV3?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-04T14:25:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "가공식품 26개 중 24개 1년 새 가격 ‘껑충’",
           "summary": "",
@@ -105,20 +133,6 @@
           "sourceInitial": "천지",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-10-04T07:00:09.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "된장 19%↑ 컵밥 25%↑ 가공식품 가격 무서운 오름세",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEpCb015UkRKVEZ2N3Q2dXZXVHhFQjNCdzlzQ2huZkR0Mnh4S1JBeExrSmpFOWt0a0NpbVVUZ3hPMG9HaUNqQ3Z2UVhFaWxzYWNRZ3N6dmhkeEN3aW5Uc19VWUZoOEpSU1VsZDlpZFRSdm9lR2VyMkw5U0tKWVlnZkpwdFRLZnctTnpyaEV3?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-04T06:05:00.000Z",
           "tags": [
             "가격"
           ],
@@ -143,9 +157,9 @@
           "title": "국·탕, 컵밥 등 가공식품 26개중 24개 가격 올라...‘도미노 인상’ 우려",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMU5yamxTcXZXS2NkVElqdjY0WXVJYzJHZkNBODNJaW16OTlDQ2VBLUVZSmdNTHdHUERXSWx0OFZPYVFob3psd2lDOU9fc21HbjlZbEx3?oc=5",
-          "source": "joongang.co.kr",
-          "sourceInitial": "jo",
-          "sourceColor": "#c0392b",
+          "source": "중앙일보",
+          "sourceInitial": "중앙",
+          "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-04T05:42:12.000Z",
           "tags": [
             "가격"
@@ -245,7 +259,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "엔저가 밥상물가까지 덮쳤다…日식량자급률 37% '최저'",
@@ -278,11 +292,11 @@
         {
           "title": "은행 AI 해킹·물가 2.9%·페이커 금메달…오늘의 키워드 10",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kd19HalhnQkk4d0JxZXctUWNqSWRua2tYbm1zMm1RRlljclF4cUdDYmlVMXZRUWtVejdoeUwxZFhIOVYwNGVZZG5wQVNJbTVEZDM3WkhCbzNzbUlCSVR0OHlQQmw1Q0VzclRMUy13ONIBckFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZ9IBckFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZw?oc=5",
           "source": "강릉뉴스",
           "sourceInitial": "강릉",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-03T15:40:45.000Z",
+          "publishedAt": "2026-10-03T16:35:39.000Z",
           "tags": [
             "물가"
           ],
@@ -332,30 +346,26 @@
           "feat": false
         },
         {
-          "title": "민생경제 안정 \"9월 소비자물가 2.9% 상승…농축수산물 2개월 연속 하락\"",
+          "title": "캐나다, 한글 표기 '태양초 고추장' 회수…포장에 밀 표시 빠져 1등급 조치",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QTEZYbTMzMHVfQ29nMVk3bkhzbnBrYUpWSWhvektzNFlNSE5rVkZkU2JyRV9UVDNVQjVRc2djdjFYOUxUenQwSw?oc=5",
-          "source": "국민뉴스",
-          "sourceInitial": "국민",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-02T15:04:00.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vX0xTR0FkaE9Ha2FzMUpsSS1UMFI4TU5VMzRrQ1ZVMTJ2aWFxV19IMEhudHQ0b1VPc1lNa19SMWpETHVRYjZLYUpRZzhlNVViN1JrMDF4ZE52Q3BtTllTMjVvZjRhRTExak9HZ0RB?oc=5",
+          "source": "famtimes.co.kr",
+          "sourceInitial": "fa",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-04T05:16:18.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "9월 소비자물가 2.9%↑...\"10월 상승률 3% 내외 높은 수준 예상\"",
+          "title": "'식품 안전' 코너: 실제 생활 속 이야기가 VTV1에서 방송될 때.",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yc3YtTTY4bkpvXzJ6RVI0TXdpZUd5eUE1ZmFqLUQxa1B0ZkVZem9vOHg1d256UU1EWU1HNVhmaDZ1V2loaDNJcDR0V0djZ3VDclgwLVNwY1dCOWY1RGk1WDVQazRpeFRWYzdERUozSQ?oc=5",
-          "source": "YTN",
-          "sourceInitial": "YT",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-02T13:53:00.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkd2WmJxZHdjeDljeE9PdTJpUE1ZeEdlWEg0aGdTbE1Cc0VoOHlnMWR0cmY5bTJZMmV1YjhIS25mRHl5NTdLeUxEaFlnMHBMTGUxYTlSN0xCUGdQOUc4a2JrelBqVVNBN0hyOFhaWENBaFhoSDcyTjZOaWpmck1aUUQyemJ3dDRQTGp1Y0czR21kTjRqVVR6SlJfZHhqX19FYVQ0?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-03T14:57:35.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -370,16 +380,16 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
-          "title": "신제품 찾고 불량 잡고···식품회사에 'AI 직원' 늘어난다",
+          "title": "신제품 찾고 불량 잡고…식품회사에 'AI 직원' 늘어난다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9feWtnUDhBWkNGUEtBRmJFZi1Gc0ZJY0hOVm53cFcyNmpIbjBRSmMwY1B6RXpZX0VnRUU0eFN5OXEwWERwTEFLVVAyREJ6d0lEeUg0SXhFMHltWHlEelhNdDItMlZVRlJJRFE?oc=5",
-          "source": "뉴스웨이",
-          "sourceInitial": "뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2cUVKR0VaSUxieFM3V2hCOW04NjRZU0prakxUVEJYa3ZvZEZWVnMzbWNIWFMyN1dxNk8tN3hSVnNYdzJQMFdVcUo5eGJ1OVdNMlFrRw?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-03T02:16:54.000Z",
+          "publishedAt": "2026-10-03T02:17:09.000Z",
           "tags": [
             "신제품"
           ],
@@ -394,18 +404,6 @@
           "sourceInitial": "시사",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-03T01:31:12.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[주말 장보기] “연휴 먹거리 뭐 살까”…이마트·롯데마트, 5일까지 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Z3p2bEEtMlVSZHZKel9FVTkzNEF6UmdKNXlxYUpOc1ZKREFfUTgyeTRLTVBZWDBIcGpnOG9iQXk3NG9wSkJZQ25qUkxoSXMyTjA2ck9PaTFRbjk1aU5oSDV1aVM5eERq?oc=5",
-          "source": "키즈맘",
-          "sourceInitial": "키즈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-02T23:23:45.000Z",
           "tags": [],
           "price": null,
           "feat": false
