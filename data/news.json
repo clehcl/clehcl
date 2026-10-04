@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:20:52.260Z",
+  "generatedAt": "2026-10-04T23:28:43.904Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,15 +16,15 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 6,
       "items": [
         {
           "title": "K-프랜차이즈 창업 성공 전략 한자리에",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzeEpXRjBDd0FNOFZSdEFYanhlc1VxWkZvVmMxYWlZb2lJX1pTU3R2M0tTWXctTlJyYXpDZ283cURwYk5teFlDbjZyQXNvS2o3WU54aDE2WTlobTIzalNrdE9n?oc=5",
-          "source": "미주중앙일보",
-          "sourceInitial": "미주",
-          "sourceColor": "#c98a2b",
+          "source": "koreadaily.com",
+          "sourceInitial": "ko",
+          "sourceColor": "#c15a37",
           "publishedAt": "2026-10-04T18:31:00.000Z",
           "tags": [
             "프랜차이즈"
@@ -89,18 +89,6 @@
           "feat": false
         },
         {
-          "title": "BBQ, 이천 치킨대학서 체험형 창업설명회 운영 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jd0ZDWWVGMEdrdnVnYlZUam1RLWtfNDBtWUVKdnN4THFNMnBjd0x2aTFKQ1hBSXFZSUVoNnhSTXRHQ2RoS1lidHVFeXEweEp1S29MTG92Yms?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-03T19:01:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "여우애김밥, 6000원대 키토김밥으로 가성비 승부…저속노화 트렌드 정조준 [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzMwQWw3a2FzQ1U3R3M1a3dGSWNNX3M3c3d2eU90a2QzdGRjNzZaX0dmQ3FZZ1RHVkpJY0plblBfd0J1Ymh3VVlMcElQY2p2V3dJc3FhYzhmSXhSRExOVkpSN2NLUEVLUzN4empMcGktel9tSy01WTZiYVhXMl9rSGg1MFZJeXlGWjMwZE1HZUZORTA1X3ltdU5FaWd3NlNSMzA1NVR0c0tqZ3JKV1ZyV3B3dThKZ0FWeVpjaA?oc=5",
@@ -108,18 +96,6 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-03T18:38:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "이디야커피, 11월 한 달간 풍성한 혜택 쏟아진다 [ 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMkVoMWFWOW93RHhrTk55dHktS3RmYU12aUpyRHhRODhEWFJmVkFkcFpBeGY1NHJJS0ctUGV4VFNJR080M21rbE1lZGpnN0N3NHpsQmUyTDU?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-02T23:27:57.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -135,15 +111,15 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "된장 19%↑ 컵밥 25%↑ 가공식품 가격 무서운 오름세",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEpCb015UkRKVEZ2N3Q2dXZXVHhFQjNCdzlzQ2huZkR0Mnh4S1JBeExrSmpFOWt0a0NpbVVUZ3hPMG9HaUNqQ3Z2UVhFaWxzYWNRZ3N6dmhkeEN3aW5Uc19VWUZoOEpSU1VsZDlpZFRSdm9lR2VyMkw5U0tKWVlnZkpwdFRLZnctTnpyaEV3?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
+          "source": "chosun.com",
+          "sourceInitial": "ch",
+          "sourceColor": "#333333",
           "publishedAt": "2026-10-04T14:25:00.000Z",
           "tags": [
             "가격"
@@ -169,9 +145,9 @@
           "title": "1년 사이 다소비 가공식품 26개 중 24개 가격 올랐다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JVlZReTNocVBQTS1IRFkzanJxR1k2LWRSQllHa1ZGaXBpejN5Vm5TcnlwQ3dvNGNpLUVWcnUzNVhwOFRLa0VleWxxS09NYUlua2ZadC1ERFVudw?oc=5",
-          "source": "파이낸셜뉴스",
-          "sourceInitial": "파",
-          "sourceColor": "#1a4d8f",
+          "source": "fnnews.com",
+          "sourceInitial": "fn",
+          "sourceColor": "#c0392b",
           "publishedAt": "2026-10-04T05:55:08.000Z",
           "tags": [
             "가격"
@@ -208,6 +184,20 @@
           "feat": false
         },
         {
+          "title": "가공식품 국·탕 가격 상승률 39.2%",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aWWdVZjY2M25tZHRXbGVWQ0pqdE9yRW9aV0ZmSVVvTlhDR1g2MExkLXNMQlRpMGZEaENRemJIS0NDekFFbm9IeklqV3BnLXlTa3VxVQ?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-04T05:21:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "가공식품 26개 중 24개 1년 새 가격 올라…국·탕 39%↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWX09CSHAtTDE3cTU0UUVZYXh5ZnpOcFJNeEFrcGhGRFFKVEY5aXBqelg2M1ZBbGplZlZ5VGdIQ0dRanQzZ1dSZm1PNmk1Y0t6M043TjMtTlZ1QkkwNUN3R3gzV29pd0dMODJJWWItS3nSAXBBVV95cUxQVl9PQkhwLUwxN3E1NFFFWWF4eWZ6TnBSTXhBa3BoRkRRSlRGOWlwanpYNjNWQWxqZWZWeVRnSENHUWp0M2dXUmZtTzZpNWNLejNON04zLU5WdUJJMDVDd0d4M1dvaXdHTDgySVliLUt5?oc=5",
@@ -229,20 +219,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-04T01:01:45.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "국·탕 40%, 고추장·된장 20% 올랐다…가공식품 26개 중 24개 가격 상승",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CNy02eDkzS3E4eWE3T0ZXTmh4RUh5dFVRY19LaERfdjN4NkNVNThTYjBUNUo2c2d2WF9HZUxLSG9ESkVFa18xdm9zdXhWMG1VeFdv0gFYQVVfeXFMT0dydjNvbFlXcUt3azlkTEE3aUVEcl8wOVRjMDQzTzFYdFBvQUNpSnN6MFUxT2NPREtyQTlXVkJYVmNDWVlLVnNzWmxiYkhOUmcwWkp6VnVBag?oc=5",
-          "source": "SBS Biz",
-          "sourceInitial": "SB",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-04T00:12:00.000Z",
           "tags": [
             "가격"
           ],
@@ -291,9 +267,9 @@
           "title": "엔저가 밥상물가까지 덮쳤다…日식량자급률 37% '최저'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfUUdqNFJ6eXU0YU5FekY4d0RSVkl3ZzFFZ1VpSUhfUTZEdWhDVm85R1RKNFJ6TS0tNVNNTHRoU3U5OU9hWmFyTW5LMGhUbXV1a2VBdHZDUFh2Zw?oc=5",
-          "source": "hankyung.com",
-          "sourceInitial": "ha",
-          "sourceColor": "#b03a6a",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-04T03:26:53.000Z",
           "tags": [
             "물가"
@@ -318,11 +294,11 @@
         {
           "title": "은행 AI 해킹·물가 2.9%·페이커 금메달…오늘의 키워드 10",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZ9IBckFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kd19HalhnQkk4d0JxZXctUWNqSWRua2tYbm1zMm1RRlljclF4cUdDYmlVMXZRUWtVejdoeUwxZFhIOVYwNGVZZG5wQVNJbTVEZDM3WkhCbzNzbUlCSVR0OHlQQmw1Q0VzclRMUy13ONIBckFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZw?oc=5",
           "source": "강릉뉴스",
           "sourceInitial": "강릉",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-03T16:35:39.000Z",
+          "publishedAt": "2026-10-03T15:40:45.000Z",
           "tags": [
             "물가"
           ],
@@ -406,7 +382,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
         {
           "title": "신제품 찾고 불량 잡고…식품회사에 'AI 직원' 늘어난다",
@@ -423,12 +399,24 @@
           "feat": true
         },
         {
+          "title": "“라면 먹고 갈래?” 힙합부터 치킨까지, 100만 명 홀린 구미의 가을 페스티벌!",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YWFfdXFnSXhFT1RGMEhDMkZzZUIyVzJpcDFBXy1kWm92U0pMOGVPdDZkWndBeXZhdXRTajRjb1YyQWpBSWFfczBZcndDZw?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-04T23:01:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[유통토요판] 신상 쏟아져도 새우깡···40년 넘은 장수과자의 인기 비결",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0M0dSc0Y1RDNDbXhNcVdEeEVPeVNCOHItYUlFcERrc0U4bG1VenF3ZkRIWUZWQmM5TGxkamZXSFNGbU9xZlc1bm0yVW1RaVNibXhKcEhOakFkOVNUTFBQTF9hbFQ5UEptZzh4MTR6bjRFVHNqaHfSAXZBVV95cUxQdDNHUnNGNUQzQ214TXFXRHhFT3lTQjhyLWFJRXBEa3NFOGxtVXpxd2ZESFlGVkJjOUxsZGpmV0hTRm1PcWZXNW5tMlVtUWlTYm14SnBITmpBZDlTVExQUExfYWxUOVBKbWc4eDE0em40RVRzamh3?oc=5",
-          "source": "sisajournal-e.com",
-          "sourceInitial": "si",
-          "sourceColor": "#c15a37",
+          "source": "시사저널e",
+          "sourceInitial": "시사",
+          "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-03T01:31:12.000Z",
           "tags": [],
           "price": null,
