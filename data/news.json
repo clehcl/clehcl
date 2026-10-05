@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T09:28:27.935Z",
+  "generatedAt": "2026-10-05T18:46:42.238Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -21,7 +21,7 @@
         {
           "title": "[유통 HOT 뉴스] BBQ, 외식 프랜차이즈 중 ‘대한민국 100대 브랜드’ 1위…올 3분기 21위 기록",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51eUhmUUt2U2hWbWNSaDBNdEhVWUtYbm1fTTdKTFVocWctRTlHYllvVFJ0anBTQlR5OHMwV2I2V3N0R1U4Ym9zTW1fT2ZyZFNuUUZoVC1lMVVabFJFQ3FpZWlleUhzZzlnbUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QjltbEw5N3NGUTlCV0ZMa0pqdHYyblo5Qk9GNF9MV2J5R29NXzVyZ21yeHlCb3ZhbEhQU1ZTdGhMcFNVdUlhWmIzX3h0eGpmUDNFS2pKMFUzTHNNYllTOGdUUTJqeEszS2c0?oc=5",
           "source": "비즈월드",
           "sourceInitial": "비즈",
           "sourceColor": "#c0392b",
@@ -32,6 +32,21 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "세종사이버대 외식창업프랜차이즈학과 김기영 유천대가 부사장 '외식산업 HMR/밀키트 시장 기회인가?' 특강 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYTTFCWEFiUW5pTEVHdW8xODVZN0dZbU1wamtrRkxraWJUUVFzZ3hlUXdKeUM5ZjNUd3Y2VmlmdzRnNUhnQU5na2dlTF83ZTNvRGVHcXc5UWJIbEpSNDRzMkdrNnRpOGlxSHhHMQ?oc=5",
+          "source": "베리타스알파",
+          "sourceInitial": "베리",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-04T06:02:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "K-프랜차이즈 창업 성공 전략 한자리에",
@@ -64,7 +79,7 @@
         {
           "title": "LA는 지금 '치맥' 열풍…한인타운 넘어 美 외식 시장 점령!",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUTh3VUdfenp1d2x1ZEp1Rml4by1Kb2gxUktuOUU4OWtkLTgzY2I2WHNEXzVVZ1lnT09sYW1NY2QxRldIcGVGYWhQRXVkQWtpazdxV3RBVTFxbktFWFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSU3ljUWg2OE5hQzRvTi1BSUtXR0hPZjdKREF0R1hfZ25WVURPY3JvY1hJcXVsWWFmX25fWl9UbU5rUVlBQS1oNUt4cmwzSjdOWkdFYl9YOGdHaTg4UnJva2c0QnBDUzIwQzFqSHZxSHNqZ3BtTXc?oc=5",
           "source": "YTN",
           "sourceInitial": "YT",
           "sourceColor": "#1a4d8f",
@@ -100,18 +115,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "여우애김밥, 6000원대 키토김밥으로 가성비 승부…저속노화 트렌드 정조준 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzMwQWw3a2FzQ1U3R3M1a3dGSWNNX3M3c3d2eU90a2QzdGRjNzZaX0dmQ3FZZ1RHVkpJY0plblBfd0J1Ymh3VVlMcElQY2p2V3dJc3FhYzhmSXhSRExOVkpSN2NLUEVLUzN4empMcGktel9tSy01WTZiYVhXMl9rSGg1MFZJeXlGWjMwZE1HZUZORTA1X3ltdU5FaWd3NlNSMzA1NVR0c0tqZ3JKV1ZyV3B3dThKZ0FWeVpjaA?oc=5",
-          "source": "blog.naver.com",
-          "sourceInitial": "bl",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-03T18:38:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -129,11 +132,11 @@
         {
           "title": "쌀 한 포대 3만원대…외식업 사장님 잡아라, 식자재몰 할인 전쟁",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oa0pKY1JoanlVaEJHTUNkUlk0cDhBajRTS1JYT1NSc2t3M1pmTUV3dmZWaTB0V240TXE0YWpvVFdjQjNfYTJxaEQ4Q1pWeF9B0gFUQVVfeXFMUFg2ZDYxSEl4NG95aUs1ak9VYkZJRHVodFd0NjlIRTJUSWtILXZHUE9WQkxCUVdJYVV6Z2pFWXNKYzZpNTdZZmpDLV9JTG9qeXprbmhm?oc=5",
-          "source": "세계일보",
-          "sourceInitial": "세계",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yQ1dTaFBhV2stT3ZsWm5PdXQ2WW5ZQ2FSdFZzTU1YLTl1WnFtNWU0b2E1Z3E3QnYxRmQ3REx3aXhmS2FzX090UlhJZ3dWMThFV25j?oc=5",
+          "source": "네이트",
+          "sourceInitial": "네이",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-04T23:40:00.000Z",
+          "publishedAt": "2026-10-04T23:42:00.000Z",
           "tags": [
             "식자재"
           ],
@@ -148,6 +151,20 @@
           "sourceInitial": "조선",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-10-04T14:25:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "국 39%↑ 컵밥 25%↑… 가공식품 가격 줄줄이 올라",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiSFhmNkdfVDBycjE1OEV6ajFzckJSb1djZHZsOHVNb0RzVUkzOUNtZUxDWW1jbXY4UHo3dkxSNnd1U3R3bWMtVnRhbng3bkpVbFZsMA?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-04T09:54:20.000Z",
           "tags": [
             "가격"
           ],
@@ -199,7 +216,7 @@
         {
           "title": "가공식품 국·탕 가격 1년 새 가격 39.2% 올라",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rbENtNGk3TTVnbEFJaHFXMlRrU1hWdmpleEMzZkFISGlXaHpWbldrRktzank5MGxIMlpKTU9SVzVDZHB5RkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KMl9fZ0YzT21jajlsSlR5Y2xmZ2VoeWQybmZYcl9wMngtLVU3YUs2UFZPS3FLMFcyZFk4STZnNlhFQmROTlQtcDBsckhTTXM?oc=5",
           "source": "v.daum.net",
           "sourceInitial": "v.",
           "sourceColor": "#2f7d4f",
@@ -213,25 +230,11 @@
         {
           "title": "가공식품 26개 중 24개 1년 새 가격 올라…국·탕 39%↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWX09CSHAtTDE3cTU0UUVZYXh5ZnpOcFJNeEFrcGhGRFFKVEY5aXBqelg2M1ZBbGplZlZ5VGdIQ0dRanQzZ1dSZm1PNmk1Y0t6M043TjMtTlZ1QkkwNUN3R3gzV29pd0dMODJJWWItS3nSAXBBVV95cUxQVl9PQkhwLUwxN3E1NFFFWWF4eWZ6TnBSTXhBa3BoRkRRSlRGOWlwanpYNjNWQWxqZWZWeVRnSENHUWp0M2dXUmZtTzZpNWNLejNON04zLU5WdUJJMDVDd0d4M1dvaXdHTDgySVliLUt5?oc=5",
-          "source": "데일리굿뉴스",
-          "sourceInitial": "데일",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-04T05:13:12.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "가공식품 24개 가격 상승…장바구니 부담↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUnUzbkZoQnBONUJmbDliU3k0SVVnZjVhaDZxNlhZZG1fSEQtSHF0NUtDNjFJRXo2eG9rZkZUa01WZXJaWmFZcHBOQjZYVndRUnZERzQzOG5KaURJX2JPQg?oc=5",
-          "source": "뉴스토마토",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-04T01:01:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDX2Y5VU5sYy1rRnAxc0duTVNhd1QzNENDMzdQZDNGQVRpMk9JU3RveFM4MU9MR0F3dVpjdy1lbERnYm5hSnVEQUU4TjY0NjZXNFVDcmpHNnVZdWNqcnEtN3huQkJ3anZ3NzE2OdIBcEFVX3lxTFBWX09CSHAtTDE3cTU0UUVZYXh5ZnpOcFJNeEFrcGhGRFFKVEY5aXBqelg2M1ZBbGplZlZ5VGdIQ0dRanQzZ1dSZm1PNmk1Y0t6M043TjMtTlZ1QkkwNUN3R3gzV29pd0dMODJJWWItS3k?oc=5",
+          "source": "goodnews1.com",
+          "sourceInitial": "go",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-04T04:21:41.000Z",
           "tags": [
             "가격"
           ],
@@ -249,8 +252,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 1,
+      "total": 2,
       "items": [
+        {
+          "title": "국·탕 조리로봇 도입… 급식 운영 전반에 AI 적용",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LemVvZGRfRHI4Nk5yOXI3a21vdnhWSFo3dWNwaTJGU2VUcHBKM3kwekYtd0pQNnVrWWt5YXllcWtnUnJMbzBLM00wMG1abjZhRnp6cEduLXF6RzNvRDJwc2ZUX09QMjBvODhiWnVCcllYZW1fc3RnbQ?oc=5",
+          "source": "조선일보",
+          "sourceInitial": "조선",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-05T16:18:45.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[데이터] EU 음식폐기 73%는 소매·외식·가정…‘30% 감축’의 대상",
           "summary": "",
@@ -261,7 +276,7 @@
           "publishedAt": "2026-10-05T08:37:20.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         }
       ]
     },
@@ -277,18 +292,60 @@
       "total": 8,
       "items": [
         {
+          "title": "aT 농산물 비축기지 6곳, 6년 내내 적자… 누적 순손실 121억원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jY1ljR0FNUUZXX1ozU1JJeWowT3ZCQVBJTGlSejVkLVd0ei0zRXpsR1J5dWJuUDVobEU4LXpOVFYzOGVUTi00SUZoREtPTUJvY00zZjNURDdEYWZJXzdDOFhpVUZnR2t0cmc?oc=5",
+          "source": "천지일보",
+          "sourceInitial": "천지",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-05T14:25:27.000Z",
+          "tags": [
+            "비축"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "9월 소비자물가 2.9% 상승...2개월 연속 둔화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZRmFhcXZzSHpKNFBIWmtaTHJjZ0NXM2ZtYjZQSlpadUw0bTRSNFdsSmRsdldUTjZiQzRsOUNWby1vSHEyUU5nR2hUOEhMTlprSlpCY0ZlQ2NxMm0zaUw3eFN4eGhGNGZZWkJKVU5CQ2LSAXBBVV95cUxQWUZhYXF2c0h6SjRQSFprWkxyY2dDVzNmbWI2UEpaWnVMNG00UjRXbEpkbHZXVE42YkM0bDlDVm8tb0hxMlFOZ0doVDhITE5aa0paQmNGZUNjcTJtM2lMN3hTeHhoRjRmWVpCSlVOQkNi?oc=5",
+          "source": "글로벌경제신문",
+          "sourceInitial": "글로",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-05T05:25:54.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'K-푸드 수출 대박' 정부 자화자찬 뒤엔 농수산식품 무역적자 5년간 260조",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KNnFqdXNCbWVMUGo4aENmaVV5V2lpb2VmcFpuZUVlM3V6anhQcU5icFdWTDNxckRBUldmblM5dFpMZU56Z3B0ZjVrSnMxRnF3X0FneVp3Uk5qVkk4TTNLemdBRkFVZw?oc=5",
+          "source": "전북엔비전",
+          "sourceInitial": "전북",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-05T00:46:43.000Z",
+          "tags": [
+            "정부"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "9월 소비자물가 2.9%…재경부 \"최고가격제 없었다면 3.5%\", 농축수산물 2개월 연속 하락",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80MVpuZ3k1RVFqYnV2clZLaEp2Tm9NNFowRzV0RGFmeG9pUEEwd1cwU25RY0g5UlppTEZ4WWxXampHTFpZTmkybVZzT1IxWkRwQlotM0gtTmVXLVhQcFp6Y1YxOUZOVFFHcGdlbVBnRQ?oc=5",
-          "source": "피플투데이",
-          "sourceInitial": "피플",
-          "sourceColor": "#b03a6a",
+          "source": "epeopletoday.com",
+          "sourceInitial": "ep",
+          "sourceColor": "#2f7d4f",
           "publishedAt": "2026-10-04T07:26:00.000Z",
           "tags": [
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "엔저가 밥상물가까지 덮쳤다…日식량자급률 37% '최저'",
@@ -300,20 +357,6 @@
           "publishedAt": "2026-10-04T03:26:53.000Z",
           "tags": [
             "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농식품부 국감, 농지조사·CPTPP 쟁점…농민 보호대책 집중 점검",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LTFhTU21JSWVxS05fTU93U1RKM1NYUXRzbjExdlNGaU9rMW5XLU9VWkkyUFc5d1NtX1NHV0ZJUkVtenVaZWtHUjcxU18ycTJmQlR1ampuakp2V2VP?oc=5",
-          "source": "supple.kr",
-          "sourceInitial": "su",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-04T01:17:00.000Z",
-          "tags": [
-            "농식품부"
           ],
           "price": null,
           "feat": false
@@ -333,29 +376,15 @@
           "feat": false
         },
         {
-          "title": "은행 AI 해킹·물가 2.9%·페이커 금메달…오늘의 키워드 10",
+          "title": "농식품부 국감, 농지조사·CPTPP 쟁점…농민 보호대책 집중 점검",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kd19HalhnQkk4d0JxZXctUWNqSWRua2tYbm1zMm1RRlljclF4cUdDYmlVMXZRUWtVejdoeUwxZFhIOVYwNGVZZG5wQVNJbTVEZDM3WkhCbzNzbUlCSVR0OHlQQmw1Q0VzclRMUy13ONIBckFVX3lxTE1tcjN5SkFIVTJiWUdCMGJwQU0yYjBxM0FiU2VfUm9CNlJzQW40RlM4LV92d25CNDVYOFVjejVNUUZwX2hoLUhRQURFZy1LRkFCWlBjdUNsNm0weXBjLVJ3MDd3d0t2M3hfVDFWQ1RZQUVuZw?oc=5",
-          "source": "gangneungnews.kr",
-          "sourceInitial": "ga",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-03T15:40:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TZTlqeFhDeGRlUEpxa2V1NzZnMTRMMVNURllHcHg0TnpzMmZNcEY0TnJ6QWZEVGhWTTBaempKTmZUR2pieUE?oc=5",
+          "source": "v.daum.net",
+          "sourceInitial": "v.",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-03T21:00:08.000Z",
           "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "9월 소비자물가 2.9% 상승",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeTNvR1FpcDlMd0dTS1BPdEc2WDFvaktNM3pIb2pXOUF4OTJQWjRxY1Q4NXRCUGI0ZUpyTmhWWGNaSWhvUHJnWDRpa3VGNjJJREl5WlNfbUN2eDRHbHVMWnhXaUZuNmJPUlE?oc=5",
-          "source": "경북구미신문",
-          "sourceInitial": "경북",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-03T13:52:41.000Z",
-          "tags": [
-            "물가"
+            "농식품부"
           ],
           "price": null,
           "feat": false
@@ -368,18 +397,6 @@
           "sourceInitial": "fa",
           "sourceColor": "#333333",
           "publishedAt": "2026-10-04T05:16:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'식품 안전' 코너: 실제 생활 속 이야기가 VTV1에서 방송될 때.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkd2WmJxZHdjeDljeE9PdTJpUE1ZeEdlWEg0aGdTbE1Cc0VoOHlnMWR0cmY5bTJZMmV1YjhIS25mRHl5NTdLeUxEaFlnMHBMTGUxYTlSN0xCUGdQOUc4a2JrelBqVVNBN0hyOFhaWENBaFhoSDcyTjZOaWpmck1aUUQyemJ3dDRQTGp1Y0czR21kTjRqVVR6SlJfZHhqX19FYVQ0?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-03T14:57:35.000Z",
           "tags": [],
           "price": null,
           "feat": false
