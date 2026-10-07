@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:32:19.264Z",
+  "generatedAt": "2026-10-07T18:29:32.110Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 22,
       "items": [
         {
           "title": "외식 프랜차이즈 매출, 본사 4.6% 늘 때 가맹점은 2.6% 줄어(종합)",
@@ -126,7 +126,7 @@
         {
           "title": "프랜차이즈 본부 매출 3% 늘 때 가맹점 0.6% 증가 그쳐",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnc3gyQ1Z2OUhvQVRROV9iZGdZTFFTZkRQdnlFaF9GT0ZNX29IcVM0M2h2eDQ4alliZjVWeUZ1WDk0LVp6TVdkNGhOd3FaOUk5X0lwNWV2TTVEUUxMYmFvZDRaYloxWWxlU3fSAWpBVV95cUxQZ3N4MkNWdjlIb0FUUTlfYmRnWUxRU2ZEUHZ5RWhfRk9GTV9vSHFTNDNodng0OGpZYmY1VnlGdVg5NC1aek1XZDRoTndxWjlJOV9JcDVldk01RFFMTGJhb2Q0WmJaMVlsZVN3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fakFzZ1JfMDF1S001bTNKVHNiNlNLUGw0VTFRSWpIU2xKSlJ6V1FvTGM4X0hrWWFEdml4dW9RdjFYbTg1WnBUbEt0N245alFybV90RTFHcUxHekxMS3dHMHF3MWQ?oc=5",
           "source": "뉴스1",
           "sourceInitial": "뉴",
           "sourceColor": "#c15a37",
@@ -149,8 +149,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 16,
       "items": [
+        {
+          "title": "[이뉴스Live] ‘식품 원재료 가격 담합’에 고개 숙인 김찬호 CJ제일제당 대표",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8taFBjZjJ3dFI2ODFtZ3E4SlQtMFRSV2NWWTNDWWpSV3NleHBBWDhpMXUzanY3UEZmMkRTVTgxb3pqUXlSNmRMMkY4SmRCZlBuejJNV2V4d0lVVWRzbXQzdnM0MzA5dXRuQVFwNjhGcUpFN3B20gF0QVVfeXFMTy1oUGNmMnd0UjY4MW1ncThKVC0wVFJXY1ZZM0NZalJXc2V4cEFYOGkxdTNqdjdQRmYyRFNVODFvempReVI2ZEwyRjhKZEJmUG56Mk1XZXh3SVVVZHNtdDN2czQzMDl1dG5BUXA2OEZxSkU3cHY?oc=5",
+          "source": "이뉴스투데이",
+          "sourceInitial": "이뉴",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-07T13:15:07.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[2026 국감] 가격 담합에 고개 숙인 식품사…\"재발 방지 위해 내부통제 강화\"",
           "summary": "",
@@ -163,7 +177,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "북한 식량공급 그대로인데 쌀값 73.6% 폭등…“환율이 가격 밀어올렸다”",
@@ -248,20 +262,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "배스킨라빈스, 12일부터 가격 인상…싱글레귤러 10.3%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PZkI4SWhVelYtd1RSYWNaVG5zdXVKaTktT2JBX2ZEdVJmclJHall2a296Y0RiaUZWOWhvYzhwaDlWazlxRXoxMzBQWGpqTDJaRFZ6WGJFNG1FRDU2QXpyOEcya21Zc1c0RGpJR28wVHdZek5u?oc=5",
-          "source": "조세일보",
-          "sourceInitial": "조세",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-06T06:35:27.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -333,6 +333,18 @@
           "feat": false
         },
         {
+          "title": "강서농산물도매시장에 70억 원 상품화 시설…보관·소분·포장 원스톱",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mLTJwdzRyOUJtVi1RNXhYMzQ5RzFJRGpKQmZVbERMY1N0TUNiVjdoYU5YV2hyM1NVRTJtNDRoODYwdVJBd3EteWVDcFo2WVZDd3dfRGlpRzJMQ09mMm1GU2pxOW9YOS0wODBUVGt3?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-07T14:51:05.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "11월 15일부터 식품 생산 및 사업장은 24시간 이내에 추적성 서류를 제출해야 합니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTEyZWFOcGg4NHd1MlBCVl9LRHE2LUhFc2lCQlFjMWx1WTBXNURZNnFrTHRJWmttX0tFZ3lIT1lBZmhCdktvZFpscGVKdjFmNG9VSFJfQ0hiZDRNVjhGYzJoTkN2eXc0VnYwRHhkbWlWUzcwOEdZY2h1dlR4MGJNc0Y4eEs4dzVYNV9ianNrcEp5RVFHdHB3dy04LTIwOFJ6M3RvSldJamZwS1ZNeWZ1aG9YQnBGSkE4aVRNRGo0Q2U?oc=5",
@@ -367,18 +379,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "“K-푸드에 발맞춰 세계시장에 K-급식 시스템 가치 높일 것”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4X1ZhX3Fsb0hwVUNBQjFyaFlrX2NNZGlUaWJYZlFRQm9VSnVNSl9XcEdjZ2FWWExva3JGd3l5VFhTcllSd04zajhXaFNPYkhCREg2di1EVFZLa0ItbmhBbk9OZVRrekc1NE4wVWF30gFwQVVfeXFMT09zR3ZMUVZWNlVDLTdMcFpaenBObkpWdlFRTUdhb3ZiRUVqU0FNV1p2SmpyNjRSbUxiSlZ5NnhjcVg1eDR2TEpuOEtTS2xMUlEyOWdDQ0hOMDZjVXhZMUdGWXhqZDYzNDFNb3ZYS3M5Yg?oc=5",
-          "source": "중소기업뉴스",
-          "sourceInitial": "중소",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-06T01:35:44.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -391,7 +391,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 14,
       "items": [
         {
           "title": "식약처, 중남미 8개국과 식품안전 협력…K푸드 수출 규제 부담 낮춘다",
@@ -407,6 +407,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "IMF총재 \"고유가·공공부채·AI 투자가 경제 위협\"…물가안정 주문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13QTJGSGdQZ3ZDV0RFOS1mazFBdV9zSE41VHlDczlBTzBsT2swM1Jpa3pYcDlxSjhiQkFQWC1teGZyT2pONnhwdlcycXlBSEVaY3hIeDdmXzEwLWhp?oc=5",
+          "source": "https://spt.co.kr/",
+          "sourceInitial": "ht",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-07T12:54:28.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "식약처, 중남미와 식품안전 신뢰 강화하고 K-푸드 교역 기반 확대",
@@ -491,18 +505,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"도쿄엔 37일째 비가 내렸다\"…日 채소 흉작·인플레 가속 '파장'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pNnlwN3d5eTdaZmVzX0tOQXpmczNWYmlaZ1c1Q1J5RHhZanpwODlYRWozT0hvV094WERmbUpnSG1mWThfcU5qcXBwa0tzNDEtZENXaldlMVkxOTB0NmdhWW8zNNIBY0FVX3lxTE1pNnlwN3d5eTdaZmVzX0tOQXpmczNWYmlaZ1c1Q1J5RHhZanpwODlYRWozT0hvV094WERmbUpnSG1mWThfcU5qcXBwa0tzNDEtZENXaldlMVkxOTB0NmdhWW8zNA?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-06T06:08:34.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -540,6 +542,21 @@
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-10-06T08:07:16.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품·농심 ‘삼양1963’ 일본 출시·‘신라면 40주년 특별 신제품’ 선보여",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1TzJIaTJlQ24wN1g1RjJjMTM5a0M2a2ZwY3FseklrNkVqdDFtcTVsMlZvU2w3dklhSWIwbEtiOW1TU2hKR0FGV2dUdjh3VmFVbE41TU9mUV96RVJ5N05XMFVTTTg4QQ?oc=5",
+          "source": "여성소비자신문",
+          "sourceInitial": "여성",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-06T00:20:55.000Z",
           "tags": [
             "신제품",
             "출시"
@@ -597,20 +614,6 @@
           "sourceInitial": "청년",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-10-06T06:02:03.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼양식품 ‘삼양1963’ 일본 출시…농심 ‘신라면’ 40주년 한정판",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SkpsOVR3VmtFcmppOWVpenREbHJOUHdRTHM5UGlicXo1VkZxQzhVaXZBZzhYcWVyckNrOC12OXJXNHZmd0JlSTNhd0JwR0NpVmY5TjFKS0ZLX1dpdXJGQ2Vyd1lCTGhRNm1GTdIBb0FVX3lxTE9ZS1pGWUhZMzZyMTNicHhTQ1VQWHpXNHhybWN2VGRlZWswYnVyaXFFQXJuTk9ZMkpBV05KU2YtRjBpanl5cXhhbE01ZFJFUmZDWVJJQVlkeFM4amJqUmxGVFRiQXMyUXQ5Mk5VMHpHRQ?oc=5",
-          "source": "중앙뉴스",
-          "sourceInitial": "중앙",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-06T05:03:51.000Z",
           "tags": [
             "출시"
           ],
