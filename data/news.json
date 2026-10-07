@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:33:54.626Z",
+  "generatedAt": "2026-10-07T11:32:19.264Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,12 +16,12 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 20,
       "items": [
         {
           "title": "외식 프랜차이즈 매출, 본사 4.6% 늘 때 가맹점은 2.6% 줄어(종합)",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ZEdaMWlEOHdfMzUzTHV0TjhqVERoSkNsMndKM0hkNDFXa2pGMktwdDlPWlJKM3NNcklQanpOemJRd0wwcUVBV2o5OTN2dWh5STN1QVIzTkQ3Zjk1R0hWZ9IBYEFVX3lxTE91ZEdaMWlEOHdfMzUzTHV0TjhqVERoSkNsMndKM0hkNDFXa2pGMktwdDlPWlJKM3NNcklQanpOemJRd0wwcUVBV2o5OTN2dWh5STN1QVIzTkQ3Zjk1R0hWZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTlRNREtZcFN4RVJZbTZCTzVVYzJiSXZFZDBmbzdEVmJETHdNMlR4aklMNnQ3M1paZU9JN3o4U2ZJSE0yQ2JjNGxMcC1kQzVUWWxWVEtqRGZwVjDSAWBBVV95cUxPdWRHWjFpRDh3XzM1M0x1dE44alREaEpDbDJ3SjNIZDQxV2tqRjJLcHQ5T1pSSjNzTXJJUGp6TnpiUXdMMHFFQVdqOTkzdnVoeUkzdUFSM05EN2Y5NUdIVmc?oc=5",
           "source": "연합뉴스",
           "sourceInitial": "연",
           "sourceColor": "#1a4d8f",
@@ -149,21 +149,35 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 17,
       "items": [
         {
-          "title": "북한 식량공급 그대로인데 쌀값 73.6% 폭등…“환율이 가격 밀어올렸다”",
+          "title": "[2026 국감] 가격 담합에 고개 숙인 식품사…\"재발 방지 위해 내부통제 강화\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSLW40Uk5ZSU0wTnc4TWRnUVVQVS1RX3Baa2p1SzVDY0VTZkFqQlVFSW9OQjQzeHp3SnVZck5UVG5qcmVYOF9DUWhvY00tUnVCOWJETjhR?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-07T01:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EWW82X3ZTN0dHUG1aVGFSUVhKaVVNVlBZMmJvZE9QNVhHY0dkVnpKc3dVVVF1b1dIWnp2Vmo5VmhxUkZtV1J6dTBuTEhGNWFlZW9WS2kxbHExOFJ2R1ZJZkQza0QtYVl6?oc=5",
+          "source": "뉴스포스트",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-07T08:09:30.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "북한 식량공급 그대로인데 쌀값 73.6% 폭등…“환율이 가격 밀어올렸다”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiNGIzajR2Vk9qX2FTY1o2OXdMb1ByandxRUh4TWpfZTh4aGFXcUtSR05iaUlKZ1hoYnhQUDE3NkR5ZERwTXc?oc=5",
+          "source": "Daum",
+          "sourceInitial": "Da",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-07T01:31:47.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "된장 가격 1.5배 올랐다…1년새 껑충 가공식품, 추석 지나 '줄인상'",
@@ -180,23 +194,9 @@
           "feat": false
         },
         {
-          "title": "[2026 국감] 설탕·밀가루 담합 후폭풍…식품업계, 국감서 '가격 신뢰' 시험대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lbkRVbkJSMlNpZG8xYklqc2NzNEdEb3RObnlXLVE2amoya05hdnlTRFhvRkFYWENIWDQ2TWtoamNCT2RvbTlydlVRNU9mUHF1Q2FJUzdJR2NUdE1VcE0wSWtCQ0JFQlZLcXpzOHZkQzbSAXRBVV95cUxOMWhqeGlBRGNzZFROTjVRajBCcnZmbTQ2VVZYTFd6Rk5UZXhVcUlSSzN1WnBadzZWTlRUS2gyQmNjOGswMGxwX25RQm90ZDJiVnlnbVNaamF4OS15cHZ4Rk90S0UtMFludWpraVZ0b0FxQTk5bg?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-06T17:10:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "세계식량가격, 3년 10개월만 ‘최고치’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95NEhicnBpSTFDY0pCYjhXbWhTMERKXzF1Y2NiOG5YcUwtNlltNVM5eFFZRFJ0SThWU3hlYUNRellXSEZEN2V6Mk9memxPZ0ViQnlPMk1zZ1JnYVQ1TXVNQ2VCajdRUFB3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jZ2kwN3dzOUY0RXFydXlELUpFVzZuVjQ3LXBsNUo1U1o4bTVRLWMxUUtmMTJLTlg0RUp5ZjBpRklCYnJ2S2U0aGFjNjFiRC14MnYwRjJNbFpFYzNjNUxXVnkzZ0hqY0tmS1E?oc=5",
           "source": "대한급식신문",
           "sourceInitial": "대한",
           "sourceColor": "#b03a6a",
@@ -274,7 +274,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "[유통레이더] 농심, 쿠팡, 시몬스, 골프존, 이브자리, 뉴발란스, LG유니참 外",
@@ -289,6 +289,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "순대 산업, 원재료·위생·유통 관리 중요성 커져…병천아우네식품의 28년",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sdXBnM09tWVVPdS1CRjYzcE00aFNfSUpBOE5Nc041NWFvandaUGczRlp0VXZDV3NWSXBaeDUxQUR3LWk4cm1Vbm5DNWM5dzlMUnhON0RHbTE0UEpUQVFvMGlwZUxjekJBMEJ4Uk1wc0VfMDVUZnc?oc=5",
+          "source": "기업경제뉴스",
+          "sourceInitial": "기업",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-07T01:55:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[유통갤러리] CJ프레시웨이 아이누리, AI로 영유아 식습관 관리 돕는다 外",
@@ -315,6 +329,18 @@
           "tags": [
             "유통"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "11월 15일부터 식품 생산 및 사업장은 24시간 이내에 추적성 서류를 제출해야 합니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTEyZWFOcGg4NHd1MlBCVl9LRHE2LUhFc2lCQlFjMWx1WTBXNURZNnFrTHRJWmttX0tFZ3lIT1lBZmhCdktvZFpscGVKdjFmNG9VSFJfQ0hiZDRNVjhGYzJoTkN2eXc0VnYwRHhkbWlWUzcwOEdZY2h1dlR4MGJNc0Y4eEs4dzVYNV9ianNrcEp5RVFHdHB3dy04LTIwOFJ6M3RvSldJamZwS1ZNeWZ1aG9YQnBGSkE4aVRNRGo0Q2U?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-07T07:18:03.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -353,30 +379,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "국·탕 조리로봇 도입… 급식 운영 전반에 AI 적용",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LemVvZGRfRHI4Nk5yOXI3a21vdnhWSFo3dWNwaTJGU2VUcHBKM3kwekYtd0pQNnVrWWt5YXllcWtnUnJMbzBLM00wMG1abjZhRnp6cEduLXF6RzNvRDJwc2ZUX09QMjBvODhiWnVCcllYZW1fc3RnbQ?oc=5",
-          "source": "조선일보",
-          "sourceInitial": "조선",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-05T16:18:45.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[데이터] EU 음식폐기 73%는 소매·외식·가정…‘30% 감축’의 대상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10ZkVIQkVuV0hMUk8xUW1SX2pnUmttMlIwdThyMmtnSmR4TlVyLTdvQ2hfSWF5RHU2UlZvWk5mVDdaSWZKUWlTUF9uUEpaMmJYMXo2VkR5ZF96ZWo5WmsxdXNIWXlWUQ?oc=5",
-          "source": "비건뉴스",
-          "sourceInitial": "비건",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-05T08:37:20.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -392,6 +394,35 @@
       "total": 10,
       "items": [
         {
+          "title": "식약처, 중남미 8개국과 식품안전 협력…K푸드 수출 규제 부담 낮춘다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sOU9qZE1ud1BpdzFwWHd3VUVMZFUzMnVqcDYzc3ZRc3JOWXAwTjJtUlZ5MHpheW5Yc2xHdENwOGlRZVgyRGdhRUxhOTNhZ2VpMWhndQ?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-07T08:23:00.000Z",
+          "tags": [
+            "규제",
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "식약처, 중남미와 식품안전 신뢰 강화하고 K-푸드 교역 기반 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hczBycmdqcDlzUkc5ZDRjcHNFeFRpdF9UVWhPdW00c0JZYl9seVRCSXdka0dJY3laOW8xa3FvOVJJNWgzWnR5eUxxZmxvd2Q4T3A4NnRvQmF4YW5icUdUclNmUFA5Y000XzZLbw?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-07T05:14:07.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "K푸드 비관세 장벽 낮춘다.. 식약처, 중남미 8개국 식품 안전 협력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1waEVzQ2RsNWpBamNQOXN3QUhNYzJqaVU4QkFkbi1KdkpON1FLdmJkcEdVWXdsNm1JNGlZZzQ1YnRYNXdNQjE2TkZ5VHBmMzQ?oc=5",
@@ -403,7 +434,7 @@
             "식약처"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[바이오스냅] 식약처, 중남미 8개국 대상 식품안전 연수",
@@ -422,27 +453,13 @@
         {
           "title": "9월 농축산물 물가 1.0% 하락…농산물 4.0% 내려",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTHZYQk1DUUxPa2VlQVNzb3h2T1NxZUpGcTFjdW1rbGxicTRweDJiT2dYV05vU0tmeU9FV3Bnc0ZkeWQ1TVR4bUVyN2VjaE13QmhOOGIyV2tFS3NLYXRtNGlyMjBBckNh?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wSFl5UkJNeElMQVM2akgtYnZoS0lVc3FrVW53U1duclpJOXBBUkZKYm1NV2Rzak9ZQjl5djg3X1lqY0xYb2ljWG5EWlp3VU1NMzN0R285Ukp0Wkh0dnhpUDNxcFJYYjQ?oc=5",
           "source": "축산신문",
           "sourceInitial": "축산",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-07T00:41:13.000Z",
           "tags": [
             "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중남미 식품 규제당국 한국에 온다…K-푸드 수출 규정 직접 수렴",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PX2ZPeFlLOTZDdldEYXVIc0VseG1hUGxRWGNEYW00czgxU0JuZFh4SzhfMy1RaHlCcHBtTmZOTWpRSHNud2NjaGwzdUtudVkxZjdhWm9Sd3BhOVdLNktxMWZ5VTdvWEhLNXdRMw?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-06T23:44:53.000Z",
-          "tags": [
-            "규제"
           ],
           "price": null,
           "feat": false
@@ -464,26 +481,14 @@
         {
           "title": "9월 소비자물가 2.9% 상승…한 달 만에 2%대로 둔화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3ZzExNGRhRTBXdEpKeHJmR2RzU0t0SjFYZEMxd1N6N1VwZk4zRGMwVFpPYkllOVhnUFU0RzItYXZENXVoRTZNVmdaUWRCOXFoUWdQT0dmR2xmcGZCS3NoRHh4ellNSy1jaGlYRtIBcEFVX3lxTE54bE01SlpPSVByZ3M5MW1jTS1falFGZGFyRHNFd29LTWNtbE5PNkpBZENiMjFxR3lCMElLZDQ0U09xWjBNTGFCdEJlVURTY3NpMHF5eU9xV3ZJVUxOcEZwZ1lBbnVYbmVGUnQ4TUc3bVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54bE01SlpPSVByZ3M5MW1jTS1falFGZGFyRHNFd29LTWNtbE5PNkpBZENiMjFxR3lCMElLZDQ0U09xWjBNTGFCdEJlVURTY3NpMHF5eU9xV3ZJVUxOcEZwZ1lBbnVYbmVGUnQ4TUc3bVXSAXBBVV95cUxOeGxNNUpaT0lQcmdzOTFtY00tX2pRRmRhckRzRXdvS01jbWxOTzZKQWRDYjIxcUd5QjBJS2Q0NFNPcVowTUxhQnRCZVVEU2NzaTBxeXlPcVd2SVVMTnBGcGdZQW51WG5lRlJ0OE1HN21V?oc=5",
           "source": "포커스경제",
           "sourceInitial": "포커",
           "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-06T02:44:21.000Z",
+          "publishedAt": "2026-10-06T03:07:04.000Z",
           "tags": [
             "물가"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "중남미 8개국과 식품 안전 맞손…K-푸드 수출 기반 넓힌다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HWmk1YlU0S2hWMGJzLXlLM2VnNVhCUkVzTXFRWGdUTmtzZDFOMmZ3OUEwQ0hvVDdWNkhwT0VueERhTUwtWW5fZjItNjkzV3VKQmc1dmJ3d9IBV0FVX3lxTE9HWmk1YlU0S2hWMGJzLXlLM2VnNVhCUkVzTXFRWGdUTmtzZDFOMmZ3OUEwQ0hvVDdWNkhwT0VueERhTUwtWW5fZjItNjkzV3VKQmc1dmJ3dw?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-06T23:26:05.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -510,7 +515,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 14,
       "items": [
         {
           "title": "신세계푸드, ‘우정 양곱창’ 볶음밥 간편식 선봬…특수부위 HMR 공략",
@@ -543,13 +548,13 @@
           "feat": false
         },
         {
-          "title": "[현장] 450회 실험 속 태어난 '역작'…삼양식품 '짜르르', 출시 한 달 만에 시장 안착",
+          "title": "“짜르르 출시 100일 만에 1000만 개 판매”…삼양식품, ‘넥스트 불닭’으로 우지 키운다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0REpKZmdsMkozMHYybEpWTzNfOElwWWtQZkczeFQ5LUk2Wjk5dXBJOVU5VmRfZld6Wl84V2RYZG5wSzh4Rm9mM0x4WEZHWHE2YW5NS1k1ZGQxMzFuYWV4d2FJUGV4bTFqYmc?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-07T02:20:41.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUGJMeGRjYmxtMi1OdHFBRDBfY2NIeXRpRkN0UDJHX1NlbjNkTmNFWUViSWZTZ19QRlhaeVVHeFNGU1hiNVhBTXhpOUVJNDRSa0tYMnB0STRJV24zWWVBNi1oNmR2UdIBZkFVX3lxTFBOUGJMeGRjYmxtMi1OdHFBRDBfY2NIeXRpRkN0UDJHX1NlbjNkTmNFWUViSWZTZ19QRlhaeVVHeFNGU1hiNVhBTXhpOUVJNDRSa0tYMnB0STRJV24zWWVBNi1oNmR2UQ?oc=5",
+          "source": "동아일보",
+          "sourceInitial": "동아",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-07T05:12:19.000Z",
           "tags": [
             "출시"
           ],
@@ -557,15 +562,15 @@
           "feat": false
         },
         {
-          "title": "SNS 레시피가 신제품으로…식품업계, 소비자 아이디어에 주목",
+          "title": "[현장] 450회 실험 속 태어난 '역작'…삼양식품 '짜르르', 출시 한 달 만에 시장 안착",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlTU1jTGd3YXY1cVdWTzhKYjFvWTNWTS1TakFOWUFuc0J1UmExUzAwR0F1VW14TkwzS0hNY2V0bUE0NnNId3otd2wyWk5VN0xiQU5ndllGUUwybGp1eWhrVmMyTjRtbTBCdGh2Mg?oc=5",
-          "source": "미래경제",
-          "sourceInitial": "미래",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-06T07:04:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QMVBzQm9ULUllTDVWaUFsZjJyQ1FOTGlodXR2ai1hTTBxb1ppNlFaNUV1SUZaQlZzYjJnSmJlendxLWlYU3BOcnVaalJlY2N6SnJ6MzR6aW1tRUowbHo4SGZRZmx0bWs?oc=5",
+          "source": "청년일보",
+          "sourceInitial": "청년",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-07T02:20:41.000Z",
           "tags": [
-            "신제품"
+            "출시"
           ],
           "price": null,
           "feat": false
@@ -613,13 +618,13 @@
           "feat": false
         },
         {
-          "title": "[만났조] 채해영 삼양식품 상품본부장 \"짜르르 1000만개 판매 … '우지 유니버스' 확장\"",
+          "title": "삼양식품, 침체된 짜장라면 시장에 ‘우지’ 승부수⋯ “450번 소스·300번 면 배합”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iT0ZhMFkweUVSdlM3bFh2LTdKQWt1bWNXemtDWlZOQW01NFA1SGJfbmVqVmdfQXhmQkswV0YtS2xjcC1KT2QzWkZhdmlnUHdqb2VtbngxRlkzalBJR194MnRkQXRXYjlGVU5ZWHVQLWZVNmllVlE5bFpUNNIBgAFBVV95cUxOQ2RNLWdWd0pSdHFxNGVaRUY5UUNHNHZYa0ZIZ0Z6Vy1VS051bHVLTTJyTzI0OEZuVE5rUFh0MlI2S3VKdHNRUno5Z2Q1Zk9HVVd3c3JYZUVmNkNqVW54R3o2SWhlbTlBS3dYVFlpSUs1MXBCcVE2NDJGcDkxMmNIZQ?oc=5",
-          "source": "뉴데일리",
-          "sourceInitial": "뉴데",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80VkJ6ODJISG8xZnFFV21uOFBYbXh4NHB5c1hwLTRyNHR6T0JOMHUzbTdLZDdILXZKOFgzQmdsWEJEY2wxS1NyN0M4cFM0ZWJVbS0tV3FDMUpVZw?oc=5",
+          "source": "브릿지경제",
+          "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-07T02:30:20.000Z",
+          "publishedAt": "2026-10-07T08:34:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
