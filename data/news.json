@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:29:32.110Z",
+  "generatedAt": "2026-10-07T23:16:20.857Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
           "title": "외식 프랜차이즈 매출, 본사 4.6% 늘 때 가맹점은 2.6% 줄어(종합)",
@@ -109,13 +109,13 @@
           "feat": false
         },
         {
-          "title": "프랜차이즈 가맹점 매출 ‘제자리’인데⋯ 본부는 3% 가까이 늘어",
+          "title": "프랜차이즈 가맹점 매출 2년간 0.6% 증가 ‘제자리’…본부는 2.9% 늘어",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mdWR2SnBRWVBYQlZia2dnZ0EzSC1mNzAtYXJNdjVGYzMzSzlqZmI1Y3JzQTNoay1aZzJVR0dfQk1FQXVmX2s3QTRidHdmTElxdEptOE1EaFhLUQ?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-05T22:54:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53cldFYzhqU0xHQWhfR2h6T2d0NTRocmFBbEIycHFqR0xkUUtWeWtkTHZpY1c5UWp0MTZ5RXk5YzJDMFRlTng2cUxzMC0yZzc3Z0gza0ZGVnhrN2Q0YVVvTm5CSTk5SVhWeDZF0gFvQVVfeXFMUDY0bjZJTU9WMkJHMnlzZkt1RUdWcDlmc1ZLeFdEbG1XQlNHWUxoUXczNUFZdkg0VnpQUHFMVkY0OGFVRWxrQ0ZTSjVWQXlpd2VCYVAtaGstYWlFSnZsbXlkcjZObU0wYTlfTG8tUlJ3?oc=5",
+          "source": "연합투데이",
+          "sourceInitial": "연합",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-05T23:50:33.000Z",
           "tags": [
             "프랜차이즈",
             "가맹"
@@ -124,16 +124,15 @@
           "feat": false
         },
         {
-          "title": "프랜차이즈 본부 매출 3% 늘 때 가맹점 0.6% 증가 그쳐",
+          "title": "[ 2026년 10월 8일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fakFzZ1JfMDF1S001bTNKVHNiNlNLUGw0VTFRSWpIU2xKSlJ6V1FvTGM4X0hrWWFEdml4dW9RdjFYbTg1WnBUbEt0N245alFybV90RTFHcUxHekxMS3dHMHF3MWQ?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-05T21:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeEpnWERDMHR0OXpvSHNjcmJkS1g2dWliUjlRTnlXTHZ6WFdsUWxWNlBXREM5ZGpiR0Y1el9CbkIxZ01CVWZkM1cxbmFiWWhkTFcyM1FhSXlJU3FIRUFjMjVjSWFtNWViS0dtbC1TdHVEakFfT1VOdnZNVDluN3RCTTZfYzVKMGViUkpvakNn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-07T15:58:30.000Z",
           "tags": [
-            "프랜차이즈",
-            "가맹"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -149,7 +148,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 14,
       "items": [
         {
           "title": "[이뉴스Live] ‘식품 원재료 가격 담합’에 고개 숙인 김찬호 CJ제일제당 대표",
@@ -391,7 +390,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 14,
+      "total": 12,
       "items": [
         {
           "title": "식약처, 중남미 8개국과 식품안전 협력…K푸드 수출 규제 부담 낮춘다",
@@ -407,6 +406,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "\"식탁 물가 잡고 원물 확보\"…롯데마트·슈퍼, '첫수확 찰진8곡' 선보인다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNNmlTNnBnbER0bm42ZDN0US1vcWhNWF90ZzBZdmFWU0NfWGx5dGlrNGRHNm02T0hscFh6M2NaamhhejhvTk5qbU1CQk95NlVaWlByTWZIcUxOaHFiRGxFaTdlcXpCZjczcnl1YWJ4WlY?oc=5",
+          "source": "www.thefairnews.co.kr",
+          "sourceInitial": "ww",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-07T22:39:36.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "IMF총재 \"고유가·공공부채·AI 투자가 경제 위협\"…물가안정 주문",
@@ -444,20 +457,6 @@
           "sourceInitial": "Da",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-07T02:46:31.000Z",
-          "tags": [
-            "식약처"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[바이오스냅] 식약처, 중남미 8개국 대상 식품안전 연수",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qS2hOREJOMmFDMlE3MVFOQTVBbnpibjUtNVJjYWY0eG9oQ2VhZnNVcURlN3VuV19vVC1Fb0gyTHpVSzRnOWVIN1gwd3pURWthRFBLNnhxUXRUbXNqUzMyRNIBYEFVX3lxTE9qS2hOREJOMmFDMlE3MVFOQTVBbnpibjUtNVJjYWY0eG9oQ2VhZnNVcURlN3VuV19vVC1Fb0gyTHpVSzRnOWVIN1gwd3pURWthRFBLNnhxUXRUbXNqUzMyRA?oc=5",
-          "source": "연합뉴스",
-          "sourceInitial": "연",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-07T01:36:24.000Z",
           "tags": [
             "식약처"
           ],
