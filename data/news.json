@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:30:31.682Z",
+  "generatedAt": "2026-10-08T22:58:36.816Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
+        {
+          "title": "프랜차이즈 점포 평균매출 2년간 0.6% 늘 때 본부는 2.9%↑…외식업 격차 가장 커",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tQzBHV21QY29zeXQwUmlNckdTZmJiazR3Z2tiRFhxd0RyN1RzeUY1Ykw4V3gwS3JyTG96MkEzQ0dXX3BOdzFiT1o5TVJORmxFUjZFdTZjcnNKdklxTVp3dUhxVWVsRmVCOS05V1ZsbGg?oc=5",
+          "source": "리더스팩트",
+          "sourceInitial": "리더",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-08T19:07:38.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[2026 프랜차이즈 실태①] 치킨 가맹점 정체…노랑통닭 210개↑ 멕시카나 116개↓",
           "summary": "",
@@ -31,7 +46,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "\"38만 가맹점 보험료 부담 줄인다\"…프랜차이즈협회, 공제조합 설립 '시동' - 머니투데이",
@@ -77,20 +92,6 @@
           "feat": false
         },
         {
-          "title": "DB손보·프랜차이즈산업협회, 공제조합 설립 MOU 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12ZW1PUEZSdTdoY292enpMZXE5dTZDNTBkRnFESVFmbUtHcURkWDlnSmgwLWhWaWdZcXVCWUhUeUNoQ0YzNTVfVzBTay1YWWVtM0o4SGRkWGtXTVNwcXdBRHFtUkJWWEFlOG1N0gFuQVVfeXFMTnpua21tamdkVjN5ZFp3ZWhUVWxsWEF0N2FxdGZMSmJ4cG04RjFqQk9NdzZOTHVyVHFuUEs5ZXA0TGFGVWNTQ0dXZ0k0YlRiY205U3B4UTVrQ0JybWZfT216XzMxVEFaYlhxNTVjUnc?oc=5",
-          "source": "뉴스드림",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-08T02:27:06.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "프랜차이즈協, DB손보ㆍ단체보험연합과 프랜차이즈공제조합 설립 협력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01aHl5aFNQTTRhZ1R1SUNuMFZwOVJfLUNEdU5IWExnTzZPb3lWcjhMYjJzQ1FXREZpWEo3S1RMTnJRWndiYzZCQzVOdFhKeUlkWDg1QVZadVdwVEhSSHNoTEE5OVZYZU5vYXlFbTJB?oc=5",
@@ -105,13 +106,13 @@
           "feat": false
         },
         {
-          "title": "교촌도 일본 간다…K-프랜차이즈, 해외서 ‘제2의 성장판’ 찾기 분주",
+          "title": "DB손해보험, 한국프랜차이즈산업협회와 프랜차이즈공제조합 설립 협력을 위한 업무협약(MOU) 체결",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dUJPYjNjU3UybTNPVFp2aVRzVFVXRDVpS2NJUUxqSlVZci1qQWVSNUNoMEFuYzhqWUZoRWpJZFVFUWFqNXFxZnRic2hpMjl3akFZSGlqMk85Umt4Y011ODQ1M3dvN0NI0gFoQVVfeXFMUDR1Qk9iM2NTdTJtM09UWnZpVHNUVVdENWlLY0lRTGpKVVlyLWpBZVI1Q2gwQW5jOGpZRmhFaklkVUVRYWo1cXFmdGJzaGkyOXdqQVlIaWoyTzlSa3hjTXU4NDUzd283Q0g?oc=5",
-          "source": "경인방송 뉴스",
-          "sourceInitial": "경인",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-07T23:21:18.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fWlNGRWgwSC1zVU54ZmVjd3hUNHJvblVKOUR2NUdDRjdOQjBHc3RxSXozblpFY2R4UUpuNHBzODFhbjlWdjh6SExsa0N4Q3RibnAyTmJGZ0FHdw?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-07T23:43:27.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -119,13 +120,13 @@
           "feat": false
         },
         {
-          "title": "푸라닭치킨, 라오스 진출 추진…마스터프랜차이즈 MOU 체결",
+          "title": "교촌도 일본 간다…K-프랜차이즈, 해외서 ‘제2의 성장판’ 찾기 분주",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2NaZG01Rm5OMGFWazIyZzBiRzU2aWZSOVg1NjIzbDd2S0NlcHNneHp4SEN5NTIxLUF2WjdheDNVcUdhZ0tlUFF5dkJhaWl0Z0N0d3l5SjJUWF9YMWotRTRRS21MNV9VUElvLTRyTlozaWphbW0xSzVfZDJ1UDNuY3ZTQ05aaHBTek9KbG1n?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-07T12:08:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dUJPYjNjU3UybTNPVFp2aVRzVFVXRDVpS2NJUUxqSlVZci1qQWVSNUNoMEFuYzhqWUZoRWpJZFVFUWFqNXFxZnRic2hpMjl3akFZSGlqMk85Umt4Y011ODQ1M3dvN0NI0gFoQVVfeXFMUDR1Qk9iM2NTdTJtM09UWnZpVHNUVVdENWlLY0lRTGpKVVlyLWpBZVI1Q2gwQW5jOGpZRmhFaklkVUVRYWo1cXFmdGJzaGkyOXdqQVlIaWoyTzlSa3hjTXU4NDUzd283Q0g?oc=5",
+          "source": "경인방송 뉴스",
+          "sourceInitial": "경인",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-07T23:21:18.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -317,20 +318,6 @@
           "feat": false
         },
         {
-          "title": "편의점 라면 유통, 동네 슈퍼 제치고 1위 올라",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Jd3l0NUJvblpqQmszN1pFZE1NUWpUVFk4VDJUOEtkY0ttWFFBbG1VZHFCVUNCQTVsaVFNVDFwSE9Od1BXYUlKVE1tNmVBTlJZbmJVSW1abUdJajBuTGpKVTdWbW00WHlkd19PemZ0aw?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-06T22:54:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "수원특례시, 학교급식 식자재 공급업체 불시 점검… 10곳 모두 ‘우수’",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xOEx0UGNMbEExb1RLV3JIV0xDbzhaU1BweE9NMXZVZjc0MWxlWDZjZzdONy1tM2xhOHRSSjdCeUNSTkxRcUFRRDFZYzRoUU5lLTFpNHBGRG5udmNwTFNhenNwM3FEazRIeW5J?oc=5",
@@ -338,6 +325,18 @@
           "sourceInitial": "투데",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-08T08:34:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "메가커피, 버거킹 인수 검토...F&B 인수합병 '큰손' 부상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydHJhWFp6UUQyNy1LM19KQ01ucFFrT1pEb2VEM0xzTjBQakhEVmhkRXktNGk5bVNjdlhKTkY4SjBGdkI5WUFvZkcwWHg3RjZDUFVDOXhRS1hJa010RWZCWmhCem80LVlUZlhVZg?oc=5",
+          "source": "생생비즈플러스",
+          "sourceInitial": "생생",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-08T07:00:23.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -389,7 +388,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "식약처, 중남미 8개국 식품안전 협력 확대…K-푸드 수출 규제정보 공유",
@@ -435,20 +434,6 @@
           "feat": false
         },
         {
-          "title": "IMF총재 \"고유가·공공부채·AI 투자가 경제 위협\"…물가안정 주문",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13QTJGSGdQZ3ZDV0RFOS1mazFBdV9zSE41VHlDczlBTzBsT2swM1Jpa3pYcDlxSjhiQkFQWC1teGZyT2pONnhwdlcycXlBSEVaY3hIeDdmXzEwLWhp?oc=5",
-          "source": "https://spt.co.kr/",
-          "sourceInitial": "ht",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-07T12:54:28.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "K푸드 비관세 장벽 낮춘다.. 식약처, 중남미 8개국 식품 안전 협력",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1waEVzQ2RsNWpBamNQOXN3QUhNYzJqaVU4QkFkbi1KdkpON1FLdmJkcEdVWXdsNm1JNGlZZzQ1YnRYNXdNQjE2TkZ5VHBmMzQ?oc=5",
@@ -477,16 +462,14 @@
           "feat": false
         },
         {
-          "title": "농지조사 후속대책·CPTPP 피해보전…농식품부 국감서 따진다",
+          "title": "계란값 한 판 7천원 대로 상승… 산지가격 하락에도 커지는 소비자 '부담'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmtYMHpnV1hwOW9CczF3OFRwaVFSVENYUzZtVTh1Um9SS0JCSUVQQnRRekc3U2V2eHB6OXE4TEEtZzAtZlVBRGpEY1hnQTlFQ2N4WkpxRnZ5WFB3LXV5WU4xNlVNdlNJT0taeGktZGttLWVQeVJ5aXVQdy0zaTJweA?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-06T20:00:23.000Z",
-          "tags": [
-            "농식품부"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zNEVzU3pUdHdnUEZ6SmJvYTA3cHh2SW95Wm1WMDVfeTd2OGI2eGpfT0R2OEhwMTMxVl9EeXNTRVlQNDNHdTVDQkNGbllwX0JRNHhhOGpHdnBmX3hTdC1mS1JfRG9VajN1QWRIRVAtdkh0Qjg?oc=5",
+          "source": "경제시그널",
+          "sourceInitial": "경제",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-08T19:00:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -498,6 +481,18 @@
           "sourceInitial": "시사",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-10-07T09:31:14.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'올해는 김치 사 먹을까'... 무값 32%, 새우젓값 23% 올랐다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MYS1Kc01faWV2eWtqMW1HcmVCSkt3N1ZfdWlXdDNTZ29QT3c0TXBFNnAxRE80MFdKNmk5cmYyeUVIRUVhVFFsTC1sSXJQTDduanhMMFVzTEVSenAtUE9tV3o4b0J5dw?oc=5",
+          "source": "부산파이낸셜뉴스",
+          "sourceInitial": "부산",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-07T09:25:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -513,7 +508,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "바디프랜드, 건강기능식품 신제품 3종 출시… 6종 맞춤형 라인업 구축",
