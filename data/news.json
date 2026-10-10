@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:32:12.455Z",
+  "generatedAt": "2026-10-10T08:08:27.444Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "가맹점 100개 만들려면 본부부터 바꿔야…맥세스 CEO 34기, 프랜차이즈 본부진단 지원",
@@ -34,6 +34,21 @@
           "feat": true
         },
         {
+          "title": "DB손보, 프랜차이즈공제조합 설립 지원...가맹점 보험료 부담 낮춘다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpa21PQzhESThhSVotMS04azl1N0k3VUlVTzdHRzAzYkdULVQ1c3JVV3RJcVlGOE9mQXh2Rzd4YWVjSTlWeHllR2lNS1J2Rl8zWjJ1V3JEWjMxOE5OWG9jN24wemtudWRVQ3VwbmpSNNIBb0FVX3lxTFBpa21PQzhESThhSVotMS04azl1N0k3VUlVTzdHRzAzYkdULVQ1c3JVV3RJcVlGOE9mQXh2Rzd4YWVjSTlWeHllR2lNS1J2Rl8zWjJ1V3JEWjMxOE5OWG9jN24wemtudWRVQ3VwbmpSNA?oc=5",
+          "source": "더퍼블릭",
+          "sourceInitial": "더퍼",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-09T04:03:48.000Z",
+          "tags": [
+            "프랜차이즈",
+            "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "프랜차이즈 점포 평균매출 2년간 0.6% 늘 때 본부는 2.9%↑…외식업 격차 가장 커",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tQzBHV21QY29zeXQwUmlNckdTZmJiazR3Z2tiRFhxd0RyN1RzeUY1Ykw4V3gwS3JyTG96MkEzQ0dXX3BOdzFiT1o5TVJORmxFUjZFdTZjcnNKdklxTVp3dUhxVWVsRmVCOS05V1ZsbGg?oc=5",
@@ -49,36 +64,6 @@
           "feat": false
         },
         {
-          "title": "[2026 프랜차이즈 실태①] 치킨 가맹점 정체…노랑통닭 210개↑ 멕시카나 116개↓",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Wd0FBQl9vQkRyVEJfMGpCMGlFTFRONThydU1xcWVhUlpFWTVVUFJKRG1xcUstZlpSQ0Y2VWJCaV9UczF6RHF3bFZaVlYwTXNHTHdlSG9IdWlPTHA1ZHljMDRRbnM1LUNTWjBTNkxoS1o?oc=5",
-          "source": "리더스팩트",
-          "sourceInitial": "리더",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-08T02:00:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"38만 가맹점 보험료 부담 줄인다\"…프랜차이즈협회, 공제조합 설립 '시동' - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FbkdXYXBodWZTYlZ5M09fS1QxZFNKYW9GWnJ2amxFUTdQUHg0cmFxUGN6M3BZNWJwS05OQmRZQXRmSUMwT21hcEF3ai1fZWNLR0FyOXFWVXUxZDFjdW1mNGxjeEc1UTdIcEHSAW9BVV95cUxPd1FLcmItSF82Yy1NWEtZMzFxLW1Yem9OX0FVcWFHb2xrekdyQ01nb1diRklMWHVROWN3SjFjYkNyY0J1RnFVYWRwZFJFMmFsQzhJTVV6OEZMbTNYeTcxRFd4dkZNdUpsMElFbjlOZ00?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-08T01:35:30.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 10월 9일 (금) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ21TYkRjYXByZkV6NHFfVU9lNng3TFJHV0cxX004eWV4QTJvSjdvamRoV3plVFlLdVlOWFdNNjJpZ01WRjNTVFhyVlVjWGgteU1zbkFHVmpJSHY3YnRvNkpfbjB5bnhZaE1na3BmUFNxck9nZksydXZ0V0lfVkNCdU4zd2hpNmNKanAxaE1R?oc=5",
@@ -86,6 +71,20 @@
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-09T18:55:26.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "DB손해보험, 한국프랜차이즈산업협회와 프랜차이즈공제조합 설립 협력 MOU 체결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tUXpONlhzUGFzNWtiNWU1RXhITVNYckQ4QjB5eWxBZC1XRUNfVUhERXVPYjc0dlFkdkJkUllTT1p4ZFRzQTZqVWVhcGN2b1pwcTZhNmlxMVFRR3dkTjJiOG5xRGVkYVZTQXpN?oc=5",
+          "source": "마일드경제",
+          "sourceInitial": "마일",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-09T01:56:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -107,6 +106,20 @@
           "feat": false
         },
         {
+          "title": "“치킨이 왜 작지?”…같은 메뉴도 무게 30% 차이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycWNJR3RsTm03ZThDc28xNko2U0FMQS05c1k2SUxPT1FVTlJ4a1cxTXk0SnhQTGRwem15Y1NMbUFLaDU3THk5QXhaT0RDQXNYZEdyM3pwTllfVTJKVXRCLXFIYXNxckZORGZ3Vw?oc=5",
+          "source": "한경매거진&북",
+          "sourceInitial": "한경",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-09T00:56:00.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[치킨브랜드 열전-BBQ] “K-치킨 선두주자...2030년까지 5만개 매장 '목표'”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85NzdRallMOWM2SGZ1bzBXOXd4c3AzemJvTHNIdl9yRmd0U2ZpUVY4aGppSkVKMnhBUnNxVlhIc3gwRGZ4TUVNeFdldEhJNE95ek1uNHNSaE5kMUhManNGWlVUb1I?oc=5",
@@ -116,20 +129,6 @@
           "publishedAt": "2026-10-08T09:22:15.000Z",
           "tags": [
             "매장"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "DB손보·프랜차이즈산업협회, 공제조합 설립 MOU 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12ZW1PUEZSdTdoY292enpMZXE5dTZDNTBkRnFESVFmbUtHcURkWDlnSmgwLWhWaWdZcXVCWUhUeUNoQ0YzNTVfVzBTay1YWWVtM0o4SGRkWGtXTVNwcXdBRHFtUkJWWEFlOG1N0gFuQVVfeXFMTnpua21tamdkVjN5ZFp3ZWhUVWxsWEF0N2FxdGZMSmJ4cG04RjFqQk9NdzZOTHVyVHFuUEs5ZXA0TGFGVWNTQ0dXZ0k0YlRiY205U3B4UTVrQ0JybWZfT216XzMxVEFaYlhxNTVjUnc?oc=5",
-          "source": "뉴스드림",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-08T02:27:06.000Z",
-          "tags": [
-            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -145,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 23,
+      "total": 20,
       "items": [
         {
           "title": "마켓보로 ‘식봄’, 식자재 20만여 개 가격 한눈에 비교",
@@ -172,6 +171,20 @@
           "publishedAt": "2026-10-08T08:53:31.000Z",
           "tags": [
             "식자재",
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "뉴욕 연은: 트럼프 관세로 소비재 가격 2.9%포인트 상승 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVlINjFScDUzUTZDSnVwZ1JQdUVqNTQ2QWxUVlJPcHFKRjhERkRZa0g3R0pOUTlyb0hRZGl2OGNGUllIb3ItWmZhS09WWElIb18wRkdhdmxSQkpyWElGV2tqdXdqT1pWZFZ5V29rTnAxMEpuRUtPMEpUa0gwQzJHcTlLOVhURjdYMDc3bTJBbGluYU9RcGlEN1JhRmNjY0xx?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-09T21:20:31.000Z",
+          "tags": [
             "가격"
           ],
           "price": null,
@@ -246,20 +259,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[국감2026] 전분당 가격담합…국감장서 고개숙인 'CJ·삼양사'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNzFyTVZXSmloU3EzUVNtQjhxblZXODgzTi1qcmZnandQeURJdVZWSzU5c2VlcjJESU91NmY5QjJHODNiWUM1aEd3bkdGVzFlWTJZTTB0SE5qNU80eXRMaDhvQ1NVSjYzMWVIYjZUOFZLd3Rx0gF0QVVfeXFMT0I3MXJNVldKaWhTcTNRU21COHFuVlc4ODNOLWpyZmdqd1B5REl1VlZLNTlzZWVyMkRJT3U2ZjlCMkc4M2JZQzVoR3duR0ZXMWVZMllNMHRITmo1TzR5dExoOG9DU1VKNjMxZUhiNlQ4Vkt3dHE?oc=5",
-          "source": "주간한국",
-          "sourceInitial": "주간",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-08T08:19:13.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -272,49 +271,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
-      "items": [
-        {
-          "title": "대산F&B, 온라인 B2B 판매채널 확대…유통사업 성장 본격화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Zay1jNXF6MFVxWXExWDF0d2JvOV91Z2JtNGtFWDBqTHVQRDROcmdOeDhzdnNteXR0QkdMR3Y0Y1hVY3I1QlVyZG9uMVE2YjVDdWNzTkFvTGdEUQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "sourceInitial": "파",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-08T07:09:19.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "[스타트업 모닝커피 1412회] 이타디엑스, 농수산 유통의 거래와 정산을 데이터로 연결하다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SX1F1MVg0NTRUOUR6bzZJNC0xRXdTbG1adjgzYUxzQ0FZRWZlbWJaQkk1cnF3M0FhWFpmVS1hTVlsVmh4NFYxUQ?oc=5",
-          "source": "플래텀(Platum)",
-          "sourceInitial": "플래",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-08T03:12:02.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "메가커피, 버거킹 인수 검토...F&B 인수합병 '큰손' 부상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydHJhWFp6UUQyNy1LM19KQ01ucFFrT1pEb2VEM0xzTjBQakhEVmhkRXktNGk5bVNjdlhKTkY4SjBGdkI5WUFvZkcwWHg3RjZDUFVDOXhRS1hJa010RWZCWmhCem80LVlUZlhVZg?oc=5",
-          "source": "생생비즈플러스",
-          "sourceInitial": "생생",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-08T07:00:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "price-policy",
@@ -342,20 +300,6 @@
           "feat": true
         },
         {
-          "title": "해썹인증원·코이카, 베트남 식품규제 대응 지원…K-Food 수출기업 애로 해소",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OOUpRemZYM0ltZk9yMS1zNTR4ODgxVHFYbUhrVklabVlYaXdrN0R0RTc0S1dxWVFUbGNmdHdPZ2N0ZnQ5dXpiQ2xQenlaLUNyNGFIeG9FbGtrLUJ4MDVUQ29qcXBkb2FtdUwwVUd3?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-08T01:51:59.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "계란값 한 판 7천원 대로 상승… 산지가격 하락에도 커지는 소비자 '부담'",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zNEVzU3pUdHdnUEZ6SmJvYTA3cHh2SW95Wm1WMDVfeTd2OGI2eGpfT0R2OEhwMTMxVl9EeXNTRVlQNDNHdTVDQkNGbllwX0JRNHhhOGpHdnBmX3hTdC1mS1JfRG9VajN1QWRIRVAtdkh0Qjg?oc=5",
@@ -378,6 +322,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "중남미 식품 전문가들, 한국식 안전관리 배운다…K-FOOD 수출길 넓힌다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10b1M0Z250cUtKaWRtU1lpOFVpWEFHWktiamlWTWdfaVJUSHIxSmN4OFAtQ0NaRWVGMTNFakZ0MF9ab282LUk1eG5CdzY1SmhXNGVhcU5HeHJnUkhmWmFSM09zeUU?oc=5",
+          "source": "https://www.ppss.kr/",
+          "sourceInitial": "ht",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-08T08:43:39.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -390,7 +346,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 5,
       "items": [
         {
           "title": "[트렌드 포커스] 1인 가구 증가에 판 커진 간편식 시장…차별화된 맛과 기술력으로 승부",
@@ -408,21 +364,6 @@
           "feat": true
         },
         {
-          "title": "바디프랜드, 건강기능식품 신제품 3종 출시… 6종 맞춤형 라인업 구축",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0SWt0QktTT0RzNUZLYjRCMWNOMG5QU2tzcE9hWUVFVnZWUWFYZ2sxY3lieXlLRnMtaDlpQm5ia1Z2aVRlQ0FYRFA3bC1GRDRpYVdQbkVlcVRGTUVPYVYzeDhBV3N0d9IBakFVX3lxTE1PTTlvUF9MLTFvR1ZMdXBvOFl1dGpvWTVZSk9TVUxhUlE3a0Y1MkY1dXd2SGNRaU00Uzh6NXVmQTZTcmVOdEJLamMzUkNNYlFzdklTTVFveHVWOHFEN2lsOEFNRVk2MThiQ3c?oc=5",
-          "source": "NBN미디어",
-          "sourceInitial": "NB",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-08T06:28:53.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[식음료] 농심, 신라면 40주년 신제품 투표…대상·동서식품도 신제품·문화행사",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRVFdqeEw2ZGljcnE4d3dTU1JYY0ZOR28yX1g0VlluUE9xZ0dWb2tYVGRBdUMySXYxYXJSakdlVFFlRnBjcDR2MmNXRnJpRndCbVZDRjJsRENEMTNWMGJ1cDlLX2NGVkhXWlE4MlhFcmZGZw?oc=5",
@@ -437,44 +378,14 @@
           "feat": false
         },
         {
-          "title": "프라이팬 5~7분이면 완성…하림, 닭안심 스테이크 출시",
+          "title": "김치·비빔밥인 줄 알았는데…美가 꼽은 내년 유망 K푸드는 ‘이것’ [김연하의 킬링이슈]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DVFc3ZE8xVWtZdUdlbVdOVDlEaUd1STlreENHMmI1ejFNQkYweGdwXy1XQ3BFLUVKZnByRUZZdkhGMkpNM280Zm9IN1I4UDJMVFlsM3ZmRWlSVllreEdiVXNDUlQ1X3NKQjFBWEZLUXg?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-08T06:10:00.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "바디프랜드, 건강기능식품 3종 출시…멀티비타민 등 구성",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EcUV6NjBoUDVJY3VCNkxPODkyeXdWQUpLVmdQSG9BZTZtTW81WU5nclRtTUQ4Ym1KUWhHdjNJYXpTTkNNTk43OTNQcXNPOExLVzctM2xWczlnZUM3aXI3RUxqQ0wzM0V2?oc=5",
-          "source": "문화투데이",
-          "sourceInitial": "문화",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-08T04:36:38.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[똑똑한트렌드] 한국관광공사 ‘2026 단풍지도’, 엔라이즈 위피, 식품업계 ‘저당 식품 라인업’ 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91OFBOYVRRSnBjaktEd3BnaTRCRVNfekRfdk1zSUpuREo4aWR1eHhZY0R1Mk5yQ0s4VllGWkxoMHJ0UlFRVWY5d1ZaSlFfZ3ZtNUhIekJMcTl0bFk?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-08T04:30:00.000Z",
-          "tags": [
-            "트렌드"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54YjdqMW5Qbm9Pb3Fyc1dMV1Vka1B2b0xSQ3Y1bE9ZeG1XV0huc1haX3REWjRlWlhFVHFIMXplLXhiSjhzOVdJZml5RzltdTY4b2fSAVNBVV95cUxPaHVjMlhaRGp0ZkdNVlhHWDR1Qm85Z0F0emtPenJZNG1RRWJsczZrWmZaMnh5U0duN1ZLMmdwbGZvTnhUSFJrV3RIdnk2OWpTOS1YZw?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-10T03:00:05.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
