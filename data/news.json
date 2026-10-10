@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T14:35:51.757Z",
+  "generatedAt": "2026-10-10T19:07:53.564Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -49,21 +49,6 @@
           "feat": false
         },
         {
-          "title": "프랜차이즈 점포 평균매출 2년간 0.6% 늘 때 본부는 2.9%↑…외식업 격차 가장 커",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tQzBHV21QY29zeXQwUmlNckdTZmJiazR3Z2tiRFhxd0RyN1RzeUY1Ykw4V3gwS3JyTG96MkEzQ0dXX3BOdzFiT1o5TVJORmxFUjZFdTZjcnNKdklxTVp3dUhxVWVsRmVCOS05V1ZsbGg?oc=5",
-          "source": "리더스팩트",
-          "sourceInitial": "리더",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-08T19:07:38.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[ 2026년 10월 9일 (금) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ21TYkRjYXByZkV6NHFfVU9lNng3TFJHV0cxX004eWV4QTJvSjdvamRoV3plVFlLdVlOWFdNNjJpZ01WRjNTVFhyVlVjWGgteU1zbkFHVmpJSHY3YnRvNkpfbjB5bnhZaE1na3BmUFNxck9nZksydXZ0V0lfVkNCdU4zd2hpNmNKanAxaE1R?oc=5",
@@ -106,6 +91,20 @@
           "feat": false
         },
         {
+          "title": "“치킨이 왜 작지?”…같은 메뉴도 무게 30% 차이",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycWNJR3RsTm03ZThDc28xNko2U0FMQS05c1k2SUxPT1FVTlJ4a1cxTXk0SnhQTGRwem15Y1NMbUFLaDU3THk5QXhaT0RDQXNYZEdyM3pwTllfVTJKVXRCLXFIYXNxckZORGZ3Vw?oc=5",
+          "source": "한경매거진&북",
+          "sourceInitial": "한경",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-09T00:56:00.000Z",
+          "tags": [
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "백억커피, 자체 주문 앱 '백억오더' 누적 회원 10만명 기록 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONWRBdTRtOVVVTG1wVmVOcGlKWjhZWDdfZW5BWWpwRkRHYmpSbVRBRy15VlNlMWp4b2MtcDRuakx1cUQ1ZFRHcENTdGctenJCVXlibVQ3QUxzZE1MSnpiTllCN09ZR1dscTB4QVA3b3NkWFYtaXY5YVNld251dnJVSGJQQTdCQ0x0VGI1dkFXQlVOQnNkcG1neWlDSDZycFpyR05VWXd3MThUQUJGd2RSVDF2QTNEdTlXakJxT1VENWJmU1JES0hlX19CbVFwaHAyanVrMXlBWE1UenlEVUtadV9YS0ZHTmNpTWFYMUc4X1Awb1dPU0FZTg?oc=5",
@@ -140,38 +139,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 16,
       "items": [
-        {
-          "title": "마켓보로 '식봄', AI 가격비교 상품 20만개로 확대 … 외식업 식자재 구매 효율 높인다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zS0hmX3hJQS1JU0c4UXZPanJmZi14dTlyQ01hOUZOOWhOYmphblBBYm9Zb0lWaVR3LUt3YXZRb2dINDk2Q1p1Tk5SMzV5QmZELWowNHhWNzdlOU5jZS1OUzJuZ0t3eUo0NjloUw?oc=5",
-          "source": "워크투데이",
-          "sourceInitial": "워크",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-08T15:39:54.000Z",
-          "tags": [
-            "식자재",
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "마켓보로 '식봄', 식자재 20만여 개 가격 한눈에 비교",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2UDlhM0JpNVJtNUZPTG94ZVcxTVNDbXhNT0dqYlhXZF9HeDc1Tk1sc0RkZkZGNW82RGo5by1sZ2lFMTJlX3lnVkhvUFJlWldvMkRzaXZNR3k2b1NSNnJGeDF4c0YySFN5MnZnbWtxb9IBc0FVX3lxTFBnX0VxWG5DQmNIaUZCbi1NLUFfZW5oQkRrTlJlekdNcnh1Zm1MS3d5cW1lU2JjRkxwOGpQWUlnV0hUcHZtclFsWm9XOVlHRTM3UGlKNnJNOG9EWFU4ci0tbkpzWHNtelR1cjZxenoxYzFsR0E?oc=5",
-          "source": "뉴스웍스",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-08T14:54:52.000Z",
-          "tags": [
-            "식자재",
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
         {
           "title": "쿠팡 검색 순위로 본 냉동만두 TOP 5, 가격·배송 한눈에 비교 : 소비자",
           "summary": "",
@@ -184,7 +153,7 @@
             "가격"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "휘발유 가격이 9월 이후 리터당 거의 5,000 VND 가까이 상승하면서 원자재 가격 인하가 어려울 것이라는 우려가 커지고 있다.",
@@ -255,6 +224,34 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, 외식 경기 부진 뚫었다…키즈·군대 식자재 공급 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCdjdVNW9RbVBPalA2VzBJaVp4S2hRZ1JUalN2S0hnTzFIZmtwTUo4dTJxU29mQUJnM0RqRHBlTXE3cW9xQmh4T0QzSXowVHZnNjhPMlVzcE84RktaVE10UFV6V1ZqN3BHMmhIZFhmRjBDdGJZLU9v0gF3QVVfeXFMUEJ2N1U1b1FtUE9qUDZXMElpWnhLaFFnUlRqU3ZLSGdPMUhma3BNSjh1MnFTb2ZBQmczRGpEcGVNcTdxb3FCaHhPRDNJejBUdmc2OE8yVXNwTzhGS1pUTXRQVXpXVmo3cEcyaEhkWGZGMEN0YlktT28?oc=5",
+          "source": "핀포인트뉴스",
+          "sourceInitial": "핀포",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-09T02:35:36.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "몽골 9월 소비자물가 12.9% 상승…식품 가격 20.8% 급등",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZSVFEaTNDanhVWkR4MVQ2aDVISmpZRkV1SHEyaW84SU5ya1RTNWljZ3VJR0RoSWlsVnI4NEczMnVRNmpWQ1dHWUppVmhxNWM?oc=5",
+          "source": "Montsame",
+          "sourceInitial": "Mo",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-09T01:48:23.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -279,7 +276,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 1,
+      "total": 2,
       "items": [
         {
           "title": "브라질산 계란 한 판 3만9000원, 마트 판매가 4980원, 그 비밀은?",
@@ -292,6 +289,18 @@
           "tags": [],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "절임배추 예약 20kg 2만9900원, 배추 싸져도 무 33% 뛴 올해 김장 셈법",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54LW9wY1FEUkQxVkxodVFjZXVVb0ZFd1JleGhVcGtnRHk2NHZsc1M3Wnh6T29FUFluZ1VmYmxmWkF5VEpIcE9VVDBqQmpFSk5CbTNwc2N0RWFjSllJRmphN1Rn?oc=5",
+          "source": "매일신문",
+          "sourceInitial": "매일",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-09T22:04:48.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -336,6 +345,18 @@
           "feat": false
         },
         {
+          "title": "매출 2배 터졌다…러닝족·외국인 몰린 편의점 '파격 실험' [류은혁의 유통기한]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnpSZVUyNE1MQlFTekt5NjYzYzZ4SzJxeF95U0gyWmFudkNXSDZhMTJVYlNjbVBJMWh5OUJIeWZBbDNwVllWbUgydXplOWxZN0tGYjJiSXh4QQ?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-10T11:00:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "김치·비빔밥인 줄 알았는데…美가 꼽은 내년 유망 K푸드는 ‘이것’ [김연하의 킬링이슈]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54YjdqMW5Qbm9Pb3Fyc1dMV1Vka1B2b0xSQ3Y1bE9ZeG1XV0huc1haX3REWjRlWlhFVHFIMXplLXhiSjhzOVdJZml5RzltdTY4b2c?oc=5",
@@ -343,18 +364,6 @@
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-10T03:00:05.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"맨날 먹던 맛은 싫어\"…'별미'로 입맛 잡는 식품업계[이번주 Eat템]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oOHlvTm1na2NncUZPYWphWjdNLTFScmdSSVBnN2tiVG02VC1fdVZhOUh6Y00zQ0ZxcERuZlNqUjZzNmU1ZXBUWDVFdWRtZGxLNFhEMk5IQ2h0cFVxYlF3?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-09T22:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
