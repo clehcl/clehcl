@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T19:38:31.012Z",
+  "generatedAt": "2026-10-11T23:27:37.053Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -77,16 +77,14 @@
           "feat": false
         },
         {
-          "title": "치폴레 멕시칸 그릴 3%대 하락 마감 외식 업계 불확실성 지속 : 기업주식정보",
+          "title": "초기 비용 낮은 치킨창업, AI 로봇치킨 통한 인건비 절감까지? [ 강동완 기자 ]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSGt5c0Qwb3ZCVXBHTzF5WlpSX1BodzNMRzhHakpENFJuZ0RkLUlyS2ZaRlcwX2xITFVKek10YVJzbHROTmpZZDUtZw?oc=5",
-          "source": "재경일보",
-          "sourceInitial": "재경",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-09T22:01:00.000Z",
-          "tags": [
-            "외식"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBabUtwNmNnOXNDZEt6QnMyVzF1MThUeHZuX2hfZm5QTW55c0dBV2N6QUdZaFF4T2UwT21tNXBibXVJdVFiLTlaa1gxSzRZLUtWRTZIQTVDcmRfaDUwb2tiU3QyaTVOZw?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-10T18:48:35.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -113,8 +111,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 24,
       "items": [
+        {
+          "title": "한미약품 첫 GLP-1 비만신약 ‘에페’ 이달 말 출격…가격 10만원 후반대 예상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvQjMwY1BnbzlQVUtlaEUtc2xsWHhlV09EN0V5c0EtZmhOR1RsUmJBd0NYdkR1LXhkZUdIRTVmMlIxeS1VV1BGYnNtUVJkNzJub3JHTHh1RFhmemtpMFQtbU8wMk13Z3dnc2g5TUhB?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-11T20:00:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "삼양사, 공정위 과징금 1위…설탕·밀가루 가격 '짬짜미'",
           "summary": "",
@@ -127,7 +139,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "먹거리 담합에 과징금 1조원대···식품기업 4곳 '가격 장난'",
@@ -137,6 +149,20 @@
           "sourceInitial": "서울",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-11T07:00:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "도미노피자·배스킨라빈스 12일부터 가격 인상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MTmJjVEw0bHRoQXRZWkNqa2lDWGdFU0RqTmNGa205VDVSTjFmYm9GLVpFbWtnUVdWbkhnWjVWTnYzbk9mbERWZDlxNlVhUFhqUVBzd0tUbjBJdkNJejJqRWFrQ2FZUQ?oc=5",
+          "source": "비건뉴스",
+          "sourceInitial": "비건",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-11T03:14:59.000Z",
           "tags": [
             "가격"
           ],
@@ -172,53 +198,25 @@
           "feat": false
         },
         {
-          "title": "뉴욕 연은: 트럼프 관세로 소비재 가격 2.9%포인트 상승 - 뉴스 및 통계",
+          "title": "미국발 ‘초가공식품 규제’ 본격화…K-푸드 대응 서둘러야",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVlINjFScDUzUTZDSnVwZ1JQdUVqNTQ2QWxUVlJPcHFKRjhERkRZa0g3R0pOUTlyb0hRZGl2OGNGUllIb3ItWmZhS09WWElIb18wRkdhdmxSQkpyWElGV2tqdXdqT1pWZFZ5V29rTnAxMEpuRUtPMEpUa0gwQzJHcTlLOVhURjdYMDc3bTJBbGluYU9RcGlEN1JhRmNjY0xx?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-09T21:20:31.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-09T20:05:38.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2026 가성비 냉동식품 추천 베스트 5 간식부터 한 끼 식사까지 : 소비자",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBERXY1UjJYNkxwZlhabnJUdmhWWkljMFVLcDdxYnZWS2tMeTUweFFOR3FoUnUxWC1HUm5UNjBYU2ZuVzlQQ1Z5UElfRQ?oc=5",
-          "source": "재경일보",
-          "sourceInitial": "재경",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-11T10:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PNFdqWUZZUmV5TUhINGtSY0JtbmNTdU1nWXVid05CTWZfcXdsWWpjZFNHMGlDM1d5SkZuZS1iMThLYlJUTDJBVXA0RVFYRXlrLVJNdlctcGlMa2dVd2VyZDZnYnppRjA5LXZxM2J1VQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-11T22:55:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "농산물 비축기지, 민간창고에 85% 의존…공공비축 15% 불과",
+          "title": "웅진식품, 네이버쇼핑 ‘푸드페스타’서 최대 46% 할인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Pa3V6cmllUHJXNHBfVGN5X1FYbGhJV0w1X2xGTXFDY0s2VFgxTXVFeVdMUi1Nd0RPSEw0WkE3WG5wR2J5dUFWSldUWVh0Vl9KYlhCTTB4b3EtYW0zMGNINzBQb0djVFdrdWJwZlVFaFBiZWhXMHVSNmplWmQ?oc=5",
-          "source": "부산일보",
-          "sourceInitial": "부산",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-11T09:42:02.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwNVRYRGlVZ0lkbmZfc3B5Vm9rRGlqS1NyWGIwalBzMGJnVkF4QnhSaFQ4UnMySkdMVDAyTmo0cWZFSmF0NTJMdU53UEhXOWhtVVJLN2xBVm9ad0l1VjBJUzdmZkxhQQ?oc=5",
+          "source": "싱글리스트",
+          "sourceInitial": "싱글",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-11T22:54:44.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -288,13 +286,13 @@
       "total": 7,
       "items": [
         {
-          "title": "농산물 비축기지 제 기능 못 하는데…민간창고 의존율 85%",
+          "title": "농산물 비축물량 85.2% 민간창고 의존, aT 비축기지 6곳 중 5곳이 50년 넘어",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52djQ5R3NhcWF1ejRfN1k2LWFiOUYwc0poSHJOZkNrYXZTUWo0b25mWm1seFlSYWwtM0oyRjZmejJzVURwOGV0WEVHM3dzZkpBZ0FzdWxLZkFTcHg1WmVzX2ZHakZud0nSAWdBVV95cUxOdnY0OUdzYXFhdXo0XzdZNi1hYjlGMHNKaEhyTmZDa2F2U1FqNG9uZlptbHhZUmFsLTNKMkY2Znoyc1VEcDhldFhFRzN3c2ZKQWdBc3VsS2ZBU3B4NVplc19mR2pGbndJ?oc=5",
-          "source": "경기연합뉴스",
-          "sourceInitial": "경기",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-11T14:14:29.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ONE14NXU1ckVnOFZwNzZLd1pBT3NXT1hkZ2I3YmdabHVXRHJlSnJDalB5REFkR2MwNlBMM2M4OTh1VkRIaUR4OERR?oc=5",
+          "source": "m.sisakoreanews.kr",
+          "sourceInitial": "m.",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-11T21:30:00.000Z",
           "tags": [
             "비축"
           ],
@@ -302,13 +300,13 @@
           "feat": true
         },
         {
-          "title": "김선교 의원,\"농산물 비축물량 85.2% 민간창고 의존\"... aT 비축기지 6곳 중 5곳이 50년 넘어!",
+          "title": "농산물 비축기지 제 기능 못 하는데…민간창고 의존율 85%",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GcjMwZV9MRy1OVHBqNG5HeC1Wd2JXV01CaG90NXQ5M09HelhNRzlzNlNBUGRZRlhqVGcxUUhZcHFUSWhSV0JkQWdOeEJUZGd0MlJtN2tYVEMzOXlkZlozb3FwcS03NTBDdER5T29aRG1HOE5G?oc=5",
-          "source": "경기종합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52djQ5R3NhcWF1ejRfN1k2LWFiOUYwc0poSHJOZkNrYXZTUWo0b25mWm1seFlSYWwtM0oyRjZmejJzVURwOGV0WEVHM3dzZkpBZ0FzdWxLZkFTcHg1WmVzX2ZHakZud0nSAWdBVV95cUxOdnY0OUdzYXFhdXo0XzdZNi1hYjlGMHNKaEhyTmZDa2F2U1FqNG9uZlptbHhZUmFsLTNKMkY2Znoyc1VEcDhldFhFRzN3c2ZKQWdBc3VsS2ZBU3B4NVplc19mR2pGbndJ?oc=5",
+          "source": "경기연합뉴스",
           "sourceInitial": "경기",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-11T13:52:12.000Z",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-11T14:14:29.000Z",
           "tags": [
             "비축"
           ],
@@ -344,6 +342,18 @@
           "feat": false
         },
         {
+          "title": "GMO 완전표시제, ‘알권리’와 ‘현실’ 사이의 균형추는?-하상도의 식품 바로보기(449)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZVG0yenQ1enZmLWNSMVIzNkQ1QmktOFZjR0RScURwQkZPYURxc1NHZnBRaTZCZ3MtUjljVEgyM0pSMVVEeHV5QU05S09RcWd3QUxNbE5HMkZHZ1ZHTVd1UTJPYzItNjAxbDNYUmlDdw?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-11T22:45:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "판촉 과자·아이스크림 3분의 2가 새 기준선 '덜 건강한 식품'…영국 20년 된 잣대 vs 한국 고열량·저영양 기준",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44QUVSSE1uMHNZU2hjYnN2RTVzTUhxNzhmUWJzTms0ZVV5czFYNUd5dEYzc19pUTdHdFpKVm95U1dDd1JHaHBoZFpUZS03b2ZTdzllNFFGTmZDb2NoUExMeFNhU1dlSC1ILXdxQTJR?oc=5",
@@ -366,18 +376,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "절임배추 예약 20kg 2만9900원, 배추 싸져도 무 33% 뛴 올해 김장 셈법",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54LW9wY1FEUkQxVkxodVFjZXVVb0ZFd1JleGhVcGtnRHk2NHZsc1M3Wnh6T29FUFluZ1VmYmxmWkF5VEpIcE9VVDBqQmpFSk5CbTNwc2N0RWFjSllJRmphN1Rn?oc=5",
-          "source": "매일신문",
-          "sourceInitial": "매일",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-09T22:04:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -390,7 +388,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 3,
       "items": [
         {
           "title": "[테크M 트렌드] 셰프 협업에 소비자 결정권 더했다...식품업계, 실패 없는 '쌍방향 신제품' 전략",
@@ -420,18 +418,6 @@
           "feat": false
         },
         {
-          "title": "[기획] AI로 생산성 높인다…식품·외식업계도 도입 확산",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDTlVMcnRwTWNwek5lYmlpZlg5SDhKSG9VN09vRGFiR2k5U0daUFpRZUtfWWt6QjNoTkFVeWFILTRoUG5ZVTlQclNlYktfbHJucHp3b1R6MXp4akgwSkN6QWhsb0o?oc=5",
-          "source": "매일일보",
-          "sourceInitial": "매일",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-11T03:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "매출 2배 터졌다…러닝족·외국인 몰린 편의점 '파격 실험' [류은혁의 유통기한]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnpSZVUyNE1MQlFTekt5NjYzYzZ4SzJxeF95U0gyWmFudkNXSDZhMTJVYlNjbVBJMWh5OUJIeWZBbDNwVllWbUgydXplOWxZN0tGYjJiSXh4QQ?oc=5",
@@ -439,18 +425,6 @@
           "sourceInitial": "한",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-10T11:00:01.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "김치·비빔밥인 줄 알았는데…美가 꼽은 내년 유망 K푸드는 ‘이것’ [김연하의 킬링이슈]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54YjdqMW5Qbm9Pb3Fyc1dMV1Vka1B2b0xSQ3Y1bE9ZeG1XV0huc1haX3REWjRlWlhFVHFIMXplLXhiSjhzOVdJZml5RzltdTY4b2fSAVNBVV95cUxPaHVjMlhaRGp0ZkdNVlhHWDR1Qm85Z0F0emtPenJZNG1RRWJsczZrWmZaMnh5U0duN1ZLMmdwbGZvTnhUSFJrV3RIdnk2OWpTOS1YZw?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-10T03:00:05.000Z",
           "tags": [],
           "price": null,
           "feat": false
