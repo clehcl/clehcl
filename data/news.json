@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:17:41.112Z",
+  "generatedAt": "2026-10-12T19:56:33.938Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -141,7 +141,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 25,
+      "total": 27,
       "items": [
         {
           "title": "CJ프레시웨이, 세종한글축제서 ‘원조 세종파닭’ 선보여·마켓보로 식봄 AI 기반 가격비교 상품 확대",
@@ -167,20 +167,6 @@
           "publishedAt": "2026-10-12T07:44:38.000Z",
           "tags": [
             "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "빅맥 값도 AI가 정한다?…'맞춤형 가격' 확산에 소비자 경고등",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3p5Sm1ybTFNYjFkamZSZmx1RENPQ21nMll5c3hteklwSG5WNjB6X0RlbXo2NW9UV2U0U2NfSkFhMFBwRkQ2bUpGNHl4WTRfRGtORGlWZlVqNnQ4UU9hMFYtYWo5ZGRkVzdGQ1dFdHEzWW5NNDg3a2pnRngzVzduYg?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-12T02:26:36.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -250,6 +236,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "깻잎 17%·가지 14.7% 하락...제철 농산물 '단호박' 활용법",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92amN3ZkpzTy1XNEdNSUpud04xVWdySGtRZ2dHaXJtU2MtdGtXRDdsTDhwdEZ2dnNLbW1kLWtfbDRJMWpQVXU2SUFzQnBZM1RJZ0lQcDFhbnBUYVFhUWJTSjQ4cnd1N2dETmJUbHVPT0FBS0tEakE?oc=5",
+          "source": "YTN",
+          "sourceInitial": "YT",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-12T03:14:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -262,7 +260,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "[채널 커머스 Pick] 온라인 유통·배달 플랫폼, 가을 장보기 기획전",
@@ -307,9 +305,21 @@
           "feat": false
         },
         {
+          "title": "[국회] aT 학교급식 전자조달 관리 구멍, 위장·쪼개기 부정 업체 판친다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aMm1vTFNYVUhpMHZwTHpscXhqeXpJZThxV0ZEdWdNU3JYNk5EY0FWMFpSVXk4bUdaWE4wWUNVZGFpdjBLR0NsTi16alJTcnVTbTVzMmFKQjM0bW5EWGptRWFlZGtDYUZ2ODNvelBFWkRSdw?oc=5",
+          "source": "월간친환경",
+          "sourceInitial": "월간",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-12T12:12:53.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[2026 국감] aT 학교급식 조달망 허점…위반업체 적발 전 4.7조 계약",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CdnlmNVBMV2t1Z0FXUlI5cU9IcUw0MHBjWjZlSy1pSzRPS3Y2UlBqTndOdlZqQkdhVlNGeFc0NEt4dGJXbFVsVkZiRGwxNmdvaE9DVDlBazl1VTNENXZfVjZQM2NWUDNY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVTZvLXpBdmFyamIxSmN5RWVicWdncHJkZ3ZZSzBwbEJhQ0pHTklKVmVUbU14Q1dJak1uUWtxSVVaaW9KUUN3N0tlRU80TUZDcTljTXNodEZpRE04RFNUMkFwYVU4Zw?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -353,18 +363,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "농식품부, '2026 K-푸드플러스 수출탑' 후보 모집…신인상 신설",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56dlVyVHdfQmlJYUEwOTQydGl0VnNaUU8yczdKMU8zZDF1eEhSZVUwSUFTTGxiQnZiMHk0b053aTVNZmtFeE93S1FVcUgtOVFvZURyMk10UXlqMGlyVTM0WG5oNGQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-12T04:33:32.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -377,7 +375,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "[2026 국감] aT, 농산물 공공비축 비중 14.8% 그쳐…민간창고 의존 85%",
@@ -458,18 +456,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "브라질산 계란 한 판 3만9000원, 마트 판매가 4980원, 그 비밀은?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lRExQX19JanNtZ25VOXd4YzBoYjJENmE3b0Q0am9wVmtkSUNwS1pJRVZTSWk4V3o2bXdQMjh2dmhKNEtaRmdYZzBxNU5RZ3R5c3dJWG1IMUFpUnlMQ3M5MEJvb2xkdm5jaFE?oc=5",
-          "source": "데일리저널",
-          "sourceInitial": "데일",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-10T13:14:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -482,7 +468,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "바디프랜드, 건강기능식품 신제품 3종 출시·2026 KCSI ‘스마트라이프케어’ 부문 1위 선정",
@@ -510,20 +496,6 @@
           "tags": [
             "신제품",
             "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "소스데스크, 식품산업 B2B 플랫폼 베타서비스 출시···제품·원료·제조사 정보 통합 제공",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTYkltTnBUNUhSdUJXV3hiRGtEZTNYa01udE9Ed05RdndjM2Itc0FUbUJaQWpDUkRuaFlkWkdsSm1mQkprcW5HbHMtY1hITV9IMlVoR0lOSVhMMkt5SEpzNkZrTlpxb0FkZHpldlNOc2zSAXBBVV95cUxQU2JJbU5wVDVIUnVCV1d4YkRrRGUzWGtNbnRPRHdOUXZ3YzNiLXNBVG1CWkFqQ1JEbmhZZFpHbEptZkJKa3FuR2xzLWNYSE1fSDJVaEdJTklYTDJLeUhKczZGa05acW9BZGR6ZXZTTnNs?oc=5",
-          "source": "이넷뉴스",
-          "sourceInitial": "이넷",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-12T07:50:35.000Z",
-          "tags": [
-            "출시"
           ],
           "price": null,
           "feat": false
@@ -557,34 +529,6 @@
           "feat": false
         },
         {
-          "title": "[FI 창간 9주년 특집Ⅰ·2027 식품트렌드 전망 ⑤] 토양에서 소비자의 선택까지…식품의 신뢰와 구매 경로가 바뀐다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZDFrOF9iZU9XdDh0VFBFTTNsbjZ1VDFONjdhVGZUVzRGaU9PV0ViS25FUlJhYmVNZHVtMkNOcWxTSmQyX2RHejVCRURxRE16anZLVFZUb1NPTGNFNU13dklBOEJUa2dfczJWbg?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-12T04:51:57.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[창간 9주년 특집Ⅰ-2027 식품 트렌드 전망 ①] 한 입의 가치가 바뀐다…‘무엇을 뺐나’에서 ‘어떤 영양을 채웠나’로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YV1VVckl2T3piM0ZaVEVDYVJGQW5DNV9IdzQ0dFJscGdOT1l6NlZfc3ZSbUV0dUhUbGxRWDNzOGtfV1V2RGY4YkRwUUlEU2ZzcVk5WERSdk02Q0MtQUhWaGx2Q1diRzdIcFY4Uw?oc=5",
-          "source": "푸드아이콘",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-12T04:10:18.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "이디야커피, 가나 초콜릿 활용 겨울 음료 2종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOTEJqbjQ2Y0dyVEZVWGJJNXVCRkx4TW5VSlVEM2JsWHpST3JlMG9KYlk0OGpaeUdYeDFaa0sxMnVudmo3a2xHdnBLX2FTekVZdTNmZ2gwUjdEbWNBRkktMXZISWZVTXpFdkxmVTBZYWE?oc=5",
@@ -595,6 +539,44 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[FI 창간 9주년 특집Ⅰ-2027 식품트렌드 전망 ①] 한 입의 가치가 바뀐다…‘무엇을 뺐나’에서 ‘어떤 영양을 채웠나’로",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YV1VVckl2T3piM0ZaVEVDYVJGQW5DNV9IdzQ0dFJscGdOT1l6NlZfc3ZSbUV0dUhUbGxRWDNzOGtfV1V2RGY4YkRwUUlEU2ZzcVk5WERSdk02Q0MtQUhWaGx2Q1diRzdIcFY4Uw?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-12T04:10:00.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[FI 창간9주년 특별초대석] '밥소믈리에'된 방송인 김신영 “맛있는 밥 한 끼는 위로\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KZExTTm5pTVlwRGlvTUFVYzhheHZVQzlNeXQyamVxSkFGUFFTZGJlTWhKTDd0cC1EOVo1V2xjUGFxT29ITGpJMlZQMjV2OC1HSlBnaVBReGVHOGdiVDA2VllGQm5jUTlfVGhNYQ?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-12T08:28:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[굿모닝! 12일 식품업계 소식] CJ제일제당·롯데웰푸드·풀무원식품·hy·매일유업·빙그레",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAteFkzX0FsTUhUeWpCMjNncDg1N0Q4UExDM1BqWWRDTGlNQjdDWUl2aGdLbTlJNmZTbk14OXlicEt4REZGVlB0T2trYlRjTHp3bDFDSnJWbTdjQ0NPRktlTkVtUERqdWp2Z2FmdA?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-12T04:37:57.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
