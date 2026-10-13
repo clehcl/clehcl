@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:53:49.817Z",
+  "generatedAt": "2026-10-13T21:45:01.191Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 22,
       "items": [
-        {
-          "title": "\"매장마다 튀김옷·간 맞춘다\"… 가맹점주 손맛 모아 품질 평준화 나선 bhc",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3aEJCSFRpSHJGMVFJOExHS3hUd0toWnBsM1ExNEFLVnktM0NfMnpwUGdPS2JOcXZwZUtQZGtZNmxEM01TZlIxbGtqOTQ5WVU5TDJBbnNCXzVPVkhsZ2V5OTBNZnJ2bzB6?oc=5",
-          "source": "녹색경제신문",
-          "sourceInitial": "녹색",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-13T01:10:20.000Z",
-          "tags": [
-            "가맹",
-            "매장"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "bhc, 가맹점주 아이디어로 신메뉴 발굴…11월 본선 10명 경쟁",
           "summary": "",
@@ -46,7 +31,7 @@
             "메뉴"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[2026 프랜차이즈 실태③] 커피업계, 메가MGC 매장·매출 동시↑…빽다방 출점 둔화",
@@ -85,7 +70,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-13T14:31:37.000Z",
+          "publishedAt": "2026-10-13T17:11:31.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -133,6 +118,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "농식품부·aT, 11월 식품외식산업 전망 행사 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PWUdnTnRReTV6cmNBdWQ2cjFiaVprTnN3Y2txbXBrcVI4NGFSSTR2LXRHYjdKOFpCUDdwdDZzNlJvd1J2QTZCc3QwQU5HT0JFbFl5YmtmX3UzdDdBNU1pYWNxTTBvWk5zR0EtOGZtR2NiZw?oc=5",
+          "source": "인더스트리뉴스",
+          "sourceInitial": "인더",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-13T08:01:41.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -145,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 27,
+      "total": 29,
       "items": [
         {
           "title": "내가 산 가격이 정가? 같은 상품, 다른 가격… AI가 가져온 ‘가격차별’ 논란",
@@ -186,6 +185,18 @@
           "tags": [
             "가격"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "Komdigi, 물품 및 식품 배달 요금을 조정하는 장관 규칙을 준비합니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aVFJdGNiRHM4b0J5eldSaDYzcURZVW5MaVpuTWJFUWlOWGRkai13S0NQTjFnZVd2c0hqQXYwQzA5YzdwcEZRakJ4QdIBQkFVX3lxTE9hX19zYm1NQ2xIRllqZWpwWlRVV3ZlWkNCVnZZMC1QTFNhbTNJR3pLREVkMWprMy1ucDM0bXFOaHJyUQ?oc=5",
+          "source": "VOI.ID",
+          "sourceInitial": "VO",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-13T18:23:39.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -236,18 +247,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "9월 브라질 소비자물가 4.58%↑…\"중앙은행 목표 상한 넘어\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11QU90blAxY3g4bU5vbFNHbFEwTFBRd1dtR1lUYUJWQ2F4QjhlMUJxajRvOE50b3VqWGJDVi00RjVLc2o2SFUyY2J4eU9yNFdNRHljZEJscmZkenlMRmhSdWtlaE9hRTFBOTFITkktWmdoc2Q3MXdTZNIBeEFVX3lxTE11QU90blAxY3g4bU5vbFNHbFEwTFBRd1dtR1lUYUJWQ2F4QjhlMUJxajRvOE50b3VqWGJDVi00RjVLc2o2SFUyY2J4eU9yNFdNRHljZEJscmZkenlMRmhSdWtlaE9hRTFBOTFITkktWmdoc2Q3MXdTZA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-13T08:02:26.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -260,7 +259,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 22,
+      "total": 23,
       "items": [
         {
           "title": "[인터뷰] “작은 식당에서 전국 밥상으로”... 이웅용 G.H링크 대표, 전국 유통 출사표",
