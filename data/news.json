@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:54:20.982Z",
+  "generatedAt": "2026-10-14T20:00:06.958Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 24,
       "items": [
+        {
+          "title": "GMO 완전표시제 시행 임박…외식 프랜차이즈도 영향 예의주시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mRW9nSVM0bUNsdEZOUl9ETXI3dWJubmpyU2R4R0N6bnl4OE5hQXpnNXV5cV9BcERsaDllaHZXSlU1NTlnbEYzSUFR?oc=5",
+          "source": "프랜차이즈월드",
+          "sourceInitial": "프랜",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-14T03:13:49.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[2026 프랜차이즈 실태④] 커피 창업 부담금, 엔제리너스 3.8억 최고…매장 면적당 따지면 매머드 1위",
           "summary": "",
@@ -31,7 +46,7 @@
             "매장"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "\"매장마다 튀김옷·간 맞춘다\"… 가맹점주 손맛 모아 품질 평준화 나선 bhc",
@@ -118,20 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "이집잘하네, 2026 IFS 프랜차이즈 창업·산업 박람회 참가…배달 전문점 운영 시스템 선보여",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNTVPSHFOZzBkLXlLUTlZUTE2cGNqZEdWdW8tLWhjUTg5XzJjNnV3Zk92T1EzOEFfLXAwQV9acEROb2YtSnJ6UVJlNFV3RnV1NkVFU2ZYOU5YN01qRFR4SF9sNHVZYzNs?oc=5",
-          "source": "공감신문",
-          "sourceInitial": "공감",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-14T04:43:09.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "‘재계 저승사자’ 1호 사건…대상·오뚜기·CJ제일제당 ‘가격 담합’",
@@ -203,6 +204,18 @@
           "feat": false
         },
         {
+          "title": "8월 결국 2만 곳 무너졌다… 동네마다 있던 '이곳' 줄폐업한 까닭",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OTJoaUpaanJpUlczYUFtOG95dmlVZ0xCMDdSRm1FSWJtYnNUODU1SURyNm5Yajk3bVZzMV9VRUhkZE51VHRMUDV3WWFwWjA2a1FwNUhyX0IwRWpZOTZCbVdZLXNJY2xkckdrZF9CZzJWcmtfU2lqX19n0gGCAUFVX3lxTE1QLXZYZzdoR3JYRmNFX09vMGY3MzhFOVZXd29iODE1RHVjc1JheDhBc3NLMVF3NVpUbmN5SFhNNC01cnJCM1F6VFpZRWZMMFd5UkxCNGkzSWtmam9wd1pMc2RObl9BbHc3VjFINTl4VEVRQjZNaEdlTHRwMFN5MnNwVFE?oc=5",
+          "source": "리포테라",
+          "sourceInitial": "리포",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-14T14:15:46.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "기름값에 치솟은 中 생산자물가, 4년여만의 최고…식품값은 하락 - 머니투데이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XVmxQSWN0S1VuV05hcHpUaGRtd09UWG9RdkJ5akpZSzVPeDBlSEV4cHVkRVFEMkd3MkxJN1ZVYkd0amdOU2J2UTJ2TWp6Z0pQcmN5bm9meEpsZ3dxU096Nk9vUGNsZVVuVjlYWEpn0gFuQVVfeXFMTldWbFBJY3RLVW5XTmFwelRoZG13T1RYb1F2QnlqSllLNU94MGVIRXhwdWRFUUQyR3cyTEk3VlViR3RqZ05TYnZRMnZNanpnSlByY3lub2Z4Smxnd3FTT3o2T29QY2xlVW5WOVhYSmc?oc=5",
@@ -215,13 +228,13 @@
           "feat": false
         },
         {
-          "title": "공정위, 식품업계 담합 의혹 조사… 오뚜기·대상·CJ 현장조사",
+          "title": "공정위 중점조사기획단 첫 조사는 식품…대상·오뚜기·CJ제일제당 겨냥",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HcDRqYS1BelhRU1hjc1lfckNuMVZaVG1JUFZQQXQ3QjRzUDhQbnl4WVVPcEhUZkNhaVN4djBkbWJWQ0pjVVVwdVlYWVhlM2hFMmNHX3c0NFktN0FyTUN4MXBCUWs5RVNzUkJ30gFuQVVfeXFMTldselNWdGo3WmtKYjNoa1dZVU5NRWlGc0tQMWQxZkRsSGktWmxkLXBrMFRjMHl4N1ZqbTBWX2l1ZlZxSWg5VU9IZ2p6QUQ0eEd5NWVhVm11THlYbXZmcGloS1B1WWd6LVRBYmZEMmc?oc=5",
-          "source": "뉴시안",
-          "sourceInitial": "뉴시",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-14T08:42:15.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02QzhFM0JvWnhlcWFycXBaMG5ZdmFidWdoWkFOYmNHZ2MyQ3ZmUWdJQVlCMDI2ajFyVHh4SGNxWUg2dTEtY3NhRVhSenQ1RnAxOHl6dFpWSDRrSlQ5dGdacmpub2NyVERSRVZ2eQ?oc=5",
+          "source": "프라임경제",
+          "sourceInitial": "프라",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-14T07:39:16.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -234,18 +247,6 @@
           "sourceInitial": "알파",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-10-14T06:19:06.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "공정위 중점조사기획단 1호 사건은 ‘먹거리 담합’…식품업계 정조준",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcDhKLWVMcWEzMnFrUlFLUWo5Zng4c3lOZ0tQWkhoV043bUxvNmRGQWFUbl9zLU1xbzM3TUtSeFdSX0hiQjFOS19uMHJxbG9GVy1GeUl6ampJblczdVE?oc=5",
-          "source": "아시아타임즈",
-          "sourceInitial": "아시",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-14T05:37:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -292,6 +293,20 @@
           "feat": false
         },
         {
+          "title": "창업기업 112개사 제품 한자리에…한유원, 대형 유통망 판로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Gd0RMX1FETlJHZ2VqZVRTeGM5alpvdVZTNUdObnJMYml6OUF6eFNBQUxTWkNsM19ta1BuUWdwaUtRTmJBRjZXbUI5d1BCMUtTSjJVS0szejlGZHdCbTdqWkJ5Ql8?oc=5",
+          "source": "매일일보",
+          "sourceInitial": "매일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-14T00:53:49.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "농식품 벤처 18개사, 해외 바이어·유통 MD 만난다…농진원, 판로 확대 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5neDlGbWxaLVVyOG5yZGVCcnZLVkZlS2FMWlBURzBGaFlQSktWeFNNNm1LY1FSU05ubExSMVNNaDJlSUljZU1GSEFDbUUyZkNNaEVFbFRmeDhaX1NXODFRd0U2dGs2dmQwZFU3WQ?oc=5",
@@ -322,11 +337,11 @@
         {
           "title": "아산시먹거리재단·아산교육지원청, 학교급식 공급체계 점검…116개 기관 식재료 공급",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HVWZZaUJxdWg2SHktQkFrdWw0bGxEbG5VOUc5LVBXWXE0by1uc1pyZk5MWjd3Z1N6QTRDc0RKdV9NalZaSks4MkRFU1dLQ05MbWc?oc=5",
-          "source": "투데이타임즈",
-          "sourceInitial": "투데",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-14T11:30:59.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JajdPdlZrQXpJYzRFbzQxeU9iekR6SHRydUhqSjlpaDFXRWNNZms5R2F1X0RyMmZUdnRMRWpoa0doSUE5S2Y5Q2lvN0RFX1pRT2ZZ?oc=5",
+          "source": "유스연합",
+          "sourceInitial": "유스",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-14T10:13:26.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -351,18 +366,6 @@
           "sourceInitial": "오늘",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-14T06:49:01.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "농지은행 매입 대기 3300㏊…학교급식 부정입찰 의심 2년 새 100배",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90UzhSU0RQZjVxRUhQNWYyVXVybFNuZFp3bzRtWW9NdWtyZlRIWlRTbG9IeEdybDEyNGxyZ1BwVVRZSTZJa09PSUVONk5fLWFTNkZTazlR?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-14T06:10:26.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -549,6 +552,20 @@
           "feat": false
         },
         {
+          "title": "삼양식품·농심·㈜오뚜기 ‘SIAL Paris 2026’ 참가·‘볶음너구리’ 재출시·‘2026 춘천 막국수닭갈비 축제’ 참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmSS1vTW8yLTVIMUI1aVdVVjVBQ28tcjdtQlBmSGJ3U1o2ZHRmUjVOUXRVV0xDcEQwQXZCSUU5SlBfc3ZKVnI1dzN0elVFZHRhZjdSMF8wV0dKdmFYZjRSdkI5UWFZQQ?oc=5",
+          "source": "여성소비자신문",
+          "sourceInitial": "여성",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-14T04:47:34.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[2026푸드테크앤트렌드] 김영수 조선비즈 대표 “AI·푸드테크, 식품산업 혁신 이끌 것\" - 조선비즈",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX0U5NTE1cTljM25YajNZM0FPS1lDSVRlcUQ1RVNIbU5ZR3piZFJ5QVFNaEM2UXk3VzJ6R1d5MzBpb1FMMTdZY3U0YVlxVGRKdWFWTFRDZnBUdEp0RlFBdDZ4SmhCWUM0OUQ2NUhLdjd1d0d4S0NYWHBJQS1nN2dpUTc2cGNDZ9IBmgFBVV95cUxPMXpXOVhIVmR0djdIazlsRnNMdVJnak5ZSE1GeDk4d2JwdjJ0V0RYRDc0Q3VpZ3g1bWduN1lxazJRZVo4Q3R6aTcyMzE0dTEtWDJCam1JWlgzT3BYVDZjSV82NEV0VzdkaGM3dXFoVWNOTTdSY0hfT0hfQUoxeVhiYnNJUjdVMGhFRnNsQ1hQNFR6ZzltVVItN1R3?oc=5",
@@ -598,18 +615,6 @@
           "sourceInitial": "디지",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-10-14T11:33:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘발효, K-푸드의 미래’…전주국제발효식품엑스포 22일 개막",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Snk2ZW12T2ZpVG03M3Z1bi1wN2VKYVZQaXZaZ0RDQndueVlpZkY0Ym1qZ0ZwWk9NMjI3WXUwWHF4UDYxZlR0N1gyM1dVVXFiQXl2czdqcVZITGdfblg4aHFYTzdLcFV0OGhEcg?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-14T10:52:22.000Z",
           "tags": [],
           "price": null,
           "feat": false
