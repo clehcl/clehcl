@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:00:06.958Z",
+  "generatedAt": "2026-10-14T23:08:13.442Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -79,20 +79,6 @@
           "feat": false
         },
         {
-          "title": "[ 2026년 10월 15일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVVRMHVBM1FqU0M2YjFDTU5VVDcxNVFET2I4MWlISEVVUGl6cmNLZjZGZGVIWXRmcnVLNU9Va09sNnBqV2hmT21CMVlINHdfVjVpcF9qM0ljR3p0cnRWYi14NkZRcUdRLUt0NnFEREhYRTFsaXJZUDUzazZYSzk3ZDY0a2NrbE1OSVF3SVBB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-14T15:18:23.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "'2027 식품외식산업 전망', 11월 4~5일 코엑스 개최…미래 밥상·K-푸드·AI 제조 강연",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWTlDdDN6MFAzQTdpYm5ZbGlpeHN1SlZsNE9nRDdTaGg4MllfeEJnWUdXdUFxZU5IRnAtMjI4dHJ0U1B5TThneC1YcHliOWxnN3dROGh2cGlSdWNCNlVoRkdrRmU3bUhRekhFV3dB?oc=5",
@@ -102,6 +88,20 @@
           "publishedAt": "2026-10-14T09:22:35.000Z",
           "tags": [
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 10월 15일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVVRMHVBM1FqU0M2YjFDTU5VVDcxNVFET2I4MWlISEVVUGl6cmNLZjZGZGVIWXRmcnVLNU9Va09sNnBqV2hmT21CMVlINHdfVjVpcF9qM0ljR3p0cnRWYi14NkZRcUdRLUt0NnFEREhYRTFsaXJZUDUzazZYSzk3ZDY0a2NrbE1OSVF3SVBB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-14T09:22:23.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 19,
       "items": [
         {
           "title": "‘재계 저승사자’ 1호 사건…대상·오뚜기·CJ제일제당 ‘가격 담합’",
@@ -240,13 +240,13 @@
           "feat": false
         },
         {
-          "title": "'재계 저승사자' 1호 칼날은 밥상물가…대상·오뚜기·CJ 6개 품목 담합 조준",
+          "title": "공정위 중점조사기획단, 1호 사건으로 식품업계 겨냥",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85M2ZVd05oMlNCNTUzSE5iZ2hwOFUza3NDM0Jab1hJN3I1aFAzVEluTkh6Ul9lNkhaWENGd2JaYnNGYy0xdHpEdjFMbTU5Zk9tcWl0S0FfS2N3M1diVmpZRGdFYzRLbkJmUmphUGxB?oc=5",
-          "source": "알파경제",
-          "sourceInitial": "알파",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-14T06:19:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTWpHS2F1TDRqQkl3c3dvUnVIMGhXdkZwUDlRM2NZUUpxTDBQVElLR2EyVl9qRmt1NkRpWEtwNER2bFpfV1FGQkcwcWdVTmlPa0RtbG4xWVdKZTRpelFIc3otMlhHZ3lueUMw?oc=5",
+          "source": "뉴스저널리즘",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-14T07:16:27.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -262,7 +262,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 27,
+      "total": 26,
       "items": [
         {
           "title": "EOA, 무신사뷰티 홍대점 내 약국 입점…오프라인 유통 확대",
@@ -335,6 +335,18 @@
           "feat": false
         },
         {
+          "title": "참존 품으려는 김남정의 동원…과거 M&A와 다른 승부",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lVVNjNVA4ZU1OcGVjM1Vvc0lmb28wdE5iSHJPUmhYTmtYanVEVzM5by1YZUJTbGNjUlFlYWVodWpJLUh5WHdINnFzbnJnTVN4Y3I4MXpIZFNrYTk3OGRkaVRMZzVfYjlteXUyNDc1ONIBc0FVX3lxTFBuLUJxMmF0LXg2djRJV2ZPb3JUbDlRSVZKNmd1ZW5oQmZhNjhseEVoOXpkMlhxMHIyUzNMa1E5aHFkSWNVSWlVSDV0Sm1YUjI0d1F1NDNzMGpJakxuVExsdnZSVzNlTEh1RzJNSjNTYWl2b2M?oc=5",
+          "source": "데일리한국",
+          "sourceInitial": "데일",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-14T21:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "아산시먹거리재단·아산교육지원청, 학교급식 공급체계 점검…116개 기관 식재료 공급",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JajdPdlZrQXpJYzRFbzQxeU9iekR6SHRydUhqSjlpaDFXRWNNZms5R2F1X0RyMmZUdnRMRWpoa0doSUE5S2Y5Q2lvN0RFX1pRT2ZZ?oc=5",
@@ -357,18 +369,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, 제28회 상생협력 아카데미 개최…육가공 협력사 식품안전 역량 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHSXRVWXVqNC00ODk3ZllmUzE2TEdnMW1GMUk5MlJZbS05Y29FR2RjYUU4QVVfRm9Gc3lvWUgxVzRESWFPSDBjSFhUSzVjY1hfWHFNM0NqczZQTi1OeFVYQXp0UHg1ZHEtQVIyOFJTUkVLdTA?oc=5",
-          "source": "오늘경제",
-          "sourceInitial": "오늘",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-14T06:49:01.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -381,7 +381,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 7,
       "items": [
         {
           "title": "계란 가격 담합·AI 방역까지…농식품부 정책 ‘도마 위’",
@@ -456,32 +456,6 @@
           "feat": false
         },
         {
-          "title": "9월 전국 소비자물가지수·신선식품 제외 종합 전년 동월 대비 +2.0% 수준으로 상승 전망. 각 지자체 보조 사업의 종합적 효과에도 주목. ―일본 주요 경제 지표 전망(2026년 10월 13일)―｜宅森昭吉（景気探検家・エコノミスト）",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWGJ3UU0xME5yNE9McWo0TWFFWWRSTEQxMjJ0VkZFaVNhbkdkMGZjcHo3c2x0enVrRDZzcHJjRG9iQUZHTkQwTkdrYXlxMl9DaEVycFktNVlGZ1ZsSjYxczFsR0RqUQ?oc=5",
-          "source": "note",
-          "sourceInitial": "no",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-12T22:55:00.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품안전 365] 잔류농약 부적합 ‘홍초고춧가루’ 회수",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DaEhHSnppeXhKU3ZiN2FTYVN5RnRfX2FVRkZDcTVUVERoOEpycnNpdTFPM3huX0g0MHRncGYwZFFvVjF0ZzRTRl9UZEN6RmR0TVd6a2U5TlJqSDVMS2tlNWF0b3JwU0JYVlcxQkdB?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-14T10:45:01.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "한국에서 안전 기준치의 1,500배에 달하는 알로인이 함유된 식품이 발견됐다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclN6TDhFb3dZRHBBT3A2N21RamNCWVRyczdDR0VfTF9VZG1jc19jNVNvdFdUY1BmMktOUFpjZ1lKdkZ2M0VnTDZFX3FCNG1zZUZZOFpOT3NMeVNoSWZTZE53SGZIb0hxMm41a19NWHpCbFRJZGJxWVNjMFpXdXpqX0FWdC1GeGQ0QjBmazd6dmFqd0J1d3lsRkVlY2FFZm5S?oc=5",
@@ -489,6 +463,18 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-13T08:44:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "AI 기반 식품 안전관리 강화…GMO 표시 확대 추진",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GM1BiSHFCc3IxOEgzYjJtbVh3NTJZb3dpU2czOVNwbTlLOVVwRG5YUzB0ZkloR0lFazIzN3RINWVWSGZtdDZnbzFVeTRkdXBLZnFXckwyZDlLUVkxSXFJY2hmYUNvSHM?oc=5",
+          "source": "한국식품의약신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-13T07:53:26.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -504,7 +490,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
         {
           "title": "[식품업계 9월 동향] ㈜오뚜기, 강황·간편식·라면 신제품 출시···외부 브랜드와 협업 진행",
@@ -529,21 +515,6 @@
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-10-14T00:07:52.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[식품업계 9월 동향] 던킨, 잠실새내역점 오픈...‘던킨X오스틴강 이츠 셰프 컬렉션’ 출시...‘할머니학화호도과자’ 협업 신제품 2종 선보여",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdk4tREdGQ0JkSFY1aGRTRXlaSDBDWER6NDc3T25lUlc0emdGUDRhSk5EVFZiT2c1X1Vtb0VoSTdyYVlza1M1VHNZdllyLWxEN2JyaWoxQ2JwZDk5TnZ6c2xRakN2UQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-13T06:51:53.000Z",
           "tags": [
             "신제품",
             "출시"
@@ -604,6 +575,18 @@
           "tags": [
             "신제품"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "삼양식품, 'SIAL Paris 2026' 첫참가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEd1MzMTZsQmtVT2lBWGNSM0JjNDBPamF0R3l1cDRGeURGdjlESHVCTjdRcG9mZ3c5ZFgxbUYwcVlTdnoyMW8tc29yaHk2b1VUTUlvMDJmNVpCMHFrQTVRWk1wQ0FfY0l3OWFmendsMFVUMjlN?oc=5",
+          "source": "글로벌뉴스통신GNA",
+          "sourceInitial": "글로",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-14T20:56:56.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
