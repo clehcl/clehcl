@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:25:56.337Z",
+  "generatedAt": "2026-10-16T17:37:07.013Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -149,7 +149,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 24,
+      "total": 21,
       "items": [
         {
           "title": "이탈리아 2026년 9월 인플레이션, 에너지·식품 가격에 4.2%로 상승 - 뉴스 및 통계",
@@ -270,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "무궁화반점, 11월 대전 자운대 군부대 식자재 납품 개시… B2B 공급사업 확대",
@@ -293,7 +293,7 @@
           "source": "농민신문",
           "sourceInitial": "농",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-16T10:54:29.000Z",
+          "publishedAt": "2026-10-16T10:53:49.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -349,7 +349,7 @@
         {
           "title": "aT·한국농어촌공사, '급식 쪼개기·용수 전환'... 국감서 관리부실 도마 위",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52SDFIV0dHZUhsU0Y4cUtLb2pRc25SMXRoRUxnNVhyQXc4RDJpWVhncnc5Zkk3VWVvYlZOMUZHclotVFV6LU8yd2hFU2N3QVRBQnhNaS16ZUhGV3UwMXNoSW9mWGo1U0s4N0RRT2I0dknSAXRBVV95cUxQQ1NZTWU2X0xvU3ROR2xpRjlKdzI4WHZNTnRScXQ4dXB5aE1Cb1ZYVmlEbzhQellJbGNpMkRaUFBRZVd0S3ktRWZabng5UWZYUkxSRHUtaE9Jb0N3ZlNGR01YQUJmNUkyTzU5S2ZVVkpFZ3A0Mg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDU1lNZTZfTG9TdE5HbGlGOUp3MjhYdk1OdFJxdDh1cHloTUJvVlhWaURvOFB6WUlsY2kyRFpQUFFlV3RLeS1FZlpueDlRZlhSTFJEdS1oT0lvQ3dmU0ZHTVhBQmY1STJPNTlLZlVWSkVncDQy0gF0QVVfeXFMUENTWU1lNl9Mb1N0TkdsaUY5SncyOFh2TU50UnF0OHVweWhNQm9WWFZpRG84UHpZSWxjaTJEWlBQUWVXdEt5LUVmWm54OVFmWFJMUkR1LWhPSW9Dd2ZTRkdNWEFCZjVJMk81OUtmVVZKRWdwNDI?oc=5",
           "source": "뉴스워커",
           "sourceInitial": "뉴스",
           "sourceColor": "#c15a37",
@@ -381,7 +381,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "EU 포장규제부터 미국 MAHA까지…식품산업 글로벌 대응과제 진단",
@@ -396,6 +396,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[2026 국정감사] EU는 식품 포장재 규제 강화…국내 안전대책은 미흡",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqQlhrLU03TEpVM1RjY0lkd0NSeWlxUmo3LWZqa1VCVUdPWU9IbXlVLUJZWnlQM2dBUy1wYWhsUEZKSEh5eS1PMGlKbDlSMWhNcFVOME9aLW00Z2hkMGtIeFU1LUJObTFEbThhTQ?oc=5",
+          "source": "베이비뉴스",
+          "sourceInitial": "베이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-16T02:31:44.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "고카페인 음료 규제 시동… PC방 효자 메뉴 얼박사·몬스터 어쩌나",
