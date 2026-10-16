@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T20:33:43.716Z",
+  "generatedAt": "2026-10-16T23:16:03.335Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -149,7 +149,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 22,
       "items": [
         {
           "title": "이탈리아 2026년 9월 인플레이션, 에너지·식품 가격에 4.2%로 상승 - 뉴스 및 통계",
@@ -222,20 +222,6 @@
           "feat": false
         },
         {
-          "title": "CJ제일제당·오뚜기 또 ‘가격 통제’ 의혹…공정위, 반복 위반 전력도 살핀다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakhGNDkzSF94NldKZEp6OFNZV210TFRYZmJUU0o2LTFvZzVjSUpYNEI5ZnBCdDVrcXA0N0xjVTJLbWFVSzl1bnRzdW9qT2l5NzJ2ZTREVHE4OFhMcEVBWjdNNG9ac0g2NHFKajNuRU52dGZZNFVOeTFPWk9IMmx1Xw?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-15T06:26:27.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[A 주간 서머리] 경제·산업계 \"국내 증시 7%대 폭락에 금융당국 긴급회의...공정위, 식품업계 담합 타깃“",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HLUtVN2RwSFRnZGp1cTYxVEZsQU9UUHI3QVVyMUptOWNHTDAxRnZCekNYSkxJTF9QMmFZR3poMnplcUoyMlZhZU9HZWp2VzhMdUdqWDRPZm9Bek9kVmUwR09lZlM3ekktSEHSAW5BVV95cUxQeXV3RlVBMzBKNnRrN19XVDNZTnlXRUJ0T09YUHZWc0wzYTRsTm1yODlSZ2hDaWRfekN2R3ZtRWxtdkE5UVBzVnBjYkRFQzhXT29XNHZPRUlmM2pneUs4TnZ0V2tOVHFaaFRMQnNpZw?oc=5",
@@ -258,6 +244,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "미국 생산자물가 1.3% 급등…2022년 3월 이후 최대, 휘발유값 20.3% 올라",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOMXRSWWJhQ3BpaDZKUGhkR0Nla1NpYV94VUphZnJiS0xZYVc3WDRuWUhQNm1vaGhzTE1oMzhOTEJPeWVMYmdtWjBuS3lyQmI2czN4bmRnRTZaYjZZanVmZFB3N0RaNEtQMlBr?oc=5",
+          "source": "https://www.diarypoint.com/",
+          "sourceInitial": "ht",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-16T03:36:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -270,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
         {
           "title": "무궁화반점, 11월 대전 자운대 군부대 식자재 납품 개시… B2B 공급사업 확대",
@@ -357,18 +355,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "참존 품으려는 김남정의 동원…과거 M&A와 다른 승부",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lVVNjNVA4ZU1OcGVjM1Vvc0lmb28wdE5iSHJPUmhYTmtYanVEVzM5by1YZUJTbGNjUlFlYWVodWpJLUh5WHdINnFzbnJnTVN4Y3I4MXpIZFNrYTk3OGRkaVRMZzVfYjlteXUyNDc1ONIBc0FVX3lxTFBuLUJxMmF0LXg2djRJV2ZPb3JUbDlRSVZKNmd1ZW5oQmZhNjhseEVoOXpkMlhxMHIyUzNMa1E5aHFkSWNVSWlVSDV0Sm1YUjI0d1F1NDNzMGpJakxuVExsdnZSVzNlTEh1RzJNSjNTYWl2b2M?oc=5",
-          "source": "데일리한국",
-          "sourceInitial": "데일",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-14T21:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -446,7 +432,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "풀무원, 148L 김치냉장고도 에너지효율 1등급…신제품 2종 출시",
@@ -520,6 +506,20 @@
           "feat": false
         },
         {
+          "title": "[커피·음료 트렌드] 메가MGC커피, 캄보디아 1호점 프놈펜에 오픈 “동남아 시장 영토 확장” 外",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWHlsRWVGcHZaanQyRVNXNzhXbzN6Yy0xT196YURDa2RIUFZKZ2RHQk1BTVVZNy10c3RVX1NscHpJMTg3Mmt3dkYyV0o2SEd0SnZuenVZdU41NndLLTliR0dmMk9fSzlqOENsSA?oc=5",
+          "source": "베이비뉴스",
+          "sourceInitial": "베이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-15T05:18:48.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "빙그레, 국제식품박람회 'SIAL Paris 2026' 참가…'바나나맛우유' 유럽에 첫 선",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZU81Yk9OWldiNXprcmxEdEVvT01tQkc4MV9rTXhZbFJOY1pyS0w3bGsxTVhiS1ptN0t3blEyWmtZX3ZBUTJnczl0TmhsX0x0bWtkbTctSTRnanJxWGZsUmlGWTN1TzhOQXJZVlpyQW52blU30gF0QVVfeXFMT1llTzViT05aV2I1emtybER0RW9PTW1CRzgxX2tNeFlsUk5jWnJLTDdsazFNWGJLWm03S3duUTJaa1lfdkFRMmdzOXROaGxfTHRta2RtNy1JNGdqcnFYZmxSaUZZM3VPOE5BcllWWnJBbnZuVTc?oc=5",
@@ -539,18 +539,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-16T09:35:32.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "맛집 메뉴부터 SNS 레시피까지…GS25, 김밥 차별화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wTFlLczRCd21sM25EQnN0cFh1ZFJnMWdSRTJWUUFVN1J0ZmJJU3diUXIyU2xabjNmWnZldVkyM3RMRkd2TGNxWG9lWHN0eWQzQkQtelNoQm1feUFHaDZXTmxSWS0?oc=5",
-          "source": "포쓰저널",
-          "sourceInitial": "포쓰",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-16T06:02:36.000Z",
           "tags": [],
           "price": null,
           "feat": false
