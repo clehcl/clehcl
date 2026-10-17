@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:13:00.372Z",
+  "generatedAt": "2026-10-17T13:51:29.428Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 19,
       "items": [
         {
           "title": "자담치킨, IFS 프랜차이즈 창업박람회 참가…가맹사업·신메뉴 소개",
@@ -94,20 +94,6 @@
           "feat": false
         },
         {
-          "title": "왓더버거, 가맹점 주방 자동화 모델 3종 공개…조리 효율·품질 표준화 가속",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSmJRNkRkc2VCYS04YnVSMWV0czdUcHhFRThpRFRNMUlIekNhQk1pSkJ5QTVWT1oyMzJ2Q1pLV2xUT0tpeERwNGtGY29HTEdaelNmRHY3SWtuVU5yRTNUaEdvRGc?oc=5",
-          "source": "서울경제TV",
-          "sourceInitial": "서울",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-17T09:30:04.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "청년다방, 22일 코엑스 IFS 프랜차이즈 창업산업전 참가…떡볶이 창업 정보 제공",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRUIybzE3TFBubHRua0FGSWRsc0d1WFhRTy1NM19NUVVyejBIWW84bllSc0JsRkdhVlZfU0huNkJOMzhUS0hiZF8tZHJtS2RDUW10enNWcUt0VF9iNGl6M3VyNGoteEpFU3NmYW9FSVg?oc=5",
@@ -131,6 +117,20 @@
           "publishedAt": "2026-10-17T03:56:15.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "작은 기기에서 메뉴를 찾는 korea win토토 조작 팁",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeC14WGJtX21kLUQtUTNhR3V4cVFPejZsOUZSajZUTS1LbWhBMDFFeVFDNktWdFpPY1J2WUNMM3RFM1pwOHQxUzZ6T0NSdzg0MjZZS1ZlTnFHSzY0b1l5TnJrV2w2ajJJUnNVR2ZDaU5PbVdQQW1Ga1dNZGRKcUN1NXZHSXFlZW9UXy1YRDNuWThHdnpLeTdjTDhJR2JiWGk1WkRoUXFQTlRhanhmUHVVU21mVFk2aXFIZV90am5iX3pCMXE2MFZSX3FhMW5odnU2MUhHYms1RkozYTFfMHNUYmRMMFV6QkxmTFFqRzRNSEVhS3RNdkVQUlRVTkdLM2VfLXJQSjFiUDJZdHVBbnN1U0t3?oc=5",
+          "source": "Calgary Roughnecks",
+          "sourceInitial": "Ca",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-16T17:34:57.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -271,7 +271,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 8,
+      "total": 6,
       "items": [
         {
           "title": "생산일 6개월 전에 유통 기한이 잘못 인쇄된 요구르트 사건 이후 시정 요구",
@@ -345,30 +345,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-16T00:36:47.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "초등 과일간식 원물비 44.3% 그쳐",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVy1kS2UxcWh1S05FZFkyYVJuem03OFl1a2lUdlBkX08xUHBtYV9pNjdDNUVHZlByVnFkaXRwdGRjWFdzZDFEOXMzWVZ2OUFjOUNfVDZOcmZrTlpaQWNXSXV6cGRPbjR3?oc=5",
-          "source": "대한급식신문",
-          "sourceInitial": "대한",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-16T00:13:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "지역 먹거리 생태계 키운 해남의 ‘5년’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdndGSExQc254T0Q5bXhUUWJ2YWFxMlZDUy1VMkRGOXRRNW1EZFp1aXpOSDlnRm9URWJWZXhKZ2J2UEZJWFVyQ0c2Y3VNUThiSlVzSGNpZ2NIaW9iVmNDUUZrSFJ2Q2FwOHc?oc=5",
-          "source": "서울Pn",
-          "sourceInitial": "서울",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-15T16:02:51.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -525,15 +501,15 @@
           "feat": false
         },
         {
-          "title": "풀무원, 2027년형 김치냉장고 출시…전 모델 에너지효율 1등급",
+          "title": "CJ ‘The더건강한 닭가슴살’, 건강한 식생활 트렌드 정조준",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NdWFiMjE5VDhFb0tBaFVrTTIzUDlPOFo3LW45Y2NyRFlZUHpUR0g0SDZaejFQTlJJc191aW9yaFBsVnN2UGlidmptYU5McDg3bkVyd3hDRFpaUWpHXy1WVC1RY2ZNZw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-15T23:02:06.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KU1dUSE8xeWhhdjhDM0V1a3BtSExJMUZud253b2pRWWdhX29HR2FGZy1GY0h6MHB3MWVQS3R1dmpXMzdGS2pOYktOSE0xd0hsbll5XzR3dnk0ZXRKVUF5VGl6MmZuZkRCc3d6Z2RsTQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-16T00:39:58.000Z",
           "tags": [
-            "출시"
+            "트렌드"
           ],
           "price": null,
           "feat": false
