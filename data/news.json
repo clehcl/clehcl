@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:54:54.298Z",
+  "generatedAt": "2026-10-17T10:13:00.372Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -94,16 +94,15 @@
           "feat": false
         },
         {
-          "title": "“인건비·식자재비 이중고”…외식 프랜차이즈, AI로 돌파구 찾는다",
+          "title": "왓더버거, 가맹점 주방 자동화 모델 3종 공개…조리 효율·품질 표준화 가속",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RM3k5WlhIN1pxOWs3RVJybGpaZnVpcklUa0VxQ0xNdlF4TUVTeDRVaVppdkJnYTdXbk9QeVhiWjEyRFczR2tCczhZLUdIZw?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-15T07:20:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSmJRNkRkc2VCYS04YnVSMWV0czdUcHhFRThpRFRNMUlIekNhQk1pSkJ5QTVWT1oyMzJ2Q1pLV2xUT0tpeERwNGtGY29HTEdaelNmRHY3SWtuVU5yRTNUaEdvRGc?oc=5",
+          "source": "서울경제TV",
+          "sourceInitial": "서울",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-17T09:30:04.000Z",
           "tags": [
-            "프랜차이즈",
-            "외식"
+            "가맹"
           ],
           "price": null,
           "feat": false
@@ -147,8 +146,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 18,
+      "total": 19,
       "items": [
+        {
+          "title": "aT, 농산물 가격조사 정확도 높이는 도구개발…AI 경진대회 우수상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41SjUtQXJ2N2xPUHE3TTB2VVVnbG1HRC05ZkRybm5aT0JPVVRUV3V1Qm5uVFFBQjNIdkF0MmEwWXItbDRxZlRaeU9jcHdhb1k4NWc0TTFIUWxBNlJYWS1sWkJ5dGhtNU1tT1dmT0FEbHk4Wkhv?oc=5",
+          "source": "부산일보",
+          "sourceInitial": "부산",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-16T10:47:15.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "이탈리아 2026년 9월 인플레이션, 에너지·식품 가격에 4.2%로 상승 - 뉴스 및 통계",
           "summary": "",
@@ -161,7 +174,21 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "정부, 석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yYXBqZGpnelhGLTVjcThXXy12ZHprUEhKSUluV0RFQzdodDlZZUhqTWdYQnVkbk5xRjFsak1PQVk2NFFpSlNjWmh4Nk1kejF6WjVz0gFYQVVfeXFMTjNSN3ZuaTR1SW51Q1pfMW1BLWlHNnRwSm9SVUZRS0wwRWRvRXRQLV8yYXhBek5JaF9fV3ZmY056WTRfUUlPd2RxbEZQRW01MEFib3pwS296Nw?oc=5",
+          "source": "SBS Biz",
+          "sourceInitial": "SB",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-16T09:12:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[2026 국정감사] 초등 과일간식 예산 170억인데 실집행률 31.6%…공급단가도 원가 밑돌아",
@@ -232,32 +259,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "\"매출은 제자리, 원가 부담은 '쑥'\"…외식 경기 3분기 만에 하락 전환",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5bzZ3U21xdjNFNkZzRW5pUWtqV3k3YVFuOVl1NFN6Q2pXSGxzcDR3YTRoRDNPeDhGMkhuMWpoRVdYVnlUUU5acWFneTllTEdyYWNrajgtNW9SOV9mZFh0ajY1N1ZBREhnUHdLZUhpaEZXUQ?oc=5",
-          "source": "아시아경제",
-          "sourceInitial": "아",
-          "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-10-15T07:32:33.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[A 주간 서머리] 경제·산업계 \"국내 증시 7%대 폭락에 금융당국 긴급회의...공정위, 식품업계 담합 타깃“",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HLUtVN2RwSFRnZGp1cTYxVEZsQU9UUHI3QVVyMUptOWNHTDAxRnZCekNYSkxJTF9QMmFZR3poMnplcUoyMlZhZU9HZWp2VzhMdUdqWDRPZm9Bek9kVmUwR09lZlM3ekktSEHSAW5BVV95cUxQeXV3RlVBMzBKNnRrN19XVDNZTnlXRUJ0T09YUHZWc0wzYTRsTm1yODlSZ2hDaWRfekN2R3ZtRWxtdkE5UVBzVnBjYkRFQzhXT29XNHZPRUlmM2pneUs4TnZ0V2tOVHFaaFRMQnNpZw?oc=5",
-          "source": "아시아에이",
-          "sourceInitial": "아시",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-16T08:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -301,6 +302,30 @@
           "feat": false
         },
         {
+          "title": "태안군, 어린이집 18곳 대상 '공공 급식 DAY' 본격 시동",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdmM4b0VhXzMzc1pnZFUwUk5qUjktU3NBdVBKbmE0ZVBZaGMwcWl3VnVoMHRPcUpleEw1TmM3bEU5RDZwNkdqNlh5NENFQm9VMmhuTE5zVzlQX2V4cVN1NWFCNG4xbDJleDFoVlpn0gFuQVVfeXFMT0J2YzhvRWFfMzNzWmdkVTBSTmpSOS1Tc0F1UEpuYTRlUFloYzBxaXdWdWgwdE9xSmV4TDVOYzdsRTlENnA2R2o2WHk0Q0VCb1UyaG5MTnNXOVBfZXhxU3U1YUI0bjFsMmV4MWhWWmc?oc=5",
+          "source": "충청신문",
+          "sourceInitial": "충청",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-17T05:45:53.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "K-푸드, 프랑스 학교급식 시장 진출 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ybnZqM1ZsSnVRUTQ3VDRmdTZ2ZEVkVTRPa2ZOemlwbmNUVHoxb1FNMGFHRGQ4R256UV9DSnBIc1g1TDFINjh5S3VicnhBTmE2ME9nNDU3VnlzQm9SX0M5WUdjYmxMa0ZB?oc=5",
+          "source": "대한급식신문",
+          "sourceInitial": "대한",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-17T03:57:22.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“우리 아이 급식, 한우고기로 든든하게”…농협·CJ프레시웨이 MOU",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UUlhDakdmTXFmalU1QUlucHlaRXVHU2FmYmxDaWhaRmJvMHJ0RVNxSUZ6b0R4LTJTb0s3Y2VwczcwNnpvVW83ajlNODlqUGM2VGtOdkI3ZldrQQ?oc=5",
@@ -308,18 +333,6 @@
           "sourceInitial": "농",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-10-16T10:53:49.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[똑똑한한끼] 이마트24, BBQ, 큰맘할매순대국, 삼양식품, 하이트진로, 풀무원푸드머스, 샘표, CJ프레시웨이, 국순당",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90S0x1Mk9aMkFEa1NTYUVJSDh0aDBRRHRSdjIyMlF0MEFhS0xOeEtDRlV6V3Yxajktak1QYkZrdENwMFBhYnhJdVRSbTdUUXZIQ3F1RDZsLVltM1k?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-16T02:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -349,25 +362,13 @@
           "feat": false
         },
         {
-          "title": "[2026국정감사⑤] “실적 뻥튀기·가짜 K-푸드 방치”… 총체적 부실 드러난 농식품 행정",
+          "title": "지역 먹거리 생태계 키운 해남의 ‘5년’",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0teHhSWmFKYmJnN3ExWC1EczhTajlKclNPcnh0SHE0R2F6TWhTemJ5ajhjT2ktTk1adUd3YzVXM2R2T1VwSGVXUjVGdXFHTUtfTHVRUDRHWWN4Yk9NYnpNT29TbGdUN2NNWGRr?oc=5",
-          "source": "전업농신문",
-          "sourceInitial": "전업",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-15T08:20:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경기도 G마크 우수축산물, 학교급식의 신뢰를 잇다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFZ2ellDdjVyLXA3YjlzRmhISW8zcWQzejgxZGxJYkFNamo5QzZSRnNGUDRZUFBCdXZRNHJ0YzlTVUtjeW9zN0stNmtoSjFPTHk5X01aamFwUkptaHBpTm5aV2dXRnM4ZFVSN3dRbkJYVXBUY2U0RG9tVXVfUHk2enl3czFSRWF6SUdWZw?oc=5",
-          "source": "경기도뉴스포털",
-          "sourceInitial": "경기",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-15T07:19:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdndGSExQc254T0Q5bXhUUWJ2YWFxMlZDUy1VMkRGOXRRNW1EZFp1aXpOSDlnRm9URWJWZXhKZ2J2UEZJWFVyQ0c2Y3VNUThiSlVzSGNpZ2NIaW9iVmNDUUZrSFJ2Q2FwOHc?oc=5",
+          "source": "서울Pn",
+          "sourceInitial": "서울",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-15T16:02:51.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -383,7 +384,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 2,
       "items": [
         {
           "title": "EU 포장규제부터 미국 MAHA까지…식품산업 글로벌 대응과제 진단",
@@ -400,20 +401,6 @@
           "feat": true
         },
         {
-          "title": "고카페인 음료 규제 시동… PC방 효자 메뉴 얼박사·몬스터 어쩌나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2cmN2WUFxc3RYT21Pa3lQSllTSHBUbVFJdHJ4OGJvQ28xQTFJWlVUM043a2E0YjhJb0JuR3hJYmc3eDdtTVA5WXNWdGtnd04taXZONUdUaUJBVWg4QUQtZkNaTjZJUmxPUG83UHpjdw?oc=5",
-          "source": "아이러브PC방",
-          "sourceInitial": "아이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-15T06:00:00.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "제16대 국회 제2차 회의: 보건부는 의료 검진 및 치료, 식품 안전, 장기 기증 등에 관한 여러 가지 새로운 규정을 제안했습니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTFNGRVctNDZZU2gwV29VSUJrVTVtbGdlV3FEZXBSX00yNkJKemdrQ2hzeFM1bnB4emxwZ1Yyb2FsT0VFRjF1ZHRER3NYZUFUMlFoSlV4Q1RnMk5PdU9xWkVlUVpYU2hHTlBJNTk3QjBwMTgteGUtZ21vdEJnTTFrQ1djLVZNYVB3NkRwcTQzUDZuN1NmbXRYY1pDQ3hyU29RYXZvLVNSSzM4NGgwaHIzRExPdS00dlZKazRpV3UwUEhYZU1aVHVJazBHaDdCNkhRWUtfOFl3?oc=5",
@@ -421,18 +408,6 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-16T12:46:09.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "이수진 의원, 통조림 캔 BPA·식품 포장재 PFAS 유해물질 실태조사 및 안전기준 강화 촉구",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mRnFrclVTTWJkZzhnbEU0Qnk3NVVwazZCZFNQOHhBZTRKbVMtZlNNenZLc1BTTGttWld0TVBBdU04d0EtdjJFWHl1ek5BSUlTWHNEQlE0LVhCcjRUQ1NXZTlDM3J3eVJhSFRFUU1kYw?oc=5",
-          "source": "월드장애인사랑뉴스",
-          "sourceInitial": "월드",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-15T10:06:19.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -448,7 +423,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 15,
       "items": [
         {
           "title": "풀무원, 148L 김치냉장고도 에너지효율 1등급…신제품 2종 출시",
@@ -508,6 +483,20 @@
           "feat": false
         },
         {
+          "title": "풀무원, 2027년형 김치냉장고 출시…148L도 에너지효율 1등급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNW5BN0tFeHowMkNYVklkV1hXRk1seXFsaEZONEVDZUlHZDhka1dUQzROSExvbmloeVpUcnVwUXhJdmVucmtZMUNiZGx4Yld3OFBmSkhfZGU1N0doSmVSa3hqRHhrc3ItcF9n?oc=5",
+          "source": "서울타임즈뉴스",
+          "sourceInitial": "서울",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-16T02:08:11.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "CJ제일제당, 'The더건강한 저당 닭가슴살 볼' 2종 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9neloxT3lHTV82dnBnbTQ3SUxURTIzTV80NU45WjFkclh4NjB2bzlXcnZxZUxwSUVSU05DYXB3WnBTNTVkdDBLRUxyUkl4U3p1UmhKVkR4MVFNOWJ5b1hnVjBlVTZxMmh0akE?oc=5",
@@ -536,27 +525,13 @@
           "feat": false
         },
         {
-          "title": "CJ ‘The더건강한 닭가슴살’, 건강한 식생활 트렌드 정조준",
+          "title": "풀무원, 2027년형 김치냉장고 출시…전 모델 에너지효율 1등급",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KU1dUSE8xeWhhdjhDM0V1a3BtSExJMUZud253b2pRWWdhX29HR2FGZy1GY0h6MHB3MWVQS3R1dmpXMzdGS2pOYktOSE0xd0hsbll5XzR3dnk0ZXRKVUF5VGl6MmZuZkRCc3d6Z2RsTQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-16T00:39:58.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "풀무원, 2027년형 김치냉장고 출시… 148L까지 에너지효율 1등급 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNjhtOFlma3g4Z3hKcTdzbmhCWVUtMkVlSVpjZ3BJYkI0bjU4VEN2dzRBWFZjQ1FqYU9RblVkd25FOG9lQ2RtejZwaDRMbWVyOGl0bXZEbk82OW5jVkM2bWd5WkRON003SWV3VXFXQzM?oc=5",
-          "source": "Korea IT Times",
-          "sourceInitial": "Ko",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-16T00:30:11.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NdWFiMjE5VDhFb0tBaFVrTTIzUDlPOFo3LW45Y2NyRFlZUHpUR0g0SDZaejFQTlJJc191aW9yaFBsVnN2UGlidmptYU5McDg3bkVyd3hDRFpaUWpHXy1WVC1RY2ZNZw?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-15T23:02:06.000Z",
           "tags": [
             "출시"
           ],
