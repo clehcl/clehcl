@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:51:52.838Z",
+  "generatedAt": "2026-10-17T19:02:25.473Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 19,
       "items": [
         {
           "title": "자담치킨, IFS 프랜차이즈 창업박람회 참가…가맹사업·신메뉴 소개",
@@ -146,8 +146,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 23,
       "items": [
+        {
+          "title": "이른 아침 물가 동향: 꿩알 수요 급증, 채소 가격 상승세 지속, 껀터시, 설 연휴 대비 약 3조 VND 상당의 물품 비축.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM1ZYdXgzU2I0MWpKb3FUemxlTWpDNHNNamRvc3FiOERhdnhiRmN6M09QRFpCaDMxRWUwY0pQQnMxYWdXTDVXd3NrN2FNQnVub3pvU0t4OEtYVmtNaUhkUVdVRUE2d3F4NkF1Z1hJWFQ5TERYMXdrX3hkenNZNXRYOVdTT01TbFdxY1JoZVd4Z0QyZlNXUFBRUWdFd1FqRHlnN2pnQnptVGM2QjMxOGpnZ2tNb2U3SENVcU5ldGFQY0ZKZ3ByYlFnWGFaWQ?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-17T03:33:49.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "aT, 농산물 가격조사 정확도 높이는 도구개발…AI 경진대회 우수상",
           "summary": "",
@@ -160,7 +174,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "이탈리아 2026년 9월 인플레이션, 에너지·식품 가격에 4.2%로 상승 - 뉴스 및 통계",
@@ -240,20 +254,6 @@
           "sourceInitial": "독립",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-10-15T23:50:28.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "나경원 \"커피 원가 120원 궤변 반복\"…이 대통령 ‘계란 계산법’ 정면 비판",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DSUZZM1ctUDBpX3Y4Y0V5TnRtR0NtUjlkQklGVHlTbE0xUzM5QVNVdHJPYkJENW9xOGI0Z3puSDV3ck1CVkV3dVJiTVYxcHhqQmJNUzluWE4zUHpRMUlwZFFjTWFjR0FWbjUwd2ZKR1poZjYxbG93N9IBeEFVX3lxTE5DSUZZM1ctUDBpX3Y4Y0V5TnRtR0NtUjlkQklGVHlTbE0xUzM5QVNVdHJPYkJENW9xOGI0Z3puSDV3ck1CVkV3dVJiTVYxcHhqQmJNUzluWE4zUHpRMUlwZFFjTWFjR0FWbjUwd2ZKR1poZjYxbG93Nw?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-15T22:40:00.000Z",
           "tags": [
             "원가"
           ],
@@ -425,7 +425,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 15,
+      "total": 16,
       "items": [
         {
           "title": "풀무원, 148L 김치냉장고도 에너지효율 1등급…신제품 2종 출시",
