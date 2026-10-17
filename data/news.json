@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:02:25.473Z",
+  "generatedAt": "2026-10-17T21:36:19.570Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -146,8 +146,36 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 23,
+      "total": 24,
       "items": [
+        {
+          "title": "배추·무 가격 내렸지만 새우젓은 30% 급등…김장 물가 변수로",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmblJndllJNS1HVnp5T0NubUhvZ1JNVnQ2MXRGTG1ReG4tTXViZ1pQdHNPT2ZmSjJHRUQyUno2TzJFaDZBdThkWW1NT2ZIWmhLTWJtckNIanF5WGfSAWBBVV95cUxQcHVwOWlQR2dHejNSUjZDakROeFlxcUJGem10MTRiTTRiclhFVzU0bmJaYVk2VkhMSDA3TDNjbG1ldGhFMDNxWHU5V00zamgwdVNVZ3RKTnhRTHlQZ2piTVo?oc=5",
+          "source": "연합뉴스",
+          "sourceInitial": "연",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-17T21:01:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "AI 및 식료품 가격 2026",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0NWZkxwT0h0aGJDZkhYbGlZQ1d1RUdIUjFKbUpSNGtYbkpveGNuQzRxNkhwVDA0bDFLLUl6RHczQ1R5b1JPV2NvUXVqdXczeVh3dUxKQmtJaExZcWdVNXlZMXV1dkJ5TW1oQlRLckJlMEFucjVQOURhaXpMSUZUR0NHXzFDX29EamtwUjFUNE1fR3FBZzZtdmh0MGNEN0U5MmlQWTdPRmpPTnNyYTlIZXYwSjJmUmZFdENOYUt2WkZDRGh0RHNB?oc=5",
+          "source": "Spherical Insights",
+          "sourceInitial": "Sp",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-17T12:54:33.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "이른 아침 물가 동향: 꿩알 수요 급증, 채소 가격 상승세 지속, 껀터시, 설 연휴 대비 약 3조 VND 상당의 물품 비축.",
           "summary": "",
@@ -160,7 +188,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "aT, 농산물 가격조사 정확도 높이는 도구개발…AI 경진대회 우수상",
@@ -228,34 +256,6 @@
           "publishedAt": "2026-10-16T04:47:14.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "한미약품 에페, 비만 성인 40주 감량률 9.75%…가격 비교",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZml6RlRMR25vY1NRMVJydDBNYnF4bzVGQ2V3dnRQU1BvRUstNEJUaVVEUHUwamdoRVlPRjdFdnNnSF90MEVnSV9rSWxUanJTc0kxTThXUWF0c2JlVWFOWTZMMVdKTXfSAWtBVV95cUxQWnpfZ3dzVTVlM1lQcGk3SzdPVHB5QnFuX19ka3liSUdldjRWYS1lazdKTEZNUjBZcC1RLURQOHJhdTR3alRpVm9VVlBqdDZZa044R29UM1FIdU9VYVhaTkdUSUdad0FzNUNxaw?oc=5",
-          "source": "창원특례신문",
-          "sourceInitial": "창원",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-16T00:40:20.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "나경원 “달걀 원가 178원만 따지나”…이 대통령 ‘브라질산 계란’ 계산법 정면 비판",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRU15NFdRdnZYMjRKVEVIbkNtX2hiRlNNWHdQQW5qRTI1OTFYQm5YVjMzdHFQTEhrNVlsUFRRbXJibXJRRWZNeDQ2aXYxWVNUTEw3UE9qTV9BbDdOVk1GYjBSZkhHT3RGTWlR?oc=5",
-          "source": "독립신문",
-          "sourceInitial": "독립",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-15T23:50:28.000Z",
-          "tags": [
-            "원가"
           ],
           "price": null,
           "feat": false
@@ -372,8 +372,23 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
+        {
+          "title": "GLP-1 유통 20배 폭증 속 식약처 오남용 규제 제동 : 책",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByNlUtSEs3TzdIRWxrQzBuWXo4NEkwRHNUTnZjMk1BYjRBLTdGdVJVSUpsSEpEOWdQRHVmM3o0UHNmSllUVTQxQnoxc3UxWV9HRUwyTA?oc=5",
+          "source": "의약일보",
+          "sourceInitial": "의약",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-17T07:00:00.000Z",
+          "tags": [
+            "규제",
+            "식약처"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "비만치료제 유통량 20배 급증…오남용 규제는 제동",
           "summary": "",
@@ -386,7 +401,7 @@
             "규제"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "EU 포장규제부터 미국 MAHA까지…식품산업 글로벌 대응과제 진단",
@@ -513,20 +528,6 @@
           "feat": false
         },
         {
-          "title": "CJ ‘The더건강한 닭가슴살’, 건강한 식생활 트렌드 정조준",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KU1dUSE8xeWhhdjhDM0V1a3BtSExJMUZud253b2pRWWdhX29HR2FGZy1GY0h6MHB3MWVQS3R1dmpXMzdGS2pOYktOSE0xd0hsbll5XzR3dnk0ZXRKVUF5VGl6MmZuZkRCc3d6Z2RsTQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-16T00:39:58.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "풀무원, 2027년형 김치냉장고 출시… 148L까지 에너지효율 1등급 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNjhtOFlma3g4Z3hKcTdzbmhCWVUtMkVlSVpjZ3BJYkI0bjU4VEN2dzRBWFZjQ1FqYU9RblVkd25FOG9lQ2RtejZwaDRMbWVyOGl0bXZEbk82OW5jVkM2bWd5WkRON003SWV3VXFXQzM?oc=5",
@@ -534,6 +535,20 @@
           "sourceInitial": "Ko",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-10-16T00:30:11.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원, 2027년형 김치냉장고 출시…신모델 2종 모두 에너지효율 1등급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9meTRvS0s1alBhX1dyaVV1WnBYallXOGpYcGQwVmhqVkVNTXdJMHF1OGhJdjJPVXZJVDZzUTNPakdOakhYZ2F6aUpJbVl0OFNSeFJBWFdGYk8ydnNhSFlDTmtqWi0?oc=5",
+          "source": "서울경제TV",
+          "sourceInitial": "서울",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-16T00:05:32.000Z",
           "tags": [
             "출시"
           ],
