@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:43:12.800Z",
+  "generatedAt": "2026-10-18T16:21:56.403Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 9,
+      "total": 11,
       "items": [
         {
           "title": "송림특수제지, IFS 창업·산업 박람회 참가…외식 매장용 종이제품 소개",
@@ -90,6 +90,20 @@
           "feat": false
         },
         {
+          "title": "33떡볶이, 몽골 마스터프랜차이즈 계약 체결…해외 사업 확장 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NelhMZHZnTXh1SVNZa1hGRGRCOHIwTk01bk9NSVRnN2xETlpPbU1MVWFUN1JKSDRnUG1jeVZjcG83NnF2dWFUUUlXb2xlcy1MNjdnYlNuRTQ?oc=5",
+          "source": "블로그",
+          "sourceInitial": "블로",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-17T22:06:21.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "청년다방, 22일 코엑스 IFS 프랜차이즈 창업산업전 참가…떡볶이 창업 정보 제공",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRUIybzE3TFBubHRua0FGSWRsc0d1WFhRTy1NM19NUVVyejBIWW84bllSc0JsRkdhVlZfU0huNkJOMzhUS0hiZF8tZHJtS2RDUW10enNWcUt0VF9iNGl6M3VyNGoteEpFU3NmYW9FSVg?oc=5",
@@ -116,20 +130,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 4월 4일(토) 프랜차이즈 뉴스 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3ByLWFpV0Q5YThWdTJodVdOZ1lsQ0x2TTNoQW8tZzhUbWFoUE1BUVVVT1dTcEFrUUdpQmxtRWVtclB0RE1IcHA4N0llSGRxR1NBMlVtZmN0VmQ5NlJaeWdkaTdrSDd4a21nODNrNjBpZXMzQ2pKalpfVW9RS19zQkFCWnM2dFBRX0NOcFZKOUVrOHJxd3liQnhRTzJYVWkyVFdzTGdRTFB0ZDZFcDlCSF9oV3NkU1pKVzlhXw?oc=5",
-          "source": "블로그",
-          "sourceInitial": "블로",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-17T01:33:46.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -142,8 +142,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 12,
       "items": [
+        {
+          "title": "깐굴 일주일 새 47% 급등 …굴 가격 치솟는 이유는",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EYlBXbWktcEdvdDBVeW1fTDJ4dEdRQjhsVVFjckRVbXJUanpOMlpwQ1ItVVhqNE9MejAxdEx1enBqdDNpSjBzRkt6MVJ2T1NJQ1NQVHNtVHk5a0ZlOUtsd09TVmlRRllMZ3VB?oc=5",
+          "source": "더바이어",
+          "sourceInitial": "더바",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-18T03:46:59.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "AI 및 식료품 가격 2026",
           "summary": "",
@@ -156,7 +170,19 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "김장철 앞두고 무·배추값 내렸는데…새우젓 32% 급등 - 조선비즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVsUUlUaU1DM041a043XzNzYklQN2czbkVKQ0pLbmZQWFljQ0xQWmNSQ29vdEpBUHJOajQ5d1Y4Q0FMVGR0UVhYV1Zxb1hid2txVW9OWWhiUWxMeERiQ0JJaXQwLThucGg0LWcxRy1sNDBRXzNSTkd0SmxtdktLako4ejZ3d9IBmgFBVV95cUxPV1puaWhDc2diT2pCbTBHU2hVWTZNRFBOY3VZSWVsMG9YNzdWTjJOa2Z4YTFhUVNPSUcxVFdKMkc5cnk2ZkpTMjEtOXAwTFV5OG02M3dHZnY2elNKMmpuQnRZN2ozMW5qNXVoNzdGTnJaQkR3R09WRUFEcjFobkgzMzUtbW11RXYxcmNHci0yMDZWYzJ1bVBub3N3?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-18T08:20:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "‘새우젓’ 30% 올라… 김장철 수산물 부재료 물가 ‘들썩’",
@@ -217,30 +243,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[심층분석] 신세계그룹 ‘쓱데이’, 18개 계열사 통합 할인전으로 고물가 소비시장 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYbnpPV3F0bmllXzBhYjhib1AtVFNUSFc3b3g0amdvT1dpeFpLUFo1WU9FTjFqczhUdk1yZkpGTzFCY0RhNzd6Smx4NFpaVzFqVloxNDAySXdIdkk1d2RYZ2RFX0xrWUVFS2c?oc=5",
-          "source": "뉴스밸류",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-17T21:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2026년 칼슘 마그네슘 추천 가성비 복합제 비교 : 건강식품",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWcnA3dndaUVd4bUdxSk5LN1pmcnlqMlFKZHlORXYtR2ltaVZMdG12STc1cmNVd0lpZGNwMmVZMzdFelBmblVsVGZ2NE5ESDBTS0R4cQ?oc=5",
-          "source": "의약일보",
-          "sourceInitial": "의약",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-17T06:35:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -270,11 +272,11 @@
         {
           "title": "K-푸드 유럽 수출 23.5%↑…학교 급식까지 판로 넓힌다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wSElJQi1LVXV1TnFENGhOdUREUnVULXNSVGY4WV8zU0plN28xd3Z6VFl0dDNqMmdNMkN4VFhtLTR2bkNsbVF1cEQ0VUV6VXZnZzNIQkh3ZzJ4V3FJZno2OXFXSTFSeXN1Ymd3TDJuaGVzNjTSAXNBVV95cUxPMEhJSUItS1V1dU5xRDRoTnVERFJ1VC1zUlRmOFlfM1NKZTdvMXd2elRZdHQzajJnTTJDeFRYbS00dm5DbG1RdXBENFVFelV2Z2czSEJId2cyeFdxSWZ6NjlxV0kxUnlzdWJnd0wybmhlczY0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbG0yMDJabEVqUzAxZUFRMUhhOUdkR1Z5dWZCMVplanNwbjEtYWl2QV9zNmtpeUwxVk9KWkNIWkdKZ3BDZG55T0k0NlVlVkFiUk9wZy04UDQzZU9tbFVGMGw1djFER2JfbFBTbXYxQdIBc0FVX3lxTE8wSElJQi1LVXV1TnFENGhOdUREUnVULXNSVGY4WV8zU0plN28xd3Z6VFl0dDNqMmdNMkN4VFhtLTR2bkNsbVF1cEQ0VUV6VXZnZzNIQkh3ZzJ4V3FJZno2OXFXSTFSeXN1Ymd3TDJuaGVzNjQ?oc=5",
           "source": "대전일보",
           "sourceInitial": "대전",
           "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-18T08:01:55.000Z",
+          "publishedAt": "2026-10-18T07:53:35.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -326,7 +328,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 4,
       "items": [
         {
           "title": "GLP-1 유통 20배 폭증 속 식약처 오남용 규제 제동 : 책",
@@ -346,7 +348,7 @@
         {
           "title": "비만치료제 유통량 20배 급증…오남용 규제는 제동",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0welVnYzlva1kwQnZPMHk4Sl9sbl9CVHVmTzdibXJWaWk5eWVPZTRsQWNYUmV2cEFLUll3YThQS3BVTHBocUVXX1RlM0FuWG9kbHdMb0FnckZEVXQ3NjRuck5sYktyWTlLT2dv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wTE52emxVa0Yxb1VjSXd3T3pLam5vcEhWS3NUMFZrUDhtZUdQLWZTTDFBem8zeXdnbVhBalFORzI4M01pN3BlRjRDVHhXaDY4TkFUMEdSbFlxV3pUbm9lV2k1X0t1ZG5h?oc=5",
           "source": "매일경제TV",
           "sourceInitial": "매일",
           "sourceColor": "#1a7a5a",
@@ -354,18 +356,6 @@
           "tags": [
             "규제"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "배추·무는 내렸는데 새우젓은 32% 올라…김장 재료값 '온도차' 커졌다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NlNBWGp1MTZYRmFTNHhFWU96c1JxcFB3WU92SVdOMHZJQzBwbllueG1OSXNiNUREVHNRQmh2QndGdTItRGJEeXh2T0s1eUFpdTJpVjRteENmLWg4aFE?oc=5",
-          "source": "뉴스투데이",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-18T05:42:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -392,18 +382,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "제16대 국회 제2차 회의: 보건부는 의료 검진 및 치료, 식품 안전, 장기 기증 등에 관한 여러 가지 새로운 규정을 제안했습니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTFNGRVctNDZZU2gwV29VSUJrVTVtbGdlV3FEZXBSX00yNkJKemdrQ2hzeFM1bnB4emxwZ1Yyb2FsT0VFRjF1ZHRER3NYZUFUMlFoSlV4Q1RnMk5PdU9xWkVlUVpYU2hHTlBJNTk3QjBwMTgteGUtZ21vdEJnTTFrQ1djLVZNYVB3NkRwcTQzUDZuN1NmbXRYY1pDQ3hyU29RYXZvLVNSSzM4NGgwaHIzRExPdS00dlZKazRpV3UwUEhYZU1aVHVJazBHaDdCNkhRWUtfOFl3?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-16T12:46:09.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -416,7 +394,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
         {
           "title": "CJ제일제당, ‘The더건강한 저당 닭가슴살 볼’ 2종 출시…고단백·저당 공략",
@@ -476,18 +454,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-17T00:46:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "입문자를 위한 한국 사이트 순위 2022 메뉴와 규칙 연결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55R2Y2NkNqYTA0TXhaLWtYRkpZTzEzdGRwTmRYRF9OWGQ1NjFGdnhXXzVPbzNDUmxLZkx4TE5MN3N6a0F5amx5WDlDSmN0RzlSMks0UExyaVJ6XzJnNkxOanAyRGZoVkppZnVtblF3TQ?oc=5",
-          "source": "Calgary Roughnecks",
-          "sourceInitial": "Ca",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-16T22:45:20.000Z",
           "tags": [],
           "price": null,
           "feat": false
