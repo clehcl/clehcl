@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:47:19.536Z",
+  "generatedAt": "2026-10-18T21:16:40.238Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "송림특수제지, IFS 창업·산업 박람회 참가…외식 매장용 종이제품 소개",
@@ -90,20 +90,6 @@
           "feat": false
         },
         {
-          "title": "33떡볶이, 몽골 마스터프랜차이즈 계약 체결…해외 사업 확장 [ 신아일보 강동완 기자 ]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NelhMZHZnTXh1SVNZa1hGRGRCOHIwTk01bk9NSVRnN2xETlpPbU1MVWFUN1JKSDRnUG1jeVZjcG83NnF2dWFUUUlXb2xlcy1MNjdnYlNuRTQ?oc=5",
-          "source": "블로그",
-          "sourceInitial": "블로",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-17T22:06:21.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "코엑스서 4월 'IFS 프랜차이즈 창업 박람회' 개최…300개 브랜드 참여 [ 신아일보 강동완 기자 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRV83M2dQblRzUTVUeThYUkd4WlgyY3hKU2ZHUVBYLU4tMFpvaGZEZlVRVGVLNndOTFlfOWRBTEJZbHFBZEhsaFExZUF3cXdMb2gxOGVNOWI4MkpzQ08tS2dMOVFqNzVNanY0R05scDJZcjJtWVFqTXQ2MkpfWUpqSEhRU0hacWh6eU56d3ZXRm5paE1rN1UwRlItWlRNcGNpZy13MWRxT0UwQUt1Tks2OVZEZ1lBRHpMZDVEbFJZTms4OUEyRDhVVUxWTkVqZHJjNXRWbDVVSkNBdmZnM0JoSWw5QjRrVGFSN0hMNy1rc0tndDM5Vm8wVg?oc=5",
@@ -130,6 +116,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "[ 2026년 10월 17일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTItRUpCMnZpY0RDYVJYSXpCSWRKV0x0WmRDS3JMQU1tUVBEUGc0WWJxOXhuTldlYWFsdEhmODRlX0pQbzVUM1NpVFBjYmRSQ3Z6ZnV0Ym1GbDBJVFhHeHd6SnM5MDNzZXRSdnlaZ25xQU5Dd2RlbFZrREJUT3pWTzZ2YmpEU2lUalF2dWpR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-17T03:56:15.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "AI 및 식료품 가격 2026",
@@ -159,6 +159,18 @@
           "feat": true
         },
         {
+          "title": "\"라면·화장지값 매일 체크\" AI 물가 신호등 구축한다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BRXdHWEZxNnNqbGxCMUZrcjJ5dHltbnE4eGZJOXg1OWNQcFhRMEJ3NTJUS2RxM3paVE9BQ3dDVnppQ3p6WlBGWl95ekF2Z1BkVFJ6eGpub3dtSnZySXdyZmZXT2dGNm5fcnQ4cEVpTmF1MUU?oc=5",
+          "source": "마켓인",
+          "sourceInitial": "마켓",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-18T19:00:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "중국 물가 0.9% 올랐는데, 장바구니는 왜 다를까",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wZDJjdHFkckpnYm9xVUFDQ1ZLVUdQdm5vU3VUUzJEeEVreXltb21FRHBLQzQ2UkxYYkFPR3Fpb0RNSTF2OTNlOW82OUIxU1doT0VV?oc=5",
@@ -166,6 +178,30 @@
           "sourceInitial": "유스",
           "sourceColor": "#333333",
           "publishedAt": "2026-10-18T14:53:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "김장철 앞두고 무·배추값 내렸는데…새우젓 32% 급등 - 조선비즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVsUUlUaU1DM041a043XzNzYklQN2czbkVKQ0pLbmZQWFljQ0xQWmNSQ29vdEpBUHJOajQ5d1Y4Q0FMVGR0UVhYV1Zxb1hid2txVW9OWWhiUWxMeERiQ0JJaXQwLThucGg0LWcxRy1sNDBRXzNSTkd0SmxtdktLako4ejZ3d9IBmgFBVV95cUxPV1puaWhDc2diT2pCbTBHU2hVWTZNRFBOY3VZSWVsMG9YNzdWTjJOa2Z4YTFhUVNPSUcxVFdKMkc5cnk2ZkpTMjEtOXAwTFV5OG02M3dHZnY2elNKMmpuQnRZN2ozMW5qNXVoNzdGTnJaQkR3R09WRUFEcjFobkgzMzUtbW11RXYxcmNHci0yMDZWYzJ1bVBub3N3?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-18T08:20:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"도쿄엔 37일째 비가 내렸다\"…日 채소 흉작·인플레 가속 '파장' > 시애틀 뉴스/핫이슈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbVVJOTN2U3lqbFlpc0RhZ0pDenZ5N0t5dU00LVhtSUpSRjNhRE5PZjNpZXR0RVNxTEpDTkV6VVFEX1ZFQmNPSjZR?oc=5",
+          "source": "SeattleN",
+          "sourceInitial": "Se",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-18T07:36:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -205,42 +241,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "KB증권, 삼양식품 3분기 영업익 1870억원 전망",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CYUF1cWRRdUNXNXRWSUl2OXZicV9PQjFsRWN3LTV5NFRva1lDTE16RDNyUm1TeXE0cUFKMGdSZGdYeS0yYTNzZzYwTkhjRHlNeU5yRF9tY0dfVE02VVBFWk53WnI1QQ?oc=5",
-          "source": "비건뉴스",
-          "sourceInitial": "비건",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-17T23:13:37.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "불닭·신라면 날고, 내수는 주춤…식품업계 3분기 실적도 '해외'가 가른다 - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aeEExTnhjV3dRQnJzdmZaQ3N0Z0tFUlFmQlJWaTJ2R3R4Zjk3NjlmdE9YQmdUTTQ1TXNEMHVJd2ZOX1lLRHZIMWlsbk5OQUxzcHB5SjhQZUVoaVIydE9zRXAxdmFYVFVSOVV4YVpwd9IBb0FVX3lxTE1aeEExTnhjV3dRQnJzdmZaQ3N0Z0tFUlFmQlJWaTJ2R3R4Zjk3NjlmdE9YQmdUTTQ1TXNEMHVJd2ZOX1lLRHZIMWlsbk5OQUxzcHB5SjhQZUVoaVIydE9zRXAxdmFYVFVSOVV4YVpwdw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-17T22:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[심층분석] 신세계그룹 ‘쓱데이’, 18개 계열사 통합 할인전으로 고물가 소비시장 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYbnpPV3F0bmllXzBhYjhib1AtVFNUSFc3b3g0amdvT1dpeFpLUFo1WU9FTjFqczhUdk1yZkpGTzFCY0RhNzd6Smx4NFpaVzFqVloxNDAySXdIdkk1d2RYZ2RFX0xrWUVFS2c?oc=5",
-          "source": "뉴스밸류",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-17T21:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -253,7 +253,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "농식품부, 프랑스 학교급식 종사자에 K-식재료 레시피 교육",
@@ -275,18 +275,6 @@
           "sourceInitial": "파이",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-10-18T05:40:29.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "유럽서 K-푸드 수출 23.5%↑…열처리 닭고기는 5배 급증",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kZVE5NUpFZ0dPZ0QzWnVyd0RSM29rUTZMU1JCN0pNTmR2bnBlYkphY2k3U2VtRXpVOFJqQ2FiVk8tZ0FsTzcwMGVBZU55OElRU1dDb1NPTWo3SWhmalJXYlVfcGM0ZVlrXzNWajliWdIBb0FVX3lxTE9kZVE5NUpFZ0dPZ0QzWnVyd0RSM29rUTZMU1JCN0pNTmR2bnBlYkphY2k3U2VtRXpVOFJqQ2FiVk8tZ0FsTzcwMGVBZU55OElRU1dDb1NPTWo3SWhmalJXYlVfcGM0ZVlrXzNWajliWQ?oc=5",
-          "source": "연합투데이",
-          "sourceInitial": "연합",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-18T03:05:15.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -326,7 +314,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 4,
       "items": [
         {
           "title": "GLP-1 유통 20배 폭증 속 식약처 오남용 규제 제동 : 책",
@@ -354,30 +342,6 @@
           "tags": [
             "규제"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"도쿄엔 37일째 비가 내렸다\"…日 채소 흉작·인플레 가속 '파장' > 시애틀 뉴스/핫이슈",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbVVJOTN2U3lqbFlpc0RhZ0pDenZ5N0t5dU00LVhtSUpSRjNhRE5PZjNpZXR0RVNxTEpDTkV6VVFEX1ZFQmNPSjZR?oc=5",
-          "source": "SeattleN",
-          "sourceInitial": "Se",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-18T07:36:10.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "배추·무는 내렸는데 새우젓은 32% 올라…김장 재료값 '온도차' 커졌다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NlNBWGp1MTZYRmFTNHhFWU96c1JxcFB3WU92SVdOMHZJQzBwbllueG1OSXNiNUREVHNRQmh2QndGdTItRGJEeXh2T0s1eUFpdTJpVjRteENmLWg4aFE?oc=5",
-          "source": "뉴스투데이",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-18T05:42:00.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -416,7 +380,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 7,
       "items": [
         {
           "title": "CJ제일제당, ‘The더건강한 저당 닭가슴살 볼’ 2종 출시…고단백·저당 공략",
@@ -440,6 +404,18 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-10-18T05:15:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원푸드머스, 유아 친환경 레시피 10개 선정…내년 급식 식단 활용",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11Z0VfZW1rLW1EMDktT1ZIZExSQ19pdWhFVkgtQ3pqZC1sNlFRUElISVdVUUlveGxLS3FyZHdWZEFUY1ZVd1daVFlmbzlIUQ?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-18T00:11:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -476,6 +452,18 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-17T00:46:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "입문자를 위한 한국 사이트 순위 2022 메뉴와 규칙 연결",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55R2Y2NkNqYTA0TXhaLWtYRkpZTzEzdGRwTmRYRF9OWGQ1NjFGdnhXXzVPbzNDUmxLZkx4TE5MN3N6a0F5amx5WDlDSmN0RzlSMks0UExyaVJ6XzJnNkxOanAyRGZoVkppZnVtblF3TQ?oc=5",
+          "source": "Calgary Roughnecks",
+          "sourceInitial": "Ca",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-16T22:45:20.000Z",
           "tags": [],
           "price": null,
           "feat": false
