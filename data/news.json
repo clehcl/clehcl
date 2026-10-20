@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:58:59.091Z",
+  "generatedAt": "2026-10-20T15:36:51.039Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 27,
+      "total": 29,
       "items": [
         {
           "title": "[단독] “bhc 차액가맹금 청구액 1000억 넘었다”…외식 프랜차이즈 ‘1조원대 소송 리스크’ 비상",
@@ -124,13 +124,13 @@
           "feat": false
         },
         {
-          "title": "IFS 프랜차이즈 창업박람회, 참가업체는",
+          "title": "[ 2026년 10월 21일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvLWpWQjl5cFZhZnJIbXJHQzdXUFpSREg1cFUwQUdNa3h1c1owcDhmSzB1UnN2MTAyc3FMSGFnRFZwc2tDVTMtd1N0MUNhamhnN3RidWxVZk1yV1BsdEJ1dVphUUtnbDM1SDliam8wX08?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-20T08:10:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM21kdGl4SWpSOFVsQlR6RVB6RVVZRERQYWdzdmFmRHBEcXFGZ0Y2REM0UGpoU3BuYldSZWk4UEhnMjRwZi1pdC1MQ05LOFhVcjdQMXFsSXdhczRDdTNFbU5SaEpkU3N6bGRvRElGV3NjaTh2ZDB1YWJPZGE4NjNGLUxRYVJublhNMGU5OVRB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-20T12:02:24.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -148,7 +148,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 18,
       "items": [
         {
           "title": "딱 내일까지…이마트서 최대 30% 할인하는 '식자재'",
@@ -171,7 +171,7 @@
           "source": "김천내일신문",
           "sourceInitial": "김천",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-20T05:24:20.000Z",
+          "publishedAt": "2026-10-20T07:18:47.000Z",
           "tags": [
             "가격"
           ],
@@ -207,20 +207,6 @@
           "feat": false
         },
         {
-          "title": "식량 가격을 보장하는 자카르타, DKI 정부는 보조금을 지불하는 공급과 구매를 강화합니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9rQUU2aTZrN3V1M2RTMUNhZnJDUEVMekF0eGZ2RVpmdEN6S0VCbV9nVHBWTTZHN0ZqS2I4NXprZmFXUdIBQkFVX3lxTE9rQUU2aTZrN3V1M2RTMUNhZnJDUEVMekF0eGZ2RVpmdEN6S0VCbV9nVHBWTTZHN0ZqS2I4NXprZmFXUQ?oc=5",
-          "source": "VOI.ID",
-          "sourceInitial": "VO",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-19T12:59:14.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "세계 식량가격, 3년10개월 만에 최고…공급망 차질에 식품물가 상승 압력 확산",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyNnRkaWpTNnJjQlN1eWRIY3Q2c3RNOE9QVGR4ZnljTFVMOU85SlcwM1plVkRRMDFOcXVjcnA4S1Vub0ctUEJVM19jWWdreWRBck9kNXN1WWg?oc=5",
@@ -249,16 +235,28 @@
           "feat": false
         },
         {
-          "title": "'가격 하락' 파프리카·샤인머스캣, 더 싸게 판다…최대 20% 할인 - 머니투데이",
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81LU8zbDg1SjhSOXl4OVFwMDR6YjNndmRJdno1VmlyY0ZFRFB4TWZUSTVWQVJ0Q0lfVjg4TlJjNGFwaEZIQllFMk16bG50N3FlRl9rNXo3LUd2UGllNHE0RzZ4bGtVTmd6RjN1ZGd6MkJRc2xrUVphUdIBfkFVX3lxTFA4anZBVktYdGpjT3QzVmxLQjNaVnRxaG85bWpsUXlFV3BVTWhGdW5RMFU2RGVOOHFKQnEyQmVtbnA2bEJUVktCVkdoY19sSWY0cGNkTXB6c0xrQW11QWRrbDdWSkVEQVUxZ0dUZ2FFZ2EybWZ0YnN6YmFQemZMdw?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-19T02:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-18T19:25:07.000Z",
           "tags": [
-            "가격"
+            "식자재"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "전쟁에 엘니뇨까지…세계 식품 물가 4년 만에 최고, 국내 밥상물가도 '불안'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZGttQnVBQUhCQzdqUlExaHNRWEtKOGlQQkZJdzE3aU1pNER0VVo1UHl0eVdQODhBSHRBcDQ1YXQza1BNUXB1MHc4VzNaOGstZEVYSUNn?oc=5",
+          "source": "중앙일보",
+          "sourceInitial": "중앙",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-20T08:54:32.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -273,8 +271,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 10,
+      "total": 12,
       "items": [
+        {
+          "title": "L&T유통, 창업박람회 참가…유통 경쟁력 알린다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWGZWeTJLYUFSNEhycS1GTXktRVp5Nk5kMGMtZ3NkaGVEVzhIMW1DSjNpRVZ2TUdTeTA2X3V4TmhYaHBaRlZHdnNweXFNaGV6QlljeDdoaDgzWkljUFZjTFk2ZTBWVEFJTndNZQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-19T07:24:47.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "캐릭터 양말부터 저당 닭가슴살까지…이마트·CJ제일제당·BBQ 등 유통업계, 일상 속 상품 차별화",
           "summary": "",
@@ -287,7 +299,7 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "EU K-푸드 수출 23.5% 증가...프랑스 유통·급식시장 판로 확대",
@@ -304,6 +316,18 @@
           "feat": false
         },
         {
+          "title": "유럽 K-푸드 수출 23.5% 증가…농식품부, 외식·급식 판로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TWHNYanYwMTdROWpaV2xvSzYxTVBKMm1UTWhDQ3ViODNvaDB6eU9Zbi1TazI5TV9uTDFNbTMtY3pqbHVwY3lJNHA4aC1WUEc4R0ZzX1pteEZSeTVraTFJSnNNNGxCRDJCQjAxVEtB?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-20T13:58:38.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "산재 다발 1위 한국맥도날드 664명…먹거리 업종 산재는 왜 3년째 늘었나",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5bl9HNWxlc2V1S09FVkdBTmVjNFR0ZFVyY2xkdFR1N1g3R3ExdFZMUHJYT0Q1aXRCM3F6MFhJZ0Rtb3RBV0cxaHF2SV9WZ0Jfc0dTNEFULWthelBucFJIR3AxNGV2Z2pB?oc=5",
@@ -311,6 +335,30 @@
           "sourceInitial": "창업",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-20T00:40:48.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "불닭·신라면에 호떡까지…파리 달군 K푸드 11개사, 유럽 시장 공략",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFelpoQWdmQkQ2cFpLSFBzd3cteUltVEU4dGc4T2lWUE82SXVqRXFmRnYyWVdmSlRsMG5HX05sRmVtS2pkNDVTUHFMWUVneWhO0gFUQVVfeXFMT2RuZUQ2UW9VNDZhcnlVWGc1Njlzb2FqMjN6dFdwUWs0YzRxRTYxNWZXU1doY3VQd1NYYXRrYUs1Zlp2cmdYRktXOGc1cHVjYXo5X1h6?oc=5",
+          "source": "세계일보",
+          "sourceInitial": "세계",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-20T00:26:15.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "농식품부, 파리 국제식품박람회 계기 유럽 진출 확대 활동… 1~9월 EU 권역 K-푸드 수출 23.5% 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4R1dKWVlhVklvMWdNQWRHMlJocFVLZkN2MXdGRGdESURiVTFRcVlUM1c5RXVIZ0owZ2hNb2ctNDZoZnNoT2VfcTdYZ1E0WExEd1ZxY2p3?oc=5",
+          "source": "대한청년일보",
+          "sourceInitial": "대한",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-19T07:41:08.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -326,54 +374,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "BBQ 파티센타, 주거단지 넘어 기업급식 공략…맞춤형 식음 서비스 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wRlE0TGxIYUp0NWl5aF9Fc01nWWI4eHc2cGtQUHF0ZFBGN2E2dzVXdV9fUFhIRExhX1dEY0VaSDI1UXhRMUZVX1Frd09fTUVRSkg4?oc=5",
-          "source": "KPI뉴스",
-          "sourceInitial": "KP",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-19T05:26:50.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[SIAL PARIS] [2026] 파리에 뜬 김동선…아워홈 키우기 힘 싣는다 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGphRnpiV3UxdVZlb0hDallaWklqMTBDWEU3V3pjRWN0akRtcmV1ck1tSTluOC1CczEtSHJITkxnMGdYTEdfZHhreTJvTUZSZ3ZEOGs4UjFXdnBOcGxvY2dsLWRBd25QdjExeVh5TEpzNzZ6aTlYTV9aV0JkZFduLVpDM1NBS0JId2NuQ2xLSQ?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-19T03:50:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "애호박 가격 평년보다 54% 낮아…정부, 할인·수출 지원 나선다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Umx1SW9NU3F6QjVIU2VrRzZXOElQdkY2eGhQZEdFZ19wOWxEMHRrQXlTak00X3MtNjNxaDlULUhKdk5DY252TWJSMTNIRE9PQzR2SjBWaXRYRTMybGphcklMNzVjb0ZRSGN5TmxXYU1mQWdfUGJr0gF3QVVfeXFMTjdSbHVJb01TcXpCNUhTZWtHNlc4SVB2RjZ4aFBkR0VnX3A5bEQwdGtBeVNqTTRfcy02M3FoOVQtSEp2TkNjbnZNYlIxM0hET09DNHZKMFZpdFhFMzJsamFySUw3NWNvRlFIY3lObFdhTWZBZ19QYms?oc=5",
-          "source": "핀포인트뉴스",
-          "sourceInitial": "핀포",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-19T02:23:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "애호박 63%·파프리카 56% 폭락…정부, 농산물 할인·수출 지원 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hay04OWdGSF9wdTZwWEE3VFh1bml5NTd5bnZIbnppOHcySUxtaWdraXNGOUFWamc1eVZnbjlPZE9Vdm94WTA2dkRMZWpIdGV6RGhHTmUwNlFyX05KWEU1WF9RaDk0bjFZeWJJ?oc=5",
-          "source": "현대경제",
-          "sourceInitial": "현대",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-19T02:22:39.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -386,7 +386,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "식품 수출입 인증, 과도한 규제 줄인다…식약처, CODEX에 개선안 제시",
@@ -460,6 +460,20 @@
           "feat": false
         },
         {
+          "title": "농식품부, 파프리카·토마토·샤인머스캣 최대 20% 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84X290WURWSl91blRqWG1QSk9vaWZQS2pFQWlfYjJqM3FXZVdvdE51NDVNSE1pV1hyNVA0SnpzYWFSM0JDTmNabzQwVmlGYl85ZERhVi1DU0dmaFBOdDJ1U3RlZHVidw?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-19T02:34:31.000Z",
+          "tags": [
+            "농식품부"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "원가 1464원 계란 덤핑에 기름값 통제·깜깜이 예타…정부의 자충수 [세종 백브리프]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTlp1RzROQ0NNMXFvOFJPb1NtRE9EaFFCR3hSWm9IV0l6S3V4OV82aXlxRHpXbVhQdndyUndBbzVVVTJocDlmVUszbk9ManJjVVNCTEdITzRXX3ZPLVpEZnphTWt3cUppMGw3QWxVa0lhTXdDam9TYVBaTktlVXdfbGo1RlFaY09UeGFqR0Z4bEZSSWxiVnJva1VXdGZxTkNmNzJ3RTBRaFZwRk5Bc1puRExaNFFvcXJ4SXk4aGhVMERWbWI3ZWZfUV92bUwwSUcwcFBwMEk1YjZFaTNIMzI1UTNLd1JDVElHYjV4WjdR?oc=5",
@@ -474,25 +488,13 @@
           "feat": false
         },
         {
-          "title": "김장 배추 10.3% 내렸는데…새우젓은 왜 이리 올랐나",
+          "title": "[비료값 낮춰 농가부담 덜다]농협, 무기질비료 판매 기준가격 평균 5.1% 인하…농가 영농비 85억 원 절감 기대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11cWFZT2lnVjVLZGtZb1RTbm9Sa29PNTdYNVdWeVVJNjA1SjE3bFotVTczTWN0V2o0TkFTQU54M3RFREFKUGRiVjBBR3o0N1FnWV8yRDdxSmkyUlhrZzlfMVlKTEN1cHc?oc=5",
-          "source": "자본시장뉴스",
-          "sourceInitial": "자본",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RdFpUSUdNRmd6RGh4RjduLVk3UEZXR1ZucHlnLWFJdjVicTAyY01JR3A3dExfN2xVeGZiVUp5bGZaTkpMdjJKcHlwcXl4UGZLemt4NnkwT0EzSGdJaDctQmR2VWVRQmliOXl0eTY1Wkk?oc=5",
+          "source": "전국뉴스",
+          "sourceInitial": "전국",
           "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-19T05:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[인도 특징주] 인도 식품당국, 네슬레·HUL에 '오인 광고' 통지",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iUFRQNDJEWExWTFNvc1FtWWptNEMzWVdaNHU0SFZLMzBmSktHSTM1ampReFB6MVBXNG14VlNBSm1ZeFRZNW5kMDh2dk9pd0xZQlI0bjVIVkZfSThq?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-19T04:44:00.000Z",
+          "publishedAt": "2026-10-20T07:35:39.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -508,7 +510,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 21,
+      "total": 19,
       "items": [
         {
           "title": "[푸드·다이닝 트렌드] 삼양식품, 아이센스PC방·만화카페 벌툰과 협업… 삼양1963·짜르르 콜라보 메뉴 출시 外",
@@ -599,20 +601,6 @@
           "feat": false
         },
         {
-          "title": "동서식품 ‘포스트 크리치오 마시멜로’ 출시 : Packnet",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SWx5bEJES1dKQUUzSFN2MmNvM3ZNanFHWEsxVnQwLTc0bEZBTUZjM0FHS0pQNmxUeFEtRG1fSFZfdmtGQjdadnJRWElkbXphaGJtT2lyeTB2NU9CY0dz?oc=5",
-          "source": "월간포장",
-          "sourceInitial": "월간",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-19T07:03:37.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "CJ제일제당·맥도날드·CU·하이트진로…식품업계 신제품 출격",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DQU5OLTdtUi1qOGlvcDdxenBvZ2k1dGIzbVR4aHhSU0ZMOWItUFVrdzZZVDdpV1d1bmlSSmRGLUE1eTdOcExrUGlzUWUxX0ZKNHVBd0FuSmVSVEsyNmc?oc=5",
@@ -622,6 +610,20 @@
           "publishedAt": "2026-10-19T06:16:00.000Z",
           "tags": [
             "신제품"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "메가MGC커피, 3년 준비한 샌드위치 6종 출시…카페 한 끼 시장 공략",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95YVhGQkY2UGpGcGRxdmhLNlRucTRzdVM4ZWNEbEVqbjdEY0xBbU5LUWpxY09OXzludkRaQ3V4cFZDbF83OWtTa3F5UDl4XzZKcENkZm1XWWo0T1dYVGhubWRMX1h0ZW5FUzBSWg?oc=5",
+          "source": "뉴스탭",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-19T02:53:41.000Z",
+          "tags": [
+            "출시"
           ],
           "price": null,
           "feat": false
