@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:29:27.126Z",
+  "generatedAt": "2026-10-22T19:23:45.842Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 16,
+      "total": 14,
       "items": [
         {
           "title": "전국 14개 가맹점 디지털 전환…KT, '두껍집·참낭구 불막창' 프랜차이즈와 협력",
@@ -44,21 +44,6 @@
           "tags": [
             "가맹",
             "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "프랜차이즈 업계 '초비상'…차액가맹금 소송 '1조 리스크' 현실화하나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43ZlJubExUeHE4aE1iVzI2c0hZSThyTEkxNTducnJ0RTdlcUZmczN4Mk5EeVRmNzZ4RWpPdHRnY0NsX3R3dWVNRHV6Qi1fMjk0Z1JRZmJUYTYxdmVza21wd2NXSURjS0x0QnpFcE5WNDFWS3ZERDBQb3R6VQ?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-21T06:50:54.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
           ],
           "price": null,
           "feat": false
@@ -128,6 +113,20 @@
           "sourceInitial": "식품",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-22T07:44:11.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "프랜차이즈 창업 박람회 사흘간 코엑스서 개최…200여개사 참여",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IQWJaTFFSZmxHZ0hZMWs1SW0xUmtOMWlMXzFvMjVBNFNxNFBzbGE4ZzR4X2w1WW1GQ2M5OW9BLWR0WGlmS2ZmamVwd3ZIU2FuOV94VkQwSm9LMEnSAWBBVV95cUxNdjJLTXdhTFA2akNlTXU2Q0VQbzFfQXZ3bEFpaUxaekVSWjR2X2ZmX2VfWWN5WUJDSTAtNkFhRlhSc2FHeUZ5QU44YmNTc3RCZjY4YmE5THMzTzZXUDJyX3c?oc=5",
+          "source": "연합뉴스",
+          "sourceInitial": "연",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-22T07:31:09.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -468,7 +467,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 21,
+      "total": 20,
       "items": [
         {
           "title": "파리바게뜨·이디야커피, 치즈 풍미 신제품 5종 출시·푸드 신메뉴 9종 출시",
