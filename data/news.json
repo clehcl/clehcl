@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:23:45.842Z",
+  "generatedAt": "2026-10-22T22:37:05.136Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 17,
       "items": [
+        {
+          "title": "[프랜차이즈#26] 명륜당 부당지원행위 및 가맹사업법 위반행위",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVjRDMjBucnQya3BEYVh2aXUxRWlraVZ5R2tKeEs3Y3lNZzcwWm93aGNfWEtha0tXY2NqTm5EbWtHT1QxeVc1aHVfVThROTg?oc=5",
+          "source": "로톡",
+          "sourceInitial": "로톡",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-22T08:10:23.000Z",
+          "tags": [
+            "프랜차이즈",
+            "가맹"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "전국 14개 가맹점 디지털 전환…KT, '두껍집·참낭구 불막창' 프랜차이즈와 협력",
           "summary": "",
@@ -31,7 +46,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "이자카야토라, 하반기 신메뉴 9종 전국 가맹점 출시",
@@ -78,6 +93,20 @@
           "feat": false
         },
         {
+          "title": "[현장TALK] 프랜차이즈 창업 뭐하지?…‘1등 없는 시장’에 기회 있다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxYi15SktsZUdMVnlMV3RaMzFzNV9fc0ZBUVFqU2FUMmdQaEhUV0Y2UnJPMW8tTmhZUzRCUVdkcENYcWdLME5wLWRpOUFoUDdOQTQ3cV9lZFZXa0x2MURRU3lwN1FKNHRyRFNhU2lR?oc=5",
+          "source": "위클리서울",
+          "sourceInitial": "위클",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-22T12:34:12.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[포토] IFS 프랜차이즈 창업·산업 박람회",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93X1g0MVJIZFVGNmVSRWZ1eFZGOXhoN01GUVpBc1JSZVhxcGExYlVIRWVocjBtbnFQclg5QnF2ME91Wlh5SEZTV0RvM0ZjRUZHSVFtTVJMSks?oc=5",
@@ -104,34 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "2026 하반기 IFS 프랜차이즈 창업·산업 박람회 개막",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfNEUwMnBmYy0xSlpBWWwxR2ZxLUh0am4zZ1N6U1FjSmViLUtnVFBpUzNaRm8yM2NGdWhKODBIUnoyYzF1UHhieUd6VlpMekVZZmNob29JRi1zTzV5OXVLVzgta0pBc2ZRekVSLQ?oc=5",
-          "source": "식품외식경제",
-          "sourceInitial": "식품",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-22T07:44:11.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "프랜차이즈 창업 박람회 사흘간 코엑스서 개최…200여개사 참여",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IQWJaTFFSZmxHZ0hZMWs1SW0xUmtOMWlMXzFvMjVBNFNxNFBzbGE4ZzR4X2w1WW1GQ2M5OW9BLWR0WGlmS2ZmamVwd3ZIU2FuOV94VkQwSm9LMEnSAWBBVV95cUxNdjJLTXdhTFA2akNlTXU2Q0VQbzFfQXZ3bEFpaUxaekVSWjR2X2ZmX2VfWWN5WUJDSTAtNkFhRlhSc2FHeUZ5QU44YmNTc3RCZjY4YmE5THMzTzZXUDJyX3c?oc=5",
-          "source": "연합뉴스",
-          "sourceInitial": "연",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-22T07:31:09.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 19,
       "items": [
         {
           "title": "금화푸드 고대장, 기존 식자재 활용한 샵인샵 운영 모델 ‘플랜Z’ 제시",
@@ -269,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 14,
+      "total": 15,
       "items": [
         {
           "title": "충남도, AI 접목한 농식품 유통 혁신으로 농가소득 높인다.",
@@ -328,6 +329,18 @@
           "feat": false
         },
         {
+          "title": "경기도, 학교급식으로 기후위기 대응 나선다 27~28일 ‘기후급식 in 경기’ 국제학술대회 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYWNmNEZhNUJNMUN4eGFVa2JvbnRSWEVvODkwRzRBZVFzSjZPYWhvS01WTll5aEN4dlJUV1lqby1UWUZlSHFkVDhWREZNQWRPbldPR3hwRUN6WEFhLWpENDNwZGFMNTZua1VzWEdQczA1Vl8ycHpENUtTUzcxNTRFS1l3TTg?oc=5",
+          "source": "경기도뉴스포털",
+          "sourceInitial": "경기",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-22T22:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "현대그린푸드, 강원 농산물 440톤 매입…급식·간편식 판로 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nYXRFMmdHb0FNd1F2WkZVbDlkSjR0YUQ1V3pZMUJobXRPRXY3SGtWR3BkaW9LSmJkR1FiZ01sRExLQ2hDNDRIbkR1amMwLUtPRGc1a0NsRU9wRmQ5ZW5zcnoyYWY0SzhtbnBNRDlNOA?oc=5",
@@ -362,18 +375,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "대산F&B \"부채비율 36.3%로 낮춰…수익성·재무구조 개선\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VVFlsM3pLTVJZNXo3a1hUTDVhcW9TVnVtRkc5Ujl0TmU1THVUb2hhdzhiT2wtOGNsNGhxelRFN1R1TjZxWE10MWh2TUpSR0o0bEszRGhUcEdONEFhX3pKYnRUNzVqcnE4MHVZ?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-22T05:49:38.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -386,22 +387,8 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
-        {
-          "title": "농축산물 '할당관세' 2653억 지원에도...물가 인하 효과는 '찔끔'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JaGZWV0hZS1M5YVRvMnlzZExNRXp0alVFNFBXb3pWM2gzQjBrMW9KakdneGhhSWJaTVVmTGhIV2YwR01uN01UOVFZczlHaUtINW1EUlBrWHprSVpuWmZqaDJhMUxXX3JuVUxiYnVhcHJ3Qm9H?oc=5",
-          "source": "조세일보",
-          "sourceInitial": "조세",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-21T02:33:18.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "농축산물 관세 2653억 낮췄지만…물가 인하 효과는 0.003% - 머니투데이",
           "summary": "",
@@ -414,7 +401,7 @@
             "물가"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[2026 국감] 농축산물 관세 2653억 깎아줬는데…물가 인하 효과 0.00272%",
