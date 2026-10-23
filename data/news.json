@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:14:25.167Z",
+  "generatedAt": "2026-10-23T06:17:59.388Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -64,16 +64,15 @@
           "feat": false
         },
         {
-          "title": "KT충남지사, 지역 프랜차이즈 ‘못생긴뚱돼지’와 스마트 매장 확산 나선다",
+          "title": "불황 속 달라진 창업 공식...세탁 프랜차이즈 1등 업체의 성공 비결은?",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yWm5ROUlMWG5qUzQyZ0xPUHFvWjVONWRBc281SzBHQnRrZ2t6b3prNkdKUmxNZ0hEVjZrR0RseTZjLXJwejVEVlNzMGp5WlJjdm5ZX0dZcXVob09QSjRDSkx6cWc2VTlt?oc=5",
-          "source": "충청타임즈",
-          "sourceInitial": "충청",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-21T01:27:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MV1o3WEMxcWtRNnZlaUQ4eWJaanM1aTdabHd4b0Z4Y3B6elp3ekpJOVBGZ2F5M1plcG1SSjBhZnNDaXFGYWRld3kxX2xOa0JiamgyVw?oc=5",
+          "source": "JTBC",
+          "sourceInitial": "JT",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-23T03:26:00.000Z",
           "tags": [
-            "프랜차이즈",
-            "매장"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -145,12 +144,40 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 26,
       "items": [
+        {
+          "title": "[단독] 공정위, CJ프레시웨이 현장조사…“식자재 입찰 담합 의혹”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKM3Y5elRKX0w4VEw1bm1VaUViMF9MTDBmbFBxLW83bFZyaVdSZFN4clVEZDhUZFFHMWpLYTNmTEtuRXdXamtLZHhIbFJKYXlUTmJQcEtkLUl2SDQ?oc=5",
+          "source": "KBS 뉴스",
+          "sourceInitial": "KB",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-23T02:15:00.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "삼양식품, 환율·원가 악재 뚫는 고성장…LS증권 \"적극 매수 구간\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CV1FfMEdrXzZiUnZXdDFCOHN2OHZwUjgyODkycUVnTDFMdTROOTFvRVUtYzhFMEtHb2FoRVJZbGNyRzFRSVRmWTdsWWJDWVNkNjJOY2xENjJpNzNyTnpsTmdmd3ZCTTRLU21QRw?oc=5",
+          "source": "와이드경제",
+          "sourceInitial": "와이",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-23T01:12:18.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "aT, AI 농산물 가격예측 해커톤 본선 15개 팀 선정",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjLWtKNlYySzU1WG5pREMxaEhMcnh6eE5Ec2VzSUZuOUc5MGZKc21qMkRlVGxyVzMzbUdOenoteHN3U0VXaThUUmI5a2VVWE83RVF1eDdEZTA1QXpSdTBmVmI2dEJiLVFo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDZ0F2cnNNLThxWENGQkpoYU43T3B3TldMYlBBektrZ0hYRnN3eW81RXRDLUpYb0w0UE5NcFh4d1QzTHhGcTZjeGc0Nl9HMWdKMG9MSGZ4UjlBQVI2S3hoLWx4ZHhmQQ?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -159,7 +186,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "금화푸드 고대장, 기존 식자재 활용한 샵인샵 운영 모델 ‘플랜Z’ 제시",
@@ -230,34 +257,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "식품사 담합 조사 6개 품목…원가 올라도 값 못 올린다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoeU5TejNwbDNZWTVGd2t5ZlBLaTVnLVpTM09ta3M2UXl1cjJ6UlR2cnZNcUJmQXRzdlMyTW1XR2gtQkxmYm16bWxrLUtLbXdKdkxaakpzaF9qWjY2M2lQR1o3cFB1Rkk?oc=5",
-          "source": "자본시장뉴스",
-          "sourceInitial": "자본",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-21T07:00:00.000Z",
-          "tags": [
-            "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "세계 식량 가격이 새로운 상승세에 직면하고 있으며, 인플레이션은 2027년까지 지속될 것으로 예상됩니다.",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVBlYjNITDAwZFl5Smc3WkVyNTlLREs5Y2VLSzF6UXRYREhWMkE4X0VhZlFiNkhkQktvbXhESHB4X3lOQ1ZNR3VaVXNJVWRYV3JfbEdBU3NpdkY5Q0x6ZklTY05yNTF1dm1vVXdFOWI5U1JzQ2owR2FpUFVfc0dVVUVrMlctUURfUXNGX0l3eVFxcXFFVkZqR2JzaHNLdkpmTTJ2ME1oemdGX3FUTmNmdHdZRU5vNVJxbEs0?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-21T04:27:58.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -270,7 +269,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
           "title": "충남도, AI 접목한 농식품 유통 혁신으로 농가소득 높인다.",
@@ -287,16 +286,14 @@
           "feat": true
         },
         {
-          "title": "주헝가리한국문화원, 현지 유통체인 SPAR와 한식 홍보",
+          "title": "광천별맛김 이성행 대표, ‘2026 충청남도 우수 중소기업인’ 수상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CU1ZsQzZ3WEtDVjlkdHlLUTNITktBa0R1WGJueWxVT3d2cjh1QkdEOE1COTFfRFlYYUJYSU1CaGZZUV9qVUlmZmN4M0hDaFBVUzdNVFJ6LW5KT0NPRTlvT1JwQzdQT2NJS3NwTllR0gFyQVVfeXFMTzlkNmk4WFk1UTl4N3NCd0FDTzRla2EwYlBrOHM2cWRNU3EwdjJENVdfRHBDeTRPQ24yb2NZdjlJUVRaRFJnQl8tSVA5SXN4NmtSU2xIX1VNMFJXcFVPX0VITEtHMTdXY0dzamxKc3pDV2Jn?oc=5",
-          "source": "뉴스아이이에스",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-22T02:10:36.000Z",
-          "tags": [
-            "유통"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUXk4QTBVR3FEdTFlUVl1WXk4ekhTdW1GVjlRdmxHbl9PN1BENDdaX0dTRHlUQUdpY1RENmpPM2hoX2t1S2JScjQwXy1DeXEybmhJZVNHT2ZoeERJdHIwSzdsYWZPMHM?oc=5",
+          "source": "공감신문",
+          "sourceInitial": "공감",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-23T04:10:24.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -361,13 +358,13 @@
           "feat": false
         },
         {
-          "title": "대산F&B \"부채비율 36.3%로 낮춰…수익성·재무구조 개선\"",
+          "title": "급식·도시락용 쌀 ‘미호’ 재배 7년 새 13.5배 증가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzhNcVZyUHhvS3dBS3Y0eDdzMlRjMHRDQzVxRGhwcS01R3kyTzNqUHlZc0ZZOG5nMWVDZDZCSHMtWWtqN3FTeXJmM2E3X2NYdWlYS0dpYTl6TUhSRFdINnZHblNsdkYwQWp6ZlBrUGYxdmhpZVBLWVFmVHNkXzE4Xw?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-22T05:49:38.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNMlp4b01VdGhZUFBRX2F6ZXNueHNUNFlhaWhIOGpNLTEyZ1Qwbms3M0Z2dWl2a0dnci1tRncwR3llWjRvbTFldWVUYlBjVGwzNTR5VGRaMHgzcGNBenVV?oc=5",
+          "source": "완주신문",
+          "sourceInitial": "완주",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-22T04:50:18.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -383,35 +380,21 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 2,
       "items": [
         {
-          "title": "농축산물 '할당관세' 2653억 지원에도...물가 인하 효과는 '찔끔'",
+          "title": "日은행 10월 금리 1.25% 동결 전망 속 9월 물가 2.1% 상승 : 경제",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JaGZWV0hZS1M5YVRvMnlzZExNRXp0alVFNFBXb3pWM2gzQjBrMW9KakdneGhhSWJaTVVmTGhIV2YwR01uN01UOVFZczlHaUtINW1EUlBrWHprSVpuWmZqaDJhMUxXX3JuVUxiYnVhcHJ3Qm9H?oc=5",
-          "source": "조세일보",
-          "sourceInitial": "조세",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-21T02:33:18.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SY1I3cW9LekxSMzgwTEhWOWFqVWJqaFlnQkl1TF9Gdm54b1BOR1BfOUlkMnR5cXJ0amxWRUxnYVVZMmlzTXdRbFhfOA?oc=5",
+          "source": "재경일보",
+          "sourceInitial": "재경",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-23T05:13:31.000Z",
           "tags": [
             "물가"
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "농축산물 관세 2653억 낮췄지만…물가 인하 효과는 0.003% - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUEktRnh6dk5rRzNLZnRmQWE5Znp1VUNITnlRWmpnalNxUk80WHRqNERFUVJjQ1pUZ0UwQ3VoUFgxUG9LejdkS0dZNXJMQ1VqVVBMcUVHZDZJcXMtRkpEWDFJYVpKN3I0ZGRwT3NmaWjSAXBBVV95cUxQTVBJLUZ4enZOa0czS2Z0ZkFhOWZ6dVVDSE55UVpqZ2pTcVJPNFh0ajRERVFSY0NaVGdFMEN1aFBYMVBvS3o3ZEtHWTVyTENValVQTHFFR2Q2SXFzLUZKRFgxSWFaSjdyNGRkcE9zZmlo?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-21T01:41:25.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "하이퐁시는 QR 코드를 활용한 식품 추적 시스템을 구축하고 있습니다.",
@@ -421,18 +404,6 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-22T04:45:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'식용 불가 부위’ 수입 알로에 1등급 회수…완제품 유통 여부 ‘촉각’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQi15YVdlaE8yd2lPNlhQTXU5M1I3S0pMRFFDajltcmhKQ2xVM1pBOUt6S19Ma0kwajA4emRkS0gtUFhNZmFmcjZ3VE4tZGpNbWNrNTQ2V0dwRFV4MV9CVUNMblJEZw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-21T06:28:16.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -448,7 +419,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 15,
+      "total": 18,
       "items": [
         {
           "title": "[식품업계 9월 동향] 파리바게뜨 ‘파란라벨’ 신제품 5종 출시...‘크로켓’ 2종 선보여...‘초코 쫀득 츄러스’ 출시",
