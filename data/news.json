@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:55:48.569Z",
+  "generatedAt": "2026-10-23T16:36:51.051Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 20,
+      "total": 23,
       "items": [
+        {
+          "title": "AI에 힘주는 외식업계···가맹점 수익 개선은 '글쎄'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcktRU1FpTEdxY0t4MEdESHVud1RyRlR0Sk54UGM0ZFMxYl9LVnB3ckxZc25zY3hwNjlCaEFKR193WmFsOXYyWGY3bU5HOW11dGtrRmZYTURyTWlWdFVTMTVaNTBxMmF2cHc?oc=5",
+          "source": "뉴스웨이",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-23T07:14:10.000Z",
+          "tags": [
+            "가맹",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[프랜차이즈#26] 명륜당 부당지원행위 및 가맹사업법 위반행위",
           "summary": "",
@@ -31,7 +46,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "전국 14개 가맹점 디지털 전환…KT, '두껍집·참낭구 불막창' 프랜차이즈와 협력",
@@ -59,6 +74,20 @@
           "tags": [
             "가맹",
             "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 10월 24일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0lQajJuaG15QnRqWkhWa0xGcFR3YldOQlVhZ2h2bTV4UWVxeU9HM0JUa2FhNWRUOEVGUnJPMmoySVRaMmZmbDNBYXYyT0lLM0xCUksxTkltclhSb3VyRW00dVc3UXVxM0IwYXhJNHlhVkZxNTFnR2IxYnc4NTdqckZYd3ZYWWdOS1o4UWJ3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-23T15:10:37.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -104,34 +133,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "연세대 프랜차이즈 CEO 과정 동문사, 코엑스 창업박람회서 사업 모델 소개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5bGw4TzM5Z25FR3ZmOXdGQk1BU0dCU0ZJY0tSTjBTV0pDb2dWMmdZc0R3UFpBb05WM3FtZ2ZYeG9PNXgxekFDX09Ec1o1ZE41SFQyc2FCRWxnMmFoYTJDLVBDU1Y0OXVLOVhwbFRBNEM?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-23T06:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[현장] 제61회 IFS 프랜차이즈 창업ㆍ산업 박람회",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2WV9IS3RIX2FXWS1mVzRJSDRmUmVwTzBEZUNCblFDdUgtWGU2eDBTaVVLYmIwVk8za2FEZFlaUmpsSkZVdkRDTDhKaUlRQlE3cWJnV0U2MWlzTW1DUl9nOTZfZEdRcUtfSDJaUHNB?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-23T05:07:42.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -144,12 +145,12 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 27,
+      "total": 29,
       "items": [
         {
           "title": "빵값 6년 새 46.6% 급등…소비자 55% \"가격부터 본다\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxUkNLbHVSOTlpQWFkNVd2M2FWRVVyZG9mN2dKLTZLWXVXcjktRFNYUFQ4NGVyaW4wUndKdFg3Sk1sa09zS3B4cWdhZV9pWmgzdkplekVkYnNDM2ViRVVVTXd2Zlg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWnNxcEJFeEoyaFdSZlBYTWluelVCMEJUaThqNm1DWHI4RHV4djdQUXhJOWtiU1E2TFJGLTVzUVFFOGp6eGJTdzM3UVMzWjBpVlAzVWJleE9XdUlBSF9aS1FTR1B2UQ?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -231,6 +232,20 @@
           "feat": false
         },
         {
+          "title": "10월 21일 CME 치즈 가격 혼조…배럴 보합, 블록 0.0975달러 하락 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa05acnFEemxhOEdfNVlia3F5QTNFbE5YTmxKaVpKWS1Ob0dvRndreThzREt6a29YcmkyRloycU9hTXhzVjZYMi10cml4WkxuRkRjYVRwUXBzZXBNX3NOVW1FeVh3Qk5xVDk1azdlUWFiNko3X2FWalU3RUZvQjFIUw?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-21T17:20:27.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "“공장이 좁다…삼양식품, 2027년 중국 공장 가동·해외 증설로 공급 난제 해결”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55RTMtdXlWZERoLVp6WDlsVGlzSHpEck9uc0tjQUpFQnpnZWlDMGc0bzdrZXlCVFVWUmNoQklic1RyRnZRb2ZBenlKRERBc3ZTaXFYVEJOMEQtMTRFczZMQTI5aFNNTlJUTHd2ckkzQQ?oc=5",
@@ -238,18 +253,6 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-10-23T10:46:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "日 9월 물가 2.1%…목표치 9개월만에 돌파",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nR1VQWFdLMlNCZ3dwZ3lKTlVrSWUxSVJBd0Rza3BfZjFqb1VVNjZCZ2M4NmdpWkRDRFJLM19nWWVOXzBpWmJXcExQVzlRUE9uNUgyaVFZMTRzbnhEajIyWWZJczdPWkNY?oc=5",
-          "source": "공감신문",
-          "sourceInitial": "공감",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-23T06:21:09.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -268,13 +271,13 @@
       "total": 4,
       "items": [
         {
-          "title": "경기도, '기후급식 in 경기' 국제학술대회 개최",
+          "title": "광천별맛김 이성행 대표, ‘2026 충청남도 우수 중소기업인’ 수상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82X3dqdU9FTkF3ZHVCbXZzWDRaQXphZFh0UGo3b2NjWlVRYV8tcUFiZXh6UjJqWFZacXF0bUI2LWp6LU5XZ3NMWjJzS1dIamhqV042a1BoNHpNaDluelVPemdEV1RDUDVr?oc=5",
-          "source": "경인매일",
-          "sourceInitial": "경인",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUXk4QTBVR3FEdTFlUVl1WXk4ekhTdW1GVjlRdmxHbl9PN1BENDdaX0dTRHlUQUdpY1RENmpPM2hoX2t1S2JScjQwXy1DeXEybmhJZVNHT2ZoeERJdHIwSzdsYWZPMHM?oc=5",
+          "source": "공감신문",
+          "sourceInitial": "공감",
           "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-23T00:50:22.000Z",
+          "publishedAt": "2026-10-23T04:10:24.000Z",
           "tags": [],
           "price": null,
           "feat": true
@@ -304,13 +307,13 @@
           "feat": false
         },
         {
-          "title": "현대그린푸드, 강원 농산물 440톤 매입…급식·간편식 판로 확대",
+          "title": "배추는 찜·시래기는 피자로…현대그린푸드, 강원 농산물 440톤 쓴다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nYXRFMmdHb0FNd1F2WkZVbDlkSjR0YUQ1V3pZMUJobXRPRXY3SGtWR3BkaW9LSmJkR1FiZ01sRExLQ2hDNDRIbkR1amMwLUtPRGc1a0NsRU9wRmQ5ZW5zcnoyYWY0SzhtbnBNRDlNOA?oc=5",
-          "source": "이코노미사이언스",
-          "sourceInitial": "이코",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-22T08:25:30.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYlFfZ2Rzd1hremdPQUNPWUhxYVVfN2dVd2lRSkJ3MXByallmUm5veEN5dENjUzRMenp1Q1U3VkExeF9zazVaaUI0SkVZb3ZOYk5jMQ?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-22T04:38:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -326,7 +329,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "日은행 10월 금리 1.25% 동결 전망 속 9월 물가 2.1% 상승 : 경제",
@@ -341,18 +344,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "식품안전관리, ‘검사’에서 ‘예측ㆍ예방’으로…“데이터ㆍAI는 전문가 판단 돕는 도구”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40ME1EdGFHenZ5dWRiV1RNU3NNSDdyOXV1UXB1TWVjOUdkSXo5RThpQlVsZnZnTXBFdTlucGM3bnY2Q1RtamFnUk1Gby01VVAyWGlFbWU3Zmk1TDhMT1E0THdwQ1h3NHRTZVBXNjVB?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-23T06:21:21.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         },
         {
           "title": "하이퐁시는 QR 코드를 활용한 식품 추적 시스템을 구축하고 있습니다.",
@@ -377,7 +368,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 22,
+      "total": 20,
       "items": [
         {
           "title": "바이오포트, 첫 냉동 HMR 출시…코스트코 앞세워 글로벌 간편식 시장 공략",
