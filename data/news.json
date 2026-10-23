@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:37:05.136Z",
+  "generatedAt": "2026-10-23T01:14:25.167Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -79,6 +79,20 @@
           "feat": false
         },
         {
+          "title": "국내 최대 규모 창업 플랫폼 ‘IFS 프랜차이즈 창업·산업 박람회’ 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBicWRXMU1rUXdYVGJwYjBUS0dFaGxWeUp5TlJBazI0N3l4bmtNam1EWlZ2Q2RPNGcwek9tVUU4V0R4dHg3elp6TnN2SnZVZnhWZV9sdGNRQUdsVEN3?oc=5",
+          "source": "시사뉴스",
+          "sourceInitial": "시사",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-23T00:39:42.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[ 2026년 10월 23일(금) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1IybVFWdkg0c1c0M0ZjNTg2cHAtdkNLMmNJS3VLN1AzTS1UVFNFOVMza2dEM3Fnc2M2eV9UanFnWFNIeWUta24xRUtZRFB1eENFQmJOWWlfMXR1ZkFkTjkwc09zalJCUnJfZS1RcUVEN0F5QjVMR1VyUmROLVMtRHdfSFp3SWRnOWM3NFRB?oc=5",
@@ -100,20 +114,6 @@
           "sourceInitial": "위클",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-10-22T12:34:12.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[포토] IFS 프랜차이즈 창업·산업 박람회",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93X1g0MVJIZFVGNmVSRWZ1eFZGOXhoN01GUVpBc1JSZVhxcGExYlVIRWVocjBtbnFQclg5QnF2ME91Wlh5SEZTV0RvM0ZjRUZHSVFtTVJMSks?oc=5",
-          "source": "국민일보",
-          "sourceInitial": "국민",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-22T12:08:34.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -145,8 +145,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 22,
       "items": [
+        {
+          "title": "aT, AI 농산물 가격예측 해커톤 본선 15개 팀 선정",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjLWtKNlYySzU1WG5pREMxaEhMcnh6eE5Ec2VzSUZuOUc5MGZKc21qMkRlVGxyVzMzbUdOenoteHN3U0VXaThUUmI5a2VVWE83RVF1eDdEZTA1QXpSdTBmVmI2dEJiLVFo?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-23T00:37:26.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "금화푸드 고대장, 기존 식자재 활용한 샵인샵 운영 모델 ‘플랜Z’ 제시",
           "summary": "",
@@ -159,7 +173,7 @@
             "식자재"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "마산 컨슈머는 4분기부터 일부 제품의 가격을 조정했습니다.",
@@ -218,20 +232,6 @@
           "feat": false
         },
         {
-          "title": "한국인 식탁에 빠질 수 없는데…한 달 새 가격 40% 넘게 뛴 '국민 식재료'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5SGNuZ2hieGtIY1VkM1FvVTdqb1ROakgtRkdpREp1cHZ1NUc3Mk96VzJQZVRreW01M0tLaWZ3M2RVU1RvbFFKbnNPNWdRSjZXdF9tOExn?oc=5",
-          "source": "위키트리",
-          "sourceInitial": "위키",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-21T07:56:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "식품사 담합 조사 6개 품목…원가 올라도 값 못 올린다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoeU5TejNwbDNZWTVGd2t5ZlBLaTVnLVpTM09ta3M2UXl1cjJ6UlR2cnZNcUJmQXRzdlMyTW1XR2gtQkxmYm16bWxrLUtLbXdKdkxaakpzaF9qWjY2M2lQR1o3cFB1Rkk?oc=5",
@@ -270,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 15,
+      "total": 11,
       "items": [
         {
           "title": "충남도, AI 접목한 농식품 유통 혁신으로 농가소득 높인다.",
@@ -287,20 +287,6 @@
           "feat": true
         },
         {
-          "title": "이상휘 의원, 수협 군납 수산물 이물질·유통기한 경과 반복… 5년 째 위생 '구멍'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOdUF2ZlgxNjNJRkdxdXc0X2RCZjlWb0dzOXlwRHZwNjRiUlI4SVNXTzFRYTNETU9sbnJrQjBlZ0wzaXh6d2pJdmVTc3NTbGpLUkNVbmU2dHF1eTNEQnE1VnFKVEUxUQ?oc=5",
-          "source": "이로운넷",
-          "sourceInitial": "이로",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-22T06:50:04.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "주헝가리한국문화원, 현지 유통체인 SPAR와 한식 홍보",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CU1ZsQzZ3WEtDVjlkdHlLUTNITktBa0R1WGJueWxVT3d2cjh1QkdEOE1COTFfRFlYYUJYSU1CaGZZUV9qVUlmZmN4M0hDaFBVUzdNVFJ6LW5KT0NPRTlvT1JwQzdQT2NJS3NwTllR0gFyQVVfeXFMTzlkNmk4WFk1UTl4N3NCd0FDTzRla2EwYlBrOHM2cWRNU3EwdjJENVdfRHBDeTRPQ24yb2NZdjlJUVRaRFJnQl8tSVA5SXN4NmtSU2xIX1VNMFJXcFVPX0VITEtHMTdXY0dzamxKc3pDV2Jn?oc=5",
@@ -315,27 +301,37 @@
           "feat": false
         },
         {
-          "title": "제주 학교급식 납품업체 63곳, 현장점검 인력 단 2명…급식 조달 관리 '사각지대'",
+          "title": "경기도, '기후급식 in 경기' 국제학술대회 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRmM5UTBhc29tM2RqV2FuZHdqMlBBYmkxYnpFTFRTOUo2Zl9lZHBlaWZ6LW5ZdmNIYUlXLVRuZ2hOLUVnNXQ2ZUVwUlVOX0RBanRqRFB2MmJVdDFEaDNIdS1NajdVdzBlNlhaQ05B0gFuQVVfeXFMUGVGYzlRMGFzb20zZGpXYW5kd2oyUEFiaTFiekVMVFM5SjZmX2VkcGVpZnotbll2Y0hhSVctVG5naE4tRWc1dDZlRXBSVU5fREFqdGpEUHYyYlV0MURoM0h1LU1qN1V3MGU2WFpDTkE?oc=5",
-          "source": "제주뉴스",
-          "sourceInitial": "제주",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-20T23:22:18.000Z",
-          "tags": [
-            "납품"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82X3dqdU9FTkF3ZHVCbXZzWDRaQXphZFh0UGo3b2NjWlVRYV8tcUFiZXh6UjJqWFZacXF0bUI2LWp6LU5XZ3NMWjJzS1dIamhqV042a1BoNHpNaDluelVPemdEV1RDUDVr?oc=5",
+          "source": "경인매일",
+          "sourceInitial": "경인",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-23T00:50:22.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "경기도, 학교급식으로 기후위기 대응 나선다 27~28일 ‘기후급식 in 경기’ 국제학술대회 개최",
+          "title": "경기광주 유기농체험센터서 27~28일 '기후급식 국제학술대회'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYWNmNEZhNUJNMUN4eGFVa2JvbnRSWEVvODkwRzRBZVFzSjZPYWhvS01WTll5aEN4dlJUV1lqby1UWUZlSHFkVDhWREZNQWRPbldPR3hwRUN6WEFhLWpENDNwZGFMNTZua1VzWEdQczA1Vl8ycHpENUtTUzcxNTRFS1l3TTg?oc=5",
-          "source": "경기도뉴스포털",
-          "sourceInitial": "경기",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-22T22:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZGE5U1gycUtCNmZvS19scEhwWFprUHVocURqYnZLVkdWdEFQOXBPY2QyQkFscC1jN1NXZjIycWF3RkhzZmhKY3Y2Y2MxMWhjNDNlN05hVWNWbWPSAWBBVV95cUxPTHZLTERvQ1F5ZW4tRGxBRkttdzBVdUhERDJjNkFMNVl3V2V2SzlGRmwtcmlHVW1hdlNpT2N0MlhuR0RZbUlITWFPTlc0OWo3YTIxcEg3MVhoOXZKckg2WFk?oc=5",
+          "source": "연합뉴스",
+          "sourceInitial": "연",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-23T00:25:41.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "경기도, 27~28일 ‘2026 기후급식 in 경기’ 국제학술대회 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1emh4dnpMRDJHUUowSkFhaFpWcUZHNW4tVHhxNElrTWFEMUtZbndNaGp3RnBORThXV3ZkcDEtUE1fX01zQU1hLXYyR3EwRmNvWTF6b3o3OGVMekhDNUU5R01XVU5Ha094T0lmblVHSQ?oc=5",
+          "source": "이코노뉴스",
+          "sourceInitial": "이코",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-22T22:50:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -353,18 +349,6 @@
           "feat": false
         },
         {
-          "title": "현대그린푸드, 강원 농산물 440톤 매입…급식·HMR로 판로 넓힌다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HeWpNSG1UM3U2Yy0zQVUxVWhGTS1NenJVVUlWRkJPejFYaHRJdHNFbHRkdTJVdHNQdjhjUTBpckgzWUxfR2VYOHVVLVdsS1B1TGRhSUtvX19oS0VkNmc?oc=5",
-          "source": "아시아타임즈",
-          "sourceInitial": "아시",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-22T07:25:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "아리당, 제24회 전주국제발효식품엑스포서 쫀득한 크림 찹쌀떡 '요거트찰떡' 선보여… \"직접 기른 찹쌀로 디저트를 만든다\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iUzIyV2JvWUoxaC1STFhHNWlON2p0b2IyTXpnNTFPYnVoWnVyMXZGNHpqeV9BeUJWWnVuSy1RYmd2YU1NT3JWVTBMaUx3OTFrODN3SnA3UDQ0VGtRNUJ5T1ZZcUp2YWVKYXVr?oc=5",
@@ -372,6 +356,18 @@
           "sourceInitial": "에이",
           "sourceColor": "#333333",
           "publishedAt": "2026-10-22T06:56:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "대산F&B \"부채비율 36.3%로 낮춰…수익성·재무구조 개선\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzhNcVZyUHhvS3dBS3Y0eDdzMlRjMHRDQzVxRGhwcS01R3kyTzNqUHlZc0ZZOG5nMWVDZDZCSHMtWWtqN3FTeXJmM2E3X2NYdWlYS0dpYTl6TUhSRFdINnZHblNsdkYwQWp6ZlBrUGYxdmhpZVBLWVFmVHNkXzE4Xw?oc=5",
+          "source": "이데일리",
+          "sourceInitial": "이",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-22T05:49:38.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -390,13 +386,13 @@
       "total": 4,
       "items": [
         {
-          "title": "농축산물 관세 2653억 낮췄지만…물가 인하 효과는 0.003% - 머니투데이",
+          "title": "농축산물 '할당관세' 2653억 지원에도...물가 인하 효과는 '찔끔'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUEktRnh6dk5rRzNLZnRmQWE5Znp1VUNITnlRWmpnalNxUk80WHRqNERFUVJjQ1pUZ0UwQ3VoUFgxUG9LejdkS0dZNXJMQ1VqVVBMcUVHZDZJcXMtRkpEWDFJYVpKN3I0ZGRwT3NmaWjSAXBBVV95cUxQTVBJLUZ4enZOa0czS2Z0ZkFhOWZ6dVVDSE55UVpqZ2pTcVJPNFh0ajRERVFSY0NaVGdFMEN1aFBYMVBvS3o3ZEtHWTVyTENValVQTHFFR2Q2SXFzLUZKRFgxSWFaSjdyNGRkcE9zZmlo?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-21T01:41:25.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JaGZWV0hZS1M5YVRvMnlzZExNRXp0alVFNFBXb3pWM2gzQjBrMW9KakdneGhhSWJaTVVmTGhIV2YwR01uN01UOVFZczlHaUtINW1EUlBrWHprSVpuWmZqaDJhMUxXX3JuVUxiYnVhcHJ3Qm9H?oc=5",
+          "source": "조세일보",
+          "sourceInitial": "조세",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-21T02:33:18.000Z",
           "tags": [
             "물가"
           ],
@@ -404,27 +400,13 @@
           "feat": true
         },
         {
-          "title": "[2026 국감] 농축산물 관세 2653억 깎아줬는데…물가 인하 효과 0.00272%",
+          "title": "농축산물 관세 2653억 낮췄지만…물가 인하 효과는 0.003% - 머니투데이",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RV3hpcUtCRGZ2cmU2WnNrRm9obzRHcjFrUzN6UlFfdEVoVl85emlzZTlxMXNSQ1hsZFZXR3FJT0owNURyWlRfMEpkZGZoSUl3bHFkRHp4SXFJS3JCX1NxUnhVZlVYZw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUEktRnh6dk5rRzNLZnRmQWE5Znp1VUNITnlRWmpnalNxUk80WHRqNERFUVJjQ1pUZ0UwQ3VoUFgxUG9LejdkS0dZNXJMQ1VqVVBMcUVHZDZJcXMtRkpEWDFJYVpKN3I0ZGRwT3NmaWjSAXBBVV95cUxQTVBJLUZ4enZOa0czS2Z0ZkFhOWZ6dVVDSE55UVpqZ2pTcVJPNFh0ajRERVFSY0NaVGdFMEN1aFBYMVBvS3o3ZEtHWTVyTENValVQTHFFR2Q2SXFzLUZKRFgxSWFaSjdyNGRkcE9zZmlo?oc=5",
+          "source": "머니투데이",
+          "sourceInitial": "머",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-21T01:06:03.000Z",
-          "tags": [
-            "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘할당관세’ 2653억원 지원해도…농축산물 물가 인하 효과는 0.00272%",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0x6YmJmZUlEb095V2s5aEdUQkIydnV0SWdGam9odkNPcjBzeHR5bEg0SDc2NjNudXU2dGQzcVRaWF9xejcyUVhySUMzVngxWkpYUGlJT2haZVJTdWc4UTNqZXp5U1l4R3R5bkdBMWV2TzM1elpya19KRUtVb2RpVw?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-21T00:09:41.000Z",
+          "publishedAt": "2026-10-21T01:41:25.000Z",
           "tags": [
             "물가"
           ],
@@ -442,6 +424,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "'식용 불가 부위’ 수입 알로에 1등급 회수…완제품 유통 여부 ‘촉각’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQi15YVdlaE8yd2lPNlhQTXU5M1I3S0pMRFFDajltcmhKQ2xVM1pBOUt6S19Ma0kwajA4emRkS0gtUFhNZmFmcjZ3VE4tZGpNbWNrNTQ2V0dwRFV4MV9CVUNMblJEZw?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-21T06:28:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -454,16 +448,16 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 20,
+      "total": 15,
       "items": [
         {
-          "title": "파리바게뜨·이디야커피, 치즈 풍미 신제품 5종 출시·푸드 신메뉴 9종 출시",
+          "title": "[식품업계 9월 동향] 파리바게뜨 ‘파란라벨’ 신제품 5종 출시...‘크로켓’ 2종 선보여...‘초코 쫀득 츄러스’ 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LS0xxd3B3d0JiMXpSMG1JRzJ1ZGdjYnV6d3pHdy1admozVEdWOVZkSWJYNWFTS0Z2dllaNWNLcEhadkNyenBXVzRUQmF6WE5wdnk5SnQtNzJkLWYzMjRWWGlhUlVzUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqTVdROWRYaU1mRVRUOEVrTzBMRWdpSTdlMnhmZERsVnVGSVVaMDFJVFFSZ0IyWnZuUlZNdENhTHR6U0ROQWdYeDhzMG43U2VaRWpLV1JEYml6cDJUdUF5ZXVsVnVjZw?oc=5",
           "source": "여성소비자신문",
           "sourceInitial": "여성",
           "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-22T02:14:18.000Z",
+          "publishedAt": "2026-10-23T00:12:18.000Z",
           "tags": [
             "신제품",
             "출시"
@@ -543,20 +537,6 @@
           "feat": false
         },
         {
-          "title": "2026 서울카페쇼, 11월 11일 개막…세계 커피 트렌드 한자리에",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fT2thQk4zZ29EWW11UFluWG81cWZMQS0zXzlqVHF1eXdGbzhtY3hBRk9xelN4QUVSZ1RXUEVkbjZCSXNYUnhXQ1loNU9MWG1QRFoxU2VkSHVxZlZrdTNvLVNnWl9idw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-22T00:04:32.000Z",
-          "tags": [
-            "트렌드"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "대상·동서식품, 소스·커피 한정판 출시…bhc는 베트남 2호점 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NaEF6RG5wLTl6ZWMtcnNwcUhkSVdpOHFlQmI1NWNQWlFJMlRrbHhheUpfbGRUT3hMcHFJbU1sdUhOWHQzeTdlOXNPN3V3ZWxsNTQ2OEEwdnRCeHZiQVlpeThReGJIWnhGMEtvOUVQY9IBb0FVX3lxTE5NaEF6RG5wLTl6ZWMtcnNwcUhkSVdpOHFlQmI1NWNQWlFJMlRrbHhheUpfbGRUT3hMcHFJbU1sdUhOWHQzeTdlOXNPN3V3ZWxsNTQ2OEEwdnRCeHZiQVlpeThReGJIWnhGMEtvOUVQYw?oc=5",
@@ -564,6 +544,20 @@
           "sourceInitial": "토요",
           "sourceColor": "#333333",
           "publishedAt": "2026-10-21T08:55:55.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[식품업계 9월 동향] CJ푸드빌, 뚜레쥬르·제일제면소·더플레이스 신메뉴 출시···하반기 공채 지원자 대상 채용설명회 진행",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LYzd0SVp6THV1ZTZLUFhucjV6MjAxZzJVUzVEN19TdnZQM2EyOWZvUkNmeGxybDJESWk4WUdCZUswWmxDNFZFQkZ5VXlUWFpVbDVlcWRiWl80eHhxZmxlLTRueEk2QQ?oc=5",
+          "source": "여성소비자신문",
+          "sourceInitial": "여성",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-21T07:03:45.000Z",
           "tags": [
             "출시"
           ],
