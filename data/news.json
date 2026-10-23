@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:36:51.051Z",
+  "generatedAt": "2026-10-23T20:12:30.259Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -145,16 +145,16 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 29,
+      "total": 20,
       "items": [
         {
-          "title": "빵값 6년 새 46.6% 급등…소비자 55% \"가격부터 본다\"",
+          "title": "aT, '2026 AI 농산물 가격예측 해커톤' 본선 15팀 선정",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWnNxcEJFeEoyaFdSZlBYTWluelVCMEJUaThqNm1DWHI4RHV4djdQUXhJOWtiU1E2TFJGLTVzUVFFOGp6eGJTdzM3UVMzWjBpVlAzVWJleE9XdUlBSF9aS1FTR1B2UQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-23T07:28:19.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4d3VWQWpvLXFubmVMR3lvdnFiSTBwQjhnVk93QnNES1F1cnd4ai1ZZHJlaU1INjBONzRKbG9kWDduanJxd29ySmpaeG8xaVdsbjdsaW4wSVg4M25HSjdSQjFWeU41dzBNd0xfb1VRUjh5MXpp0gF0QVVfeXFMUDh3dVZBam8tcW5uZUxHeW92cWJJMHBCOGdWT3dCc0RLUXVyd3hqLVlkcmVpTUg2ME43NEpsb2RYN25qcnF3b3JKalp4bzFpV2xuN2xpbjBJWDgzbkdKN1JCMVZ5TjV3ME13TF9vVVFSOHkxemk?oc=5",
+          "source": "뉴스워커",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-23T02:17:02.000Z",
           "tags": [
             "가격"
           ],
@@ -190,20 +190,6 @@
           "feat": false
         },
         {
-          "title": "aT, AI 농산물 가격예측 해커톤 본선 15개 팀 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDZ0F2cnNNLThxWENGQkpoYU43T3B3TldMYlBBektrZ0hYRnN3eW81RXRDLUpYb0w0UE5NcFh4d1QzTHhGcTZjeGc0Nl9HMWdKMG9MSGZ4UjlBQVI2S3hoLWx4ZHhmQQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-23T00:37:26.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "금화푸드 고대장, 기존 식자재 활용한 샵인샵 운영 모델 ‘플랜Z’ 제시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5LTlSMmF6bkhhYmprQ3FtaDBDSlNHTlRMMjBoRndPb1NwaWdybEFqM0lWVmIxYTFIVXh1RVphTXRIVldHalducXdLcExEcjQ5bHFtbzdWZTlEb0t5dnZoaFV6amg?oc=5",
@@ -232,20 +218,6 @@
           "feat": false
         },
         {
-          "title": "10월 21일 CME 치즈 가격 혼조…배럴 보합, 블록 0.0975달러 하락 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa05acnFEemxhOEdfNVlia3F5QTNFbE5YTmxKaVpKWS1Ob0dvRndreThzREt6a29YcmkyRloycU9hTXhzVjZYMi10cml4WkxuRkRjYVRwUXBzZXBNX3NOVW1FeVh3Qk5xVDk1azdlUWFiNko3X2FWalU3RUZvQjFIUw?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-21T17:20:27.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "“공장이 좁다…삼양식품, 2027년 중국 공장 가동·해외 증설로 공급 난제 해결”",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55RTMtdXlWZERoLVp6WDlsVGlzSHpEck9uc0tjQUpFQnpnZWlDMGc0bzdrZXlCVFVWUmNoQklic1RyRnZRb2ZBenlKRERBc3ZTaXFYVEJOMEQtMTRFczZMQTI5aFNNTlJUTHd2ckkzQQ?oc=5",
@@ -253,6 +225,30 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-10-23T10:46:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "日, 10월 금리 동결할 듯…9월 소비자물가, 2.1% 상승(종합)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03R19WQWdwaGxfTGplb1dhWTRURE5LbW5QRU11SUNwTWFyWVlsSHlzZUl4eDB3MVUzbmc3NWRvb3NxRlRjRnc4Uk91SUJONFFNMlZwYkp6QlhYdU0xTWI3ctIBYEFVX3lxTE03R19WQWdwaGxfTGplb1dhWTRURE5LbW5QRU11SUNwTWFyWVlsSHlzZUl4eDB3MVUzbmc3NWRvb3NxRlRjRnc4Uk91SUJONFFNMlZwYkp6QlhYdU0xTWI3cg?oc=5",
+          "source": "연합뉴스",
+          "sourceInitial": "연",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-10-23T05:02:18.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "9월 일본 소비자물가 2.1%↑…\"9개월 만에 2% 웃돌아\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xaDluSnhreHBxZUx0RFhRb24wNjlVbEU4LUZjd3RRTTczTGlDM0RUY2pCTXJYQ1hqb0F6SXROMlZ6bkRlN0IxNEs3Q1RzZ3V4djlaMFgwS2dBMFhYUlJiT1B2bGtOVXc4R291aDJ4dEJGRFB2WVQ5NNIBeEFVX3lxTE0xaDluSnhreHBxZUx0RFhRb24wNjlVbEU4LUZjd3RRTTczTGlDM0RUY2pCTXJYQ1hqb0F6SXROMlZ6bkRlN0IxNEs3Q1RzZ3V4djlaMFgwS2dBMFhYUlJiT1B2bGtOVXc4R291aDJ4dEJGRFB2WVQ5NA?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-23T03:59:49.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -268,20 +264,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
-        {
-          "title": "광천별맛김 이성행 대표, ‘2026 충청남도 우수 중소기업인’ 수상",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUXk4QTBVR3FEdTFlUVl1WXk4ekhTdW1GVjlRdmxHbl9PN1BENDdaX0dTRHlUQUdpY1RENmpPM2hoX2t1S2JScjQwXy1DeXEybmhJZVNHT2ZoeERJdHIwSzdsYWZPMHM?oc=5",
-          "source": "공감신문",
-          "sourceInitial": "공감",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-23T04:10:24.000Z",
-          "tags": [],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "경기광주 유기농체험센터서 27~28일 '기후급식 국제학술대회'",
           "summary": "",
@@ -292,7 +276,7 @@
           "publishedAt": "2026-10-23T00:25:41.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "경기도, 27~28일 ‘2026 기후급식 in 경기’ 국제학술대회 개최",
@@ -307,13 +291,13 @@
           "feat": false
         },
         {
-          "title": "배추는 찜·시래기는 피자로…현대그린푸드, 강원 농산물 440톤 쓴다",
+          "title": "현대그린푸드, 강원 농산물 440톤 매입…급식·간편식 판로 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYlFfZ2Rzd1hremdPQUNPWUhxYVVfN2dVd2lRSkJ3MXByallmUm5veEN5dENjUzRMenp1Q1U3VkExeF9zazVaaUI0SkVZb3ZOYk5jMQ?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-22T04:38:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nYXRFMmdHb0FNd1F2WkZVbDlkSjR0YUQ1V3pZMUJobXRPRXY3SGtWR3BkaW9LSmJkR1FiZ01sRExLQ2hDNDRIbkR1amMwLUtPRGc1a0NsRU9wRmQ5ZW5zcnoyYWY0SzhtbnBNRDlNOA?oc=5",
+          "source": "이코노미사이언스",
+          "sourceInitial": "이코",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-22T08:25:30.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -368,7 +352,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 20,
+      "total": 18,
       "items": [
         {
           "title": "바이오포트, 첫 냉동 HMR 출시…코스트코 앞세워 글로벌 간편식 시장 공략",
@@ -471,16 +455,14 @@
           "feat": false
         },
         {
-          "title": "2026 서울카페쇼, 11월 11일 개막…세계 커피 트렌드 한자리에",
+          "title": "[잘먹잘살+]bhc·삼양식품·서울우유·교촌에프앤비·BBQ·웅진식품·NS홈쇼핑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fT2thQk4zZ29EWW11UFluWG81cWZMQS0zXzlqVHF1eXdGbzhtY3hBRk9xelN4QUVSZ1RXUEVkbjZCSXNYUnhXQ1loNU9MWG1QRFoxU2VkSHVxZlZrdTNvLVNnWl9idw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-22T00:04:32.000Z",
-          "tags": [
-            "트렌드"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMWjJSMS1NSVpuUjFDUVVnVlpuMHVLYTJMTFNrVlpoekZIX3ZfNXBubmt2eTFGVTJOejdWNThiamdVMGFwT1ljdnM2VEdkNlBFUExBR1NXWU9GQ1R1dVZKam9EM3h2LWNMb2tZZHJR?oc=5",
+          "source": "비즈니스플러스",
+          "sourceInitial": "비즈",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-23T06:34:01.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
