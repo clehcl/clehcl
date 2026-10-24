@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:19:13.126Z",
+  "generatedAt": "2026-10-24T01:48:37.315Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 21,
       "items": [
         {
           "title": "AI에 힘주는 외식업계···가맹점 수익 개선은 '글쎄'",
@@ -59,21 +59,6 @@
           "tags": [
             "프랜차이즈",
             "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "이자카야토라, 하반기 신메뉴 9종 전국 가맹점 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYRjZXNVpWVDFBVE1XTkJJNTNhTFNEcExMRTAxM2xLUFhXZXEwdU15c2gtVkNVU2Z3a0ljdVNUQktKU1Z4Z1VWa1RMVy1va041dlozQ1otVk7SAWhBVV95cUxPU04xZUhsUmRlNzhEYnVUOUliZ3BSTHgtTjAzdXhEeEFpWkNUbzJ0OU53WEZzWEhwWTl1WUVPTFh5dHRsYkdTTlFmNnYxeXdyYmxwdklzQTlHVjhnaWlHRGpkWGNjRkhfMw?oc=5",
-          "source": "매일안전신문",
-          "sourceInitial": "매일",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-22T00:00:08.000Z",
-          "tags": [
-            "가맹",
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -133,6 +118,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "[마이스NOW] 저가커피·1인 창업에 발길…‘IFS 프랜차이즈 박람회’ 현장",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbDN3b1VWcUFxYm9oamZWZG00M1hxeGF4dEVUZ2RnWExvU1VoMXVGMkgxOERNdVFIREdjTGlTbF9NTGFfczNNYVZXdkY2UUhsV2lXRHpXRUNpZ2QwNjN0cmdMRlRlWUFxQ0ww?oc=5",
+          "source": "https://www.kmjournal.net/",
+          "sourceInitial": "ht",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-23T06:58:37.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -145,8 +144,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 29,
+      "total": 30,
       "items": [
+        {
+          "title": "AI로 농산물 가격 예측…394개 팀 해커톤 도전",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KWV9xd1Z4Yk84ZTdaMkhseHdGaGVyVTlOaU9GaEpQMUkxUHQzZFdWZ3dHbDFza0Q1Z3dMbVBBY004aElwU1ZDeWh6bWRIZFc2T1g5dmJXT3JsbEU4SzdKT3BOeW5PZzN1RklKMW1B?oc=5",
+          "source": "국제뉴스",
+          "sourceInitial": "국제",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-23T08:42:37.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "빵값 6년 새 46.6% 급등…소비자 55% \"가격부터 본다\"",
           "summary": "",
@@ -157,20 +170,6 @@
           "publishedAt": "2026-10-23T07:28:19.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "[단독] 공정위, CJ프레시웨이 현장조사…“식자재 입찰 담합 의혹”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUOUR0Y01lUWlodThnUmVrTHNucERweV91Z3BFTHRiZFlZbjFtNXVqMVRLTU8tY2hUMmE0aXVWMFlMbFZ4aGprZjJqdkdteFRtN3hjanlnVjFzdWJJSVZic21nUVFjQQ?oc=5",
-          "source": "KBS 뉴스",
-          "sourceInitial": "KB",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-23T02:15:00.000Z",
-          "tags": [
-            "식자재"
           ],
           "price": null,
           "feat": false
@@ -269,13 +268,13 @@
       "total": 4,
       "items": [
         {
-          "title": "광천별맛김 이성행 대표, ‘2026 충청남도 우수 중소기업인’ 수상",
+          "title": "공정위, CJ프레시웨이 식자재 입찰 담합 의혹 현장조사",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUXk4QTBVR3FEdTFlUVl1WXk4ekhTdW1GVjlRdmxHbl9PN1BENDdaX0dTRHlUQUdpY1RENmpPM2hoX2t1S2JScjQwXy1DeXEybmhJZVNHT2ZoeERJdHIwSzdsYWZPMHM?oc=5",
-          "source": "공감신문",
-          "sourceInitial": "공감",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-23T04:10:24.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXSHRKc1h5bURTUHFsdlotZ2R2LUgxNnlJZUlzTVdRR05NQTYwQ0FVRjJBTjNXNWRiR014X2J3U1pzNnBmVkk4QmVqazZmRGg5bXBhZ2VxNGtjclJUZldQcnQ1c3E?oc=5",
+          "source": "매일일보",
+          "sourceInitial": "매일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-23T08:33:22.000Z",
           "tags": [],
           "price": null,
           "feat": true
@@ -305,13 +304,13 @@
           "feat": false
         },
         {
-          "title": "현대그린푸드, 강원 농산물 440톤 매입…급식·간편식 판로 확대",
+          "title": "현대그린푸드, 강원 농산물 440톤 매입...급식 넘어 간편식까지 판로 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nYXRFMmdHb0FNd1F2WkZVbDlkSjR0YUQ1V3pZMUJobXRPRXY3SGtWR3BkaW9LSmJkR1FiZ01sRExLQ2hDNDRIbkR1amMwLUtPRGc1a0NsRU9wRmQ5ZW5zcnoyYWY0SzhtbnBNRDlNOA?oc=5",
-          "source": "이코노미사이언스",
-          "sourceInitial": "이코",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-22T08:25:30.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ocW53OFBDcFZqZnA3WDFVNkpicWxKcWc2dHNyX201U0pocFhiTXpMOVRfRFBXZlpMUjFmcjZLa0oyOF82UGc4UWt2QnppYmxjOVJVSnJsd2RNODhhLXlhOE55TFA5VHNpYngzTVhR0gFyQVVfeXFMTlQ2OU14Z1hFMVN5a0UzcUhiT2d4eERWUGl0STJzQ0ZPREQ1VHRwUW9CeUdTUWowMzdNU1hiVlIybTBLbkF3MmRWRzlnZEdhWmpRVVhvZV9BQ2pxaVVxNzlnLUFPSW9Ja1c0X1Rmclp3OGx3?oc=5",
+          "source": "팝콘뉴스",
+          "sourceInitial": "팝콘",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-22T02:12:43.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -327,8 +326,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
+        {
+          "title": "[2026 국정감사] 농지·물가 둘러싼 ‘국가책임농정’ 구현 점검",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54cktJOVI2RVR1T04yU2FfaF9lZUlyTlJ3MmotR2NmZ3YzTklmR3c4SnVmV2QyLW9jYm9iZnNlT2hqcjB0YTRlbVo3ZlRvZE5hYUFNRDBuWkthUQ?oc=5",
+          "source": "농민신문",
+          "sourceInitial": "농",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-23T23:02:00.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "日은행 10월 금리 1.25% 동결 전망 속 9월 물가 2.1% 상승 : 경제",
           "summary": "",
@@ -341,7 +354,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "하이퐁시는 QR 코드를 활용한 식품 추적 시스템을 구축하고 있습니다.",
@@ -366,23 +379,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 16,
+      "total": 12,
       "items": [
-        {
-          "title": "바이오포트, 첫 냉동 HMR 출시…코스트코 앞세워 글로벌 간편식 시장 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Jdk8yMWY3MXZVcnMzLXhrVFBYY0FsX1ZRRDFzM3puWDg3bk5BNmVNVktSeXp2NVpqMTU4UF9SdjNvbVVVam92WXEwY2JuX2hCenc3Ql93dTFHS3p4REkwYTNQUExETVdOUDdYbVRyeWFjUdIBckFVX3lxTE9Jdk8yMWY3MXZVcnMzLXhrVFBYY0FsX1ZRRDFzM3puWDg3bk5BNmVNVktSeXp2NVpqMTU4UF9SdjNvbVVVam92WXEwY2JuX2hCenc3Ql93dTFHS3p4REkwYTNQUExETVdOUDdYbVRyeWFjUQ?oc=5",
-          "source": "팝콘뉴스",
-          "sourceInitial": "팝콘",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-22T00:47:57.000Z",
-          "tags": [
-            "출시",
-            "HMR"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[식품업계 9월 동향] 파리바게뜨 ‘파란라벨’ 신제품 5종 출시...‘크로켓’ 2종 선보여...‘초코 쫀득 츄러스’ 출시",
           "summary": "",
@@ -393,6 +391,20 @@
           "publishedAt": "2026-10-23T00:12:18.000Z",
           "tags": [
             "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "하이얼, 338L 대용량 김치냉장고 출시…3개 저장실 맞춤 보관·에너지 1등급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rMGFoUWdpbnJSS1F1TTBfSDZiQVlsYnZrOG1saHdfS0lMY2o0SzZDYW5sbU9SMEhDNkt1TmtZN0VwTjB6YWRkYl9YVjdlLWJoTEZPUFF3blZzSGpVWml6S0Jwc20wZjFaU3ZuYWh3?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-24T00:00:00.000Z",
+          "tags": [
             "출시"
           ],
           "price": null,
@@ -427,55 +439,51 @@
           "feat": false
         },
         {
-          "title": "하이얼, 1등급 338L 3도어 김치냉장고 출시",
+          "title": "현대그린푸드, 강원 농산물 440톤 구매…HMR로 판로 넓힌다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LVGFIdll5UWNtdkRfQjBCSDNhVG1BeWJuRll6N2M5SndReFFmWHlvdjZoVzRIaXRiX3k5TkZicTZ0Uk04UzZub1NoNzZCNk1TeUloNUh0NEZ3NFB5NFpXWHFzcFU1eXBkenFaYg?oc=5",
-          "source": "경상일보",
-          "sourceInitial": "경상",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-22T01:17:53.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMQ0dfNmFiNS1hR0FpN19CUGJEYUJaRlBzOU02RUNXYmgxbUFqREZiSmdjLTdBRnRka0gwVzdLbnV6VGd5eENNTTczQkxhMnRsVFZXTU83Y2h5QVpUd3N2R0c1RDk?oc=5",
+          "source": "인더뉴스",
+          "sourceInitial": "인더",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-22T02:34:37.000Z",
           "tags": [
-            "출시"
+            "HMR"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "\"김종국도 좋아할까?\"…맥도날드, 단백질 56g 대형 버거 '빅아치' 국내 출시",
+          "title": "커피 도시 강릉에서 핫플 성수로…400평에 담은 커피의 모든 것 [쿠킹]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVDcxejRuemI5eG5RNDhRWmpORl9neFM0enhnU05iTC1BY1dzWlM4d3BZSUx4bkVkOWFqNHA1RDl4V015LVpwcGtlWWJuUjg3YlRJOXVfWlRNQm5VYjFXWk9nV0RySm02THJOQg?oc=5",
-          "source": "매경헬스",
-          "sourceInitial": "매경",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-22T01:10:00.000Z",
-          "tags": [
-            "출시"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jeVgyeVFOa25FQnR4ZGF4RW15OWdaRF95TnkxUjFIWDZCSG9oU2pXanZQUEVyUC1wRzByY1Nhc1FxUGFOUlFCSExYRE5FT3NBWlBGaGdn?oc=5",
+          "source": "중앙일보",
+          "sourceInitial": "중앙",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-24T01:00:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "2026 서울카페쇼, 11월 11일 개막…세계 커피 트렌드 한자리에",
+          "title": "[굿모닝! 23일 식품업계 소식] 롯데웰푸드·농심·삼양식품·풀무원헬스케어·삼립",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fT2thQk4zZ29EWW11UFluWG81cWZMQS0zXzlqVHF1eXdGbzhtY3hBRk9xelN4QUVSZ1RXUEVkbjZCSXNYUnhXQ1loNU9MWG1QRFoxU2VkSHVxZlZrdTNvLVNnWl9idw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-22T00:04:32.000Z",
-          "tags": [
-            "트렌드"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FOUczbU1ROHpvRS1IZlBfTjN2QXo3V1I2M29wUWlGc2VFWEpSZDhHbXNfY0VzWjVhbUQzd2RFakV5RERRVnJjN2NES0Q5Qmg3RFpTQTJIZGRpcENEZmtyRnZfbTNvQUxaRC1Mdg?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-23T06:00:59.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "메가MGC커피, 가을 신메뉴 효과 톡톡…라떼 카테고리 매출 최대 222% 증가",
+          "title": "[전통의 맛에 프리미엄을 더하다]CJ제일제당, ‘비비고 김부각’ 흥행 이어 ‘프리미엄 캔김’ 승부수…K-스낵 포트폴리오 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9taVN3LUdhVDZsWDQwN29mUDR3ZW5Da2YwQlpfS0pkZTZCaURDVlFsVldDMGhRUllhb1lJUktMY2N4RkxYUG1xVUZ3aVJEdmxDWUV5SG1kbm5fbmVlX0t4ZzZmWkliakI0M3NGLQ?oc=5",
-          "source": "뉴스탭",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-23T06:31:23.000Z",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5c2NadXJneXo0cERmaUROLWtvNHRrbVZzLUlhb1laSEpuSm9FWnBKeE1IYk95YWROYkw1M0FzTDlWakRVQnRlU0Q4M3lxVGRHYlp1ak40ODl0cG5GaWZ6Zzd3c0wta1E0QXVoRFZYU0g?oc=5",
+          "source": "전국뉴스",
+          "sourceInitial": "전국",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-23T01:50:22.000Z",
           "tags": [],
           "price": null,
           "feat": false
