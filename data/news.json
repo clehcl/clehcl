@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:51:27.556Z",
+  "generatedAt": "2026-10-24T15:27:02.945Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -34,7 +34,7 @@
           "feat": true
         },
         {
-          "title": "[ 2026년 10월 24일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "title": "[ 2026년 10월 24일(토) 프랜차이즈 뉴스 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0lQajJuaG15QnRqWkhWa0xGcFR3YldOQlVhZ2h2bTV4UWVxeU9HM0JUa2FhNWRUOEVGUnJPMmoySVRaMmZmbDNBYXYyT0lLM0xCUksxTkltclhSb3VyRW00dVc3UXVxM0IwYXhJNHlhVkZxNTFnR2IxYnc4NTdqckZYd3ZYWWdOS1o4UWJ3?oc=5",
           "source": "Naver Blog",
@@ -142,8 +142,23 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 29,
       "items": [
+        {
+          "title": "aT, 농산물 가격예측 온라인 해커톤…'도매시장 가격예측 모형' 만든다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZV0k2ajFDOGFQZkhUUWw5Q09JWmFKbERvU2dtY25qYXlDQXl0S1dGNzZ0ZnZrUWlsV1F5RG5CNFZYTkJkbFh4LU4wM3g?oc=5",
+          "source": "아이뉴스24",
+          "sourceInitial": "아이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-23T01:38:00.000Z",
+          "tags": [
+            "도매",
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "자영업 원가 비중 71.6%…연체율 13년여 만에 최고 : 정책.지표",
           "summary": "",
@@ -156,16 +171,44 @@
             "원가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
-          "title": "aT, '2026 AI 농산물 가격예측 해커톤' 본선 15팀 선정",
+          "title": "USDA 주간 육류·가금류 보고서: 도축·생산·가격 - 뉴스 및 통계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4d3VWQWpvLXFubmVMR3lvdnFiSTBwQjhnVk93QnNES1F1cnd4ai1ZZHJlaU1INjBONzRKbG9kWDduanJxd29ySmpaeG8xaVdsbjdsaW4wSVg4M25HSjdSQjFWeU41dzBNd0xfb1VRUjh5MXpp0gF0QVVfeXFMUDh3dVZBam8tcW5uZUxHeW92cWJJMHBCOGdWT3dCc0RLUXVyd3hqLVlkcmVpTUg2ME43NEpsb2RYN25qcnF3b3JKalp4bzFpV2xuN2xpbjBJWDgzbkdKN1JCMVZ5TjV3ME13TF9vVVFSOHkxemk?oc=5",
-          "source": "뉴스워커",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-23T02:17:02.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaktWOGdGb2lsdVZDaGUzcFVwUmFwTUhHQ253YlZoTGFLekxHMGFpa1ZPMVg3MHR1aWJvYk5iRFJoY0ljandqN2FSWWs2UmVJUWFBejVqY3hYeXVlNTJVaFhHeEVKZy1nelNWdkU5SGExZUJTZ0ozakxxbGcxelI1cWJhVW1sTXF2clZ1VWdoNkZTV1pNbVNHZFZBTEgxT2JRdkY1WDNLMGZudw?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-23T15:20:36.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "AI로 농산물 가격 예측…394개 팀 해커톤 도전",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KWV9xd1Z4Yk84ZTdaMkhseHdGaGVyVTlOaU9GaEpQMUkxUHQzZFdWZ3dHbDFza0Q1Z3dMbVBBY004aElwU1ZDeWh6bWRIZFc2T1g5dmJXT3JsbEU4SzdKT3BOeW5PZzN1RklKMW1B?oc=5",
+          "source": "국제뉴스",
+          "sourceInitial": "국제",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-23T08:42:37.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "빵값 6년 새 46.6% 급등…소비자 55% \"가격부터 본다\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWnNxcEJFeEoyaFdSZlBYTWluelVCMEJUaThqNm1DWHI4RHV4djdQUXhJOWtiU1E2TFJGLTVzUVFFOGp6eGJTdzM3UVMzWjBpVlAzVWJleE9XdUlBSF9aS1FTR1B2UQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-23T07:28:19.000Z",
           "tags": [
             "가격"
           ],
@@ -201,50 +244,16 @@
           "feat": false
         },
         {
-          "title": "제철 먹거리부터 겨울 아우터까지 온라인 할인전[주말e커머스]",
+          "title": "aT, '2026년 AI 농산물 가격예측 온라인 해커톤' 개최 - 머니투데이",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RUlRLUUR2YV93LU1iZTFqOUZQT3RxWmoxLUEwV1JBRlo4M0k2MGFaWFhwUE11Z3BZY1p6a1ZIampHMVo1ZlV5dnhQY2liRWFzcWcwYnpLaC1Ic2lLLWJBT0t6MDFDam16WTJFbV9VNjdSYWwwRUIzSdIBeEFVX3lxTE9RUlRLUUR2YV93LU1iZTFqOUZQT3RxWmoxLUEwV1JBRlo4M0k2MGFaWFhwUE11Z3BZY1p6a1ZIampHMVo1ZlV5dnhQY2liRWFzcWcwYnpLaC1Ic2lLLWJBT0t6MDFDam16WTJFbV9VNjdSYWwwRUIzSQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-23T21:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“공장이 좁다…삼양식품, 2027년 중국 공장 가동·해외 증설로 공급 난제 해결”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55RTMtdXlWZERoLVp6WDlsVGlzSHpEck9uc0tjQUpFQnpnZWlDMGc0bzdrZXlCVFVWUmNoQklic1RyRnZRb2ZBenlKRERBc3ZTaXFYVEJOMEQtMTRFczZMQTI5aFNNTlJUTHd2ckkzQQ?oc=5",
-          "source": "뉴스퀘스트",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-23T10:46:31.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "日, 10월 금리 동결할 듯…9월 소비자물가, 2.1% 상승(종합)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03R19WQWdwaGxfTGplb1dhWTRURE5LbW5QRU11SUNwTWFyWVlsSHlzZUl4eDB3MVUzbmc3NWRvb3NxRlRjRnc4Uk91SUJONFFNMlZwYkp6QlhYdU0xTWI3ctIBYEFVX3lxTE03R19WQWdwaGxfTGplb1dhWTRURE5LbW5QRU11SUNwTWFyWVlsSHlzZUl4eDB3MVUzbmc3NWRvb3NxRlRjRnc4Uk91SUJONFFNMlZwYkp6QlhYdU0xTWI3cg?oc=5",
-          "source": "연합뉴스",
-          "sourceInitial": "연",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-23T05:02:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "9월 일본 소비자물가 2.1%↑…\"9개월 만에 2% 웃돌아\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xaDluSnhreHBxZUx0RFhRb24wNjlVbEU4LUZjd3RRTTczTGlDM0RUY2pCTXJYQ1hqb0F6SXROMlZ6bkRlN0IxNEs3Q1RzZ3V4djlaMFgwS2dBMFhYUlJiT1B2bGtOVXc4R291aDJ4dEJGRFB2WVQ5NNIBeEFVX3lxTE0xaDluSnhreHBxZUx0RFhRb24wNjlVbEU4LUZjd3RRTTczTGlDM0RUY2pCTXJYQ1hqb0F6SXROMlZ6bkRlN0IxNEs3Q1RzZ3V4djlaMFgwS2dBMFhYUlJiT1B2bGtOVXc4R291aDJ4dEJGRFB2WVQ5NA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-23T03:59:49.000Z",
-          "tags": [],
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CbUM0d3JrZ3pQTVpNT3JxSVRwZnA4OGw4S3BpckpPcVB2MDFfUGhSaVY3Z2hHYjZjSTNMYy00dmNrY3NXNG1rZXpBWVNQNGZPR3ZyS0FKaHhHV1dsV09fX3VUMGV4VEd1ZDBHNVRkMHdDVlNFMGgydGJCaHXSAXxBVV95cUxNQm1DNHdya2d6UE1aTU9ycUlUcGZwODhsOEtwaXJKT3FQdjAxX1BoUmlWN2doR2I2Y0kzTGMtNHZja2NzVzRta2V6QVlTUDRmT0d2cktBSmh4R1dXbFdPX191VDBleFRHdWQwRzVUZDB3Q1ZTRTBoMnRiQmh1?oc=5",
+          "source": "머니투데이",
+          "sourceInitial": "머",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-23T00:41:31.000Z",
+          "tags": [
+            "가격"
+          ],
           "price": null,
           "feat": false
         }
@@ -349,7 +358,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 5,
       "items": [
         {
           "title": "[식품업계 9월 동향] 파리바게뜨 ‘파란라벨’ 신제품 5종 출시...‘크로켓’ 2종 선보여...‘초코 쫀득 츄러스’ 출시",
@@ -365,34 +374,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "상품 출시·공간 조성…MZ·기성세대 줄세우는 유통가[백투더 레트로③]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NdnR4S01BNFBIN2RfWnUtZFg3M0FtVnk0cGN5V1JSSUlMQzFnV29TdVF0a0pLdEFlS1p1RXoxRTFwSk1TbkR1cG5lMlFzWENTY2ItNkpzV2tPbzB3Nk5zZW9ub08zOVRVdGZ2d01rTXlTWldlS2V5LdIBeEFVX3lxTE1NdnR4S01BNFBIN2RfWnUtZFg3M0FtVnk0cGN5V1JSSUlMQzFnV29TdVF0a0pLdEFlS1p1RXoxRTFwSk1TbkR1cG5lMlFzWENTY2ItNkpzV2tPbzB3Nk5zZW9ub08zOVRVdGZ2d01rTXlTWldlS2V5LQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-24T03:00:00.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "하이얼, 338L 대용량 김치냉장고 출시…3개 저장실 맞춤 보관·에너지 1등급",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rMGFoUWdpbnJSS1F1TTBfSDZiQVlsYnZrOG1saHdfS0lMY2o0SzZDYW5sbU9SMEhDNkt1TmtZN0VwTjB6YWRkYl9YVjdlLWJoTEZPUFF3blZzSGpVWml6S0Jwc20wZjFaU3ZuYWh3?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-24T00:00:00.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "[신제품 오늘 리뷰] 삼립·아워홈·웅진식품·SKT·소니코리아",
@@ -423,30 +404,6 @@
           "feat": false
         },
         {
-          "title": "커피 도시 강릉에서 핫플 성수로…400평에 담은 커피의 모든 것 [쿠킹]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jeVgyeVFOa25FQnR4ZGF4RW15OWdaRF95TnkxUjFIWDZCSG9oU2pXanZQUEVyUC1wRzByY1Nhc1FxUGFOUlFCSExYRE5FT3NBWlBGaGdn?oc=5",
-          "source": "중앙일보",
-          "sourceInitial": "중앙",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-24T01:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 23일 식품업계 소식] 롯데웰푸드·농심·삼양식품·풀무원헬스케어·삼립",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FOUczbU1ROHpvRS1IZlBfTjN2QXo3V1I2M29wUWlGc2VFWEpSZDhHbXNfY0VzWjVhbUQzd2RFakV5RERRVnJjN2NES0Q5Qmg3RFpTQTJIZGRpcENEZmtyRnZfbTNvQUxaRC1Mdg?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-10-23T06:00:59.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[전통의 맛에 프리미엄을 더하다]CJ제일제당, ‘비비고 김부각’ 흥행 이어 ‘프리미엄 캔김’ 승부수…K-스낵 포트폴리오 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5c2NadXJneXo0cERmaUROLWtvNHRrbVZzLUlhb1laSEpuSm9FWnBKeE1IYk95YWROYkw1M0FzTDlWakRVQnRlU0Q4M3lxVGRHYlp1ak40ODl0cG5GaWZ6Zzd3c0wta1E0QXVoRFZYU0g?oc=5",
@@ -454,6 +411,18 @@
           "sourceInitial": "전국",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-23T01:50:22.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[Who Is ?] 전병우 삼양식품 최고운영책임자(COO)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WRHpSWndnWVpSeWZUNXJna1hqNV9LdUpGd0kzd2ZUbHFabjFMRWRjRUFiNkdjcTdiYW5LNF9OdXUxMEItTlpsdHY3V1h0YWFyX3BVc2ZZWnVwOWt4SzQwVXVzUXdnMHdFdG0wMXBxSXlLMUU?oc=5",
+          "source": "비즈니스포스트",
+          "sourceInitial": "비즈",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-22T22:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
