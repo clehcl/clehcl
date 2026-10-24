@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:27:02.945Z",
+  "generatedAt": "2026-10-24T18:18:17.366Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 14,
       "items": [
         {
           "title": "AI에 힘주는 외식업계···가맹점 수익 개선은 '글쎄'",
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 29,
+      "total": 30,
       "items": [
         {
           "title": "aT, 농산물 가격예측 온라인 해커톤…'도매시장 가격예측 모형' 만든다",
@@ -169,6 +169,20 @@
           "publishedAt": "2026-10-24T08:57:57.000Z",
           "tags": [
             "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "하루 시작 가격: 작은 생선 가격이 급락하여 가자미는 kg당 200,000 VND에 거래되었고, 채소 가격은 높은 수준을 유지했습니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2E2c1RpYS02QkcyQTVUZ1JJS0tra0hQVXBBbHFndjRFckpSZm16ZEE1T1RsZENpbmtRNXh6WGEwNHFVR1NtR2hCU252dDltYl9kejhnT3Fad3JnczFWVHFtQXNELXVZcEd3M3RUXzB0NDB1VGlDanpwaTZYVmFwaTBuQXZMY3g5OWJodDdjTWFfR0NmNVNlZW0zQWt2ZWRJN0JHRA?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-24T05:38:27.000Z",
+          "tags": [
+            "가격"
           ],
           "price": null,
           "feat": false
@@ -239,20 +253,6 @@
           "publishedAt": "2026-10-23T01:12:18.000Z",
           "tags": [
             "원가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "aT, '2026년 AI 농산물 가격예측 온라인 해커톤' 개최 - 머니투데이",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CbUM0d3JrZ3pQTVpNT3JxSVRwZnA4OGw4S3BpckpPcVB2MDFfUGhSaVY3Z2hHYjZjSTNMYy00dmNrY3NXNG1rZXpBWVNQNGZPR3ZyS0FKaHhHV1dsV09fX3VUMGV4VEd1ZDBHNVRkMHdDVlNFMGgydGJCaHXSAXxBVV95cUxNQm1DNHdya2d6UE1aTU9ycUlUcGZwODhsOEtwaXJKT3FQdjAxX1BoUmlWN2doR2I2Y0kzTGMtNHZja2NzVzRta2V6QVlTUDRmT0d2cktBSmh4R1dXbFdPX191VDBleFRHdWQwRzVUZDB3Q1ZTRTBoMnRiQmh1?oc=5",
-          "source": "머니투데이",
-          "sourceInitial": "머",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-23T00:41:31.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -358,7 +358,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 7,
       "items": [
         {
           "title": "[식품업계 9월 동향] 파리바게뜨 ‘파란라벨’ 신제품 5종 출시...‘크로켓’ 2종 선보여...‘초코 쫀득 츄러스’ 출시",
@@ -404,6 +404,18 @@
           "feat": false
         },
         {
+          "title": "[굿모닝! 23일 식품업계 소식] 롯데웰푸드·농심·삼양식품·풀무원헬스케어·삼립",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FOUczbU1ROHpvRS1IZlBfTjN2QXo3V1I2M29wUWlGc2VFWEpSZDhHbXNfY0VzWjVhbUQzd2RFakV5RERRVnJjN2NES0Q5Qmg3RFpTQTJIZGRpcENEZmtyRnZfbTNvQUxaRC1Mdg?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-10-23T06:00:59.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[전통의 맛에 프리미엄을 더하다]CJ제일제당, ‘비비고 김부각’ 흥행 이어 ‘프리미엄 캔김’ 승부수…K-스낵 포트폴리오 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5c2NadXJneXo0cERmaUROLWtvNHRrbVZzLUlhb1laSEpuSm9FWnBKeE1IYk95YWROYkw1M0FzTDlWakRVQnRlU0Q4M3lxVGRHYlp1ak40ODl0cG5GaWZ6Zzd3c0wta1E0QXVoRFZYU0g?oc=5",
@@ -411,6 +423,18 @@
           "sourceInitial": "전국",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-23T01:50:22.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "K푸드 열풍의 딜레마… 빠듯한 R&D로 생존법 찾는 식품업계 - 조선비즈",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVl3dVFXM3hmbUZwQWlzS2w4NXF0MVh2aDVoWGNBejIzOFI1akkzVnRISF9RQXZnLTBmaV9aYnEtNjFCZV9JY25zNTZxRzNpcnpKUlNPRE8xdEY0Z0NyejVCT2stb3MxdzFXTVJmazNacU9wd3BVSlVwdDl1dENTV1AwWXFYd9IBmgFBVV95cUxPX3o1T2ZtbjV6dmxaVmNOZk12Ymp5TTV0R1RVRHNUMmp4b1pxTkVKbzBXMm1tc2lSRFpZcmNMT0NwdGdLMHcwTTkwYy1VNnhELUxfcUJJUVVNMEV0YjRkbkFjaTJ0YTlHdTRzeFYwUmJHZHFyMTZaREgwVEJyOG5XZzV3ZDNmNUlmX3RmN1Z4el9HbEk4YjM3TnlB?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-10-23T00:04:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
