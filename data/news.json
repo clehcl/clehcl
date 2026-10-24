@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:18:17.366Z",
+  "generatedAt": "2026-10-24T21:03:09.580Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 30,
+      "total": 31,
       "items": [
         {
           "title": "aT, 농산물 가격예측 온라인 해커톤…'도매시장 가격예측 모형' 만든다",
@@ -218,7 +218,7 @@
         {
           "title": "빵값 6년 새 46.6% 급등…소비자 55% \"가격부터 본다\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWnNxcEJFeEoyaFdSZlBYTWluelVCMEJUaThqNm1DWHI4RHV4djdQUXhJOWtiU1E2TFJGLTVzUVFFOGp6eGJTdzM3UVMzWjBpVlAzVWJleE9XdUlBSF9aS1FTR1B2UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxUkNLbHVSOTlpQWFkNVd2M2FWRVVyZG9mN2dKLTZLWXVXcjktRFNYUFQ4NGVyaW4wUndKdFg3Sk1sa09zS3B4cWdhZV9pWmgzdkplekVkYnNDM2ViRVVVTXd2Zlg?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -358,7 +358,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "[식품업계 9월 동향] 파리바게뜨 ‘파란라벨’ 신제품 5종 출시...‘크로켓’ 2종 선보여...‘초코 쫀득 츄러스’ 출시",
@@ -374,6 +374,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "하이얼, 338L 대용량 김치냉장고 출시…3개 저장실 맞춤 보관·에너지 1등급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rMGFoUWdpbnJSS1F1TTBfSDZiQVlsYnZrOG1saHdfS0lMY2o0SzZDYW5sbU9SMEhDNkt1TmtZN0VwTjB6YWRkYl9YVjdlLWJoTEZPUFF3blZzSGpVWml6S0Jwc20wZjFaU3ZuYWh3?oc=5",
+          "source": "한국영농신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-24T00:00:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "[신제품 오늘 리뷰] 삼립·아워홈·웅진식품·SKT·소니코리아",
