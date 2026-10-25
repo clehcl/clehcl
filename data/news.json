@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:51:53.274Z",
+  "generatedAt": "2026-10-25T22:18:48.556Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "산업장비·헬스케어 매물로…외식 프랜차이즈 인수 수요[M&A 딜보드]",
@@ -34,28 +34,13 @@
           "feat": true
         },
         {
-          "title": "맥세스, 프랜차이즈 CEO 교육 27일 개강 “지역에서 잘되는 매장, 전국에서도 통할까?”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TWk0OHFJLVo0Vm13M1N1eEZEUnNHalQ3eFlnSm5MRkYybDZURDhHeEY5NEhNc01VWi16VnhVX1FadVNEZV9LQXVFZ3ZlSjEtZU5pQzNfam1lY3hJVHBaUXRR?oc=5",
-          "source": "CWN",
-          "sourceInitial": "CW",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-24T23:00:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "매장"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 10월 26일(월) 프랜차이즈 뉴스 ]",
+          "title": "[ 2026년 10월 26일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1BVSUNtQWo4S3lSMll3VEpPRXBjakhGMEllaHQ5UXNtQ0tkNkR4MEtBc0lDMDMxN0FNNm1vd1FqeVJrOE9jeUUwbHdLMFRZR2RIR1lRNGZwSmZHcExwbTFLRkxWQnYyb1RLQklUeWx4azVucTRBUlJ6MG9TeXpQbFI3SE12ZGg5QXhXUnhn?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-25T08:28:59.000Z",
+          "publishedAt": "2026-10-25T08:32:59.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -131,6 +116,20 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "33떡볶이&꼬마김밥, '2026 IFS 프랜차이즈 창업박람회' 참가…1500만원 상당 혜택 제공 [ 신아일보 강동완 기자 ]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nZ0xhd0NjdERXSndvRDVUaVVHd3IxVm9ZVUMxd2lVc1ZibjBJc2JiRW84MUZVWlBiSkp6RG5QVm5PNEZCejZrbFAyTTlDTXJXX3VqdU1NYkNyUmo3TlhsNm9FczRzS21tcTZZaXRZLXg1eUdsYm1fN3dMb282UQ?oc=5",
+          "source": "블로그",
+          "sourceInitial": "블로",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-24T10:25:09.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -143,8 +142,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
+        {
+          "title": "즉석식품 가격 7개월새 20%↑…“단기처방 일색 물가대책 점검을",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFJwRHlXTF9xcWxqbkRzSzhiOXZlMF9yV2RudS14TnJOdVNiSHdIaWFYT0JwOFRaZXVHZEpwUW9ZVTFNTkxWSHNKYmN2RUFXMjlyb01Rd1pSYkoyZG90bHZIeW96Y3FzcndQdHpqSlJQQ05HQklIeXlVYXdsdFp1QQ?oc=5",
+          "source": "이데일리",
+          "sourceInitial": "이",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-10-25T19:55:04.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "AI가 아이디어를 코드로 구현…aT 농산물 가격예측 해커톤 본선 15개 팀 진출",
           "summary": "",
@@ -157,7 +170,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "오늘(10월 25일) 쌀 가격과 지난주 쌀 가격: 수출용 쌀 가격이 상승했습니다.",
@@ -169,20 +182,6 @@
           "publishedAt": "2026-10-25T08:52:39.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-24T23:02:31.000Z",
-          "tags": [
-            "식자재"
           ],
           "price": null,
           "feat": false
@@ -202,16 +201,26 @@
           "feat": false
         },
         {
-          "title": "하루 시작 가격: 작은 생선 가격이 급락하여 가자미는 kg당 200,000 VND에 거래되었고, 채소 가격은 높은 수준을 유지했습니다.",
+          "title": "[Who Is ?] 김태원 아워홈 대표이사",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2E2c1RpYS02QkcyQTVUZ1JJS0tra0hQVXBBbHFndjRFckpSZm16ZEE1T1RsZENpbmtRNXh6WGEwNHFVR1NtR2hCU252dDltYl9kejhnT3Fad3JnczFWVHFtQXNELXVZcEd3M3RUXzB0NDB1VGlDanpwaTZYVmFwaTBuQXZMY3g5OWJodDdjTWFfR0NmNVNlZW0zQWt2ZWRJN0JHRA?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-24T05:38:27.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jclZRRmJpYmcwcXpmTHRmOVljeHpqXzE5dElDMGQ2Z3FwUGFWS2pHc2dIUi1pOWxHVW9MNDZkTjlOTERYNVo3M2F2aDFpakt4ZXlOYTJOWFpWZXR2al84VnBvd3BiRmhnQVhYSjJ5VGdLVjA?oc=5",
+          "source": "비즈니스포스트",
+          "sourceInitial": "비즈",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-25T22:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "롯데온, 28일까지 월말 할인전…생필품·식품 최대 50% 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yamhmeW9pa25uMU9mX0hVYnF3bU5KeDZCbndSWFlZUUhfQ2dYT283Tlk3RGhjbktjRDQ5NXVhTHhzeElvYnVHOG9oV1RsOU84UlE?oc=5",
+          "source": "매일경제 마켓",
+          "sourceInitial": "매일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-25T21:00:10.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -238,18 +247,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[주末머니]\"환율 100원 내리면 이익 쑥…식품주 담을 때\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ncjBRU2NhY29CaWZ0cHVMMkE0c3dEOFB1anlpQmc4ZVQ5cTVEYVdFdnAtM3JXQkp2Q1JPQ1EzLW9YcFlIZnlBamlEd1FsSFEzcmJkSGZodU5XQVRITmtEaA?oc=5",
-          "source": "아시아경제",
-          "sourceInitial": "아",
-          "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-10-25T01:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -262,8 +259,36 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 6,
       "items": [
+        {
+          "title": "[식품업계 담합 제재 후폭풍] 대상, 과징금 2341억 부담…유통 덜고 바이오 육성",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dS1UNUlFZVJZWW0zbEtWTWhKM1hvT0VHd1dQRTdhcmx5OFV3dGJTRHIxc2p1d21ZSVAtYWlTb21MM3pCRzRScWtIRFhoSE0?oc=5",
+          "source": "딜사이트",
+          "sourceInitial": "딜사",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-25T22:00:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "규제·통계 없는 ‘법 밖’ B2B 마트 2000개…유통 질서 왜곡 [식자재마트 급성장의 그림자①]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYmZwRHRJWWpIbEUxYW42dVozdUVHc001VmtUQ1p0d0k2Vk91MXNxVXpLR1kxX0p6RnViUFM2Um15LS1maHp1eF9hczg0NVZLNHJua1ExYkdiRHYxdDlqWVV1aw?oc=5",
+          "source": "쿠키뉴스",
+          "sourceInitial": "쿠",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-24T23:02:31.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "의왕시 (재)안양군포의왕과천 공동급식지원센터, 화성 친환경 벼베기 및 RPC 견학 체험행사 성황리 개최",
           "summary": "",
@@ -274,7 +299,7 @@
           "publishedAt": "2026-10-25T10:05:17.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "공정위 CJ프레시웨이 현장조사... '식자재 입찰 담합 의혹' 살펴",
@@ -374,7 +399,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "요거트월드, 과일과 요거트크림의 만남…‘요거트 찹쌀떡’ 9종 출시",
@@ -391,6 +416,20 @@
           "feat": true
         },
         {
+          "title": "하이얼, 에너지소비효율 1등급 338L '3도어 김치냉장고' 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wM3hqd0hqSl81MGdNVmZNMFM4WHRnMk1MQmpSWlU3a0kwa1hGVXpWcFBWWXE1UnFLbHBKQXl0X1l4QWJwOG5nVjA5MTNKMzZkMnRWZk9hdEFGVVFw?oc=5",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-24T00:00:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "하이얼, 338L 대용량 김치냉장고 출시…3개 저장실 맞춤 보관·에너지 1등급",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rMGFoUWdpbnJSS1F1TTBfSDZiQVlsYnZrOG1saHdfS0lMY2o0SzZDYW5sbU9SMEhDNkt1TmtZN0VwTjB6YWRkYl9YVjdlLWJoTEZPUFF3blZzSGpVWml6S0Jwc20wZjFaU3ZuYWh3?oc=5",
@@ -405,13 +444,13 @@
           "feat": false
         },
         {
-          "title": "[이주의 유통포인트] 이마트, '와우샵' 월계점·은평점 오픈…CU, 프리미엄 수입과자 확대",
+          "title": "선우글로벌, 자일리톨 커피캔디 120만 개 판매 돌파…매출 60억 원 달성",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xNTZFUElmc2JRdmhzczlzdjFpZXcyeDRkY1UydDAtdXJLV0NHYldmZU9ubHgzSU03QWtJUU1VMEtUQ2NUTW9TYnB6M25zTXNya2lfTkVZTV9HRGpLQzlCV3lIMXNSOFJVS3VIZjBvSUnSAXRBVV95cUxPOVV1dmNDeFduM0Jnc2EzQjRqa2V4b0lfSVJRZVZ1dE9vTGQwRDlNQUZFMXFOZTk3dUJJM2JlRVd5bTNzdmRyV3MzTHBodzk5SmZvQ0xzTklOazRaNVowR21lMTU2dkJsdFU5UEJDNkU2aGxRUw?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NaldfNmE2N1ZoemdEVnhoN2phQWRCbmludER6QjNwN1FWRGVzREpaelNPTEZGdUdiRXl3VWFxLXRWTmJ6d1pZY0xhanoyVkIwVWljYjl2R1cza2lieUhwM01VbXhrX08wRDJkY1pFdUU?oc=5",
+          "source": "스포르티보 미디어",
+          "sourceInitial": "스포",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-25T10:28:49.000Z",
+          "publishedAt": "2026-10-25T06:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
