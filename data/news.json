@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:38:26.733Z",
+  "generatedAt": "2026-10-25T13:34:31.348Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 13,
       "items": [
         {
           "title": "산업장비·헬스케어 매물로…외식 프랜차이즈 인수 수요[M&A 딜보드]",
@@ -91,6 +91,20 @@
           "feat": false
         },
         {
+          "title": "외식업 활로 찾는다…'2027 식품 외식 산업 전망' 11월 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZVXpKYzlGRVVxaW1sYXBYRE4zXzh6MnpPbnpRcjFwaThlZVhTN0xkZkQwZ3ZrMmhBakQtcEIxdXVKNDZxSUdZU2s3QkFNN1E2cVc4ekk0UnhTUQ?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-10-25T02:00:00.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "33떡볶이&꼬마김밥, '2026 IFS 프랜차이즈 창업박람회' 참가…1500만원 상당 혜택 제공 [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nZ0xhd0NjdERXSndvRDVUaVVHd3IxVm9ZVUMxd2lVc1ZibjBJc2JiRW84MUZVWlBiSkp6RG5QVm5PNEZCejZrbFAyTTlDTXJXX3VqdU1NYkNyUmo3TlhsNm9FczRzS21tcTZZaXRZLXg1eUdsYm1fN3dMb282UQ?oc=5",
@@ -117,20 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "교촌 메밀단편, IFS 창업박람회 참가…순메밀 메뉴·브랜드 운영 방식 소개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzTUNGQVlwU2gxM3BsWXFKX2p0Qmp1bC1LQWRtM2I3bW44N2czQWNxQVVsVVRvcnpHR2RQR2JIdkRRX05ZSHJEV3VHRVJwR192YmNoMzQwR2tEcVRLQThISTF5Um9xYVRpTi0wQnVQRzY?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-10-24T00:10:00.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 10,
+      "total": 5,
       "items": [
         {
           "title": "자영업 원가 비중 71.6%…연체율 13년여 만에 최고 : 정책.지표",
@@ -188,32 +188,6 @@
           "feat": false
         },
         {
-          "title": "AI로 농산물 가격 예측…394개 팀 해커톤 도전",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KWV9xd1Z4Yk84ZTdaMkhseHdGaGVyVTlOaU9GaEpQMUkxUHQzZFdWZ3dHbDFza0Q1Z3dMbVBBY004aElwU1ZDeWh6bWRIZFc2T1g5dmJXT3JsbEU4SzdKT3BOeW5PZzN1RklKMW1B?oc=5",
-          "source": "국제뉴스",
-          "sourceInitial": "국제",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-23T08:42:37.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[리얼푸드] 15분 이내 저녁 준비…식품 소비의 핫 키워드 ‘타임 세이빙’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80QmJDanFKMGRIX1hZR0JfSi1zaUhVaWI2ckZXczViMUZxSndtZWNGTU13MnVaOG4wM0N4MXF6T1J1cVVrd0d2bGdDRG0xNDNl0gFWQVVfeXFMUDNrSWk4R3BlRUllR1Z0YUNZYUZfSC02VHVtUTV0d2ZMUWRoeVVfNV9NLS1PNWtQcGZZTmFIV3cwUXVNVjktaHhHdnRBdThKRGUzSEdYRlE?oc=5",
-          "source": "네이트뷰",
-          "sourceInitial": "네이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-25T03:48:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[주末머니]\"환율 100원 내리면 이익 쑥…식품주 담을 때\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ncjBRU2NhY29CaWZ0cHVMMkE0c3dEOFB1anlpQmc4ZVQ5cTVEYVdFdnAtM3JXQkp2Q1JPQ1EzLW9YcFlIZnlBamlEd1FsSFEzcmJkSGZodU5XQVRITmtEaA?oc=5",
@@ -236,18 +210,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "日 9월 소비자물가 2.1% 상승...일본은행, 10월 금리 동결 유력",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82a2k4bFpFcGoyRGUtdmlVdENURENJbTVwRU9JSm54RnZBaEpCeGtFQzJqTWc0Nk5DRVg4SnNwZ0hwX01ZdVhGM2NjN3E5LVJLRVVueUZSeFZYX1BoSmJDTTcteGU?oc=5",
-          "source": "베타뉴스",
-          "sourceInitial": "베타",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-23T13:19:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -260,8 +222,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
+        {
+          "title": "의왕시 (재)안양군포의왕과천 공동급식지원센터, 화성 친환경 벼베기 및 RPC 견학 체험행사 성황리 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1udy1xYzJhNnhEbThSOGlPeWJfQ1dVMDNVQ1BPaXRVMW1wSlRpSjAzSnM2ZVlfX0VvVFpMUmM2RWZmZmZUd1JwZGJLcG5aVVhYbHc2V1Z5TzZnYXQzSVVsbVdYQVRYVjhvN0JFM0VrMA?oc=5",
+          "source": "뉴스파노라마",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-25T10:05:17.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "공정위 CJ프레시웨이 현장조사... '식자재 입찰 담합 의혹' 살펴",
           "summary": "",
@@ -272,28 +246,16 @@
           "publishedAt": "2026-10-25T07:57:03.000Z",
           "tags": [],
           "price": null,
-          "feat": true
-        },
-        {
-          "title": "(재)안양군포의왕과천 공동급식지원센터, 화성 친환경 벼베기 및 RPC 견학 체험행사 성황리 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uYmRoa2FheExxVDU2N2hIcjVKOTlJRnBDd0ZnNEhob2djNVNoMzBvMHR3aXFvR0NyUTJraExSOUlmZ1hMSm5WaGdkY0ZSc3JiTWZWR09VY3BnQ1FudmVr?oc=5",
-          "source": "세계환경신문",
-          "sourceInitial": "세계",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-10-25T05:04:04.000Z",
-          "tags": [],
-          "price": null,
           "feat": false
         },
         {
           "title": "[식품업계 담합 제재 후폭풍] 사조, 과징금 부담 4천억 육박…푸디스트 상쇄 관건",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXowbGtfbmNNUUhoelFFR1BLLURWNXFOaEJzTVByTDhZekVCQ0dBZW5SUWRzSkFDb05nNXp4bUdlRXdQTkJrdl9OLWNyZTRHUnFIaEVScTdoQmdSWi1HdW9faUdxcmtXUGpOd245cHd1dmFaaF9oSkJjeXBvcUJoSjhsT2N4RVVtVm9GbDFROA?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-25T00:53:49.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fS2Jaa2VZNFFKYnY4VmNkaVFuU2hqRlh4bU1mRVA1cHh0MlRid1pBU2JtODBrWGpHSHltVjhIcldUVFVzb0hjQnJxUEFxMmRUaXQ1N3RCeW5rZw?oc=5",
+          "source": "블로그",
+          "sourceInitial": "블로",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-10-24T13:33:04.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -318,18 +280,6 @@
           "sourceInitial": "엔디",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-10-23T14:32:45.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ㄱㄱㄷ 의정 Pick!] 김미숙 부의장, 사회복지종사자 처우 개선 방안 논의",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QREtJS1NCZTU1WG5CcmN2U3pKOGhEaFZVbUxMejZ1c1U2NE4wT001WGt3ZnFlVTJqbGthNEh4RXdIWjlEdWpRSTVraDd0S29sZWZXRFJUMkV3SHgweEtNXy1YVFAzZElkc2lLekRoZzVvTjg?oc=5",
-          "source": "소비자가 만드는 신문",
-          "sourceInitial": "소비",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-23T09:27:11.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -396,7 +346,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "요거트월드, 과일과 요거트크림의 만남…‘요거트 찹쌀떡’ 9종 출시",
@@ -427,13 +377,25 @@
           "feat": false
         },
         {
-          "title": "선우글로벌, 자일리톨 커피캔디 120만 개 판매 돌파…매출 60억 원 달성",
+          "title": "[이주의 유통포인트] 이마트, '와우샵' 월계점·은평점 오픈…CU, 프리미엄 수입과자 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NaldfNmE2N1ZoemdEVnhoN2phQWRCbmludER6QjNwN1FWRGVzREpaelNPTEZGdUdiRXl3VWFxLXRWTmJ6d1pZY0xhanoyVkIwVWljYjl2R1cza2lieUhwM01VbXhrX08wRDJkY1pFdUU?oc=5",
-          "source": "스포르티보 미디어",
-          "sourceInitial": "스포",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xNTZFUElmc2JRdmhzczlzdjFpZXcyeDRkY1UydDAtdXJLV0NHYldmZU9ubHgzSU03QWtJUU1VMEtUQ2NUTW9TYnB6M25zTXNya2lfTkVZTV9HRGpLQzlCV3lIMXNSOFJVS3VIZjBvSUnSAXRBVV95cUxPOVV1dmNDeFduM0Jnc2EzQjRqa2V4b0lfSVJRZVZ1dE9vTGQwRDlNQUZFMXFOZTk3dUJJM2JlRVd5bTNzdmRyV3MzTHBodzk5SmZvQ0xzTklOazRaNVowR21lMTU2dkJsdFU5UEJDNkU2aGxRUw?oc=5",
+          "source": "포인트데일리",
+          "sourceInitial": "포인",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-25T06:00:00.000Z",
+          "publishedAt": "2026-10-25T10:28:49.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[리얼푸드] 15분 이내 저녁 준비…식품 소비의 핫 키워드 ‘타임 세이빙’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80QmJDanFKMGRIX1hZR0JfSi1zaUhVaWI2ckZXczViMUZxSndtZWNGTU13MnVaOG4wM0N4MXF6T1J1cVVrd0d2bGdDRG0xNDNl0gFWQVVfeXFMUDNrSWk4R3BlRUllR1Z0YUNZYUZfSC02VHVtUTV0d2ZMUWRoeVVfNV9NLS1PNWtQcGZZTmFIV3cwUXVNVjktaHhHdnRBdThKRGUzSEdYRlE?oc=5",
+          "source": "네이트뷰",
+          "sourceInitial": "네이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-10-25T03:48:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
