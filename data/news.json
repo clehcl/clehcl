@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:47:46.443Z",
+  "generatedAt": "2026-10-26T23:01:30.414Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 25,
+      "total": 21,
       "items": [
         {
           "title": "[2026년 프랜차이즈 실태⑨] 더본코리아, 가맹점 증가 ‘빽다방’에 집중…외식 브랜드 전반은 축소세",
@@ -59,21 +59,6 @@
           "tags": [
             "프랜차이즈",
             "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "맥세스, 프랜차이즈 CEO 교육 27일 개강 “지역에서 잘되는 매장, 전국에서도 통할까?”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TWk0OHFJLVo0Vm13M1N1eEZEUnNHalQ3eFlnSm5MRkYybDZURDhHeEY5NEhNc01VWi16VnhVX1FadVNEZV9LQXVFZ3ZlSjEtZU5pQzNfam1lY3hJVHBaUXRR?oc=5",
-          "source": "CWN",
-          "sourceInitial": "CW",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-10-24T23:00:00.000Z",
-          "tags": [
-            "프랜차이즈",
-            "매장"
           ],
           "price": null,
           "feat": false
@@ -130,6 +115,20 @@
           "publishedAt": "2026-10-26T07:29:38.000Z",
           "tags": [
             "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "'가성비 조식' 뜬다…프랜차이즈 업계, 3조원 시장서 격돌",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrV0xFd2ZoRElrQk9LdHdKdzZfOUtjSmlLaTBJZzd5cDg3dEFkZTFIYnNMaDBLV0JfMlVxZEl5MHFWbExrRFJUcjgtSkFmVGhXR2F1VGZGVG_SAVhBVV95cUxQa1dMRXdmaERJa0JPS3R3Snc2XzlLY0ppS2kwSWc3eXA4N3RBZGUxSGJzTGgwS1dCXzJVcWRJeTBxVmxMa0RSVHI4LUpBZlRoV0dhdVRmRlRv?oc=5",
+          "source": "미디어펜",
+          "sourceInitial": "미디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-26T06:04:53.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -331,7 +330,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 6,
       "items": [
         {
           "title": "세계보건기구(WHO) 베트남 대표: 안전하지 않은 식품은 200가지 이상의 질병을 유발할 수 있습니다.",
@@ -344,6 +343,30 @@
           "tags": [],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "식품안전정보원, AI 도입으로 해외제조업소 등록심사 3일→1일",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbUNFWXlFTmU4dXE0aEN4T1g5b0pDeVIyVWY3WVVtSFZDQkpSWm9MazB2YUNiZ1Y3VF8tYnVVWVl6MUtBbnhzRmtnazNrTjBWVkIyaWl1OXhIRGZhYWxLNzFIbTk4QQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-26T08:56:37.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "팩스타, 국제 식품안전 인증 ‘FSSC 22000’ 획득",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TdUhlaDB4VXpkNG5xd0luZ2V4WXA4czVKVXQtSlZJU0ZDQ2I1bHJkUlBURHl0OGZrdFNDLWdWNmVrbmtWZnlPRnRvZWIwSXJRWktfYXBsVUVCeEVuY3I0amFqSnFqZFFBVGlB?oc=5",
+          "source": "비즈월드",
+          "sourceInitial": "비즈",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-26T07:51:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "식품안전정보원, 28일 식품영양과학회 학술대회서 ‘Codex와 K-Food’ 세션 개최",
