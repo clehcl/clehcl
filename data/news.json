@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:43:44.337Z",
+  "generatedAt": "2026-10-30T22:47:50.384Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -144,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "\"유조선 운임 6배 폭등에 2차 물가 인상\"… 日, '식품 가격 2차 인상' 파동 경고",
@@ -263,7 +263,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 7,
+      "total": 6,
       "items": [
         {
           "title": "aT, 전남광주 한우 중동 수출 추진…오만 유통기업과 MOU",
@@ -287,20 +287,6 @@
           "sourceInitial": "일간",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-10-30T01:48:22.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "허진수 상미당 부회장, 美 식품유통 GGG와 협력 논의…해외 확대 발판",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XdVE5YlJCUndYdnZSMzBPWE1DdHNQT0hWOGZKWGNtWWlrM3FyOHk3T1VOV3gtX0FLc0J0U3lwYWN6SldwU0E?oc=5",
-          "source": "Daum",
-          "sourceInitial": "Da",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-10-28T21:50:23.000Z",
           "tags": [
             "유통"
           ],
@@ -366,7 +352,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
         {
           "title": "“전쟁이 흔드는 美 통화정책” 연준 12월 금리 결정 안갯속, 중동發 물가 압력에 종전 협상 변수로",
@@ -412,6 +398,20 @@
           "feat": false
         },
         {
+          "title": "식약처, 바이오시밀러 심사기준 완화…3상 임상 면제 요건 명시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSUlRZmNTVUJKZk5XYTMwNS1mYzd1Zy1SMGN2V0lPdlpyZG84LWFKZ3VaVUYzN0U3dlRTS2RrWk5nZlRVZmJjUWpPRlZVMlVkN3kyNnU2UHp3VnF5Y3VUNHJuV3M?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-29T00:06:28.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[인포맥스 POLL] 10월 물가 2.77%↑…\"높은 근원물가 압력 유지\" |",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03NjJNS1VyUGIzamlROWIzdEJEdThSMXo1NFdUX21JZ3RKLTVuV0JKbFQ3TndhNnViS0t0M1ZrV2d6R0RYcjFzdWN3UmY0aUFscG5ycnZiSUVuTWttVUxURWZxOHdBWFVMTkMxRVJqZFllSVpL?oc=5",
@@ -448,7 +448,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 9,
       "items": [
         {
           "title": "전남바이오진흥원, '가정간편식(HMR) 트렌드&상품화전략 세미나' 성황리 개최",
@@ -510,20 +510,6 @@
           "feat": false
         },
         {
-          "title": "[유통갤러리] 삼립 피그인더가든, F45 협업 ‘프로틴 샐러드’ 2종 출시 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EYnY3SmNZVFA5b01oNzFHLURTemY2MVp1M2dHX1RnTGhOMGMyNWYtMzIwaDdxZnlOWWlEMm1tRzFpSWpzNm9INXlMMG5hTGhjMVBCby1TRmg?oc=5",
-          "source": "뷰어스",
-          "sourceInitial": "뷰어",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-29T23:57:55.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "동서식품, '오레오오즈 마시멜로 파티' 출시…샘표, '토장' 캠페인 전개 [유통 PICK]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VeFdIWWF1WWJtbk1OVlZlTEtEYWRuaGVyQ1FfQVlLRS1GN0lwUGhwdWl3cGtKSFhvd3hVRk5lNE9CcGxzYkRCMU5uN0VTMWRJR0FJbmhNRzF6Z2UzdEcwdUxkUUh2amhrNEE?oc=5",
@@ -538,18 +524,6 @@
           "feat": false
         },
         {
-          "title": "[신상브리핑] 롯데칠성음료, GS샵, 이디야커피, 동서식품, bhc, 맘스터치 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WVF9KTHZNMkdXZ2tTV1JfMUZtaExPVnFFREI3dFFyTFdzSWtNWm40ZHc4ME5LNmg4c3FBaklVYk9EX1U3RTE0V3JkcHVCTzdyMzlyY3c1WjI1LTM0amFtZXRla0VIcFJRdzlEYmN1SdIBb0FVX3lxTE1WVF9KTHZNMkdXZ2tTV1JfMUZtaExPVnFFREI3dFFyTFdzSWtNWm40ZHc4ME5LNmg4c3FBaklVYk9EX1U3RTE0V3JkcHVCTzdyMzlyY3c1WjI1LTM0amFtZXRla0VIcFJRdzlEYmN1SQ?oc=5",
-          "source": "한국아이닷컴",
-          "sourceInitial": "한국",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-10-29T12:16:42.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "대구시, 엑스코서 박람회·커피페스타 동시 개막…262개사 참가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCcTNCN0hWR0wzODJjY1BkQmRhTFQtT0V2V2NWUUp0T0k1cl9VM0tPMThXWDlMRkI4QXVDMkRsQzIxdFQxVmh3VGItUkZDUFFTNlBIN2hKazlwZnlicWptSTNsTmNqZw?oc=5",
@@ -557,6 +531,30 @@
           "sourceInitial": "이로",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-10-29T07:55:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서울우유협동조합, ‘저당 유제품’ 포트폴리오 확장 속도…저당 식품 시장 규모 약 40% 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkbVNlbU1sTWx5MTVfR1BFNjNxMkNPTWNGZDJKOVBDdjB4eG9aMmF6b3hkcTdIb3JKYUxpR2NueEQ1YTlPZHJrMDV1TFhJcnJxdHNYTjJ6OUhiMUVBRXRJQmNZTFBkOTVE?oc=5",
+          "source": "시사캐스트",
+          "sourceInitial": "시사",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-29T07:28:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "식품저널 foodnews",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CZmxGQkpWTHRtZ08tWV9PbWpUN3ZhMkF3QmdmYk9GcUZWYjM0MmlaMFZGV2h1YUhjNHNsNWVSOUVFMjAtbVZ1RWp3Ul9pSzlyeF9LQ1VHNmhoSGpJUFUweFRB?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-10-29T04:10:24.000Z",
           "tags": [],
           "price": null,
           "feat": false
