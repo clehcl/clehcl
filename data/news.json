@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:47:55.711Z",
+  "generatedAt": "2026-11-01T20:13:56.034Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,6 +19,21 @@
       "total": 11,
       "items": [
         {
+          "title": "\"배움을 매장으로\"…부산 프랜차이즈 사관학교 11기 26명 수료",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtZl9RTi1uUUp0TUNRSHNpOGJZdzJlcU9Ja3FDU1ZwTHJoOElZbFpVQ1dZNlNOX1NxLUdmNjFqRUVxQi03RGpTemd6SExrY3N6RlZCUmVxdG9LWkNp?oc=5",
+          "source": "선데이뉴스신문",
+          "sourceInitial": "선데",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-01T04:27:34.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "[ 2026년 11월 2일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFMxaUlMQXZQSHFZMEdZQ19lWnVPbDM5S3pMb1VZVXp3OFg2TEtjdDI4aUFiLVYwLVdPay01Z3pneVJjNXk5S3c0VDAwWXhSTG12UWhBaDdmbGNleHY3dmxjdGNLZ1dibW42ZDlMX0lCNmo0Zkd3WWdLMlRsN2Ftd3llSUpGQlJZdTlBcklB?oc=5",
@@ -30,7 +45,7 @@
             "프랜차이즈"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "프랜차이즈 경영자 교육 어디서 받을까…연세대 CEO 과정 49기 모집 : 네이버 블로그",
@@ -109,18 +124,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "“수출 50% 급증·커피 계약 50억”... 대구, ‘K-푸드·글로벌 커피’ 허브로 우뚝",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NzBvaXhuUlR4UVpjejA2aXZLRnBxam9KVVVmRE9lakdwbk4ybEN5Z2NwQndrc215cmo0ODBQNTktSkM1cXYydTRTdVdPMmR3VHh5Q1ZXVzZ1eTAtNEpUN0hpNFNwR193cEE?oc=5",
-          "source": "뷰티경제",
-          "sourceInitial": "뷰티",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-01T02:29:17.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -133,21 +136,35 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 17,
+      "total": 13,
       "items": [
         {
-          "title": "\"가격 반토막 났다\"…3만원 넘던 '가을 전어'에 무슨 일이",
+          "title": "이숲(esoop), 이커머스 M&A 가치평가 가이드 공개…쇼핑몰 매각 가격 산정부터 인수 협상까지",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ja1JDV2JXN3MxVVlMZGduQ1R2MTBIa1ZzckRWdHUzakRLakp1QnZ2MjF2NzVVVEdfM18zRk1PQUFYQjdDVng3eXMzU2tuNS1zeHVBZXROQnZ4UQ?oc=5",
-          "source": "한국경제",
-          "sourceInitial": "한",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-01T15:18:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk1EVkI1Ty1FRG8xcEloekVNMFpTMTc1Tzg1WnVKRkR1U1RlX2Uxdm5qSE5QclY3LUhvYUxUWkt5MU5yM0h5amM0OWxvVHZrU0o0V0c0a1NYdHhsaDNNbjR0VV9zdjFIX1pFdThoS1pyWl85cHBNSnpVQVZaNVBEN20ycGdqZGlneW92aTczUEFRWGJlNVBzR0x1cEEtZkdMU0E?oc=5",
+          "source": "피플게이트",
+          "sourceInitial": "피플",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-01T13:21:00.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "오늘 11월 1일 농산물 가격: 커피 가격은 kg당 86,900동에 거래됩니다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ3BVRTlGZ2FRN3pjWjI3cTlLMTY5TzNOZW1zamJMQ3hUSDZodGRsOXJqWnIyaU1UVTllTHExVEtJSjBMWVRTS3VvMWUxbEJEb2JMVFdmUnc3LUpKN1h1UzlkVUh3Z3hpZS0yX0FvWHhtYmhnd2VHcXdjdUhIYTd1UklHaVA4Q1FzVEJUb3Z2UzNrU0xrejBNUVJkYVVESGQyRU9ZQXExQTlDVFpkWEkyOUFR?oc=5",
+          "source": "Laodong.vn",
+          "sourceInitial": "La",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-01T10:49:01.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "일본 정부는 연료 가격 보조를 위해 73억 달러를 추가로 지출하기로 결정했습니다.",
@@ -157,20 +174,6 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-11-01T10:03:33.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "오늘 11월 1일 세계 금 가격: 월스트리트, 다음 주 하락 시나리오로 기울어져",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTNHc1ZQRmFXTG5fc3JuelI3VWpmZDFyZXN2TGdKdjVGeXhrTlRDc0licnhnQ1FSdWs0Z2lmSUl5OEp0N3E4ekxQRnByNzBCT2xEQ0Z5VVBjRl9uR0h0ZXlEQmpsTUNfWGRLdVlwOHZUTndpX3ZIVW53TVlyVHlNVjAyakVmQS11dXBhbW5TNzlwMXNpR04ySGNQMDJhdFNlcy1VRUZacGp1Zkxlb2U0RGhobUtzamhJVnlpeQ?oc=5",
-          "source": "Laodong.vn",
-          "sourceInitial": "La",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-01T07:54:30.000Z",
           "tags": [
             "가격"
           ],
@@ -192,20 +195,6 @@
           "feat": false
         },
         {
-          "title": "[농수산물시세] 09/23 열무값, 3929원… 오렌지값, 1만3071원… 오이값, 1만2285원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LR2N4eUJsUlRHc3UzOFFONFVTVHJCWDVzRy1XRGdhVjFoWmZadEQwLUdINkhmQTZHQU1aQjNvNTctdjNZMGNoMlZqNlZPR2RIUlc4bmhHanhiYk9abWkxTUUtZnl6NWtyNGhPTVBENNIBc0FVX3lxTE5CWURHaUxtQXljYnF0T1oxREMwZEt5d1owMERyRHd6NEgxZFZOaGVNVlZMeDdibmlnVW42dUJBUjhlSHRubkl4MDRhNWVDdGNIRk4zdUJaWFJENFNNTmFHUURfLTNCeWxfZktyV2lNU0F6OGc?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-01T02:42:46.000Z",
-          "tags": [
-            "시세"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "2027년 음력 설 연휴 기간 동안 가격 폭리와 투기를 방지하기 위해 원자재 비축량을 늘려야 합니다.",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2JyZ3ZZZmR4OUhmODVoQXNnX3ZMUHNtZ0xZNzl0cEtUc3JTTmFnWGF3ekU0c20xV2F4SzJxRWRvVmtkYUk0bUR1c1BobU5qUkhsN0MyT2pXNDk2Y1dOcFlNWl9HWnFUMWszamh5WWk3c1NkVFRaTjgxUEVpNmJFRUI4VS1yOUhOYUZZa2hqalF1Zw?oc=5",
@@ -213,6 +202,20 @@
           "sourceInitial": "Vi",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-10-31T05:17:05.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "감량률·가격은? 부작용은?…치료제 3종 비교하니[비만약 삼국지②]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5maFFObHk0Ty01LXRYaVlaTDB1N25lRFozc1dzR2l2d3ROSmFaLTRnRUM4RG12RUxlSnkxVzQ1TDI3WXlwdHUzLUJUTGNwcFVVc3ZRcTIwN01SekRZak5WVtIBeEFVX3lxTE5nb1FSM2l2VU9iUmNoWTgyR0tXeVdzOTh3VGM5aDE1MmlMU3lGQXJqLWwzUzZUam4wSnpoTk0yS0ptS0phMjk3N3hacG1sSllua0RkUzk0V19vX29DODRQb244azJ2RnYydjBmS21zWEtwOHBNcUIzaQ?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-31T05:01:00.000Z",
           "tags": [
             "가격"
           ],
@@ -234,16 +237,14 @@
           "feat": false
         },
         {
-          "title": "USDA 마이마켓뉴스 체더 배럴 치즈 가격 2022~2026년 - 뉴스 및 통계",
+          "title": "카르복시메틸 셀룰로오스(CMC) 시장 2035년 전망: 석유·가스 및 식품 수요가 성장 견인 - 뉴스 및 통계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEhTZDFCT0hZOWdVaGFjb2dWdncwS0Qxa2ZOa2syQlZqUERObkZRdkx1eURaeGdPd1pMa0ZSVFRIaURPLVlsUnU3RnNIQ2xEU25Ya2lBRW1fRkpSMlRrb3g0ZEdBRU1IYl95Z28xRzFnd0xxbG53OUg5bVlGOHlnUWptcm9FbGNEbWhjNVl6TVZMUVBEQ3dreVIzTjNPbkFKRE00VlFIRDc4MGk3LWNzbVRoQkZMbVk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZXZDZlZ3akVvdEduYWpTQ1pVQmNHQ0FJTDY0cjR6cTl2S2dpTlJXeHRlZ2JyUk9mS1VHQXFGWUtVaWRuYmVVbnlwZnZibXdCWG0yT05DMkxUUlJXY2NkMkhDM0tHMzh2Y25IRjczaTU3YXc3SzZQQklsdlN0NERiS2E1VGJsMG9tTTFmVFU4T3FfS28tUXEzNTRZMGxjck9wUjNiV1JlWFlCNGYtVGVtdjZJMTlDaGtDQmU3YmZhUDhVeWtOWjV6cFpWT3NDNEMtZGNxYQ?oc=5",
           "source": "IndexBox",
           "sourceInitial": "In",
           "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-10-30T18:00:28.000Z",
-          "tags": [
-            "가격"
-          ],
+          "publishedAt": "2026-11-01T13:01:04.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -258,8 +259,20 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 1,
+      "total": 2,
       "items": [
+        {
+          "title": "경기도, 지난해 도내 학교 95%에 친환경 급식 공급…803억 원 투입",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16aDZ1UnZnSkI0QmxITXZJZUEySDZnMkZ3ZWx3QzRSVk43Y2t3VlV0b2pxZlAzZFdDa3VDa2otMWFzV2c3RDNBcnlZbkl1VGR3eENORDZCdmtjLVlvbW5icmpVUFlyQ2xPTENRT9IBa0FVX3lxTE5yNHY3N2JBVFRMSkd2T3BwTEI0Yi05SEZObmZwZGtmNVZCMzZBOVlEOFBwbDYyZ0VveW5KZ0tjV0ZwWGZZb3FGTk9DLVhZcmFQcEg4ODhoT2JFSTRMcXVNNm55UmJfNER3MXp3?oc=5",
+          "source": "더팩트",
+          "sourceInitial": "더팩",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-01T01:29:26.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "의성, 학교·공공급식 지역농산물 70% 목표…먹거리정책 시동",
           "summary": "",
@@ -270,7 +283,7 @@
           "publishedAt": "2026-10-31T10:13:49.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
         }
       ]
     },
@@ -286,20 +299,6 @@
       "total": 3,
       "items": [
         {
-          "title": "[DH times K-의료정책·의료기기·사이버보안]“연결된 의료기기, 비밀번호부터 보안 강화”…식약안전평가원, 사이버보안 심사지침 개정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wbkl1TzBGRFVsMFh2dnhqMGsxTW9PM1lHbzU2aW9VZ1RDNjEyR1JhTXZkU3BYZ2l1aXNlMHNfQlVmNlBKV3VBUzNvUF95a19xb2dzaUtMM2hLTUxqMW9NNnFJWnBzNzdlSUE?oc=5",
-          "source": "https://www.dhtimes.co.kr/",
-          "sourceInitial": "ht",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-31T02:27:17.000Z",
-          "tags": [
-            "정책"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
           "title": "13년 만에 '물가 2%' 닿은 일본은행…금리는 1.25% 동결, \"달성 선언은 없다\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Y2h4bjlpYmFBbld6d2t5QmUyQnRabDdzNkRhMTlrTlpEbkNnM2MxbFlMajZRcTNLYi1DcHJKdDNSTTJpZ05fZkVjX1BNTVRPMzFuaHNHbWtsZm9BdEN4ZUMwVDNNLXky?oc=5",
@@ -310,6 +309,18 @@
           "tags": [
             "물가"
           ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "서울 하나로마트 18곳서 김장 농산물 할인…6개 품목 최대 반값",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yVDNyVFduamtnOGVGRjNwLXVLbGFvU0NlR3JxT0xHOTBxQ1ZoSG01NHFlVW44NWtBU3dBWTRJV2tUZTJVc0M4WEp3?oc=5",
+          "source": "미디어이슈",
+          "sourceInitial": "미디",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-01T02:34:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
