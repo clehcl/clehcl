@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T08:46:17.569Z",
+  "generatedAt": "2026-11-01T15:47:55.711Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
-        {
-          "title": "다이닝브랜즈그룹, ‘2026 서울형 상생 프랜차이즈’ 우수 가맹본부 선정",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qcVlGMDBVTGR6WDQ0X0VDZnpQR29Cd2ladFcyTzlaWHlaS2VsNC05NUJXbVotUHVVbzlOZ0VUMndFMGdPaEM3djY5WWxyQ1ZscmF3bW5LNU5LRDRPSUN3ZVo4VHVnTi1OTzZB?oc=5",
-          "source": "퍼블릭뉴스통신",
-          "sourceInitial": "퍼블",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-10-30T11:57:35.000Z",
-          "tags": [
-            "프랜차이즈",
-            "가맹"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[ 2026년 11월 2일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -40,12 +25,12 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-01T08:35:21.000Z",
+          "publishedAt": "2026-11-01T14:35:21.000Z",
           "tags": [
             "프랜차이즈"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "프랜차이즈 경영자 교육 어디서 받을까…연세대 CEO 과정 49기 모집 : 네이버 블로그",
@@ -90,13 +75,25 @@
           "feat": false
         },
         {
-          "title": "4만 1천 명 방문·수출상담 50% 급증… 대구음식산업박람회·커피페스타 성료",
+          "title": "대구 음식·커피 축제 갈수록 ‘성황’…올해 역대 최다 4만1000명 몰려",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aQ1JtZlZORFQ1NURjUUlNdmtZTE4wYno3OFJoajRnc29fSXZDcjlUZUpOSEs0S25RdERJMm9OazU4aTJNdkRJT1NCckVrZkJPUmVqVUc4ZUo3NHhubTNvVVFrbzBIdw?oc=5",
-          "source": "이로운넷",
-          "sourceInitial": "이로",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-01T08:41:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qem5kTmh2MmRCaVEtLU83NlFqUjNRSEVPOG94UVkzR2hLMTdtYkJwRmtSczVKY2NvY091czhNYlFkTTJlcmFYMENwZVA4SklLU0d5c3BiWGI1REc3RE45bmptRUptNUZpaHc?oc=5",
+          "source": "경북도민일보",
+          "sourceInitial": "경북",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-01T11:28:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "대구 음식산업박람회·커피페스타 성황리 폐막…역대 최다 4만 1천 명 방문",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKTHRyRm9GT2U5dWxRakVuekFQSnFNM0tIRjRvMngzZWs1SnNSaEdsLVpZaFNpU1pTOTZ3Y1Y1NWhDS2ZXVk1PVFkwWVMwMzRvbXlMdzE0ck42R3JBejhXcHZMb1J2T182WW9B?oc=5",
+          "source": "BBS불교방송",
+          "sourceInitial": "BB",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-01T10:51:30.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -136,21 +133,49 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
-          "title": "전어 가격 일주일새 반토막…㎏당 1만4900원",
+          "title": "\"가격 반토막 났다\"…3만원 넘던 '가을 전어'에 무슨 일이",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ja1JDV2JXN3MxVVlMZGduQ1R2MTBIa1ZzckRWdHUzakRLakp1QnZ2MjF2NzVVVEdfM18zRk1PQUFYQjdDVng3eXMzU2tuNS1zeHVBZXROQnZ4UQ?oc=5",
           "source": "한국경제",
           "sourceInitial": "한",
           "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-01T08:11:20.000Z",
+          "publishedAt": "2026-11-01T15:18:00.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "일본 정부는 연료 가격 보조를 위해 73억 달러를 추가로 지출하기로 결정했습니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTdzQ050SktTd2ljZXo0bHFHSkdMWHExcVU0Z0VGR08zQVk2VW5xQm1OTlk1Zi1uSTd0djVaeXlkMG9yb0hGcm1HbHVQMzFqcDd0eFpiS3hacWtOOHFLZGRPaWsteWJ3UElIRENaaVh1TkVMdXJpY0VmVXhJbkJVc0FkNVJaX0hzbHRuRGo3ZnhNVGNIUzJWUnlKMFpZUQ?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-01T10:03:33.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "오늘 11월 1일 세계 금 가격: 월스트리트, 다음 주 하락 시나리오로 기울어져",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTNHc1ZQRmFXTG5fc3JuelI3VWpmZDFyZXN2TGdKdjVGeXhrTlRDc0licnhnQ1FSdWs0Z2lmSUl5OEp0N3E4ekxQRnByNzBCT2xEQ0Z5VVBjRl9uR0h0ZXlEQmpsTUNfWGRLdVlwOHZUTndpX3ZIVW53TVlyVHlNVjAyakVmQS11dXBhbW5TNzlwMXNpR04ySGNQMDJhdFNlcy1VRUZacGp1Zkxlb2U0RGhobUtzamhJVnlpeQ?oc=5",
+          "source": "Laodong.vn",
+          "sourceInitial": "La",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-01T07:54:30.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "2026년 11월 1일 오늘과 지난주 쌀 가격: 수출용 쌀 가격이 급격히 상승했습니다.",
@@ -167,13 +192,27 @@
           "feat": false
         },
         {
-          "title": "감량률·가격은? 부작용은?…치료제 3종 비교하니[비만약 삼국지②]",
+          "title": "[농수산물시세] 09/23 열무값, 3929원… 오렌지값, 1만3071원… 오이값, 1만2285원",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5maFFObHk0Ty01LXRYaVlaTDB1N25lRFozc1dzR2l2d3ROSmFaLTRnRUM4RG12RUxlSnkxVzQ1TDI3WXlwdHUzLUJUTGNwcFVVc3ZRcTIwN01SekRZak5WVtIBeEFVX3lxTE5nb1FSM2l2VU9iUmNoWTgyR0tXeVdzOTh3VGM5aDE1MmlMU3lGQXJqLWwzUzZUam4wSnpoTk0yS0ptS0phMjk3N3hacG1sSllua0RkUzk0V19vX29DODRQb244azJ2RnYydjBmS21zWEtwOHBNcUIzaQ?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-31T05:01:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LR2N4eUJsUlRHc3UzOFFONFVTVHJCWDVzRy1XRGdhVjFoWmZadEQwLUdINkhmQTZHQU1aQjNvNTctdjNZMGNoMlZqNlZPR2RIUlc4bmhHanhiYk9abWkxTUUtZnl6NWtyNGhPTVBENNIBc0FVX3lxTE5CWURHaUxtQXljYnF0T1oxREMwZEt5d1owMERyRHd6NEgxZFZOaGVNVlZMeDdibmlnVW42dUJBUjhlSHRubkl4MDRhNWVDdGNIRk4zdUJaWFJENFNNTmFHUURfLTNCeWxfZktyV2lNU0F6OGc?oc=5",
+          "source": "포인트데일리",
+          "sourceInitial": "포인",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-01T02:42:46.000Z",
+          "tags": [
+            "시세"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "2027년 음력 설 연휴 기간 동안 가격 폭리와 투기를 방지하기 위해 원자재 비축량을 늘려야 합니다.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2JyZ3ZZZmR4OUhmODVoQXNnX3ZMUHNtZ0xZNzl0cEtUc3JTTmFnWGF3ekU0c20xV2F4SzJxRWRvVmtkYUk0bUR1c1BobU5qUkhsN0MyT2pXNDk2Y1dOcFlNWl9HWnFUMWszamh5WWk3c1NkVFRaTjgxUEVpNmJFRUI4VS1yOUhOYUZZa2hqalF1Zw?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-10-31T05:17:05.000Z",
           "tags": [
             "가격"
           ],
@@ -205,42 +244,6 @@
           "tags": [
             "가격"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "서울 하나로마트 18곳서 김장 농산물 최대 반값 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jRmJyVnZXQWJYMWJPeS1DZE05SjFHa2hOMXhUVG96UjNWZnNleGJ5bENETlFwY0NEWXlFcmxPMkc2MjJla2g3ZVBReFpnOVl4TTBud1Z2RG5fdGIxZDd6WVY1Ukswdw?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-01T08:43:35.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘김장 재료 최대 반값에 구매하세요’… 서울시, 깐마늘·쪽파 등 6종 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ckk2VDBRck5BT1F0NGhqYjZDam9GYnllSkVWNkFNQkY1ZFAxejIxRml1WXBNN0pROHFPTXM4dW92ekFOZFZ4TDNNUnNzVDhROEQyZVNRTGpzTnh6Y0JObUI4SEtzSHJMUGpOeXduOA?oc=5",
-          "source": "서프라이즈뉴스",
-          "sourceInitial": "서프",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-01T04:04:14.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“김장 재료 최대 50% 할인” 서울시, 하나로마트 18곳서 특별 할인전",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBneXBHUGZuVFNIV0V2ZWtCdThyM0NPTUZMUWI1c3ZfOHlMNjZzOW5xaUVlNHdIMTZIeWN4LWtTcFh0aHpwVGlCQkdSbkg2OW9sV1Vz?oc=5",
-          "source": "유스연합",
-          "sourceInitial": "유스",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-01T03:30:23.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -333,16 +336,16 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
-          "title": "포항 농축수산가공품 110만 달러 수출 잭팟”… 해외 바이어 초청 상담회 ‘성료’",
+          "title": "4만 1천 명 방문·수출상담 50% 급증… 대구음식산업박람회·커피페스타 성료",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1odFZYREtqd3BraXlsX3cwaXhLS0g3MzhUM21CenlPSGszM1NDdHpVc1ZhUkZYOEh6emJxc3RSb0tsal9YOTdIZ3BtMFo3clNyS3d5U0pTaEdWM2lJeHhEQnl5UWlRZlhjR211RzY4YUctOW8waWJ30gF3QVVfeXFMTWh0VlhES2p3cGtpeWxfdzBpeEtLSDczOFQzbUJ6eU9IazMzU0N0elVzVmFSRlg4SHp6YnFzdFJvS2xqX1g5N0hncG0wWjdyU3JLd3lTSlNoR1YzaUl4eERCeXlRaVFmWGNHbXVHNjhhRy05bzBpYnc?oc=5",
-          "source": "스트레이트뉴스",
-          "sourceInitial": "스트",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-01T01:49:30.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aQ1JtZlZORFQ1NURjUUlNdmtZTE4wYno3OFJoajRnc29fSXZDcjlUZUpOSEs0S25RdERJMm9OazU4aTJNdkRJT1NCckVrZkJPUmVqVUc4ZUo3NHhubTNvVVFrbzBIdw?oc=5",
+          "source": "이로운넷",
+          "sourceInitial": "이로",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-01T08:41:03.000Z",
           "tags": [],
           "price": null,
           "feat": true
@@ -367,18 +370,6 @@
           "sourceInitial": "식품",
           "sourceColor": "#8a5cc4",
           "publishedAt": "2026-10-31T09:54:43.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "고속도로 휴게소 8곳 직계약…2000원 커피·1+1 행사 도입",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oRmlWSUlFTEVHTmxrOHh1dkJWNV91ekJPNHhmaW9nZlFJVkZCMFViWThrUHR3U0k0ZmNFWWJjc01FOU9nSFpwMFVNVGdqcjFEdlk3S0tpMVdGYlZlSTVDNWRhMVUwd19HazNN?oc=5",
-          "source": "https://www.diarypoint.com/",
-          "sourceInitial": "ht",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-10-31T00:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
