@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:13:56.034Z",
+  "generatedAt": "2026-11-01T23:46:11.195Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
-        {
-          "title": "\"배움을 매장으로\"…부산 프랜차이즈 사관학교 11기 26명 수료",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtZl9RTi1uUUp0TUNRSHNpOGJZdzJlcU9Ja3FDU1ZwTHJoOElZbFpVQ1dZNlNOX1NxLUdmNjFqRUVxQi03RGpTemd6SExrY3N6RlZCUmVxdG9LWkNp?oc=5",
-          "source": "선데이뉴스신문",
-          "sourceInitial": "선데",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-01T04:27:34.000Z",
-          "tags": [
-            "프랜차이즈",
-            "매장"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[ 2026년 11월 2일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -40,12 +25,12 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-01T14:35:21.000Z",
+          "publishedAt": "2026-11-01T20:35:21.000Z",
           "tags": [
             "프랜차이즈"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "프랜차이즈 경영자 교육 어디서 받을까…연세대 CEO 과정 49기 모집 : 네이버 블로그",
@@ -64,11 +49,11 @@
         {
           "title": "2026 마이프차 프랜차이즈 박람회, 2027년 트렌드 반영 콘텐츠 선보여",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ybjc2Tmx1MXRGZUttS0tEQTQ2VjVMYmI4cjRETWdmUWllWEd4WUtmVWJVZTRsamI0Znltb1pfMEZ0ejVRb0ZNckR1azdfUzhCQjd0ZFp3WEs5WG14akV3VERZa9IBZ0FVX3lxTE1faUY3WE51dW02VFZ2VDFHdGhZOWlqNnVVTTZHeTVpR0pDRWhpN3FDWUxTWXNfX2VnNWlvcy1CZUYtQVN2TkM3Ty1uRTZ4Ukd1bUxJNDFnV2VDRXYzUVdyQ01YNTZLaXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1faUY3WE51dW02VFZ2VDFHdGhZOWlqNnVVTTZHeTVpR0pDRWhpN3FDWUxTWXNfX2VnNWlvcy1CZUYtQVN2TkM3Ty1uRTZ4Ukd1bUxJNDFnV2VDRXYzUVdyQ01YNTZLaXfSAWdBVV95cUxNX2lGN1hOdXVtNlRWdlQxR3RoWTlpajZ1VU02R3k1aUdKQ0VoaTdxQ1lMU1lzX19lZzVpb3MtQmVGLUFTdk5DN08tbkU2eFJHdW1MSTQxZ1dlQ0V2M1FXckNNWDU2S2l3?oc=5",
           "source": "ABC뉴스",
           "sourceInitial": "AB",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-30T23:55:00.000Z",
+          "publishedAt": "2026-10-31T00:22:32.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -124,6 +109,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "“수출 50% 급증·커피 계약 50억”... 대구, ‘K-푸드·글로벌 커피’ 허브로 우뚝",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NzBvaXhuUlR4UVpjejA2aXZLRnBxam9KVVVmRE9lakdwbk4ybEN5Z2NwQndrc215cmo0ODBQNTktSkM1cXYydTRTdVdPMmR3VHh5Q1ZXVzZ1eTAtNEpUN0hpNFNwR193cEE?oc=5",
+          "source": "뷰티경제",
+          "sourceInitial": "뷰티",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-01T02:29:17.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -136,7 +133,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 17,
       "items": [
         {
           "title": "이숲(esoop), 이커머스 M&A 가치평가 가이드 공개…쇼핑몰 매각 가격 산정부터 인수 협상까지",
@@ -151,20 +148,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "오늘 11월 1일 농산물 가격: 커피 가격은 kg당 86,900동에 거래됩니다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ3BVRTlGZ2FRN3pjWjI3cTlLMTY5TzNOZW1zamJMQ3hUSDZodGRsOXJqWnIyaU1UVTllTHExVEtJSjBMWVRTS3VvMWUxbEJEb2JMVFdmUnc3LUpKN1h1UzlkVUh3Z3hpZS0yX0FvWHhtYmhnd2VHcXdjdUhIYTd1UklHaVA4Q1FzVEJUb3Z2UzNrU0xrejBNUVJkYVVESGQyRU9ZQXExQTlDVFpkWEkyOUFR?oc=5",
-          "source": "Laodong.vn",
-          "sourceInitial": "La",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-01T10:49:01.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "일본 정부는 연료 가격 보조를 위해 73억 달러를 추가로 지출하기로 결정했습니다.",
@@ -237,13 +220,25 @@
           "feat": false
         },
         {
-          "title": "카르복시메틸 셀룰로오스(CMC) 시장 2035년 전망: 석유·가스 및 식품 수요가 성장 견인 - 뉴스 및 통계",
+          "title": "[손기호의 일본탐방] 1년도 안 됐는데 월세 인상 통보…오사카서 겪는 엔저·고물가",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZXZDZlZ3akVvdEduYWpTQ1pVQmNHQ0FJTDY0cjR6cTl2S2dpTlJXeHRlZ2JyUk9mS1VHQXFGWUtVaWRuYmVVbnlwZnZibXdCWG0yT05DMkxUUlJXY2NkMkhDM0tHMzh2Y25IRjczaTU3YXc3SzZQQklsdlN0NERiS2E1VGJsMG9tTTFmVFU4T3FfS28tUXEzNTRZMGxjck9wUjNiV1JlWFlCNGYtVGVtdjZJMTlDaGtDQmU3YmZhUDhVeWtOWjV6cFpWT3NDNEMtZGNxYQ?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-01T13:01:04.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zMWtxeEdrcWZ3ZFJNOVlEaHVTMUJHOERLcEtQMVVDUTk4cWJpbEFaV0xpbVRjREVWNDhNd05sVlJXWmhhaVFWZU9tZkxfX1plYzJybG8xbUU?oc=5",
+          "source": "뷰어스",
+          "sourceInitial": "뷰어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-01T23:40:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "\"중국산 김치 없으면 한국 식당 안 돌아가\"…싼 맛에 진 '김치 종주국'의 굴욕[C쇼크, 벼랑 끝 K산업｜식품]②",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tdDBPa21oSURza2ZKa05rT21KazBwT29nM2hVeHdpS21BSlZWVFBCY1FCTTVBSjZTaHpNMEEzYVpkaDZGazg4RGZ2VjF1LXJFT1o3dEd1U3BiT3UzY1ZyUA?oc=5",
+          "source": "아시아경제",
+          "sourceInitial": "아",
+          "sourceColor": "#3a7a3a",
+          "publishedAt": "2026-11-01T23:13:03.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -262,13 +257,13 @@
       "total": 2,
       "items": [
         {
-          "title": "경기도, 지난해 도내 학교 95%에 친환경 급식 공급…803억 원 투입",
+          "title": "[한미 FTA 20년-K푸드 해외진출]① 美 최고급 유기농 마트 뚫은 김치… 수출 2억弗 시대 온다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16aDZ1UnZnSkI0QmxITXZJZUEySDZnMkZ3ZWx3QzRSVk43Y2t3VlV0b2pxZlAzZFdDa3VDa2otMWFzV2c3RDNBcnlZbkl1VGR3eENORDZCdmtjLVlvbW5icmpVUFlyQ2xPTENRT9IBa0FVX3lxTE5yNHY3N2JBVFRMSkd2T3BwTEI0Yi05SEZObmZwZGtmNVZCMzZBOVlEOFBwbDYyZ0VveW5KZ0tjV0ZwWGZZb3FGTk9DLVhZcmFQcEg4ODhoT2JFSTRMcXVNNm55UmJfNER3MXp3?oc=5",
-          "source": "더팩트",
-          "sourceInitial": "더팩",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-01T01:29:26.000Z",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXl3cExQSUFhZ0xfZTc0YjM3Znh4YUl3MHNFZ2lLNUN0bW5zTFdMZ3F5Q05jZzRQWDc5WmNNdnhQRGNWVlZCRzdfVjhtLWpHbWhPa3BlcWJzRDN2WDdiMEkyQVBucFNtdHJKUGdBLXVhQjJkUnVIek9ySkZyUFhZa2Qxa0lNbXlYVkxzY2FmcXhBZEh0eVBHUnZR0gGaAUFVX3lxTE1leXdwTFBJQWFnTF9lNzRiMzdmeHhhSXcwc0VnaUs1Q3RtbnNMV0xncXlDTmNnNFBYNzlaY012eFBEY1ZWVkJHN19WOG0takdtaE9rcGVxYnNEM3ZYN2IwSTJBUG5wU210ckpQZ0EtdWFCMmRSdUh6T3JKRnJQWFlrZDFrSU1teVhWTHNjYWZxeEFkSHR5UEdSdlE?oc=5",
+          "source": "Chosunbiz",
+          "sourceInitial": "Ch",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-01T21:03:15.000Z",
           "tags": [],
           "price": null,
           "feat": true
@@ -296,7 +291,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "13년 만에 '물가 2%' 닿은 일본은행…금리는 1.25% 동결, \"달성 선언은 없다\"",
@@ -311,18 +306,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "서울 하나로마트 18곳서 김장 농산물 할인…6개 품목 최대 반값",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yVDNyVFduamtnOGVGRjNwLXVLbGFvU0NlR3JxT0xHOTBxQ1ZoSG01NHFlVW44NWtBU3dBWTRJV2tUZTJVc0M4WEp3?oc=5",
-          "source": "미디어이슈",
-          "sourceInitial": "미디",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-01T02:34:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         },
         {
           "title": "서울시, 김장 재료 6종 반값 할인⋯하나로마트 18개 지점에서 구매 가능",
@@ -347,8 +330,22 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 7,
       "items": [
+        {
+          "title": "[FI 창간9주년 특집Ⅱ-2027소비트렌드 전망] ④ 정직하고 믿을 수 있게｜식품의 신뢰, 말보다 근거가 중요",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZjFycEtxVGRwSEhlUWQ1UVVHaHhUcjVhTGlMX2tnTHYtdG1lLU9URFdFbTdwVnoxcFFmWGRkbkpqazFwQXEzQjhIZ1dkeGtxZHVrb1NtaTBJVHJtdlB3WTYtbDluMkc5cTV3Tg?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-01T21:00:00.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "4만 1천 명 방문·수출상담 50% 급증… 대구음식산업박람회·커피페스타 성료",
           "summary": "",
@@ -359,7 +356,19 @@
           "publishedAt": "2026-11-01T08:41:03.000Z",
           "tags": [],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "포항 농축수산가공품 110만 달러 수출 잭팟”… 해외 바이어 초청 상담회 ‘성료’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1odFZYREtqd3BraXlsX3cwaXhLS0g3MzhUM21CenlPSGszM1NDdHpVc1ZhUkZYOEh6emJxc3RSb0tsal9YOTdIZ3BtMFo3clNyS3d5U0pTaEdWM2lJeHhEQnl5UWlRZlhjR211RzY4YUctOW8waWJ30gF3QVVfeXFMTWh0VlhES2p3cGtpeWxfdzBpeEtLSDczOFQzbUJ6eU9IazMzU0N0elVzVmFSRlg4SHp6YnFzdFJvS2xqX1g5N0hncG0wWjdyU3JLd3lTSlNoR1YzaUl4eERCeXlRaVFmWGNHbXVHNjhhRy05bzBpYnc?oc=5",
+          "source": "스트레이트뉴스",
+          "sourceInitial": "스트",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-01T01:49:30.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "식품업계, ‘HQ’ 겨냥한 체험 캠페인 봇물... 저당·저작활동까지",
@@ -369,6 +378,18 @@
           "sourceInitial": "센트",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-11-01T00:14:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "대구, 역대 최대 4.1만명 몰린 음식·커피 축제… 542만 달러 수출 상담 성과",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZVhzTDN2cTE4R3c2NmpuX0dCakFJaEV3ajVqTzNlQjlqOGRYd01CZzdXUzh0dUg0THNxd0Z6NEF3Sy1RckN5OUp3eUNvMDBPQkJQVGRUaGd6eFRp?oc=5",
+          "source": "피디언뉴스",
+          "sourceInitial": "피디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-01T00:11:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -386,13 +407,13 @@
           "feat": false
         },
         {
-          "title": "면사랑 ‘반생면 4종’‧동서식품 ‘오레오오즈 마시멜로 파티’ 외 [나왔다 신상]",
+          "title": "고속도로 휴게소 8곳 직계약…2000원 커피·1+1 행사 도입",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdldJd285bHBnX2dHUmJNMTJrTFlKVHFWTlJGakFUTnFjdnFBTFdwV3VDVVBNZk5KNGZwcUxjVmVnSHhzaUZ2VWxxRGFBWXJybzE1aw?oc=5",
-          "source": "이투데이",
-          "sourceInitial": "이투",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-10-30T20:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oRmlWSUlFTEVHTmxrOHh1dkJWNV91ekJPNHhmaW9nZlFJVkZCMFViWThrUHR3U0k0ZmNFWWJjc01FOU9nSFpwMFVNVGdqcjFEdlk3S0tpMVdGYlZlSTVDNWRhMVUwd19HazNN?oc=5",
+          "source": "https://www.diarypoint.com/",
+          "sourceInitial": "ht",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-10-31T00:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
