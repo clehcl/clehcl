@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:05:28.479Z",
+  "generatedAt": "2026-11-04T06:51:57.799Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,38 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 17,
       "items": [
+        {
+          "title": "20년 외식 브랜드 국수나무, ‘2026 대한민국 외식대상’ 수상… 프랜차이즈 창업 모델 다변화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWkRiclJvLWg0eEFGTU0zbERNRHptT3gtcVBXWTR0Ymw4MjZjbklKNXNwMS03M1ZxaXZ2TUhhRmNYb08zTzQydlBsUWRFZFc0UDdFanBB?oc=5",
+          "source": "피앤피뉴스",
+          "sourceInitial": "피앤",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-04T04:42:25.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "명륜진사갈비, 쿠팡이츠 배달 매장 확대…1인 메뉴부터 세트까지 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWE8yYmJUTE1iV3FUS1Y3VVpNWnpfM25ySjJJQnJiS1NLTktPbVRoWUFSakZaWDVVNEVSVmZtVEVLeGp4cE9XaGJGVnd0XzAzZS1oSk4wVHlXa2g0M0FiSUZ2UEpzVHZTelRTQU1kcmZzdHhiQTdxb3BvUkI4UDRVVEhuMVJKcnRHZWhxcW9R?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-02T07:55:36.000Z",
+          "tags": [
+            "매장",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "뭉텅, 서울시 ‘2026 서울형 상생 프랜차이즈’ 선정···가맹점 상생 경영 강화",
           "summary": "",
@@ -31,19 +61,46 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
-          "title": "명륜진사갈비, 쿠팡이츠 배달 매장 확대…1인 메뉴부터 세트까지 : 네이버 블로그",
+          "title": "애플꼬마김밥, 제천점 오픈…전국 가맹점 149곳으로 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWE8yYmJUTE1iV3FUS1Y3VVpNWnpfM25ySjJJQnJiS1NLTktPbVRoWUFSakZaWDVVNEVSVmZtVEVLeGp4cE9XaGJGVnd0XzAzZS1oSk4wVHlXa2g0M0FiSUZ2UEpzVHZTelRTQU1kcmZzdHhiQTdxb3BvUkI4UDRVVEhuMVJKcnRHZWhxcW9R?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-02T01:55:36.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KOUl1SmdadkpBUWQ0UXVJM0lRd3lBZG1OdEZPdks3Wk9wYTctTWV3VGR5S2xGV0pYYk5vMEdQTWUtQWtZSVQwRnBsQ3V6NDV3VmtISk01Nnd2Sy1kelgyeHFIN1lrbTFzeC00?oc=5",
+          "source": "내외경제TV",
+          "sourceInitial": "내외",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-04T02:41:44.000Z",
           "tags": [
-            "매장",
-            "메뉴"
+            "가맹"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[프랜차이즈 Pick] 앱 회원 관리·외국인 체험 프로그램 운영",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1OXM4SnFwVHdZV0VEak9WSURaSGF0N3VGTkxUMmJXWFpiU0I4QUhsV1FfaVEyRTdkWUlPUzJDbVFLUmU3VGtjNk1vMDlicjIwZTFGeEpMV2tPU25FbGQtTTNpLTlxQUE3VkRB?oc=5",
+          "source": "라이센스뉴스",
+          "sourceInitial": "라이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-04T01:26:51.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "프랜차이즈산업협회, K-프랜차이즈 포럼…AI·세계경제 변화 속 생존 전략 제시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSWVZRcUt0SEVGbDNodXBXby04Z0tsUERsZjhmZGdzODBhMTZKSXFqSUNDbmt6cUVHeGgtWXBZWjJJTmEyeXA4ZkI1ZmkwbURsc205aHNwejlrMDdfUHRaX2tQbVBvdjVoeXByNmZ3?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-04T01:17:09.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -51,7 +108,7 @@
         {
           "title": "프랜차이즈산업협회, AI·세계경제 격변 대응 전략 모색",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByTUV5VlBFUWhONHQzY3JlMEZFVndlYnNwWU9EdTZQc1dFdHNFVTBJa2NrV2EwRkQ5d1Q4ZFYxZU1XZnFpYUFEVlNFSU1STWp4U2NnbkVLU1NuelVra1lTazNERDlNNXJQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yWm5EZTJIZl9PUmJSM0hOTHRnLWZ2WDB2ZFBFSHpXUy13QkFoNmpTUlp0aE9ma0FFRlhycndfZzdYTGNOc3l1LVlTV3NZdEVsaGlLNlh3aW54SllrZm1DdUs0WGpvUQ?oc=5",
           "source": "푸드투데이",
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
@@ -75,62 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 11월 4일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHYza2FndkQzcGo5VWhaS2Q1OHlJanZNYU81RlNPcWFmRk5NUG9jT0F2NmQ5ZHV4V1QyM1Nuc1VSQnhiMWFyMXlvRzJQaG94Z0dSM3dDZ1Q4Zld4Rko2ZERoYk4td3QxdGVCMzJvUlJoemZUeEJyRlJHaTlwd01LTEFUZWJPaGFwc2lVY3lB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-03T16:56:43.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2026년 10월 프랜차이즈 정보공개서 신규등록 125개 브랜드 공개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41M3gwamo2djc0d2wwRFdVZkFEa1pHR2NnazAtdERBYUp3TF96WE45Z0VCUkd3NnlrZjZOX29uVUZQUmR4NUlsSHpUXzhkUDZiVlJYb0FqR0ZjN2FjWm1oam92akNwZHdzSmg2RGxuQnM?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-03T08:10:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "K-외식, 필리핀 공략 가속…치킨부터 저가커피까지 진출 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1namFOdTN0ckNPc1FWMzNLbkdEWHNmN01US3A5aGpUTnBZWWtvNUdhWGw3MmlBdnIwQVQwb3BjTVVFcGNsRTl1WldwcW9JNGtCWnZQMDl4VE9LY21HckV3VzU2MkEycHh6SWhUbE92dHTSAXRBVV95cUxOLXVvQjJCT3JNaWdSaW92QVhpZGRhODhNVnN2Skl0UUYxczhUdk03TVVydFZsbk43SXptSm1tVG9WR3BGTDI2MThxZXNKQTUyM2hKNHlYYXFDWWhUMFVSclY5Q01lVWZkZ3dmelRRdXNVel9keA?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-03T06:18:36.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 11월 3일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjE1TmFIaGtQOUJhZlNFWTU2NkhIenh1UVNJSVB4UUJqVjhOSm9oMkh6QTRWSVVfSGJvS2MxTHNnMl9qRnhudTJZLTNFNWRHQnc3dGNpSTYxdkpsdThQdG9BSnRtenNoZnBJalg5N0RHUlpFUkVoUFhBVDdqaWUyTGoyMXhMdG9kLTg2ZHJR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-02T11:25:32.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -146,13 +147,13 @@
       "total": 22,
       "items": [
         {
-          "title": "물가 상승률 2.8%로 낮아졌지만…장바구니 가격은 ‘고공행진’ [Pick코노미]",
+          "title": "가공식품 26개 중 24개 가격↑…수입 식재료비 부담도 영향",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV3o2RlhuX2ZzQ1VnMnJOMTRFSmxId054NGRZOEVsalMtTFVPRnVlWHF2bV8taVJEZ0dDd2RCM05fNnQtOThlYnRNMTRXX01TV3BB0gFTQVVfeXFMT0pXejZGWG5fZnNDVWcyck4xNEVKbEh3Tng0ZFk4RWxqUy1MVU9GdWVYcXZtXy1pUkRnR0N3ZEIzTl82dC05OGVidE0xNFdfTVNXcEE?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-03T21:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHZ2tTeGVuM24wS05mOUU5Y3M5Y1pnRHFxeFpVcFY4MmprNVo4VTBMQUxuWFNCYU81YlJFUmVOdlVYeFlDOGdtSzdmTlpKbmhESDlaZ1JmdWhQTGNOY3pUNmtMYnZjLWhKUlo4?oc=5",
+          "source": "한강타임즈",
+          "sourceInitial": "한강",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-04T06:22:14.000Z",
           "tags": [
             "가격"
           ],
@@ -160,13 +161,13 @@
           "feat": true
         },
         {
-          "title": "석유류·가공식품 가격 상승에 10월 소비자물가 2.8% 올라",
+          "title": "물가 상승률 2.8%로 낮아졌지만…장바구니 가격은 ‘고공행진’ [Pick코노미]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWVDZidHdsbF9fRkVodkNnQnZ4Szh6dTFUMU9MbjZkaTg5RER5aTJETXlKWXdBZU5QSVlDYzdPT29EV2tGd1llXzhUTzhqdTFPb3BRTjlwcWVKM2Jj?oc=5",
-          "source": "부산파이낸셜뉴스",
-          "sourceInitial": "부산",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-03T09:29:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV3o2RlhuX2ZzQ1VnMnJOMTRFSmxId054NGRZOEVsalMtTFVPRnVlWHF2bV8taVJEZ0dDd2RCM05fNnQtOThlYnRNMTRXX01TV3BB0gFTQVVfeXFMT0pXejZGWG5fZnNDVWcyck4xNEVKbEh3Tng0ZFk4RWxqUy1MVU9GdWVYcXZtXy1pUkRnR0N3ZEIzTl82dC05OGVidE0xNFdfTVNXcEE?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-03T21:00:00.000Z",
           "tags": [
             "가격"
           ],
@@ -188,13 +189,13 @@
           "feat": false
         },
         {
-          "title": "농산물 하락에 10월 물가 2.8%…\"최고가격제로 0.8%p 낮춰\"(종합)",
+          "title": "10월 우크라이나에서 주요 식품 여러 품목 가격 하락 – 농업부",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxRWpicWhydVlPWS1JcDl1aVdFS0hxclpMcERraUVabk9aNWl5dFU3LUVuTE9ROE1wRVlwdW41bUVubk5WVXZEV21lVXROSFhGRFlUOXNJYlB2VG1rbXlYTllxcENnUWVfUUhvUVhSd3ZXbmVXY2RFMNIBeEFVX3lxTFBxRWpicWhydVlPWS1JcDl1aVdFS0hxclpMcERraUVabk9aNWl5dFU3LUVuTE9ROE1wRVlwdW41bUVubk5WVXZEV21lVXROSFhGRFlUOXNJYlB2VG1rbXlYTllxcENnUWVfUUhvUVhSd3ZXbmVXY2RFMA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-03T00:35:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYV92T0R2cllqcmRJZ3lQWGRPUWY2dktLbENjU251cml2R0pGU0ozcElNS09RTTdUZUNuUW1rUkpmd3QtZUtjTnVvVlhCWFZRek1BS29zZEc4ZlFMbkRhbkYwMHJIRWZsSFQ0ZTE0My1zMkU0ZUdFcTh4a0RMdUZabHVsRWJlRUpvc0dLcmJuYnE5a0lBU1hqdlhkVTNvVGdkUmJ4cHpR?oc=5",
+          "source": "Mezha.net",
+          "sourceInitial": "Me",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-03T02:50:00.000Z",
           "tags": [
             "가격"
           ],
@@ -202,13 +203,13 @@
           "feat": false
         },
         {
-          "title": "1,000원 중국산 빵의 공습…싼 가격 뒤에 가려진 원산지와 식품첨가물 논란",
+          "title": "농산물 하락에 10월 물가 2.8%…\"최고가격제로 0.8%p 낮춰\"(종합)",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1MOVAzV1B3b2d2aS1ZZThNbF9IWHBvVFdiWnRITjlfODg5T0tUMWRXZm94U1Budm1YbXFEYVdBWjU?oc=5",
-          "source": "문화예술의전당",
-          "sourceInitial": "문화",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-02T17:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxRWpicWhydVlPWS1JcDl1aVdFS0hxclpMcERraUVabk9aNWl5dFU3LUVuTE9ROE1wRVlwdW41bUVubk5WVXZEV21lVXROSFhGRFlUOXNJYlB2VG1rbXlYTllxcENnUWVfUUhvUVhSd3ZXbmVXY2RFMNIBeEFVX3lxTFBxRWpicWhydVlPWS1JcDl1aVdFS0hxclpMcERraUVabk9aNWl5dFU3LUVuTE9ROE1wRVlwdW41bUVubk5WVXZEV21lVXROSFhGRFlUOXNJYlB2VG1rbXlYTllxcENnUWVfUUhvUVhSd3ZXbmVXY2RFMA?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-03T00:35:45.000Z",
           "tags": [
             "가격"
           ],
@@ -230,16 +231,14 @@
           "feat": false
         },
         {
-          "title": "최대 반값! 김장재료 6종 저렴하게! '농산물 착한가격 프로젝트'",
+          "title": "10월 소비자물가 2.8% 상승…채소·과일 내렸지만 가공식품·외식 오름폭 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wTUE3R2FFakRBM1dsMTJENEl4dDJDS0hZV05Oa21sZUphOE05cERqQVZQVkFXelh4eGRzU1N6MWMzTnBJYjV2Y0o0NzhoMFgwNV9GY1VDRks?oc=5",
-          "source": "서울특별시",
-          "sourceInitial": "서울",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02aFQweTRhUkExUXN4UFNkRnU0WGprS3R3dFVJZGVhMlY0MVZfc2tUSFFmY3pfYW5FTXF1bFlOand0Q0xCd3FJVkxVb0VSOFh4Vmpv?oc=5",
+          "source": "산업종합저널",
+          "sourceInitial": "산업",
           "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-02T05:09:30.000Z",
-          "tags": [
-            "가격"
-          ],
+          "publishedAt": "2026-11-04T02:29:40.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -266,7 +265,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 7,
       "items": [
         {
           "title": "[유통·식품 맞수④] 같은 뿌리 다른 길 GS리테일·아워홈···한화 편입 후 달라진 사업 구도",
@@ -299,7 +298,7 @@
         {
           "title": "현대그린푸드, 3분기 영업익 448억원…급식, 유통 등 고루 성장",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yT0NnUHJ0Z1VOd3lpamV5U3ppamlzQkJYNzg4LU9uVWpEUTFVYjg5ODNmLVdxUkQ0LUZHcWlRWWIwUGpHNVhoVFJLbDNOUUlHdHlB0gFYQVVfeXFMTnVScVBwUkVYRE80djdHS0k2d3cyY3dhbTl3QXpDcmlEaUx3VTljanRvOVNKU0JsdVVJWVZaeElEN3pGcDcxZDJYUG1OUXp2LXpCNnY2TDNzbA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51UnFQcFJFWERPNHY3R0tJNnd3MmN3YW05d0F6Q3JpRGlMd1U5Y2p0bzlTSlNCbHVVSVlWWnhJRDd6RnA3MWQyWFBtTlF6di16QjZ2Nkwzc2zSAVhBVV95cUxOdVJxUHBSRVhETzR2N0dLSTZ3dzJjd2FtOXdBekNyaURpTHdVOWNqdG85U0pTQmx1VUlZVlp4SUQ3ekZwNzFkMlhQbU5RenYtekI2djZMM3Ns?oc=5",
           "source": "SBS Biz",
           "sourceInitial": "SB",
           "sourceColor": "#3a6ea5",
@@ -351,23 +350,11 @@
         {
           "title": "현대그린푸드, 3분기 영업이익 전년比 0.7%↑…외식사업 힘준다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51TnNCUGNybGZpNUNQR1hYYlBLSEhZdV9yY0JZcEFVd2NOUElLUUYtZHNRbHFvZ0VJOUwtTllqM2hoaUNmLTR6Z0k2NlA2ZU04T0dz0gFTQVVfeXFMTnVOc0JQY3JsZmk1Q1BHWFhiUEtISFl1X3JjQllwQVV3Y05QSUtRRi1kc1FscW9nRUk5TC1OWWozaGhpQ2YtNHpnSTY2UDZlTThPR3M?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81RUJPOUFwak5sb0p4TVZWYmtZMmk0M29DcVpBNFIxak1FUWtQWTRKVmxKTC0zQi0yQjJvYWp1MWhqb1FUbjlzdlN4Y0VaQTNrSk1JNWN5azhHREszSDlTN1Z1Wml6Z9IBU0FVX3lxTE51TnNCUGNybGZpNUNQR1hYYlBLSEhZdV9yY0JZcEFVd2NOUElLUUYtZHNRbHFvZ0VJOUwtTllqM2hoaUNmLTR6Z0k2NlA2ZU04T0dz?oc=5",
           "source": "서울경제",
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-11-03T08:39:27.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "우유자조금, 내년 예산 127억 편성… '어르신 우유 급식' 공공정책화 나선다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBabHVhWkRoWHBwTzQzMGNMZXA4UG9jRzI2ZldBamZrWnA4WlNRRkMyMTZVY2hZeUV1bnRndnI2UTd1SUpfV2h1clV6Q0JzbEtVSHhTV293TUNCWjdhc2w4TWlsWkM3OWE0UHJxdA?oc=5",
-          "source": "전업농신문",
-          "sourceInitial": "전업",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-02T02:35:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -383,16 +370,16 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
           "title": "정부, 장바구니 물가 잡기 총력전…김장비용 640억 지원·농수산물 최대 50% 할인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pREdKZUdkTEE1MFlKNjNNN0t2T2dOeXhCc0N1Y0F0bnNzRkJKYzZGOGhvczVlMXJUSUJqQWxiNkNxUURuRzlmY253NF9vcW0ySWIyOTdDQzlNS1hxbmhiZHl5WWNzRHFSYWxF0gFuQVVfeXFMUHdnN1NzQVMwVjlkRGp0RG9RRmxWZ0hmTUtpdjdfVzJZREtRSEJXLXZxLXVZMTNwamlBYXJEQ09qT3c5TU9EemQyYktqenl1WEdjdkNoRV9wcFJUNDl1N1pWVjBYRUZmN3hVU21sdEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ZzdTc0FTMFY5ZERqdERvUUZsVmdIZk1LaXY3X1cyWURLUUhCVy12cS11WTEzcGppQWFyRENPak93OU1PRHpkMmJLanp5dVhHY3ZDaEVfcHBSVDQ5dTdaVlYwWEVGZjd4VVNtbHRB0gFuQVVfeXFMUHdnN1NzQVMwVjlkRGp0RG9RRmxWZ0hmTUtpdjdfVzJZREtRSEJXLXZxLXVZMTNwamlBYXJEQ09qT3c5TU9EemQyYktqenl1WEdjdkNoRV9wcFJUNDl1N1pWVjBYRUZmN3hVU21sdEE?oc=5",
           "source": "제주뉴스",
           "sourceInitial": "제주",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-03T14:48:23.000Z",
+          "publishedAt": "2026-11-03T14:56:33.000Z",
           "tags": [
             "물가",
             "정부"
@@ -433,7 +420,7 @@
         {
           "title": "정부 \"최고가격제가 10월 물가상승률 0.8%p 완화\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSFNEX0JseTZmUGJnVEFFRHQwanhId01rWG5zQmlzTm5TYTQ0X0ZZVnNDYXBsVnpRS3JxTkVSSDhTNWtaVm9aQXlWRUtwQWlGYWYxaWJHbEJIaU91ZVRKNdIBeEFVX3lxTFBOTlNmYS1uaUZGelRHT0ZMQzV5WEUxZnBZVXBycDVuQmY1U0ZYOUxsU19iR2FoTlhvN3B5cGdOUmhqTlJXcUxiMHgya3hIWGtoN1dzcV8zNXlvSkV5TGR0ZTRxY3NPbTFDRW54Yi1ZellmaURMeFotNQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOTlNmYS1uaUZGelRHT0ZMQzV5WEUxZnBZVXBycDVuQmY1U0ZYOUxsU19iR2FoTlhvN3B5cGdOUmhqTlJXcUxiMHgya3hIWGtoN1dzcV8zNXlvSkV5TGR0ZTRxY3NPbTFDRW54Yi1ZellmaURMeFotNdIBeEFVX3lxTFBOTlNmYS1uaUZGelRHT0ZMQzV5WEUxZnBZVXBycDVuQmY1U0ZYOUxsU19iR2FoTlhvN3B5cGdOUmhqTlJXcUxiMHgya3hIWGtoN1dzcV8zNXlvSkV5TGR0ZTRxY3NPbTFDRW54Yi1ZellmaURMeFotNQ?oc=5",
           "source": "뉴시스",
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
@@ -446,27 +433,27 @@
           "feat": false
         },
         {
-          "title": "또 2% 후반대 물가 상승...재정경제부 \"김장 대책에 440억 투입\" [자막뉴스]",
+          "title": "“한 달 새 배추가격 65% 폭락, 정부는 선제 시장격리 나서라”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15cmUtdDBrX21CNm1TWEdZeTRlV2hIeWNTbW84blZqN3REVmlsR2tUY2hwVlhtVDdLcms0dUVtdzBPeVVXNW9McWtvUUlJbTl3RS1OTWZMb2xRQzhKVDcyTmEtdzBnMzZMbENyMC16MkdjRWV1X3c?oc=5",
-          "source": "YTN",
-          "sourceInitial": "YT",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-03T02:04:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZTWNWTVRMSnN1UUFjQ3U3bktfNzdIbERPQlVQWnk0bGdiMk1CSUdMUEx6LWhsc2l0QkljTi1DM01xXzRRUjNrX2hMdVE1QUhYdTNiUVBDRXBTQXl4UFY1VEdqS0Y4ZENncXBZOQ?oc=5",
+          "source": "농수축산신문",
+          "sourceInitial": "농수",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-04T00:43:33.000Z",
           "tags": [
-            "물가"
+            "정부"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "물가 상승률 2.8%로 둔화됐지만…먹거리·기름값은 여전히 부담",
+          "title": "또 2% 후반대 물가 상승...재정경제부 \"김장 대책에 440억 투입\" [자막뉴스]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPenJCeE95QnY2d0ZFT0JHai1zT2FWOUdHLWFUSm50SXp6UFk4bTg4UUNRMDZZM2hodjdJVGhrd3FHWnI4NG5QWWU1cV81UmlCS1FKSlJSeHhBZ0llVDJ4VURnZGt6VG90QlZzYVpYTVMtb0E?oc=5",
-          "source": "코리아이글뉴스",
-          "sourceInitial": "코리",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-03T01:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96WXlxYkhvNEU3TEcxazZ0TjlmVkNnaHJZUFAxSXF3YV82cVZkd1NUbTY5dF95cVF2MG94VnFhbm1TZEphb1pxdGI4LW5FRWN3S09VZlU2NVhUWjBCR2hRQVUtUVFJdnJqWlJ6Z1Z1VFgtamFJX3c?oc=5",
+          "source": "YTN",
+          "sourceInitial": "YT",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-03T02:04:00.000Z",
           "tags": [
             "물가"
           ],
@@ -488,13 +475,13 @@
           "feat": false
         },
         {
-          "title": "김장 수요 줄고, 배추 생산 늘었다...640억원 투입해 농가·소비자 부담 던다",
+          "title": "김장 앞둔 주부들 반길 소식…재료 최대 50% 할인한다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vY0FONk1xZm1ISHp0Y2ZjY3NNT3J3M1VVbS02OGlqbVFqZVRHUUZFcHpCVm1XZ2dra1BEYUc2ckZsOTFPVGhkVmNFaUJXY0M2REtqeWNqalBCSEFwMEdwWW1wTTFISkJmZ1E?oc=5",
-          "source": "소비자경제",
-          "sourceInitial": "소비",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-03T23:46:05.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWeDlrdmZGbVBLTlNPQ21QcDhsa2pHd3pJbllLNGtZYXB2SGtUejhpZDlnek5sbGYzYmxyMXZSLTlWOHlIZDN4NEc0MHpfYUdmYkluYVNPVzhCdw?oc=5",
+          "source": "한국경제",
+          "sourceInitial": "한",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-02T23:14:53.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -510,7 +497,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 7,
+      "total": 11,
       "items": [
         {
           "title": "[식음료] 농심 구미산 밀 라면 20만 봉 한정 생산…삼립·동서식품 신제품 출시, 빙그레·교촌 가족·학생 지원",
@@ -557,49 +544,63 @@
           "feat": false
         },
         {
-          "title": "동서식품, ‘카누 오렌지 라떼’ 5일 선봬",
+          "title": "동서식품 카누, 누적 145억 잔···‘오렌지 라떼’ 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43ZldUdUNIeThsT2ROMG4tTEMyWVFwT3BMMjZWYmo0OG9DQzFteTdYTHZtTU04QWZ4V1djb3ZfZ1U5VHdUYjdsM0x3elY5TEVOZ1Z0X1ptNlhEeWZPSGxlYzd4RGc2d2xBR2RIYtIBb0FVX3lxTE5Va1FRWm5zWjVTdTc0QkVCUUJCWHJNdmRFVlg0T214aFkyR0VmNWlFbE5LcDR2VzhPcVl5a0VBTkl1TXRZekVVa0dScmNSblUwc3JXdXVhUVp3OWZFYnh6RnFveEpuWEJCZU05NFJvQQ?oc=5",
-          "source": "중앙뉴스",
-          "sourceInitial": "중앙",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-03T12:20:07.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "충남아산FC, 떡 전문 식품기업 ‘토끼밀푸드’와 협약 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yek9MaFVieVRCSF9qM0d1NXlOaXVWN2wwVFhZOGpEcU9sQ2VUdlNvZ1EtNXBybHVhSXdUWEFESFN5N0FMZFhaTEpTaWFubC1fVTc2dTJDU3dkb0hvcTZoUU5RNzRRZG5QZUE?oc=5",
-          "source": "충청매일",
-          "sourceInitial": "충청",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-03T06:00:12.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[유통24시] 오뚜기, ‘푸드위크 코리아’로 한강라면 알린다 外",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96RGhaX3hLS0RrVjJkUEhoRFdMVmRaTmhZOXE5aDMtZm9BN3diTjZkd1M2RW5BSENHM2dSdEJKM3QzWDc0ajdxczluR3l1dnVsN0hiMmJB?oc=5",
-          "source": "DealSite경제TV",
-          "sourceInitial": "De",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-03T05:00:06.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[현장] 김치·피클·파스타 만들기···양껏 퍼주는 40살 된 풀무원 김치박물관",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRGFydHBvNm1rckxkZWxLMS1ZUVZQd1F2LXF5bDhiMU5udWtVX0hLbHQyclBEcFBYaUhRbkdOWHNCTUNyOTVyY1RqNFh5Q0F2UGo0cTVsMXB0bnZMaVd2UElsbzMtclczeF9CaA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GWWRnbmVndHg3eEhCSHhSYXJaLV9TemRUQzhNNmNVM3BZSGRLcVljVWVtUHZYR0N1OEdRLVd5dzdHck01TndZREFIdkdITU14WXJJc2hsYlVzaVZvM3NrMU11dmppWDRjbFA1LQ?oc=5",
           "source": "스마트비즈",
           "sourceInitial": "스마",
           "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-02T06:51:13.000Z",
+          "publishedAt": "2026-11-03T06:08:44.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "일상이 된 식품 혁신…‘2026 푸드위크 코리아’ 7일까지",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waF9Kc2RWNy1sYWtvbVFyUEdCdk5XNnMzU0pHQjNhV2V3YUFPWEdVem42S1huQWVCOGh2LXlLd1J0TkdibTVncVM5YS0za0JjMHZUdDFB?oc=5",
+          "source": "헤럴드경제",
+          "sourceInitial": "헤",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-04T03:36:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "AI 발주·AI 기획 시대, 유통가 신입 채용 문 닫힌다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KTGNMRlUzMjg5NHJkWXRPOWpTT2hOOUVCaWt1c3lWUEdfLWx5SFFKd21TUTc3Q2RFQ2lhTy12SVVzdW5sOWEwcld3R25CZXQ1VjF2aGdZdEpjY2JKUmVDbGNCSzNwSy1xYnRn?oc=5",
+          "source": "https://www.kmjournal.net/",
+          "sourceInitial": "ht",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-04T03:16:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "이마트 피코크, 현대카드 데이터랩과 협업…을지로 맛집 메뉴 5종 공개",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDbDJkUGdCbVFobVZFRkVjc3JUOE9GRURWdlkzNmlIZXJHQ1QzVnhLd3lVcXY3UWd4OWNVaVRfdFlELUV3RGU0TndCb01RX0YyOEtLakk0UUJZbEZpR0s1NHFGbTNoM0dmeFVV?oc=5",
+          "source": "파이낸셜신문",
+          "sourceInitial": "파이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-04T01:58:01.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "OATC, 식품 시험ㆍ검사 넘어 HACCPㆍISO 인증 컨설팅 사업 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBa19DY0RsYmx6cl9CQndhRFdnSHR5cmNYenVwQ19qdzFkSFhGSnZKcGpLbndzSXJzQjJITi1OYV9qS2ZFVzh3ZkU5Vm5GYVFzNnVCNHM2WWR1NmtranFaN1gwbHJIYk45TVNQNQ?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-04T01:22:41.000Z",
           "tags": [],
           "price": null,
           "feat": false
