@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:08:30.776Z",
+  "generatedAt": "2026-11-04T21:24:56.153Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 18,
+      "total": 16,
       "items": [
         {
           "title": "오복 오봉집, ‘2026 서울형 상생 프랜차이즈’ 선정…가맹점과 동반성장 인정 : 네이버 블로그",
@@ -49,9 +49,23 @@
           "feat": false
         },
         {
+          "title": "[ 2026년 11월 5일(목) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjNEaFJpQlByTTdmZmpIVlMySDhSODFrR3Z2NGhZNUhfLXo3VmczWGcyTEcxVWdEUkZXX1kya0NtdkNPVk91Vm1vUXRtcG13QzNaS0dEeFFIZnZqeXB5Wk9aN2c0dWxvRXFOS2ZxSzE0LVl6cHJGaFhvWTR5dWpUaV9qaFNTYW5jQlJYU2Rn?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-04T16:27:30.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[2027 식품외식전망] 식품·외식산업, 소비 트렌드 변화에 대응",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE42UXgxNHVqTUFqXzZkYVlydmlRUTVqa1BSQkJFNDNwVGdtcDdLODgzbEZfaURNQThLLVBr?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBJcV9CUWRpci1pUFpjWGljOWNQWUJWWnVSa2dZSDd3NTVPanY1WDZzUDg1UWkyemNZR3ZhYkxkSFQ?oc=5",
           "source": "식약일보",
           "sourceInitial": "식약",
           "sourceColor": "#2f7d4f",
@@ -77,20 +91,6 @@
           "feat": false
         },
         {
-          "title": "애플꼬마김밥, 제천점 오픈…전국 가맹점 149곳으로 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KOUl1SmdadkpBUWQ0UXVJM0lRd3lBZG1OdEZPdks3Wk9wYTctTWV3VGR5S2xGV0pYYk5vMEdQTWUtQWtZSVQwRnBsQ3V6NDV3VmtISk01Nnd2Sy1kelgyeHFIN1lrbTFzeC00?oc=5",
-          "source": "내외경제TV",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-04T02:41:44.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[프랜차이즈 Pick] 앱 회원 관리·외국인 체험 프로그램 운영",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1OXM4SnFwVHdZV0VEak9WSURaSGF0N3VGTkxUMmJXWFpiU0I4QUhsV1FfaVEyRTdkWUlPUzJDbVFLUmU3VGtjNk1vMDlicjIwZTFGeEpMV2tPU25FbGQtTTNpLTlxQUE3VkRB?oc=5",
@@ -105,20 +105,6 @@
           "feat": false
         },
         {
-          "title": "프랜차이즈산업협회, K-프랜차이즈 포럼…AI·세계경제 변화 속 생존 전략 제시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSWVZRcUt0SEVGbDNodXBXby04Z0tsUERsZjhmZGdzODBhMTZKSXFqSUNDbmt6cUVHeGgtWXBZWjJJTmEyeXA4ZkI1ZmkwbURsc205aHNwejlrMDdfUHRaX2tQbVBvdjVoeXByNmZ3?oc=5",
-          "source": "식품저널 foodnews",
-          "sourceInitial": "식품",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-04T01:17:09.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "프랜차이즈산업협회, AI·세계경제 격변 대응 전략 모색",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yWm5EZTJIZl9PUmJSM0hOTHRnLWZ2WDB2ZFBFSHpXUy13QkFoNmpTUlp0aE9ma0FFRlhycndfZzdYTGNOc3l1LVlTV3NZdEVsaGlLNlh3aW54SllrZm1DdUs0WGpvUQ?oc=5",
@@ -126,6 +112,20 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-11-03T23:47:13.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 11월 4일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHYza2FndkQzcGo5VWhaS2Q1OHlJanZNYU81RlNPcWFmRk5NUG9jT0F2NmQ5ZHV4V1QyM1Nuc1VSQnhiMWFyMXlvRzJQaG94Z0dSM3dDZ1Q4Zld4Rko2ZERoYk4td3QxdGVCMzJvUlJoemZUeEJyRlJHaTlwd01LTEFUZWJPaGFwc2lVY3lB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-03T22:56:43.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -332,11 +332,11 @@
         {
           "title": "정부, 장바구니 물가 잡기 총력전…김장비용 640억 지원·농수산물 최대 50% 할인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95QUhqS0prQS0wMGZubUNwbE5oaTdTOXN2aXFuZ0xXczA0TGU0bmVUQ3VfZmpsZ252d24tc2FrTldjV2ZCeUFpOUF3dy02a1M4YWdCel85czRLZFpOTVU5Q0JBOUdiNDByZFHSAW5BVV95cUxQd2c3U3NBUzBWOWREanREb1FGbFZnSGZNS2l2N19XMllES1FIQlctdnEtdVkxM3BqaUFhckRDT2pPdzlNT0R6ZDJiS2p6eXVYR2N2Q2hFX3BwUlQ0OXU3WlZWMFhFRmY3eFVTbWx0QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ZzdTc0FTMFY5ZERqdERvUUZsVmdIZk1LaXY3X1cyWURLUUhCVy12cS11WTEzcGppQWFyRENPak93OU1PRHpkMmJLanp5dVhHY3ZDaEVfcHBSVDQ5dTdaVlYwWEVGZjd4VVNtbHRB0gFuQVVfeXFMUHdnN1NzQVMwVjlkRGp0RG9RRmxWZ0hmTUtpdjdfVzJZREtRSEJXLXZxLXVZMTNwamlBYXJEQ09qT3c5TU9EemQyYktqenl1WEdjdkNoRV9wcFJUNDl1N1pWVjBYRUZmN3hVU21sdEE?oc=5",
           "source": "제주뉴스",
           "sourceInitial": "제주",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-03T14:48:23.000Z",
+          "publishedAt": "2026-11-03T14:56:33.000Z",
           "tags": [
             "물가",
             "정부"
@@ -403,6 +403,20 @@
           "feat": false
         },
         {
+          "title": "배추 풍년에도 김장 수요는 감소…정부, 640억 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqMm0xVHV6eEl1YUFsSUlfWm9YR3lJV1VJNnYydzZVbFlJOVJBSFRQSzVWVUdxZkYxRUNwRVVzMzhyVVRCR2RpbDJESWlaa25RV2ZHcUdOSFNVYWJYZmlaNEJnZDVyakt5dWdkU01tbUltM3ot?oc=5",
+          "source": "파이낸셜포스트",
+          "sourceInitial": "파이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-03T00:43:33.000Z",
+          "tags": [
+            "정부"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "김장재료 최대 50% 할인…정부, 역대 최대 640억 원 투입",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQZzZKb2NLeGw3SW9ldUtyRldfM1NZcTNwZzVsNjUzaTBlRkNiSndDS1IyUkZfUkFWZDRlVlRKNmlpcTAwY2dQNHIwYzNDZHJleEM4NnJzRmV5UkdHNFVIbG90ZXM3TXJXOHNJ?oc=5",
@@ -413,18 +427,6 @@
           "tags": [
             "정부"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "김장 수요 줄고, 배추 생산 늘었다...640억원 투입해 농가·소비자 부담 던다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vY0FONk1xZm1ISHp0Y2ZjY3NNT3J3M1VVbS02OGlqbVFqZVRHUUZFcHpCVm1XZ2dra1BEYUc2ckZsOTFPVGhkVmNFaUJXY0M2REtqeWNqalBCSEFwMEdwWW1wTTFISkJmZ1E?oc=5",
-          "source": "소비자경제",
-          "sourceInitial": "소비",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-03T23:46:05.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         }
@@ -442,6 +444,21 @@
       "total": 6,
       "items": [
         {
+          "title": "[식음료] 동원산업 부산국제수산엑스포 참가…파리바게뜨·롯데웰푸드 초콜릿 신제품 출시…동원F&B 식품기술대상·삼립 디자인상…우덕윤덕병재단 유학생 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xeUlxMDFZT001bkhJNXNza0RkdHRBZ3BNTVZZUkNJUVg2YzVscGFrc3FueERBVW1nUVJBeXMxRkwxZ0MydWwwNDBuUEphMHpHYjIwOUFZbWVfVzVxYmREdnVwUmR0eEd5NFNHd3A3elpVZw?oc=5",
+          "source": "웹이코노미",
+          "sourceInitial": "웹이",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-04T21:06:19.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "[식음료] 농심 구미산 밀 라면 20만 봉 한정 생산…삼립·동서식품 신제품 출시, 빙그레·교촌 가족·학생 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82LTMxbWpGR2pndVBUVXE1THdDUDdDVlZGR2s5QzNHcV9oeXU5OEtXdmRDZGxBQjh5R0lBal9LWGRzN05DZkFKZE13VEc4bE1pM2VTbm1UNFMwN2Rodm5oQ0dtN04xVERUZ3FfOXZCelhoZw?oc=5",
@@ -454,7 +471,7 @@
             "출시"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "‘2026 푸드위크 코리아’ 개막…먹거리 넘어 기술·산업으로 확장하는 K-푸드의 미래",
@@ -464,18 +481,6 @@
           "sourceInitial": "디지",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-11-04T09:10:40.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "푸드위크 코리아 개막…47개국 963개사 참여, 유통·수출 상담 지원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92MlJRb0VJSGFpWGpBOGduQkVxVGlVVXRrSlNVNUZua3ZEQ1pEN3g1Ujk0QzBGRmRhelk1bDNScWduQVJ5MG94TFpLeWFsZ2NKWVNhQTZrZ1JOLVNWWERudGpidDlVRmtBRU9Oeg?oc=5",
-          "source": "뉴스락",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-04T08:03:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
