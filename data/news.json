@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T17:18:29.149Z",
+  "generatedAt": "2026-11-05T22:46:19.822Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -21,7 +21,7 @@
         {
           "title": "1인 가구 잡은 BBQ 가맹점주…외식산업 발전 유공 '산업포장' 수상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNXkxMTMtT29iZ3c2ejIxZGlNTUc5enhwVlFmdTk1SlhFNi1FTHhqVkpGNzhxMWNUWFJFSEROam1kY0FyQTc3TnR0ckRBRXM1NkRPWnpieTlQN25pZ3ZCaEZfb2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nQl93VEpQR2xJV3FWeTMzLWsySDZnT2ZldVhpZWFBUlhsOXI5anFLSjVaRVdQdzgzZWlMQnZrUDUtUDZxVllxZzI2a2VOVXM0cjNzQlk0QVJPNHNMSkJvOEpweDlUUQ?oc=5",
           "source": "열린뉴스통신",
           "sourceInitial": "열린",
           "sourceColor": "#333333",
@@ -66,7 +66,7 @@
         {
           "title": "20년 외식 브랜드 국수나무, ‘2026 대한민국 외식대상’ 수상… 프랜차이즈 창업 모델 다변화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWkRiclJvLWg0eEFGTU0zbERNRHptT3gtcVBXWTR0Ymw4MjZjbklKNXNwMS03M1ZxaXZ2TUhhRmNYb08zTzQydlBsUWRFZFc0UDdFanBB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02eGNEZmRPLWZ5NEJMN3NBRldjeDhSY3RsTFQ0amp2QjBzMldiSUI2NFRkRU13djVQdy0wMkRHbVZJUDk3dXVOcFlqZllYUzdCN1pIWjFXODIzdnNudmc?oc=5",
           "source": "피앤피뉴스",
           "sourceInitial": "피앤",
           "sourceColor": "#c15a37",
@@ -74,6 +74,20 @@
           "tags": [
             "프랜차이즈",
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "롯데리아, 11월 한 달간 오후 2~6시 6종 메뉴 할인 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNck9OcDZnV0N3cnFac2l3M0x5N0M5LUQ4Mkc0ZE9YMWFJM3hmc3FsdmxQeFdpdFJselF4alBfcGIzX041clVVZ1hGRGRhYVNnVWw3SHMzSE9IMEFrOXFYVWNQOGlOd0N2NHVWVXlDT3dpSUVoTFRsWkh4d0g2YkE5YTNqYnN0SlBjRzdsRkRB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-05T13:12:05.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -88,20 +102,6 @@
           "publishedAt": "2026-11-05T10:58:25.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "롯데리아, 11월 한 달간 오후 2~6시 6종 메뉴 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00ZjRYYmxSTEdJdE5JLTJWeWZ0eFhNWmNnZ0kyMHpuZkJEbzJlczhKZmJCZS1yNG1kQXdaTUQ1TWwwdU40RVRURUJ4di1TSmVPTFJjVWxUelpCWUdMalFMM0xqZW5wTHdDLWFpY2paQ0dzQk56aDNYQV9HZzdJZw?oc=5",
-          "source": "블로그",
-          "sourceInitial": "블로",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-05T07:46:52.000Z",
-          "tags": [
-            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 17,
       "items": [
         {
           "title": "“일본 13% 올렸다…삼양식품, 환율 악재 뚫어낼 ‘글로벌 가격 인상’ 카드”",
@@ -204,6 +204,20 @@
           "feat": false
         },
         {
+          "title": "삼성·SK하이닉스, HBM 가격 협상력 확인…AMD \"인상분 고객과 나눠 부담\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrRC1RRUhSMXBMcGJ6OGMxb2tfWTM1cU1ERkU2ZWlTdEVhYW1wSUFlUGFkQmlUWEZZWTVTZHFwYUV6cWF6alg2ME1fQXpLVy1PM0xkaVlkWUgtOXZl?oc=5",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-05T01:37:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "키움증권 \"GS리테일 4분기 편의점 매출 반등 전망, 가공식품 가격 인상도 성장 요인\"",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wLWQ5Rm8wd0lYazJwZ2Nfak5YazJwdDdfZlpaUlFzSGVmczlvOTJPc1J3dVg4SEN2VkpNd2NsM011c1pTck9zb2NmZkZONExjWkUtalJyeFB4SFJENEt5S1U5YTM2cmpLN2JfQjNubjRWeGc?oc=5",
@@ -244,20 +258,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "가공식품 26개 중 24개 가격↑…수입 식재료비 부담도 영향",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHZ2tTeGVuM24wS05mOUU5Y3M5Y1pnRHFxeFpVcFY4MmprNVo4VTBMQUxuWFNCYU81YlJFUmVOdlVYeFlDOGdtSzdmTlpKbmhESDlaZ1JmdWhQTGNOY3pUNmtMYnZjLWhKUlo4?oc=5",
-          "source": "한강타임즈",
-          "sourceInitial": "한강",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-04T06:22:14.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -270,8 +270,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 17,
+      "total": 20,
       "items": [
+        {
+          "title": "[SIAL PARIS] 삼성웰스토리, 글로벌 확장 잰걸음…급식·식품 유통으로 영토 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FWjFWb0s3aWczUnNFQ2JIdjYzODBTV3NKVmRfRWpFVTgwMzZUZEJWeHU2SlNGQTNHUzlGcFF5Mk51dXo4aDdJb2o4MUg1TTg?oc=5",
+          "source": "딜사이트",
+          "sourceInitial": "딜사",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-05T22:00:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "안성시, 향후 5년 먹거리계획 마련…생산·유통·돌봄 연계 강화",
           "summary": "",
@@ -284,7 +298,7 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "CJ프레시웨이, 3분기 매출 전년比 6.7%↑...온라인 식자재 유통·단체급식 성장 '견인'",
@@ -301,13 +315,13 @@
           "feat": false
         },
         {
-          "title": "CJ프레시웨이 3분기 매출 9614억 원, '온라인 유통'이 성장 견인했다 : 온라인 플랫폼 거래액 첫 1천억 원 돌파",
+          "title": "CJ프레시웨이, 3분기 온라인 매출 226.6% 급증…식봄 1135억원 돌파·B2B 유통 경쟁력 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXU051azZwUEZFMXl4Y0wwcF82RUZCcmZiR2VzMFIzbU1odDlLaG5Mc1BlSkxoeVVMVC1uY3RrMEk0aVV0Y0lJcUxybWRTdmcyV3N0b09vbw?oc=5",
-          "source": "허프포스트코리아",
-          "sourceInitial": "허프",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-05T07:22:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDUWhwV09ydGJzdk5sT19sYUZUS2FmaFpOYVJZUzhOM1VHX25VMnFWUlJwNFhtbVcyZjF2UWthWEFaV3Z4Ujl2S3kya2h3RndUTWxiNjRWSjN6QVB6bS1QbWs1MHc4OG1IOVRYbENn?oc=5",
+          "source": "업코리아",
+          "sourceInitial": "업코",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-05T08:11:27.000Z",
           "tags": [
             "유통"
           ],
@@ -369,20 +383,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ프레시웨이 3분기 영업익 29% 감소…온라인 식자재 유통은 2배 성장",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XWTNMZnRSZ0djRUFuQjE4eEpsWU9xOHlUR1FocUgyejF4amR4aXhvajBpUWxDakg4UVI1X1M4WFV5bkFlc1dsVVRBZnZtTmcwT1R5NQ?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-05T05:23:26.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -429,11 +429,11 @@
         {
           "title": "10월 소비자물가 2.8% 상승…석유류 14.9%↑ '고공행진' [1분 브리프]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFItNWliTVhtSnVmbGJybHMzVXpqQnhMTmxOTUxpSmtjaFg0b0ctVEVkVnk2UGdIZXpzQkthY0k3Rk44eTZYR3dEdnVYUXk1b0pudjVNcTY0dF90MjlMWFhVRGJpN1U2aW1ZX3c2ZWY5LXdteE9BWGVNc2pyV1ZwWEh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIb0stdk81Q0lTVjY5SkFhcGNLeXlXbUJQMVZDd0ZDQk1WeEpjSGdIYlZmU01kQ3dwbV8yQkRUSXFEdkpmUXNMTlE5OHd0OTBHZlN6aVhmcEF2QUZTd3E2YQ?oc=5",
           "source": "아시아경제",
           "sourceInitial": "아",
           "sourceColor": "#3a7a3a",
-          "publishedAt": "2026-11-03T23:18:10.000Z",
+          "publishedAt": "2026-11-03T23:00:00.000Z",
           "tags": [
             "물가"
           ],
@@ -441,16 +441,14 @@
           "feat": false
         },
         {
-          "title": "물가안정목표 넘었다…10월 소비자물가지수 120.73 기록",
+          "title": "농수산식품유통공사(aT), 수출 포럼부터 독일 진출·현대백화점 제휴까지…K-푸드 판로 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVG1aSWFHRWh5ZzdRZVlQejdxODdIVDNhbjVtZ1NMRFFBQlhrRHpCZE1tcXJhVW9uUkZLYVFkQlhMRDJXX1FFS1p1ekkzdjE3Zy04NHQtWDJuNUhZMkt4V3N5SU4yQmw2dUlvWkR3?oc=5",
-          "source": "국제뉴스",
-          "sourceInitial": "국제",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-03T17:36:21.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WNUpWSWdOTGFjMmUzSXdhZlF1dlAyQ2V3dU15bm9iNDBZN1EwR1ZqcW1yR1BScGF1Z3dRWlRjSVRzcjlTNEVJdDdmZjE5YmVZS1pvZ2I4NG9ScFBMbTlyaDlFVERnaXU5TUE?oc=5",
+          "source": "컨슈머타임스",
+          "sourceInitial": "컨슈",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-05T20:20:23.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -467,18 +465,6 @@
           "feat": false
         },
         {
-          "title": "글로벌 식품환경 변화 대응 Codex…한국, 국제 식품규격 주도국 도약",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LTGFUd2N4S2hQSXh3WkFLQzM0YXh6bmIxZThZb3ZYbDF5YzNYbWpGZUFqNzVvbTVuUW5NYVlSdzNPRjhFbVFFbHc0TGtUM2RaLWctVkdZVVlnSzF1NzJzWk50bmFnMDg?oc=5",
-          "source": "한국식품의약신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-05T07:05:47.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "김장철 농산물 6종 최대 50% 할인…서울 하나로마트 18곳서 판매",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMWdNcHBLMDFKTVBkS3ZfTlNSWlNpZnZwRWVwRUQ0MlNWUmhiUHFzUG1TWVZ2VU5SUF9KcVdXYUcyX2NFYUlqbEJuR0M1WTNOdUxIZjN4N29GNEhBYVNJMUNLblVSMUlEWFVtM2pB?oc=5",
@@ -486,6 +472,18 @@
           "sourceInitial": "뉴스",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-11-05T03:53:58.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "김장철 원산지 거짓표시 잡는다… 서울시, 12일간 김장재료 특별단속",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80TUk2XzAyTzJfY1lKMEZ3TXdVaGlZbGNST1FFd3FlTnFyUTRwTVo4ZnRIZ01ST2xmamNuOHB6eUVEelYxTVRMaGZhUXFJdVpuMjgtdGhKUXkwQUlRMV9DNnF1aEtEZVlabWdNdl9zUWU?oc=5",
+          "source": "미디어써치",
+          "sourceInitial": "미디",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-04T21:49:39.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -533,7 +531,7 @@
         {
           "title": "유한양행, 관절 건강기능식품 '콘드로이친1200 골드스틱' 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00M1htTERkcS1WbkdUbU5qaHFGeGhhTkZsdlpDSG54Y0ZhaEhkY3JiSFQ2ejVHWlV3bVRaQmZXcXNwaWhURGswVjhBeVV1OXVoS0lLRkJkbnFYUjdZbTBxUmpHTWIxWXZLa3BGazlCMkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05RVZiUjB6ZlQtWWNLSmFqQ2V0V1RmSC1iSkh3WlY1R0d0MDA5Z1ZuUWd6VXlXMmZkZG9XTW85eTk5UDZUd28zc2NRRXFoLU11Z2FFUDZfSUNad1FTRGg0UzhIQzc1NE9Rck9EUjZYOA?oc=5",
           "source": "스마트경제",
           "sourceInitial": "스마",
           "sourceColor": "#3a6ea5",
