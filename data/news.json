@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:12:40.693Z",
+  "generatedAt": "2026-11-06T11:20:12.344Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 21,
+      "total": 19,
       "items": [
         {
           "title": "1인 가구 잡은 BBQ 가맹점주…외식산업 발전 유공 '산업포장' 수상",
@@ -64,28 +64,55 @@
           "feat": false
         },
         {
-          "title": "20년 외식 브랜드 국수나무, ‘2026 대한민국 외식대상’ 수상… 프랜차이즈 창업 모델 다변화",
+          "title": "[ 2026년 11월 7일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02eGNEZmRPLWZ5NEJMN3NBRldjeDhSY3RsTFQ0amp2QjBzMldiSUI2NFRkRU13djVQdy0wMkRHbVZJUDk3dXVOcFlqZllYUzdCN1pIWjFXODIzdnNudmc?oc=5",
-          "source": "피앤피뉴스",
-          "sourceInitial": "피앤",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-04T04:42:25.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0pCUWVUNTdydkRYMEo3UUNoTE4xVElrMTVfTHJxcVRKTlVVcE9RTnQ5am1zZVdpRGl2bEVObmxuUGJsVDlIZFVBSTA4c2IzV1l0S2p5UkNQSWphS3R5ZXZKQVBJa2hKSi1PM2lOMUM4d3hZT20zaDl0SldkYy1MQWM3Tl8xTTBHT01aYmtR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-06T09:54:19.000Z",
           "tags": [
-            "프랜차이즈",
-            "외식"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "프랜차이즈 브랜드 1만3천개 시대…19년 업력 돈치킨, ‘지속가능성’ 경쟁력 주목",
+          "title": "[ESG] 치킨 팔아 번 돈, '생태계 상생'으로 갚는다… 진화하는 프랜차이즈 나눔 방정식",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6OVRiNDJVZWw4UjNBRC02MlFDY1k2S2hDVlB5QkFlZHFIQm9LT2pERnRuTjNiWjNKMno3aVpKZEtvX0NuYnhpY2RMWnhUME9xdnU2eU5yQnhWNjRJakczY0VWZGw?oc=5",
-          "source": "지이코노미",
-          "sourceInitial": "지이",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-06T01:17:20.000Z",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84dVJwcTduZW10QlRMZXBaam5GTVVuMHNzTDhMRFVWU0FIQm0wb200Q1p6QzEwSGk2NGxxR1Nybk95WWQ5UVJSZWE0dWdQNGpZdjY5Y1A4akd3VjBETGtjWHJPUVVUTFlTSmt2ZmY3VHFCMWPSAXNBVV95cUxPOHVScHE3bmVtdEJUTGVwWmpuRk1VbjBzc0w4TERVVlNBSEJtMG9tNENaekMxMEhpNjRscUdTcm5PeVlkOVFSUmVhNHVnUDRqWXY2OWNQOGpHd1YwRExrY1hyT1FVVExZU0prdmZmN1RxQjFj?oc=5",
+          "source": "가치소비뉴스 컨슈머와이드",
+          "sourceInitial": "가치",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-06T07:55:01.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "1만 3천 개 프랜차이즈 시대, 예비창업자 사로잡은 19년 업력 돈치킨",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZLV9mYkZkejQ0MDkzSG1iNW56Xzd3cXMtNW5OSUwwRElfLU9PSnRPN1dEeG1KUWZOSThrWlpJenpkRG5mS3REazFQYzZXX2lZZEs2UVBnU2xaY21UcGhhY3JtdXNrSlowRXNyMw?oc=5",
+          "source": "경상일보",
+          "sourceInitial": "경상",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-06T07:54:07.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "제86회 프랜차이즈창업박람회, 내년 2027년 1월 14~16일 코엑스 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ENVRQalRjRGdGc1FLODRURjVtMk1qRVVyUzRmRktPTXIzclRYa3FPNnFRb0tjNmJEZklPXzRtbTlZUEpJTWh2UnAzSHA0REh4N0wwaHN0VVRrd2JzeFpQUGNDY3ZOMVo4ZDZlU3h4LW8?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-06T04:10:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -105,34 +132,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[ 2026년 11월 6일(금) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXFCVjJNaF9wQnR6dWhid3BxeFhvRDNhRWttSTJvSnBiY3l6eVV1Y0VNanJkazhJUEcxamNSOFQ0UXZnQmF4VlRUTi1KZGpEN2VVaVhjLXh0Z01Nd05ucVZLTVlyN0RJUWhzUmFBQWpUbWFNS3VLUFlEb1F3RGgwTHlFelJkakdGSFZMZ1Nn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-05T16:58:25.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "롯데리아, 11월 한 달간 오후 2~6시 6종 메뉴 할인 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNck9OcDZnV0N3cnFac2l3M0x5N0M5LUQ4Mkc0ZE9YMWFJM3hmc3FsdmxQeFdpdFJselF4alBfcGIzX041clVVZ1hGRGRhYVNnVWw3SHMzSE9IMEFrOXFYVWNQOGlOd0N2NHVWVXlDT3dpSUVoTFRsWkh4d0g2YkE5YTNqYnN0SlBjRzdsRkRB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-05T13:12:05.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -145,8 +144,36 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 16,
+      "total": 24,
       "items": [
+        {
+          "title": "DDR5 현물가격 '1% 하락', 또 'AI 고점론'…삼성·SK하이닉스 수요 위축되나",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oR1dEVF9zbkk2d1BlUFV3RG85aU1GcDRpNmRDeVJvcDZrVGNKX2dpOVJ6alhEc3JxT19WM1U3N05INmJwRUM1WXZUemhGRU50eHJuV1FFTXZpYVBR?oc=5",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-06T01:01:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "[기자수첩] 테슬라는 기술, BYD는 가격…현대차의 경쟁력은?",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5cVhTWjVqZmNGemtWTWEybEFtWENiclhaNklWTFdxc1kyb1B5RFE4QmV4MERwazhuMHgtSE5kdVJBUTZmMEprSHhmUG1Ma0tBRTBiUHRQYkUxSUNF?oc=5",
+          "source": "뉴스핌",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-06T00:00:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "“일본 13% 올렸다…삼양식품, 환율 악재 뚫어낼 ‘글로벌 가격 인상’ 카드”",
           "summary": "",
@@ -159,7 +186,21 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
+        },
+        {
+          "title": "삼성웰스토리, 이탈리안 식자재 `비토` 7종으로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xT1hyNWtSNHFPYi05c2x2eFVoWThIM0lsenFYaE5PbUV4a3kwRU9vbXpNb3B0b1ZuQWRLaWFaUWp6S1Z2WTR3Y1pHM250VExoXzgwQ3poelFidlpjbVFyQkxrWWFjNXVlWlNvV2gtWEkwSkEz?oc=5",
+          "source": "부산일보",
+          "sourceInitial": "부산",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-05T07:21:12.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "CJ프레시웨이, 3Q 매출 6.7%↑…식자재유통 적자에 수익성은 '악화'",
@@ -216,48 +257,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "키움증권 \"GS리테일 4분기 편의점 매출 반등 전망, 가공식품 가격 인상도 성장 요인\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wLWQ5Rm8wd0lYazJwZ2Nfak5YazJwdDdfZlpaUlFzSGVmczlvOTJPc1J3dVg4SEN2VkpNd2NsM011c1pTck9zb2NmZkZONExjWkUtalJyeFB4SFJENEt5S1U5YTM2cmpLN2JfQjNubjRWeGc?oc=5",
-          "source": "비즈니스포스트",
-          "sourceInitial": "비즈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-05T00:58:54.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "삼성웰스토리, 이탈리안 식자재 ‘비토’ 라인업 확대…B2B 시장 공략",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YVDJsZDZGbk5XMEVQQm5xRVFBcHdwa09lNFh2SmItR1hLSmRNNm9IQjd6Vl95WjEzSl9ScVpyeEdIYm9VcV9DYUxrWFFRN1BsNFo5d1JEQUU5UllTVjVCNE5zd0I?oc=5",
-          "source": "매일일보",
-          "sourceInitial": "매일",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-05T00:04:48.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "맥도날드 CEO “2027년 식품 물가 상승 우려”···가격 인상에 극도로 신중해야",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQSklNbkFtenIzZE5Ed3BXUERjbVFkdDYzTDl5RWdLdUpkQi1rTTlKVjhLTnBTd3R6RVlUYjB0VnpSc01jaTZoMkJBYjYyU1pfeUpnRzBHVm1MenNfNGNaY0NLb09CNVpoVEdVLVBUeVVjd0JELWREY19RUHBQMGh6SWFlMFl2WFRfWDRCaFJrekhWS1hyUnVUeGZHaUR4TGJxQ05kY2FmUGlyZnJFRGdmS1lUNXZJQmNEZGVSNGNDSTZGcVE4TzZvaGprZjVtWGVKNHMxVFFWNjVXVGhIemZhS040TVBjaEhLRDNuTUFHTENnU2NrWW5MTHRpOFY2UzJ6ZEtGNDkyZmZEcURfeVAxR2pqb1k4UDhkdW5IeE5FMElxVl9jQ1Zr?oc=5",
-          "source": "Benzinga",
-          "sourceInitial": "Be",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-04T23:53:55.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -270,8 +269,23 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 19,
+      "total": 21,
       "items": [
+        {
+          "title": "K발주ERP, ‘2026 한국고객만족도 1위’ 식자재물류유통ERP 부문 수상",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VWThMemx3TzR6T1BGS1NhY3RVVHQ0UVhST0xjSjdsaHNzQm9wUlVlZWlrRVZXOU54dEpVbnk3dGNZd01QaXhtelJnbHV5Y0xLTGk1U0pXbWxQQ3pqLWxFb3JVU3dYY1pLS2Y4Wg?oc=5",
+          "source": "이넷뉴스",
+          "sourceInitial": "이넷",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-06T06:40:35.000Z",
+          "tags": [
+            "유통",
+            "물류"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "CJ프레시웨이, 급식·식자재 유통 경쟁력 강화…중장기 성장 기반 다진다",
           "summary": "",
@@ -284,7 +298,7 @@
             "유통"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "CJ그룹 식품·유통 계열사 CJ프레시웨이, 온라인 유통 성장세",
@@ -308,20 +322,6 @@
           "sourceInitial": "딜사",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-11-05T22:00:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "안성시, 향후 5년 먹거리계획 마련…생산·유통·돌봄 연계 강화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0T2pzLTJVc2RpTUFjUnVwTEJOWVd0WC16alJrVDNYaW1VYXRtTFVjQVZ4NlRoX25QVGU1N0o1MjlnRlJBQUdJNHZPQmg4ZVdsSm42UkxFc0I4MmlJQmpiY2dNUFFqUUpkNHc?oc=5",
-          "source": "비즈월드",
-          "sourceInitial": "비즈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-05T12:23:00.000Z",
           "tags": [
             "유통"
           ],
@@ -395,8 +395,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 8,
       "items": [
+        {
+          "title": "초가공식품 규제 청구서 19조 원, 미국 식품업계는 맞설까 바꿀까",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lRklROEtFY2wzcUpLRWJ2OE1mdTJGdU9vV2RpakFPVThweWh2MklFRm1PR2swck5wcndoU3hRRFlCaU0yblNYb3RvZDJ5cVhwNzFDaUU2YkhaWDQyNlpsSU0xMHJjcXpFREhPTWhR?oc=5",
+          "source": "캐어유 뉴스",
+          "sourceInitial": "캐어",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-06T05:00:00.000Z",
+          "tags": [
+            "규제"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "콩 선별기 시장 2035년 전망: 식품 안전 규제와 인력 부족이 성장 견인 - 뉴스 및 통계",
           "summary": "",
@@ -409,7 +423,7 @@
             "규제"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "리더경제 10월 소비자물가 2.8% 상승…채소·과일 내렸다는데 생활비는 왜 부담일까 https://www.leader-economy.kr/news/483306",
@@ -426,16 +440,14 @@
           "feat": false
         },
         {
-          "title": "10월 소비자물가 2.8%↑, 상승폭 둔화…\"물가 관리에 역량 집중\"",
+          "title": "배추값 한 달 새 64.5% 폭락…역대 최대 640억원 규모 김장대책 긴급 추진",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVFR4SnBRU0R2OVBnMXpqM0dtdm0yZVF6cTZDM1Fzd3g4RU9BUmo5VXFxbnNiVDVlbm9oYzlCQkNTOEc1OUJVNVhGeGJVeFRYV0hmMXNMZ1FlaGY5S09vNERNWmp5WjBGenBWQQ?oc=5",
-          "source": "대한민국 정책브리핑",
-          "sourceInitial": "대한",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByWmtvRTR1TWxwWGk3bHR1S1Q0bzdYTW1CTFJBZUZ6d1dwVnlTN2lhMThXWEQ4Vm13MkZ4WUIyemw1TTRjQUhCY0dKZUx5UUswS1lsNVVqTjB3blBCaVJDZnZCcFdzRzByUmhZMA?oc=5",
+          "source": "농수축산신문",
+          "sourceInitial": "농수",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-04T05:23:38.000Z",
-          "tags": [
-            "물가"
-          ],
+          "publishedAt": "2026-11-06T09:42:05.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -447,6 +459,18 @@
           "sourceInitial": "경인",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-11-05T07:58:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "글로벌 식품환경 변화 대응 Codex…한국, 국제 식품규격 주도국 도약",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LTGFUd2N4S2hQSXh3WkFLQzM0YXh6bmIxZThZb3ZYbDF5YzNYbWpGZUFqNzVvbTVuUW5NYVlSdzNPRjhFbVFFbHc0TGtUM2RaLWctVkdZVVlnSzF1NzJzWk50bmFnMDg?oc=5",
+          "source": "한국식품의약신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-05T07:05:47.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -486,8 +510,23 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 7,
       "items": [
+        {
+          "title": "[식음료] 올가홀푸드·삼립 간식 신제품 출시…농심, 인도 20개 거점서 신라면 체험 마케팅 / 하이트진로그룹 정도경영 선포…삼양식품 영업익 49.9%·교촌 9.6% 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JVV80T2FocldrUnhPTUlEWFdsNzZNaFBTU2tRMVZNMk9ucDBZYVZkZFZoei1HX0JKVkk5c1pEY1JKZV9xRWNsMmJVbEw1ekRXaWZnZDdCOVI2RHE2VEZBblV0eVZFTlo3UWp4eG1wNW84QQ?oc=5",
+          "source": "웹이코노미",
+          "sourceInitial": "웹이",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-06T08:18:15.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "풀무원, '반듯한식' 너비아니·떡갈비 출시… 육가공 HMR 강화",
           "summary": "",
@@ -501,7 +540,7 @@
             "HMR"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "유한양행, 관절 건강기능식품 '콘드로이친1200 골드스틱' 출시",
@@ -532,6 +571,20 @@
           "feat": false
         },
         {
+          "title": "[테크M 트렌드] 프리미엄 증류주 뜬다...주류·식품·면세 '新 영토 확장' 박차",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96OTdlLWNVdVpCZUpxbzkxaVZTVWNpdlltZEVGXzFPV2VQRFdPemdwTzRSSjFkY3RtZ21SR25lVUNJV3dBcW1DaFZ6cGxmdVl4MUs0SU1HRnppb1lDOFE5YlY4SEdYZ9IBakFVX3lxTE9JQUY4X2R3aUdDbU4zMkVBVXJnZWptcnZYaXNiOW8xb3ZFV000eWN1c3pMeTF6OGFUSF9kYnJRd19rNnRuckZlS3I4UmZpTk9uaUxNc0o4Qy03X0ZyNFJjOXA4MUV6bFJ6ZkE?oc=5",
+          "source": "테크M",
+          "sourceInitial": "테크",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-05T03:02:20.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "풀무원식품, 국내산 돼지고기 100% ‘너비아니·떡갈비’ 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ERU1CTkZjZ3RVbDB5ZmVHRnBMM0VLUi1KODRveFlYbGVVaWhNcjhzbU91NkEzZHY4LV83VlNxZm1DeWVXNF9MNlh0WFlJM00xV0lTT2RGNlFWR1hBTVhWOC1hMWZyWDRVdXNCeHg5VVVXQQ?oc=5",
@@ -546,20 +599,6 @@
           "feat": false
         },
         {
-          "title": "401분식당, 첫 제품 ‘찹쌀 분모자 튀김’ G마켓 단독 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tY0JxZVlQUlBiSzcxZEY4SHprZXlQSksyYlV3cUVOMk5oeGxuVWdUOUNVbzBrM1pDaThfZDJIR3VHc0ticXB0UFJXRTBsakFLc1Y4ZTN1Sjh5QzE0cnlVaF9n?oc=5",
-          "source": "스포츠월드",
-          "sourceInitial": "스포",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-04T06:12:16.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "김정수가 공들인 ‘삼양1963’, 1년만에 2500만개 팔렸다…불닭의 2.5배",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zVF93UnJZdTRFLVpXaF9qVnBveElIU01QRlRvOW94eURBckx0ZmVXa1ozZGdVZVpJX2I1YktsWWpLZVdtYnlnSHpXUW9SOV9jQkRXRw?oc=5",
@@ -567,30 +606,6 @@
           "sourceInitial": "이투",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-11-04T20:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘2026 푸드위크 코리아’ 개막…먹거리 넘어 기술·산업으로 확장하는 K-푸드의 미래",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xSkNEVlI1VTY4U3hzS2xrNFY2YW81X0ZDMmN3Tzg5dGZObnJXeHJxNDNfdzR0MUwxY2xES0FaRGhLaHE1bm9BMUx3R01tcVk4UVUxd2Jpbk9PY291SFhTS2g1V08xdHBTNGFDUlM2cVFhTnEzaWtCVGZrNNIBe0FVX3lxTE4xSkNEVlI1VTY4U3hzS2xrNFY2YW81X0ZDMmN3Tzg5dGZObnJXeHJxNDNfdzR0MUwxY2xES0FaRGhLaHE1bm9BMUx3R01tcVk4UVUxd2Jpbk9PY291SFhTS2g1V08xdHBTNGFDUlM2cVFhTnEzaWtCVGZrNA?oc=5",
-          "source": "디지틀조선일보",
-          "sourceInitial": "디지",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-04T09:10:40.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "일상이 된 식품 혁신…‘2026 푸드위크 코리아’ 7일까지",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waF9Kc2RWNy1sYWtvbVFyUEdCdk5XNnMzU0pHQjNhV2V3YUFPWEdVem42S1huQWVCOGh2LXlLd1J0TkdibTVncVM5YS0za0JjMHZUdDFB?oc=5",
-          "source": "헤럴드경제",
-          "sourceInitial": "헤",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-04T03:36:47.000Z",
           "tags": [],
           "price": null,
           "feat": false
