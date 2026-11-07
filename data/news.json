@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:45:01.191Z",
+  "generatedAt": "2026-11-07T20:40:56.502Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "푸라닭치킨 본사 찾은 연세대 FCEO…가맹점 지원·ESG 경영 공유 : 네이버 블로그",
@@ -117,13 +117,13 @@
           "feat": false
         },
         {
-          "title": "백억커피, 가을·겨울 음료 4종 출시…밤·대추·율무 활용 : 네이버 블로그",
+          "title": "2035년 절임 식품 시장 전망: 발효 건강 트렌드와 간편 스낵이 성장 견인 - 뉴스 및 통계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmtxYTRiYlctWnRXZWV1Zm9rVGV3RHJXaFFCUVlBalJSUWUwWXNpV2xpNnMybVlBWUNRNmxKajIyXzFJV2ZKWVVhd3lhTjN1bGU4ZkZiaHpXX0k3U2Q3b0xpYUdHQXNGRnZnaU96V0E0dlFlX3JKN25DQ1FjYXRMblVKenNaOWlQY0F4dzl3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-06T23:24:07.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFA0eW9nNGpwS0xwYllLNWdVbzJPcG1xVXRURlc4UGpPUHhxZHRiU3R0QmZQWFg0cTFBdjhMRkhSTVMyOXdFTVVOS2h5alJMUUhXLVNkSDhqdDhGam1Kc0dSNk16OTJtVHZsSkY3eHRhOGpwUlBBMGRVeExZbTQ1ZklCX3E2UW9PaVp5cEF6UU1WNWJ1RUJmc19ha1QwWWdDa3FMSW9JNUsxT1RYV2EwdW1kTFdLVm0wb3NCblZ4eUFjSm1MUjRCa1Zxd01CWjVzaUo5SEdaYXFhbVk?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-07T16:36:04.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -139,7 +139,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "유럽 8개국 조사서 식물성 대체식품 소비 장벽은 가격·정보 부족",
@@ -379,6 +379,20 @@
           "feat": false
         },
         {
+          "title": "식약처, WHO와 식품안전 위기대응 훈련 실시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FbXp5bmJHdV9TVlpsY05XeDE1OEpfbE1EanVmMldVWjY4QmhNSGt6ME0tQ29kTG9lNUZqdDk3VWlvaXJvckpyS2NiM1RINXNvS25tbjBhSDRpVDVZUWtYaVA2aE5JaE0?oc=5",
+          "source": "한국식품의약신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-06T05:59:29.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "초가공식품 규제 청구서 19조 원, 미국 식품업계는 맞설까 바꿀까",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lRklROEtFY2wzcUpLRWJ2OE1mdTJGdU9vV2RpakFPVThweWh2MklFRm1PR2swck5wcndoU3hRRFlCaU0yblNYb3RvZDJ5cVhwNzFDaUU2YkhaWDQyNlpsSU0xMHJjcXpFREhPTWhR?oc=5",
@@ -427,18 +441,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "농수산식품유통공사(aT), 수출 포럼부터 독일 진출·현대백화점 제휴까지…K-푸드 판로 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WNUpWSWdOTGFjMmUzSXdhZlF1dlAyQ2V3dU15bm9iNDBZN1EwR1ZqcW1yR1BScGF1Z3dRWlRjSVRzcjlTNEVJdDdmZjE5YmVZS1pvZ2I4NG9ScFBMbTlyaDlFVERnaXU5TUE?oc=5",
-          "source": "컨슈머타임스",
-          "sourceInitial": "컨슈",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-05T20:20:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -451,7 +453,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 9,
+      "total": 10,
       "items": [
         {
           "title": "[식음료] 올가홀푸드·삼립 간식 신제품 출시…농심, 인도 20개 거점서 신라면 체험 마케팅 / 하이트진로그룹 정도경영 선포…삼양식품 영업익 49.9%·교촌 9.6% 증가",
@@ -511,7 +513,7 @@
         {
           "title": "라떼에 오렌지 넣고 생크림 30% 채웠다…겨울 커피의 변신",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10U04yZjhEWllqZXkxMmZnT3RLcFl5b1Nvb1B1WkI5Ym1FWUZYR0Vsd2pvU2w2LWdfZHZveDd3NG1iR2NCLXJSRjJwUDdOUC1I0gFUQVVfeXFMUEF2czhIMXIzNVdaTWRKSzZhQ3NjaGZORmpEYUFmeEtlalpkSEZ4OGdKMTFkWjRBWmI5aldVdEhBOTNVelFhcDc4UHZENDZxX3ZQOTFy?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rNXN4YkI1X1pLVUZ1WlYzY1ljN0c5ZnlteHhqX2ZKUXNkbHhMMlg0cGMyNkxiUGNGUzE1MVhseWVFSjBIWF9kZHVwZ0dzdTRSWVQwb2huTE3SAVRBVV95cUxQQXZzOEgxcjM1V1pNZEpLNmFDc2NoZk5GakRhQWZ4S2VqWmRIRng4Z0oxMWRaNEFaYjlqV1V0SEE5M1V6UWFwNzhQdkQ0NnFfdlA5MXI?oc=5",
           "source": "세계일보",
           "sourceInitial": "세계",
           "sourceColor": "#2f7d4f",
@@ -533,6 +535,18 @@
           "feat": false
         },
         {
+          "title": "“배양육·단백질 식품 양대 날개 달았다”… 의성군, 바이오푸드밸리에 455억 원 투자 유치",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RREIzLXR1WEhfSVVmcHRmWTMtaEl1RnpHSmxsczZuOVllSUF1UVc2c1ZDM3lXcXNzc3I4aVlPQkF1dm5xM1pVblNxdnVjSkxvM3NBT2M5R0hDbkFtWk5NVUxQb3RkYnVpeVFPT29GWHF6eUdQ0gF0QVVfeXFMT1FEQjMtdHVYSF9JVWZwdGZZMy1oSXVGekdKbGxzNm45WWVJQXVRVzZzVkMzeVdxc3NzcjhpWU9CQXV2bnEzWlVuU3F2dWNKTG8zc0FPYzlHSENuQW1aTk1VTFBvdGRidWl5UU9Pb0ZYcXp5R1A?oc=5",
+          "source": "이뉴스투데이",
+          "sourceInitial": "이뉴",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-06T11:10:50.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "AI·로봇이 바꾸는 식품공장…K-푸드 제조혁신 속도",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1VFlOVnJ6bTB6MXd2MWhIQ01sSGNBQmgyOFlrVDZGWWhJWFp6TllJN2RHZ3NKRzhNODRBb1I1MzNwMUV2Q3BZempFQ3JyMHMzdFdrbA?oc=5",
@@ -540,18 +554,6 @@
           "sourceInitial": "뉴",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-11-06T08:30:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "노르웨이수산물위원회, ‘2026 노르웨이 씨푸드 세미나’ 성료… 한국 시장 내 지속가능한 성장 방안 모색",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04dUI1VHBLd28xUHppN211dXA4UmUzRXRxRVpXTXpBSGNMSVpsQlFuNGk5RHFlQUJXWEJVTFo5WDNpVms1N2FwcXVEU09IYW5JdlBqYndnOW5vVlIyLUVKbGhMLXRLV09QVTRF?oc=5",
-          "source": "부패방지뉴스",
-          "sourceInitial": "부패",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-06T03:46:50.000Z",
           "tags": [],
           "price": null,
           "feat": false
