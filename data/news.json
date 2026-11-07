@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:34:35.053Z",
+  "generatedAt": "2026-11-07T16:45:01.191Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 12,
+      "total": 8,
       "items": [
-        {
-          "title": "경기도 배달특급 11월 외식 프랜차이즈 할인 행사",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWnRyYmI4RVBaT19JbUJEUkhsT18tSVhkSFQ4SWx0UlkySVpMd3gtRXo5ekdFNGdfLWFGUzRBLXJLdU9zNW05eTFpUEh1S1ZlSzd2VU5NQk4xOEtydjhnMS1odS1hVzFEVXZYZmVTczkyU1dx0gF0QVVfeXFMUHNadHJiYjhFUFpPX0ltQkRSSGxPXy1JWGRIVDhJbHRSWTJJWkx3eC1Fejl6R0U0Z18tYUZTNEEtckt1T3M1bTl5MWlQSHVLVmVLN3ZVTk1CTjE4S3J2OGcxLWh1LWFXMURVdlhmZVNzOTJTV3E?oc=5",
-          "source": "뉴스클레임",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-05T16:39:46.000Z",
-          "tags": [
-            "프랜차이즈",
-            "외식"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "푸라닭치킨 본사 찾은 연세대 FCEO…가맹점 지원·ESG 경영 공유 : 네이버 블로그",
           "summary": "",
@@ -40,12 +25,12 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-07T04:14:31.000Z",
+          "publishedAt": "2026-11-07T16:09:31.000Z",
           "tags": [
             "가맹"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "하남돼지집 덮밥장사장 등 중국 프랜차이즈 로드쇼 참가 … K푸드 수출 앞장서",
@@ -130,6 +115,18 @@
           ],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "백억커피, 가을·겨울 음료 4종 출시…밤·대추·율무 활용 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmtxYTRiYlctWnRXZWV1Zm9rVGV3RHJXaFFCUVlBalJSUWUwWXNpV2xpNnMybVlBWUNRNmxKajIyXzFJV2ZKWVVhd3lhTjN1bGU4ZkZiaHpXX0k3U2Q3b0xpYUdHQXNGRnZnaU96V0E0dlFlX3JKN25DQ1FjYXRMblVKenNaOWlQY0F4dzl3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-06T23:24:07.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -142,8 +139,22 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
+        {
+          "title": "유럽 8개국 조사서 식물성 대체식품 소비 장벽은 가격·정보 부족",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vUGFFTFptaTNxNXBBaUYzc3pCbjdzbDQ4MU11M3M3LU16UW41d2dOQlJUVTJsY3RwTk9Jb0hOa0l5clBsWktFR0J2dXJqN2FLX0FHWFB0ckpPUDcwYlZaVkp2Nl9MZw?oc=5",
+          "source": "비건뉴스",
+          "sourceInitial": "비건",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-07T11:45:19.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "세계식량가격지수 하락 전환…설탕은 6.6% 급등",
           "summary": "",
@@ -152,20 +163,6 @@
           "sourceInitial": "아주",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-11-07T07:26:29.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "세계식량가격 3개월 만에 하락…‘곡물·육류 내리고 설탕은 급등’",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hMS1MSjdqUkJ6R2xhWlB5VHUtdEwzUm9DRVl2TGY5OWxTU2Zzamg4bC1oNEpVWTRJazRJNFlTZ3FzMWsyazBBTGZBSGNRUTk3dmQ0dXAwRmp4SS1Qa2ZXVGM1Qnh3VFBvMHp0Y2xB?oc=5",
-          "source": "아시아투데이",
-          "sourceInitial": "아시",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-07T06:31:56.000Z",
           "tags": [
             "가격"
           ],
@@ -201,16 +198,14 @@
           "feat": false
         },
         {
-          "title": "2027년 설날 기간 동안 식량 공급을 확보하고 가격을 안정시킵니다.",
+          "title": "10월 소비자물가 2.8%...가공식품·외식은 상승폭 커졌다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalN0LXUxR1o3R1J0SUREdTM0UElPNVM3SWxCWXVpWThMTFk1Q1lBQXBiQmw1UTRFQ21tWUVyTzBack1CdnYxUWNjZ25yMGItcjdlQkVDcFJRekYtLWNIeXZ0bm5RSklpNFpjZzFzaTF4N3dDMS1tZnhVbUpmRkxheUhlNVdzQQ?oc=5",
-          "source": "Vietnam.vn",
-          "sourceInitial": "Vi",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-05T10:59:18.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZcF9TaEs1T2xHT1hQOVdxUG1mWnJJUGJ2NEVYSExVZ2ZFTVp0N2k5QjVFekVhcENWbWlBTlRjclZQaW96aFpWNW1IU3A4WlV3ZjZNSzljZXFLWEVOWXBnUlJCZExtdUVq?oc=5",
+          "source": "팩트공감",
+          "sourceInitial": "팩트",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-07T07:53:27.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -261,7 +256,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "CJ그룹 식품·유통 계열사 CJ프레시웨이, 온라인 유통 성장세",
@@ -292,16 +287,26 @@
           "feat": false
         },
         {
-          "title": "안성시, 향후 5년 먹거리계획 마련…생산·유통·돌봄 연계 강화",
+          "title": "급식업계, 3분기 나란히 덩치 키웠지만 수익성은 '희비'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DX3dMVnFNLXo2RWJzN1NidEtkZEhMSG5oal82Zkd2ckk4cTZQUU53c1YzV3M4bUVGYXk0NnpzcmF2S2d3cnRSaWt0cWRURkJELUtFcVhSWm9lQWdvaDRVRzVJNDV4eFVvNm5z?oc=5",
-          "source": "비즈월드",
-          "sourceInitial": "비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wLVgtX0VlVjVuZnEwbnJoQTRaZWJfSDJUcjVBQ2N2Vm52bHNMZy1wLTNfcXVvQzlzNzBaRU9lWWp4RWg1RG5aRmxQUnJGN1ZiYldreW5sMGVuNXpaSExvT3E0VmYtVEwyUTZ1dQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-06T08:31:02.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "안성시, 향후 5년 먹거리 정책 새판 짠다…생산부터 돌봄까지 연계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LVFdiR1ZSODRSRzRnak5jSFFSXzcxMlI0Mmo2MEUteFBxNGRrT2pNZUR4d21OV05ZdGhFdmdQclgtVm9ISm5ybWdUdGdxeDBXOHNkRGc3RUg5Zw?oc=5",
+          "source": "브릿지경제",
+          "sourceInitial": "브릿",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-05T12:23:00.000Z",
-          "tags": [
-            "유통"
-          ],
+          "publishedAt": "2026-11-05T23:51:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -328,7 +333,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 8,
       "items": [
         {
           "title": "[박근종 칼럼] 2.8% 물가 지표 착시와 서민 고통, 통화·재정·유통을 아우르는 정교한 정책 공조 절실",
@@ -395,6 +400,18 @@
           "sourceInitial": "농수",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-11-06T09:42:05.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "2026년 11월 6일 오늘 농산물 가격: 국내 커피 가격 상승, 이번 시즌 대규모 공급 과잉 발생할까? 미국, 베트남산 새우에 대한 반덤핑 관세 부과 발표.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcjR1dGt6VjB2OVRYRm5SRnVPd0NHUlJtdnJYelBGMVcxNGFnLWlya2FjM0RrdE14NzM0RlR4eEkwaGR0SVNpM000aGRhSTJvYzNJLVY3WXlyM1VNZmlKMHBiMWViYkM5SzBBd0QtMEhDMHRuQTNGeFRUNlhrS2lXSkNfVjZLdmVuc1lTWEZncThSRHcyc1ZrbThjUUJHelU1RmFPcERLUHdZdTZ1a3N5YURTUTRqZGsyNzJDR250S19sOTlZNW9PQkhrZkRyNFE0ckJ1clZjN3N1Y0pJbnloU2p0d1dNMV8zZ3otdVNVc2I0aXREMXc?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-06T06:52:13.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -504,13 +521,13 @@
           "feat": false
         },
         {
-          "title": "“배양육·단백질 식품 양대 날개 달았다”… 의성군, 바이오푸드밸리에 455억 원 투자 유치",
+          "title": "aT, ‘식품외식·푸드테크 기술사업화 성과공유대회’ 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ER0c4ZTNWOXN2Wkg4ZlZhSjhCYVp0MHVwZklEaXBHWDhvWGJ3RnNWV2hiYlZQT0JOTHVLUG8wS3VKcXBNUng0YWtVVHpzTDFEQzJkaXpDQjRISGhVd1ZXZ1pCU0F3RG50c0FxaFlYeEzSAXRBVV95cUxPUURCMy10dVhIX0lVZnB0ZlkzLWhJdUZ6R0psbHM2bjlZZUlBdVFXNnNWQzN5V3Fzc3NyOGlZT0JBdXZucTNaVW5TcXZ1Y0pMbzNzQU9jOUdIQ25BbVpOTVVMUG90ZGJ1aXlRT09vRlhxenlHUA?oc=5",
-          "source": "이뉴스투데이",
-          "sourceInitial": "이뉴",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-06T10:10:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zb0lPMFM2TVFHVFJlc2VjZzdQd0hNRXphdEZfaUx6ZUxKMFlESGpfTlZna1FFZHF3ckc3VHVLdkIwNnhGemlGVkRsTEwtakZuSUlibDlWbVVMbFY4aEFDNHVuazRmT1NXV0ttNA?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-06T12:04:52.000Z",
           "tags": [],
           "price": null,
           "feat": false
