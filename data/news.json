@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:57:27.388Z",
+  "generatedAt": "2026-11-08T22:43:10.508Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,18 +19,32 @@
       "total": 15,
       "items": [
         {
+          "title": "창업 성공의 기회부터 해외 진출까지… ‘2026 프랜차이즈 창업박람회 부산’ 열려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JWDhrb1pWaXp6MUJ5cFUwOEpDaFdqZHZhMjNfaE1LLVhwN0RNVEFZQ1h4UnRLaXh5V05LVkc4RXpBVkhYWHhNbkpJc2I0QWNKX2hpRm1kUzFIT1Y3N2FlRTBxRHVQOVpKSHdpLXhB?oc=5",
+          "source": "서프라이즈뉴스",
+          "sourceInitial": "서프",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-08T22:08:48.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "[ 2026년 11월 9일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0pTQ2RkUV80MDk0Q0NFOE1uWDdDQ2xKMnVnQ2tyOEVMakpILXBRTkhqNXM3RnpyZWlGMUtJS3hRSmVVYmR0V3ROR0MxUVpMdHFBLXFVVmI5QUZIaXZNSGVwVmplX0w1MWp0ZGVfTTdsQVhZaWtzMFNRN05vU2pfYUNSMTRTejZwVVdTeUhR?oc=5",
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-08T09:05:54.000Z",
+          "publishedAt": "2026-11-08T21:03:54.000Z",
           "tags": [
             "프랜차이즈"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "2027 식품·외식 트렌드는 '건강·맛·경험'…AI가 경쟁력 좌우",
@@ -115,20 +129,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "푸라닭치킨 본사 찾은 연세대 FCEO…가맹점 지원·ESG 경영 공유 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWl4akJOaVVQODJhWkIySTRaWEo0S2ZwYURuLW5LcW9YT3FRZlR0T21nNEpBbElBRGJ6LTVTaGgybFNhVlRlS0ZfXzhiRURhMzZqYjF4ckNNcGdRdE9NZUM1WXNEVEtLV1pFeE9uX2tuRlpxTW5kRHJMcFJuckwyVmR2a2o1THN2anhjMDBR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-07T04:14:31.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -141,7 +141,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 8,
+      "total": 9,
       "items": [
         {
           "title": "유럽 8개국 조사서 식물성 대체식품 소비 장벽은 가격·정보 부족",
@@ -200,6 +200,30 @@
           "feat": false
         },
         {
+          "title": "라면값 담합 조사, 물가 통제보다 공정한 시장질서가 먼저-하상도의 식품 바로보기(453)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYbElUSXp5Z1R0LXNvaEJQckJ0cVhoQ2owNUpVVlNqSmVuSlNkX1dWX1FKVTY3Q0pvaUg1eWZTRkxsa0Y1ajVRaHpLbE9hSWZsemVQRDRYUVhKNkxTVlJBcVlFY1hUb3JaZThNS3Nidw?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-08T22:40:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "단백질 음료 소비 50% 늘어…2027 식품·외식 키워드는 ‘웰니스·경험·AI’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92WkJSazE2TVhPaFdrR1VsanRxM01YYlVNRXcwcF9vSmh3UFlMWEdBLXlkdmxnaldjVVZCSjY4SXBrV3VReTYtUjdTTmlfcWJQVDZBdXFKRVE?oc=5",
+          "source": "안티에이징뉴스",
+          "sourceInitial": "안티",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-08T12:56:10.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품 질감 개질제 시장 2035년 전망: 클린라벨 수요와 재배합이 성장 견인",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaXpKOFQ4S2RsZmdLeUQ0Rjl2MUFieXdtVFpnNm80dUM3X21HU2tvT2hkY3ZmdUFUOUlJeHVwVkRBTnBSTlNOd2VfT2lsbFNwa2c3bDRaT0JSa3gyRWRUdW43N18tdC1Ra0tGWGRHWExlMjlaOGE2SW94UVAzd1pkbnFsV3EyZjIzakpmUzlmTWVsZjZhYjBmNmRnS3pMSnJ0dlRfUmVlZ1VKSDNxTDFJMVJfV1E4TmJqMkxxeXQ3MmtHQmps?oc=5",
@@ -219,30 +243,6 @@
           "sourceInitial": "팩트",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-11-07T07:53:27.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "6개월째 3% 맴도는 물가상승률…‘숨은 세금’ 인플레 잡아야 민생 안정된다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkcUxlN2tjSzFrU2pxRHZOMlhjeEM5TkVfQW9ucFBhSzZIaFBUWEMzZ2poTWxhQjVTV2RlTEo5d2M1QWdBRUVZYmFpMFN3bFpqdmsxYTFhbHJFWlFVc0FCRW5aZ3p6SVd4c1pnbHJn?oc=5",
-          "source": "더스쿠프",
-          "sourceInitial": "더스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-07T05:39:19.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경기 물가 2%대로 내려왔지만…기름값은 14.8% 뛰었다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FQ3RSRldpY3FSU3hxRTdaMW9XOUtISFRHYm5PYW5uSE9yZW01Unl1bS1JZWxPcjNDM0lwRDRncE5uTzhDbW5wekFGa3NZWlpncjFBNTln?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-06T22:00:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -327,16 +327,14 @@
           "feat": true
         },
         {
-          "title": "역대 최대 640억 쏟아도 못 잡는 김장물가…할인 대책, 구조는 그대로",
+          "title": "역대 최대 640억 쏟아도…김장재료 '할인 없이는 비싸다'는 체감은 그대로",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zcVdCSUlqQWc4MkhKWGdEVTdUa1V5MXFhMnhjc1lreG1JTDAtd0Q3ZjRlcWRHd1hRMnhVYW13Sms5R0xSZmdoQ1hNMm02cFVDaEFIaEVOekVJTkF6eHc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwTmJOQURqT3pDaG93MUtMRWpCZVZHQmZHSDZPcktLaW5XZDF3aEY5aUlHaG5BRF93T01OLTBmRVpfZnJfbzBUXy05M19DaFliU3BMQko2aHhiTHQtQVE?oc=5",
           "source": "데일리환경",
           "sourceInitial": "데일",
           "sourceColor": "#333333",
-          "publishedAt": "2026-11-06T22:40:04.000Z",
-          "tags": [
-            "물가"
-          ],
+          "publishedAt": "2026-11-08T10:27:58.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -351,7 +349,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
@@ -367,6 +365,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "[기획] 2027 식품트렌드는 ‘감식사회(減食社會)’…끼니는 줄고 국밥은 늘었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NUI3Nk9TaURQWjVETENablBWd0I2LTFzbGlTclNreXFFNTRNcVVwNnJTX3o4Ujh6clNnRXlyMVBTSWJvZ2ZpMllBa29GeERPSThBRlRjOWR6Q1k4YlV6cWpzOW5WSFNxcGpxUQ?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-08T17:26:27.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "쓱데이 푸드DAY 5~6일…김장재료 최대 50%, 가공식품 1+1",
