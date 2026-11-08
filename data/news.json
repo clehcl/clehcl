@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:40:56.502Z",
+  "generatedAt": "2026-11-08T00:13:20.564Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -139,7 +139,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 12,
+      "total": 13,
       "items": [
         {
           "title": "유럽 8개국 조사서 식물성 대체식품 소비 장벽은 가격·정보 부족",
@@ -156,6 +156,20 @@
           "feat": true
         },
         {
+          "title": "[분석] 곡물 가격 내렸지만 설탕 28.8% 폭등…FAO 식량지수 희비 교차",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90MGVHS2FKOVA2WWM2c083NUN0UHJCWDR6anJKRFhKTkEyLUpVSUlRUURoX2twM19jN20zNHI5dkhRMEp4U2ZOTm5tbXR6VkNUb3Q5ZEhQWUZLeGpEQWZGaUxzZ2lDNjFNc0owZng4UHB3dXNZ?oc=5",
+          "source": "파이낸셜포스트",
+          "sourceInitial": "파이",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-07T08:03:59.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "세계식량가격지수 하락 전환…설탕은 6.6% 급등",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KRG1xeVdEb1lCOHhqNVNralRrdGt4d1VUM1pNWUFVS1Q4MFRmNG9PdU5sTFZ5ODRqRHlJeHJPQml1bk42YWVmb0lvbFVHanlPWG5iUU5kcTnSAVhBVV95cUxNSkRtcXlXRG9ZQjh4ajVTa2pUa3RreHdVVDNaTVlBVUtUODBUZjRvT3VObExWeTg0akR5SXhyT0JpdW5ONmFlZm9Jb2xVR2p5T1huYlFOZHE5?oc=5",
@@ -163,6 +177,20 @@
           "sourceInitial": "아주",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-11-07T07:26:29.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "세계식량가격 3개월 만에 하락…‘곡물·육류 내리고 설탕은 급등’",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hMS1MSjdqUkJ6R2xhWlB5VHUtdEwzUm9DRVl2TGY5OWxTU2Zzamg4bC1oNEpVWTRJazRJNFlTZ3FzMWsyazBBTGZBSGNRUTk3dmQ0dXAwRmp4SS1Qa2ZXVGM1Qnh3VFBvMHp0Y2xB?oc=5",
+          "source": "아시아투데이",
+          "sourceInitial": "아시",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-07T06:31:56.000Z",
           "tags": [
             "가격"
           ],
@@ -179,20 +207,6 @@
           "publishedAt": "2026-11-06T07:30:14.000Z",
           "tags": [
             "식자재"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[기자수첩] 테슬라는 기술, BYD는 가격…현대차의 경쟁력은?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5cVhTWjVqZmNGemtWTWEybEFtWENiclhaNklWTFdxc1kyb1B5RFE4QmV4MERwazhuMHgtSE5kdVJBUTZmMEprSHhmUG1Ma0tBRTBiUHRQYkUxSUNF?oc=5",
-          "source": "뉴스핌",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-06T00:00:00.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -232,18 +246,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "삼양식품, 불닭 해외 판매 호조에 3Q 매출·영업익 '역대 최대'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MWE5kRDJjMGdEbXJxN0lTem5wRDhHSldVY1Bqc05oMnhFdlAwRmk1dUdFQWRVNXJRZkdvQlBzMTB4MnZzeG5Zbmo4Z3dWZkZHaUN3Q0h5T2FMRlM3bUtj?oc=5",
-          "source": "조세일보",
-          "sourceInitial": "조세",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-06T07:50:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -256,7 +258,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 5,
+      "total": 3,
       "items": [
         {
           "title": "CJ그룹 식품·유통 계열사 CJ프레시웨이, 온라인 유통 성장세",
@@ -273,51 +275,25 @@
           "feat": true
         },
         {
-          "title": "[SIAL PARIS] 삼성웰스토리, 글로벌 확장 잰걸음…급식·식품 유통으로 영토 확대",
+          "title": "마니커에프앤지, 2026 푸드위크 코리아서 영국 수출 닭강정 3종 소개... \"한국식 치킨 풍미 알린다\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FWjFWb0s3aWczUnNFQ2JIdjYzODBTV3NKVmRfRWpFVTgwMzZUZEJWeHU2SlNGQTNHUzlGcFF5Mk51dXo4aDdJb2o4MUg1TTg?oc=5",
-          "source": "딜사이트",
-          "sourceInitial": "딜사",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-05T22:00:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "급식업계, 3분기 나란히 덩치 키웠지만 수익성은 '희비'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wLVgtX0VlVjVuZnEwbnJoQTRaZWJfSDJUcjVBQ2N2Vm52bHNMZy1wLTNfcXVvQzlzNzBaRU9lWWp4RWg1RG5aRmxQUnJGN1ZiYldreW5sMGVuNXpaSExvT3E0VmYtVEwyUTZ1dQ?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-06T08:31:02.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uQ3k5dXNYVEo4Y1BsX3dsaG90UGdIVGI1LXVGTDJMU2F6eUtFQUh0M2F0UHRmWlVJLVh2NzRjYjBPeDBDOUNqWUpQM1o5N2FmUWpMZk1reDRBZm1oNzZQOW9CVGRQSG5vamJn?oc=5",
+          "source": "에이빙",
+          "sourceInitial": "에이",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-06T10:37:24.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "안성시, 향후 5년 먹거리 정책 새판 짠다…생산부터 돌봄까지 연계",
+          "title": "CJ프레시웨이, 식봄 투자에 3분기 영업익 29.2%↓…단체급식은 성장 - 머니투데이",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LVFdiR1ZSODRSRzRnak5jSFFSXzcxMlI0Mmo2MEUteFBxNGRrT2pNZUR4d21OV05ZdGhFdmdQclgtVm9ISm5ybWdUdGdxeDBXOHNkRGc3RUg5Zw?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JWm5lNmdXdVY2ZGZjS212em0xY2lIcGJsYTRkZGRCVHV3Y3dkdFZmZUxJak45SmdWWEl2ZjJCeXNGLVVEbXk0YzN3X2dyWjFab3RpX2t1WU5Eajd6cDN5bC1EOW5XRzBMaG9zNDFNX0pRVTd3Y0w00gF8QVVfeXFMTW1XdGh0YTFHNGFlbU52WkxCa3pNTVk2ZEFLamE4SkN4U01mWGVENEliSnZBZjRaUXJWM0FMOVZjc1N2aTczeTFVMERpSzJrcmctZ09JcUQ0YS1aZnR6NWhMTmZIcl9ualRYNlJnNjJWd053U1ltc1dKUXhNdQ?oc=5",
+          "source": "머니투데이",
+          "sourceInitial": "머",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-05T23:51:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "'식자재계 쿠팡' 키우는 CJ프레시웨이…식봄 거래액 1000억 돌파",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NY3hWeUc3OF9Od21OeUhkLUcwZE13d0ZYTHpaQUk5MHppWnhTNHpjSWJhQ3VjQU5td2ZUWlZDS1g2MHVXNU11Y0NsTGhEYy1wdnVhVHdoU3FjbkwwVVMw?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-05T21:20:00.000Z",
+          "publishedAt": "2026-11-06T10:27:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -360,20 +336,6 @@
           "publishedAt": "2026-11-06T22:40:04.000Z",
           "tags": [
             "물가"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "배추·무 풍작에 김장 수요까지 감소…정부, 1만3000t 수매·출하조절 추진",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IcUVFaWhjMEMzeWVYbDJfZ25fNTZZR2dObi1BZzdfaVFocEVXOFVhT3gzTkoyWVZEWnU3Q29nSjdZMklOaUxSM0o4aHRhQjRIdGNIbWQ0Zk5RdWJNdUN2cnN1OA?oc=5",
-          "source": "쿠키뉴스",
-          "sourceInitial": "쿠",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-06T06:46:50.000Z",
-          "tags": [
-            "정부"
           ],
           "price": null,
           "feat": false
@@ -431,6 +393,18 @@
           "feat": false
         },
         {
+          "title": "식품안전정보원, 2027년 연구과제 국민 공모전 개최",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92RGFPa2VoVDdMVnZNMktqeTQ5OFZaemtGWl9RejVrbnZ4NWkwTDdUNjhGM3Q0NmlGM0ttZi11ODhMQ24yN0Ryd1BRQzhsSVNmekRidTlybFlfRFFRLXljdDlGRXlaRFk?oc=5",
+          "source": "한국식품의약신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-06T05:57:21.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "2035년 식품용 가스 시장 전망: 클린라벨 수요와 가스치환포장이 이끄는 연평균 5.2% 성장 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1UyU2NoVVczTmZKOVEzeGVSNlpaSnNhUmVNakQtejFPYk9fc1pqMWxQVElkOUwtdW5CczlXTU5PZEZMR0dYNlFUVkZHaWdtVjBuZC1RUVBWcHh6cWN4S1p6QzBJWE5JZF9PTGtyOEViQUp0aEJ1TGV1alNGTTVXNkRDNHF0cjVUMWZkTllhUmRSZGZwclc5S0ZnNHQ0aFZwYkFMQ0lmWVhhWFdoaTFkOXE1MU9aOVB4eHJ4OTAyaUtiMTBNUjRmMVJKSm1lMGwxWE5SWjJB?oc=5",
@@ -453,7 +427,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "[식음료] 올가홀푸드·삼립 간식 신제품 출시…농심, 인도 20개 거점서 신라면 체험 마케팅 / 하이트진로그룹 정도경영 선포…삼양식품 영업익 49.9%·교촌 9.6% 증가",
@@ -471,6 +445,34 @@
           "feat": true
         },
         {
+          "title": "\"치즈에 찍고 녹여 먹고\" CU, '딥핑&멜팅' 간편식 선봬",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJV2d4MVdDeW9JQXBlNGN5X1VSaUh4NWlQY0tQZ0FOeTF6cnRvVEwwMjlWOVgya3VtWGR5c2hmNEtHZ2M3bDNIbHhTRTJYMVVweHY3el9hbkVnZUFUcC1kcA?oc=5",
+          "source": "뉴시스",
+          "sourceInitial": "뉴",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-07T23:23:29.000Z",
+          "tags": [
+            "간편식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "교동식품, 닭가슴살 활용한 고단백 국밥 2종 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ja3gyVmFENzJUbHJXOXV5c2hTTVlTQmJDbWkxNU9fVHpBRjF4Q21idmpRVkJ4ZWdfM0xmdkZuYTQ3SlRlbzh5QzB2TWVidWVHem5Jem5RZ1pJVmQwR3NjZ0YzSXJYc0XSAWtBVV95cUxOQkh0YnY3NzBqREpLcnlicnM1LXhzd2JvWVBBdmc5Q0pWejhqNnNMY2R5X2J3MnpRU0F5cHp2aEdHd1JPa2tBN1QxQUNLWkc3dmIwLXFBTmxzMDhCYXZDaGxUbWZBOTFjbDdrMA?oc=5",
+          "source": "핸드메이커",
+          "sourceInitial": "핸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-06T06:11:56.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "유한양행, 관절 건강기능식품 '콘드로이친1200 골드스틱' 출시",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JckFNMk03ejlsWmFBcXBHeDNhdDhHMm1hTFN3dmpxeVJYOVRWMENfcGp1ckRvSjd5c3ZhQTFRbkN4VnRjOWRPNzR3Y3pxYldXemg4V3oxRFdnemJSVTgtUHRTejRTSlRySUZoMw?oc=5",
@@ -485,13 +487,13 @@
           "feat": false
         },
         {
-          "title": "교동식품, 고단백·저나트륨 ‘교동 단백국밥’ 2종 출시",
+          "title": "차지, 글로벌 9주년 맞아 한국 한정 ‘자스민 블랙 밀크티’ 출시… 대한항공 100만원권 경품도",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yYTZDOGFhWnJGUVBxUng0RFhGM3VkY3diS056YkF5NldIbzRBNC03Wm1LdlhqdXE4eFRZZFF6MUV1YTgzVmc?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-06T00:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsd2h5SWZYM1RqWUZNam94YmpQZEloZnpmazhNWXVlSk11UkxTNFp5b29zam14NHhoeGF4QnRqM1lrR2g2eE9LaGt6NTZEcFFYaF9hcm5YVkhyZVlyZTRleFZWNHdxME1VeHBLTw?oc=5",
+          "source": "뉴스탭",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-06T02:50:28.000Z",
           "tags": [
             "출시"
           ],
@@ -530,30 +532,6 @@
           "sourceInitial": "푸드",
           "sourceColor": "#c0392b",
           "publishedAt": "2026-11-06T12:04:52.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“배양육·단백질 식품 양대 날개 달았다”… 의성군, 바이오푸드밸리에 455억 원 투자 유치",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RREIzLXR1WEhfSVVmcHRmWTMtaEl1RnpHSmxsczZuOVllSUF1UVc2c1ZDM3lXcXNzc3I4aVlPQkF1dm5xM1pVblNxdnVjSkxvM3NBT2M5R0hDbkFtWk5NVUxQb3RkYnVpeVFPT29GWHF6eUdQ0gF0QVVfeXFMT1FEQjMtdHVYSF9JVWZwdGZZMy1oSXVGekdKbGxzNm45WWVJQXVRVzZzVkMzeVdxc3NzcjhpWU9CQXV2bnEzWlVuU3F2dWNKTG8zc0FPYzlHSENuQW1aTk1VTFBvdGRidWl5UU9Pb0ZYcXp5R1A?oc=5",
-          "source": "이뉴스투데이",
-          "sourceInitial": "이뉴",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-06T11:10:50.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "AI·로봇이 바꾸는 식품공장…K-푸드 제조혁신 속도",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1VFlOVnJ6bTB6MXd2MWhIQ01sSGNBQmgyOFlrVDZGWWhJWFp6TllJN2RHZ3NKRzhNODRBb1I1MzNwMUV2Q3BZempFQ3JyMHMzdFdrbA?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-06T08:30:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
