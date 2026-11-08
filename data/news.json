@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T14:05:22.175Z",
+  "generatedAt": "2026-11-08T18:57:27.388Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 15,
       "items": [
         {
           "title": "[ 2026년 11월 9일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -25,7 +25,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-08T09:03:54.000Z",
+          "publishedAt": "2026-11-08T09:05:54.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -42,6 +42,20 @@
           "publishedAt": "2026-11-08T06:55:55.000Z",
           "tags": [
             "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "한솥도시락, 함박스테이크 24만개 판매…1만원 미만 메뉴 확대 : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUZJS1JpSEs0OFhCODdldU0yc1lFM29tODVNRVNXZlFSSk4xMFhfVGVlNXE1TDFWYS13VnVGTFUweUJkUnBDU2JBQVFmSjB0Z1k0REJMNXpFblF0OHVYWmcxU1V5VGRaOUVZM3JPUUJGcnlDb1lQQmJjWWZ4eFpKTzZVUkNtSjRfT2FDbWd3?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-08T06:29:47.000Z",
+          "tags": [
+            "메뉴"
           ],
           "price": null,
           "feat": false
@@ -89,20 +103,6 @@
           "feat": false
         },
         {
-          "title": "한솥도시락, 함박스테이크 24만개 판매…1만원 미만 메뉴 확대 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUZJS1JpSEs0OFhCODdldU0yc1lFM29tODVNRVNXZlFSSk4xMFhfVGVlNXE1TDFWYS13VnVGTFUweUJkUnBDU2JBQVFmSjB0Z1k0REJMNXpFblF0OHVYWmcxU1V5VGRaOUVZM3JPUUJGcnlDb1lQQmJjWWZ4eFpKTzZVUkNtSjRfT2FDbWd3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-08T00:29:47.000Z",
-          "tags": [
-            "메뉴"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "연세대 FCEO, 프랜차이즈 상생협력 솔루션 소개 박람회 대거 참여 [ 신아일보 강동완 기자 ]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWMW5qcTdCNmdKRVhkZWVmVkh0S18tZE9GTGQ5TVVDOWtGRGx5V19kQ24zazMzaUVGUjVWN0llTWJCSFd2Ykd0UWZRcGdaYS0zbEIwc3ZJSnRaeHFUQ0UxcWd2M0NTanhoN1pJeFl6Rm5rY2lNWEM2S0JiQkNudw?oc=5",
@@ -141,22 +141,8 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
-        {
-          "title": "오늘 11월 8일 농산물 가격: 커피 가격은 kg당 84,600동에 거래됩니다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEJCYWdSLXlNX2dFa3BnUTlVWURCQ1Y2Nm0zN0tHXzB0YWs0WXZVQUQzcFVuYk5uUjU1QXpVNk1Hckwxd19jdXc2djRUUzJuQ19WdnRuajlQVmQyaDBQY3owSkRvUjBJakE2bTNoT0RzVzF5b2xnM3B2N2d1MWtBX2llYkt4bXlhZzZXbHZwa2s4dnAzalpxNjdna2ttdUpSV0RZeTdwNG91aXJCWDlKUUln?oc=5",
-          "source": "Laodong.vn",
-          "sourceInitial": "La",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-08T11:35:07.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "유럽 8개국 조사서 식물성 대체식품 소비 장벽은 가격·정보 부족",
           "summary": "",
@@ -169,7 +155,7 @@
             "가격"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[분석] 곡물 가격 내렸지만 설탕 28.8% 폭등…FAO 식량지수 희비 교차",
@@ -248,6 +234,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "경기 물가 2%대로 내려왔지만…기름값은 14.8% 뛰었다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FQ3RSRldpY3FSU3hxRTdaMW9XOUtISFRHYm5PYW5uSE9yZW01Unl1bS1JZWxPcjNDM0lwRDRncE5uTzhDbW5wekFGa3NZWlpncjFBNTln?oc=5",
+          "source": "뉴스1",
+          "sourceInitial": "뉴",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-06T22:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -269,7 +267,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-08T03:40:11.000Z",
+          "publishedAt": "2026-11-08T15:36:11.000Z",
           "tags": [
             "유통"
           ],
@@ -329,14 +327,16 @@
           "feat": true
         },
         {
-          "title": "[이슈] 김장철 640억원 할인 지원…전문가 \"적절성·실효성 따져야\"",
+          "title": "역대 최대 640억 쏟아도 못 잡는 김장물가…할인 대책, 구조는 그대로",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpQm9zWmhoX2JqTkRlTG10LUhraEFoR0ttMmIyUzNJWkdnenBsSUM2aXhoeDBvampBQ1R4WHRrZ3JVTGoxWGZVWWZwRWU5LXlLTzNRTVNkV2ppQmE2NS1UOEtmcVlaMGNmQzEyaTd4Zw?oc=5",
-          "source": "시사포커스",
-          "sourceInitial": "시사",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-07T12:20:32.000Z",
-          "tags": [],
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zcVdCSUlqQWc4MkhKWGdEVTdUa1V5MXFhMnhjc1lreG1JTDAtd0Q3ZjRlcWRHd1hRMnhVYW13Sms5R0xSZmdoQ1hNMm02cFVDaEFIaEVOekVJTkF6eHc?oc=5",
+          "source": "데일리환경",
+          "sourceInitial": "데일",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-06T22:40:04.000Z",
+          "tags": [
+            "물가"
+          ],
           "price": null,
           "feat": false
         }
@@ -395,7 +395,7 @@
         {
           "title": "라떼에 오렌지 넣고 생크림 30% 채웠다…겨울 커피의 변신",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rNXN4YkI1X1pLVUZ1WlYzY1ljN0c5ZnlteHhqX2ZKUXNkbHhMMlg0cGMyNkxiUGNGUzE1MVhseWVFSjBIWF9kZHVwZ0dzdTRSWVQwb2huTE3SAVRBVV95cUxQQXZzOEgxcjM1V1pNZEpLNmFDc2NoZk5GakRhQWZ4S2VqWmRIRng4Z0oxMWRaNEFaYjlqV1V0SEE5M1V6UWFwNzhQdkQ0NnFfdlA5MXI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10U04yZjhEWllqZXkxMmZnT3RLcFl5b1Nvb1B1WkI5Ym1FWUZYR0Vsd2pvU2w2LWdfZHZveDd3NG1iR2NCLXJSRjJwUDdOUC1I0gFUQVVfeXFMUEF2czhIMXIzNVdaTWRKSzZhQ3NjaGZORmpEYUFmeEtlalpkSEZ4OGdKMTFkWjRBWmI5aldVdEhBOTNVelFhcDc4UHZENDZxX3ZQOTFy?oc=5",
           "source": "세계일보",
           "sourceInitial": "세계",
           "sourceColor": "#2f7d4f",
