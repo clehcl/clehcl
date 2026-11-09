@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:05:33.812Z",
+  "generatedAt": "2026-11-09T20:56:59.124Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,22 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 24,
       "items": [
+        {
+          "title": "[ 2026년 11월 10일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTERqNDV4NkVJMUVrTTZhRldPakxJaUhGaW5WRlJ0ZWxVd2FRLXFkdWRjVFhCTmljS3hYTXkzN0FXeEtZbFlTR2RodWxTSkYwdk9uS3dFQWh5VmNadnJDckhtODBRNDlVZDZ0ZkRLVnZnSGhyTUw5MmVrZlVyVzJvcGE1SUJRZmJ3UGhYRkJB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-09T11:42:05.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "롯데GRS, 신규 브랜드로 외형 확대…외식 포트폴리오 다각화",
           "summary": "",
@@ -30,7 +44,7 @@
             "외식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "부산 벡스코서 프랜차이즈 창업박람회 열린다… 100여 개 브랜드 참가",
@@ -68,20 +82,6 @@
           "sourceInitial": "센머",
           "sourceColor": "#c15a37",
           "publishedAt": "2026-11-09T07:24:51.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "다이닝브랜즈그룹, 'AI 시대, 역사의 쓸모' 특강...\"외식산업 트렌드 선도\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VS09GMmpRQlNsUDUtcTl2NXpMM0V6Rk5ONUhKU0RjUlZqanZZYzM5X0xqRlVzOEkzS3BidmNYOUEtXy1jalVuZDBJM3hLSEtjVWJBWjFUT1pwLUhqTWN3TEJWVjhFT2FqanVNTmUtd280UdIBckFVX3lxTE9VS09GMmpRQlNsUDUtcTl2NXpMM0V6Rk5ONUhKU0RjUlZqanZZYzM5X0xqRlVzOEkzS3BidmNYOUEtXy1jalVuZDBJM3hLSEtjVWJBWjFUT1pwLUhqTWN3TEJWVjhFT2FqanVNTmUtd280UQ?oc=5",
-          "source": "잡포스트",
-          "sourceInitial": "잡포",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-09T05:24:52.000Z",
           "tags": [
             "외식"
           ],
@@ -144,18 +144,32 @@
       "total": 11,
       "items": [
         {
+          "title": "롯데칠성음료, 3분기 영업익 570억원 37.9%↓…\"원가부담\"",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBENXhHOTYxejRyMGh2NS1xbFRIdnFjOEFmcmtQOFIwcnB4bWNXVzJyM0dIcEVjN3NFYVhNSkgwNG5LaWVNNzVrTktIZHBLN2FjclprOU1lcWpySGdHcGxySWE2UFY?oc=5",
+          "source": "포쓰저널",
+          "sourceInitial": "포쓰",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-09T05:09:16.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "설탕·밀가루·전분당 담합 10개사, 공정위 '가격 재결정 명령' 집행정지",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKQllja1piZk1lNGJxdjRLM1RVUHk0RThLZVplbDhndkljbm5NVm10UTNtUlVpSHRoanU3VzZTaDVJSm81OFdmdGFMaU50czdzWnhGdnZMQTZJNVdEN1VPMjF3aXVneHVrM3dR0gFrQVVfeXFMUEpCWWNrWmJmTWU0YnF2NEszVFVQeTRFOEtlWmVsOGd2SWNubk1WbXRRM21SVWlIdGhqdTdXNlNoNUlKbzU4V2Z0YUxpTnRzN3NaeEZ2dkxBNkk1V0Q3VU8yMXdpdWd4dWszd1E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PNm9ncTU2Y3d6dWlIOGlGVmhxZVBwT2dMUHJJSXVIZTNJSy04bUozWVBaVlZ0NGNmOU5xQUVfTExiOE5ia3BRUjk4dGM3Q2Itd3RqX1VXQjIxWTVSbkZiQ2RDTTRUZzTSAWtBVV95cUxQSkJZY2taYmZNZTRicXY0SzNUVVB5NEU4S2VaZWw4Z3ZJY25uTVZtdFEzbVJVaUh0aGp1N1c2U2g1SUpvNThXZnRhTGlOdHM3c1p4RnZ2TEE2STVXRDdVTzIxd2l1Z3h1azN3UQ?oc=5",
           "source": "CEO저널",
           "sourceInitial": "CE",
           "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-09T03:35:17.000Z",
+          "publishedAt": "2026-11-09T03:32:33.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "中 생산자물가 4년 최고…미국·이란 갈등에 에너지가격 상승 - 머니투데이",
@@ -200,16 +214,14 @@
           "feat": false
         },
         {
-          "title": "유럽 8개국 조사서 식물성 대체식품 소비 장벽은 가격·정보 부족",
+          "title": "식품 및 음료용 공기 필터 시장 2035년 전망: 신흥 거점 자동화가 성장 견인 - 뉴스 및 통계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vUGFFTFptaTNxNXBBaUYzc3pCbjdzbDQ4MU11M3M3LU16UW41d2dOQlJUVTJsY3RwTk9Jb0hOa0l5clBsWktFR0J2dXJqN2FLX0FHWFB0ckpPUDcwYlZaVkp2Nl9MZw?oc=5",
-          "source": "비건뉴스",
-          "sourceInitial": "비건",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-07T11:45:19.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlQ5WWdkdVRueDI4TjBuMVpmUWJmcVkyUUQ4c19vZXAzNlE1S09PWEd3UnZ5U0J0X0pWalg4LV9MRkI4bjJyQzVKdlZPR1N2ZURZcFV6YWZHSXRobk1fdGN5NE9XbG9JM0R2OFIxY092dllEUlFGb3dlOTJ0MG1KaFhTM1A1NFRmeldXREtUMHlxZ3N6OWxrbWdUQkcwMVFuM2h4VVVfSjFBYUxHTElLcnFFT1dkOFlJWTRuOWp2ZldNYzBNSzA1eG45cWRvVWRKbFRtajNR?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-09T13:51:04.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -233,18 +245,6 @@
           "sourceInitial": "뉴",
           "sourceColor": "#333333",
           "publishedAt": "2026-11-09T02:59:42.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "라면값 담합 조사, 물가 통제보다 공정한 시장질서가 먼저-하상도의 식품 바로보기(453)",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYbElUSXp5Z1R0LXNvaEJQckJ0cVhoQ2owNUpVVlNqSmVuSlNkX1dWX1FKVTY3Q0pvaUg1eWZTRkxsa0Y1ajVRaHpLbE9hSWZsemVQRDRYUVhKNkxTVlJBcVlFY1hUb3JaZThNS3Nidw?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-08T22:40:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -325,7 +325,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 7,
+      "total": 10,
       "items": [
         {
           "title": "식품안전정보원, 14개국 식품법령 API 개방…수출 규제 대응 지원",
@@ -344,11 +344,11 @@
         {
           "title": "美·EU 식품규제 강화 설명회 연다... EU 포장규정 8월 시행, 대응법은",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHU2RvU05iS25jR1hFUjZmZm1Lb1pYd1FRZ09BTm1yZF9HQXFQdkNWaTFIUnFnMnk1NDdOOEdTTU1MOU1wd2NESlFpRnktLS0ydWZHUXl6NlpFaEljVjRjMnVJTkxvRDEwNkHSAWpBVV95cUxQR1Nkb1NOYktuY0dYRVI2ZmZtS29aWHdRUWdPQU5tcmRfR0FxUHZDVmkxSFJxZzJ5NTQ3TjhHU01NTDlNcHdjREpRaUZ5LS0tMnVmR1F5ejZaRWhJY1Y0YzJ1SU5Mb0QxMDZB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tU2locjMxcDQ4N2dTNm9WNGdROXhuRGVpbXczb2d2eEZZbFJrZU1aMzlPMmx1dUUtOE82cEJJdEVNenhONWx3dEtWeVo3SzFCcE9lZGRUbWRiZVNNVFRURFZzZ0w2aVnSAWpBVV95cUxQR1Nkb1NOYktuY0dYRVI2ZmZtS29aWHdRUWdPQU5tcmRfR0FxUHZDVmkxSFJxZzJ5NTQ3TjhHU01NTDlNcHdjREpRaUZ5LS0tMnVmR1F5ejZaRWhJY1Y0YzJ1SU5Mb0QxMDZB?oc=5",
           "source": "센트럴경제",
           "sourceInitial": "센트",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-09T07:55:36.000Z",
+          "publishedAt": "2026-11-09T07:53:49.000Z",
           "tags": [
             "규제"
           ],
@@ -400,7 +400,7 @@
         {
           "title": "K-푸드 수출기업, 해외 식품규제 대응 빨라진다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9SeGFVSG1KaHo3U1VqWW5Dc19XTlltd2UwVmt3UXhmZE9kMGF1cDB6MkdVLXAtWml6RURr?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5FMHNGRnk5aGxzdnNMRm5xRnBneDlwT2ZEdlhGVFViRnYyWHdoMERTRGFWYXcydHdEV1FZdEhVQXQ?oc=5",
           "source": "식약일보",
           "sourceInitial": "식약",
           "sourceColor": "#2f7d4f",
@@ -412,13 +412,25 @@
           "feat": false
         },
         {
-          "title": "역대 최대 640억 쏟아도…김장재료 '할인 없이는 비싸다'는 체감은 그대로",
+          "title": "강화되는 미·EU 비관세장벽… 농식품 수출기업 선제 대응",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwTmJOQURqT3pDaG93MUtMRWpCZVZHQmZHSDZPcktLaW5XZDF3aEY5aUlHaG5BRF93T01OLTBmRVpfZnJfbzBUXy05M19DaFliU3BMQko2aHhiTHQtQVE?oc=5",
-          "source": "데일리환경",
-          "sourceInitial": "데일",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-08T10:27:58.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WbGpxZHRQYmpqLVlLeGNzLXVKZWFyQllTODY4dmVNSUhuR05haHlxcF9CRmxWTW5pb3V5UXFua2NGbmpjUktKUlVsaHJmc3JMc3ctUHFOZ19QMDd6UXZjWW43dDA5MFV3d3lr?oc=5",
+          "source": "충청뉴스",
+          "sourceInitial": "충청",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-09T14:20:34.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[농림축산식품부] 10월 세계식량가격지수 133.9… 전월보다 1.2% 하락",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdmtnbDE5R0NWWVJoRjlSRm1SSlUybDUycFNhUDgtWkVIeXBWaEcyTDR4Y0EwZEpLcWM0TFZTUXgyZV9lR2tXbUdnQTNYMmI1OGdlRndzSnJrV3RoSVE?oc=5",
+          "source": "커넥트이천",
+          "sourceInitial": "커넥",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-09T09:32:58.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -434,7 +446,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "풀무원식품, ′반듯한식′ 국탕류 신제품 9종 출시…한식 간편식 라인업 17종으로 확대",
