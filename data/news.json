@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:56:59.124Z",
+  "generatedAt": "2026-11-10T03:18:34.972Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,79 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 24,
+      "total": 27,
       "items": [
+        {
+          "title": "CJ프레시웨이, '왓더버거'와 연 500억원 식자재 공급 계약…외식 프랜차이즈 공략 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41UEFITTV1aHAtb2Y0ckhybk9uQkJpR201OWtXdXhMOGV3bExsN3p4ODQ1Qmt2Nzc4RlMtRlFIYVJSSHFtMkxwVHBSQllxMDhCQk5LNUNIMzM?oc=5",
+          "source": "더트래커",
+          "sourceInitial": "더트",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-10T00:40:00.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "CJ프레시웨이, 왓더버거 전국 250개 매장에 식자재 공급…연간 500억원 규모",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yMU05TUdDcjhIci1kclNpODVUZWx2SDdKMjBiRzhmZzZqZ0d2NTdTZVNPVmtEdEpBTGRMN3RDLTBYWWdibGR4bHVkX05UeXJkMFlocE55YkVpRUxIa1d3cVVrTzQ4RVFrY1hCN0tYcw?oc=5",
+          "source": "이코노미사이언스",
+          "sourceInitial": "이코",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-10T01:20:25.000Z",
+          "tags": [
+            "매장"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[유통 Pick] 외식 공급 계약·제품 판매·전시 협력",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xcVlKR1VSZDdPT3Q0Y0dKRE8zTjZSWEdHaFFhQmx2NjZLT0ZxSzNic255X2lacHVaZV8zc2pXUjF4NFdlOGVrYk5SRzJzSlF2NVNOTjhwRTY5OGNzSHoyakpWUmR5dzhtYVc0?oc=5",
+          "source": "라이센스뉴스",
+          "sourceInitial": "라이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-10T01:20:05.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "12일 ‘2026 KFA 프랜차이즈 창업박람회’ 개최…100개 프랜차이즈 브랜드 모인다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dVltLUR5OXZlNDFHeEpYaFF2bDN5QThSaWd5SjlWN3ZYb1Aya1ZQeVZucHByclN2U21OaW1SMkkxbW55Sk5Eb3l5S2s0YVNPajA1b3N2dHNkU1gxN3VhXzJfVzQ1Y1RkbzU3ZFh5VdIBb0FVX3lxTE90dVltLUR5OXZlNDFHeEpYaFF2bDN5QThSaWd5SjlWN3ZYb1Aya1ZQeVZucHByclN2U21OaW1SMkkxbW55Sk5Eb3l5S2s0YVNPajA1b3N2dHNkU1gxN3VhXzJfVzQ1Y1RkbzU3ZFh5VQ?oc=5",
+          "source": "펜앤마이크",
+          "sourceInitial": "펜앤",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-09T23:48:22.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "부산서 프랜차이즈 창업박람회 12일 개막…100여 개 브랜드 한자리에",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NZkFHRXFOaTZ4N3hKTm5oOTdjT0dITGtoU25vYkRBVVk4NlhQLXlTaXpDbE1DdGJ0TTRjNzZZQVVTaWZnNWx6ZGdtRmZrN0trMzdBVlJ2RVVlSm52MFh1MHBQamFZcDBMbFZsR2Z5Z9IBckFVX3lxTE5vd08tOE1YWFcwYzg4R21QMXJOT3h3cUN6eEtPczJRSGp5b2ZmSFV4eWxHUU9SbmpvczFITERocmt6ZHZVekg1RUkzRm04MHpQMFlRd3Bqb2xsdFVacm5qZXFhb1dDU21UdlFBUHF2Ylg2Zw?oc=5",
+          "source": "뉴스아이이에스",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-09T21:51:59.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "[ 2026년 11월 10일(화) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -30,7 +101,7 @@
             "프랜차이즈"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "롯데GRS, 신규 브랜드로 외형 확대…외식 포트폴리오 다각화",
@@ -59,76 +130,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "창업도, 2026년 11월 둘째 주 인기 프랜차이즈 순위 공개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUcmZLMTF1T1pyOUdHT0RNM01oOEQzU3RSZXZkbnpoZDBYOG1QUmhkVGloTW8tLUwzSlRWdFRtNHJMY0F5YnhSOWM3Zw?oc=5",
-          "source": "프랜차이즈월드",
-          "sourceInitial": "프랜",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-09T07:58:06.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[소비트렌드] 11월 2주, 외식 줄고 소용량 늘어",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13V0ZVWklGaDZBVkVRV2tpS1l0NVBKZDJRVnZjRHhoYmRjVjloTlcyWW1ET0V2ZHl0M3JVaUhuRG0yczRZM2hSdjhra1I1anUxb1dqRnBxb0QzVDU1dUo3X0tTVThJQlI5YjViNg?oc=5",
-          "source": "센머니",
-          "sourceInitial": "센머",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-09T07:24:51.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "창업 아이템부터 해외 진출까지…'부산 프랜차이즈 박람회' 12일 개막",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xZmhYMzZ4THJ5UDdNME42V21HV2RRQW5HOF92UkROUi1XLTdBZ1BBUC1xcG1UakN1X1BwZTVjZkh6QVlaak5XOFRSQTQzeXByOFRUX2x6V1ZmRG9COU12UDFTb1JyazhMb0VLRnd3?oc=5",
-          "source": "국제뉴스",
-          "sourceInitial": "국제",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-09T04:03:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "프랜차이즈 창업박람회 부산 12~14일 벡스코서 열려",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OQ3RzWG1SYkZVTXhXaHdHdGMwWG5DMHFOZlZnSXRjQU1OOXFYS1JIWWg2U1p2UzdkTk9BcjV0UHhxNE1xWS1BREV4NnRWclJXRHU5c3pORXJIeG15LVRiUjZEVmVkZjBSOHNLai16Zw?oc=5",
-          "source": "서울신문",
-          "sourceInitial": "서울",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-09T01:31:01.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "‘2026 프랜차이즈 창업박람회 부산’ 열려",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50OGlrSHdlMjNVYVFWeC13Q3hFVGNLU09VVFNyTmZOYXdiejZjRmVzWWJVT29CVVA3YlNWZm9zakpLcWcwOV9SOHpsWXJLRkxkOEJRY3ZSOF9wZkNJcWFOUTd0WGtybDFy?oc=5",
-          "source": "환경일보",
-          "sourceInitial": "환경",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-09T01:25:00.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -141,8 +142,36 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 11,
+      "total": 16,
       "items": [
+        {
+          "title": "CJ프레시웨이, '왓더버거'에 연 500억 식자재 공급…250여 매장 지원",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZXRxNkI0QWJnM0FidVBfdkQyaXFURG5tOS0tY1Boc3ZkNlU4TnBZbWRBUmFvTXlVd0dHSmJVNTNmZUxQeE5fdUxQM3lMUQ?oc=5",
+          "source": "전자신문",
+          "sourceInitial": "전자",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-10T01:25:34.000Z",
+          "tags": [
+            "식자재"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "CJ제일제당, 원가 부담에도 수익성 지켰다.. 3분기 영업익 6.9%↑",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oeHRyYmRvejVsVzVBOENJTE5jeGtBbjhfeGpiQnNPU1hxUEF2c3RvWGVQS3FIX1RxUE5UdzUycFlrRmFTNk1OcXpENkc5SkpJWXo3TkRsaE1hdw?oc=5",
+          "source": "파이낸셜뉴스",
+          "sourceInitial": "파",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-10T00:53:57.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "롯데칠성음료, 3분기 영업익 570억원 37.9%↓…\"원가부담\"",
           "summary": "",
@@ -155,7 +184,7 @@
             "원가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "설탕·밀가루·전분당 담합 10개사, 공정위 '가격 재결정 명령' 집행정지",
@@ -214,37 +243,13 @@
           "feat": false
         },
         {
-          "title": "식품 및 음료용 공기 필터 시장 2035년 전망: 신흥 거점 자동화가 성장 견인 - 뉴스 및 통계",
+          "title": "JW생활건강, 이마트 '와우샵'에 건강기능식품 6종 입점",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlQ5WWdkdVRueDI4TjBuMVpmUWJmcVkyUUQ4c19vZXAzNlE1S09PWEd3UnZ5U0J0X0pWalg4LV9MRkI4bjJyQzVKdlZPR1N2ZURZcFV6YWZHSXRobk1fdGN5NE9XbG9JM0R2OFIxY092dllEUlFGb3dlOTJ0MG1KaFhTM1A1NFRmeldXREtUMHlxZ3N6OWxrbWdUQkcwMVFuM2h4VVVfSjFBYUxHTElLcnFFT1dkOFlJWTRuOWp2ZldNYzBNSzA1eG45cWRvVWRKbFRtajNR?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-09T13:51:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"1조 8000억 과징금 부담\"…공정위 상대 법적 대응 나선 식품업계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tcDBpeDhsbDV0RHpIcVcyX3pvMzBrQlRhdnRrcHFVQmk1U2dzLUNOMk01REFDeVUyd0NnbkZMc1ptVVN6MDZSdHNQRGQtTjJ1TW5XZ0czNWxVZFhVRkJ3?oc=5",
-          "source": "뉴스1",
-          "sourceInitial": "뉴",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-09T05:36:59.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[올댓차이나] 10월 中 소비자물가 0.7%↑로 둔화…생산자물가는 4년만에 최고",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xZHAwXzJURXpTVWJzdW0yNk1uU0dtZ2VvM1h4NGFFdDF4UTRBS3YxdTFzWlFta1RMUHVsekRxVG5IamlXWDZUdDFJQ0hKamFXUWVfU1dOS3dXcXhTN2Q3WXdjZ3lzSjdDdzM2X1Rpb0huOTJOUkVZS9IBeEFVX3lxTE9xZHAwXzJURXpTVWJzdW0yNk1uU0dtZ2VvM1h4NGFFdDF4UTRBS3YxdTFzWlFta1RMUHVsekRxVG5IamlXWDZUdDFJQ0hKamFXUWVfU1dOS3dXcXhTN2Q3WXdjZ3lzSjdDdzM2X1Rpb0huOTJOUkVZSw?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-09T02:59:42.000Z",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0ZW9SSE9Fc0RGQjV2WDdFYnp6b085bmJBMjRlZ3NMM2dPUjgza1FKQ3FEM05QV0lHcFVKd3hFS3lGZnV4Tmk1UlpKOU1pS0hlYktaWGtXdUNKZVIzLS1aeVhRd3EwdE1WNXlYak5Fcjc0SjjSAXdBVV95cUxPTXNFSXRCQUxvcldadWREMVNJS2RaMjR5TlpteVZhSmIxUkVSakJjTlB5M05ZeTVBaVlsN3dOUjFDM3dERHBBZ1pCMkJGTEV3Q0E0MDJqWUJBSkFLbV9lQ1MtZWhKVFJBVGhBUlNYclNsLUY0UUV4UQ?oc=5",
+          "source": "뉴스프리존",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-10T00:35:47.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -260,22 +265,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
-        {
-          "title": "CJ프레시웨이, 식봄 앞세워 온라인 식자재 유통 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnRybmhvUUVGVmFiNVRITWtWRUo4a2t1TTU3UGhVb0dtcGRPU2dCQmM0ZjNWd1djQTdKbVNGdTl5b3pmYl9ldGo1b2dJSU1Db05XanhOY0FZc1dZd3otV0pxaU4zZW54ZW1OZkRuZWExdVRadHZtcm5TUGdsUUE4SA?oc=5",
-          "source": "네이버 프리미엄콘텐츠",
-          "sourceInitial": "네이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-08T21:50:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[SIAL PARIS] 삼성웰스토리, 글로벌 확장 잰걸음…급식·식품 유통으로 영토 확대 : 네이버 블로그",
           "summary": "",
@@ -287,6 +278,30 @@
           "tags": [
             "유통"
           ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "전남광주 공공급식센터 13개 시·군·구 운영에도…광주 사립유치원 이용 단 4곳",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdGxTZHh1azVxalFNQ0RLMjBnbGxmSEZuV3R0Nno4bktqUHlybDg0V013UlVTblpSWk5tbk1vVHdwbGxzSTl1cF85cC0zM3NfQklaajFWZWU3ZWtHNmQ0OGxZNE5GUzA?oc=5",
+          "source": "지이코노미",
+          "sourceInitial": "지이",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-10T01:48:55.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, 왓더버거 전국 250개 매장에 식자재 공급",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40M0UwbG5KTEd4ZkJ0cXUxQV9qT3EtbjZ6MlN3Rkl6Xy1kVFl3ZGFHdFhKa0MtOHpOSnE3eXl6NUNCUlFMN0FmUTJ2S0VWWDZFNkVlZy1ncm1pWEM4YmVlRTU4NmFPSlRzbGppXw?oc=5",
+          "source": "식품저널 foodnews",
+          "sourceInitial": "식품",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-09T23:09:59.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -325,8 +340,22 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
+        {
+          "title": "김장철 앞두고 새우젓 40% 급등…장바구니 물가 엇갈려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQWZoSjdpYS1BZ1c0czl1cHJVbU9keUlrSWhpSjVKYk9nWDVaUXU4ZTFEd05NZVcwakM2dXJlWWFLRGI4STRiRFotVDBjU040LXVfTF9idTE1Z2hTOGVIdE9XRndJdnNqN1dTcmVFMA?oc=5",
+          "source": "기호일보",
+          "sourceInitial": "기호",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-10T01:11:06.000Z",
+          "tags": [
+            "물가"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "식품안전정보원, 14개국 식품법령 API 개방…수출 규제 대응 지원",
           "summary": "",
@@ -339,7 +368,7 @@
             "규제"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "美·EU 식품규제 강화 설명회 연다... EU 포장규정 8월 시행, 대응법은",
@@ -422,18 +451,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[농림축산식품부] 10월 세계식량가격지수 133.9… 전월보다 1.2% 하락",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdmtnbDE5R0NWWVJoRjlSRm1SSlUybDUycFNhUDgtWkVIeXBWaEcyTDR4Y0EwZEpLcWM0TFZTUXgyZV9lR2tXbUdnQTNYMmI1OGdlRndzSnJrV3RoSVE?oc=5",
-          "source": "커넥트이천",
-          "sourceInitial": "커넥",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-09T09:32:58.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -446,7 +463,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
         {
           "title": "풀무원식품, ′반듯한식′ 국탕류 신제품 9종 출시…한식 간편식 라인업 17종으로 확대",
@@ -494,21 +511,6 @@
           "feat": false
         },
         {
-          "title": "교동식품, 단백질 UP·열량 DOWN ‘단백국밥’ 닭곰탕·닭개장 신제품 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00VlZaOFZuc3g1eUVEUzI4R253czFBM3c2S3VVVW5xUThVR0RLT1QtZ0RyR1FrTTQ2ZlNnSmFtaVB2TnV6SzQzZWpDOTRab1E2alpvek9senNTSGwtWmpPMklSMm51cHVyUGc3d2pEeFM1UdIBckFVX3lxTE00VlZaOFZuc3g1eUVEUzI4R253czFBM3c2S3VVVW5xUThVR0RLT1QtZ0RyR1FrTTQ2ZlNnSmFtaVB2TnV6SzQzZWpDOTRab1E2alpvek9senNTSGwtWmpPMklSMm51cHVyUGc3d2pEeFM1UQ?oc=5",
-          "source": "시선뉴스",
-          "sourceInitial": "시선",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-09T02:04:13.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "[식음료] 농심, 연간 수출 공급능력 12억개로 확대…삼양그룹, 자동차·원전 소재 개발 성과 공개 / 풀무원 국탕류 9종 출시·삼양라운드스퀘어 해외 콘텐츠 218만뷰…하이트진로·동서식품 신제품·협업 추진",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYTZoLVU0MXNVMU1YVEZqcUxjRE95NnNjWUJ3aGFDOGtrcW9ESVVBQmtQSGNqRjFUNkZ1WVFTWHA2dXJkY1lCNU8wWXJuZXdkRGp5dXZwUGRPZWczTWZodllvd2ROUjB6TWwxckNkTms1QQ?oc=5",
@@ -524,13 +526,28 @@
           "feat": false
         },
         {
-          "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
+          "title": "교동식품, 단백질 UP·열량 DOWN ‘단백국밥’ 닭곰탕·닭개장 신제품 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TaFRrY3pzUWs1Z1lWODVqQjJ4Nm52MU1nWW5ZOVZQOFlrWlN5RGNnRFV4cTU2WXpObk1KUDd2aDBPTWZzWGFpZWI2V3FUWEwtaXc?oc=5",
-          "source": "매일경제 마켓",
-          "sourceInitial": "매일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-08T00:57:49.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KcVEtV2hZYTY2RHNwZ0k4QUtJNnlUVGIzWGF2OEVVNUxNRjNSdVlsaEhoMVBTZ250T0UxMUhKT2J1RjNMNUs3Zlhlc3JZeklNRmVnWF9BZldJRUxyUk8tVXpNN3FzTklrN2U2Zm5n0gFyQVVfeXFMTTRWVlo4Vm5zeDV5RURTMjhHbndzMUEzdzZLdVVVbnFROFVHREtPVC1nRHJHUWtNNDZmU2dKYW1pUHZOdXpLNDNlakM5NFpvUTZqWm96T2x6c1NIbC1aak8ySVIybnVwdXJQZzd3akR4UzVR?oc=5",
+          "source": "시선뉴스",
+          "sourceInitial": "시선",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-08T23:58:00.000Z",
+          "tags": [
+            "신제품",
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "치즈가 어울리는 계절 ‘딥핑·멜팅’ 간편식들…편의점CU 순차 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2MtWjRPT1BQYlhWUjBPS0JpN29xN21FcUYxWUtGb3RNWHRiUTFSWUlEandXWGI4NURUak9hdlVrYlJCaUZSelp0YXFfUXRMN2dTWlVISUlrMW5rSzUtSWlodWpVZGtUQ3ZjUDlXZ2tiOFlZYklGTHg0S2J5V0RCTVRNekF3N09QUC14ZFNR?oc=5",
+          "source": "국제신문",
+          "sourceInitial": "국제",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-08T09:51:00.000Z",
           "tags": [
             "출시",
             "간편식"
