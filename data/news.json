@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:57:16.328Z",
+  "generatedAt": "2026-11-11T21:48:32.045Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 23,
       "items": [
+        {
+          "title": "\"본사 메뉴에 내 아이디어 더했죠\"…프랜차이즈 판 흔드는 2030 '청년 사장님들'",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmRmMEJubWY3clRuN1lrU3c1dVdtUWgwSEYtR0dxUEVXUnJUWWxQczhJRDRqTjRpY0pRWDRmMzRaQlhsN3Ewa2p2U180SXNOYV9tMjlYMWpJVXFSdTRzYzctSjBiOTNYYUlfMjlxbjhucHowQXNydXdUWnRteWhLTA?oc=5",
+          "source": "이데일리",
+          "sourceInitial": "이",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-11T20:50:03.000Z",
+          "tags": [
+            "프랜차이즈",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "CJ프레시웨이, '왓더버거'와 연 500억원 식자재 공급 계약…외식 프랜차이즈 공략 확대",
           "summary": "",
@@ -31,19 +46,18 @@
             "외식"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
-          "title": "[코조 외식 뉴스 편집 후기 #166] 물건을 보유한 가라오케관이 외식 FC에 가맹했다. 역 앞 일등지의 새로운 활용법 (2026.11.10)｜佐藤こうぞう",
+          "title": "취업 대신 ‘내 가게’ 택하는 MZ…주요 프랜차이즈 사장님 3명중 1명 청년",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpTTlVUURya1BPVEJQenBSX1VsS0dRa2tqcnRlV3k5TnlnV2RBemwxSXZUVFlxYWxTXzFwNGxianhNZFd5cjItV3RPaUVNUUs4c1hEaDYwMVA?oc=5",
-          "source": "note",
-          "sourceInitial": "no",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-09T22:42:57.000Z",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUNyZmZrS0xPWDdVOEF0TXlTRWt5b0dzTVJWVFEwelA2aXpSb01pakNpUXlaSTlCSU9zOE8xdGRKUEFRTzdSZWdrWkYxN0dna0JPaWJmMjc0YWNJaF9waVhDWFdEZG04S3FPRXFqaGdEOW5CMXVvYmNxby15dkZ3cA?oc=5",
+          "source": "이데일리",
+          "sourceInitial": "이",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-11T20:50:04.000Z",
           "tags": [
-            "가맹",
-            "외식"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -55,7 +69,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-11T10:06:04.000Z",
+          "publishedAt": "2026-11-11T13:50:39.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -72,6 +86,20 @@
           "publishedAt": "2026-11-11T06:15:18.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[사토 코조의 '신 외식 트렌드론' #13] 하이 컨셉 주점 그 너머의 '논장르 주점' 제2장──업태를 버린 끝에, 브랜드의 미래가 보이기 시작했다｜佐藤こうぞう",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xT1I4aExndFNYRU43cHdtSXNUV2hFV0xzekR1MTBTU0FfYVZkY0V1dDhWVi10eWNuQ3pRT3FaYmhsTm5MS0RyT010aU9ub3RHNWtuYjQyZ1I?oc=5",
+          "source": "note",
+          "sourceInitial": "no",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-11T01:30:36.000Z",
+          "tags": [
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -98,34 +126,6 @@
           "sourceInitial": "In",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-11-10T14:36:04.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[ 2026년 11월 11일(수) 프랜차이즈 뉴스 ] : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWgyWklvSUgxZTBDTTd6SEo2MVNTUlE4V2VMUGVFWFRBUktnQV93dXN3cVF6Ny1KZFR3eVZVNVA3eDctN1lPOUhDcXJtdDlOSnNzMExQakZ2SXhpaVFMa1F5aVJFZ2I5RmFNcWhsSzlCX3VMYjJLYkZNQWFRakFrbTdaOVg0NWNZaTkxU0Zn?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-10T14:34:05.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "지역 외식업 경쟁력 제고…중구, 2026년 외식업주 선진지 견학 추진",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1seDB6VGtNVWVyWlhEUzB6OTdEOVhvbTJCbWVBS1F4OUNnYncwS3dxdERUVncxMUxzMEdzRy1DRmZuTmNMVGFUTlM4RDRoRWJTVk5felNwdzdJc1ZITkRLY0JWMA?oc=5",
-          "source": "경남도민뉴스",
-          "sourceInitial": "경남",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-10T10:30:28.000Z",
           "tags": [
             "외식"
           ],
@@ -171,6 +171,20 @@
           "tags": [
             "원가",
             "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "배추 도매가 42% 하락…농식품부, 해남 등 3만 톤 출하정지 추진",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BYzltWHVvcjJyMlZETHloc2FpQWpTRW5YblVRQXJ0YW9fTm1QYndLdVVEeDc0SXJhcVlZM240ZklNOTg1TGpwLVgwUXV4d2pNTmlTTlhIZVQ?oc=5",
+          "source": "안티에이징뉴스",
+          "sourceInitial": "안티",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-11T13:06:26.000Z",
+          "tags": [
+            "도매"
           ],
           "price": null,
           "feat": false
@@ -244,20 +258,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "식자재·포장재 성장…동원그룹, 3Q 매출 6.6%↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFNKbnZhalhpZ0hBLVp3R0huYzlpZzhadUZZQjRPM3V4RWpLY29rb3JiZXZQTFMyUW02djlaMXFBS2liajhFdEJCLU0tbFI2cm5VTVZsemV5OVpNQWgtbHpUS1JNWW5GczNMSHpWVF9ET3A1TWQ1dmFTNldZSGJuVVU3Zmk5MzdiZGFn?oc=5",
-          "source": "글로벌이코노믹",
-          "sourceInitial": "글로",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-10T10:17:21.000Z",
-          "tags": [
-            "식자재"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -270,7 +270,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 10,
+      "total": 11,
       "items": [
         {
           "title": "알토란ERP, ‘2026 한국고객만족도 1위’ 식자재물류유통ERP 부문 수상",
@@ -406,13 +406,13 @@
           "feat": true
         },
         {
-          "title": "서희재 교수, 식약처 규제과학 R&D 우수성과 식품 분야 최우수상",
+          "title": "선문대 서희재 교수, 식약처 ‘규제과학 R&D 우수성과’ 식품 분야 최우수상 수상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4a1dkQjBMRTJWR2wxbDYtSy1kZmdVUW1Ecld3eEpSc3kyWlRkZjI5bGhDVVpSV2YtSkVXcEJRbjU5V2Q5dDhod3hKMWhBRkRaR3RXbGJRXzJIZ3Z6OE8xMTctMzFXekUzZzJzaw?oc=5",
-          "source": "백제뉴스",
-          "sourceInitial": "백제",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-11T08:37:14.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbjNqWHBLRjE2a1FUcWJWSE1oeWFzTVlTRXVpNExWX0t3RUp4ODdSYmVvdzBCVEdONF9PTlJIU3laSGhaUE1EZ0lfNU93LVF2bFlIUk5XdzR1TDNDd280YkxmTEJHOGFD0gFoQVVfeXFMTVNuM2pYcEtGMTZrUVRxYlZITWh5YXNNWVNFdWk0TFZfS3dFSng4N1JiZW93MEJUR040X09OUkhTeVpIaFpQTURnSV81T3ctUXZsWUhSTld3NHVMM0N3bzRiTGZMQkc4YUM?oc=5",
+          "source": "Usline(유스라인)",
+          "sourceInitial": "Us",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-11T14:35:06.000Z",
           "tags": [
             "규제",
             "식약처"
@@ -423,11 +423,11 @@
         {
           "title": "위생 기준 높이고 포장재까지 규제… 중소 식품사 부담 커져 ['K푸드의 그늘' 비관세 장벽 넘어라 (中)]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56ME1VUTU4VnNyei1Fa3oyYlFtTnN2anpoV3hYTnc3UTJYVkJ1aGQxYVhpaVNkLXc1Q0hTeHBySlVtYUlIOU8zNHY1OGNLTS1ZVUNRZElLZ09IYVRB?oc=5",
-          "source": "부산파이낸셜뉴스",
-          "sourceInitial": "부산",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-11T09:33:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMHJ1YmZnS3RnOWwyaWRGQVlkbGRwQWo0TUJSdDFibGFBNjNNdjZ2UVViYVVobFgtMlFsMTk0ZDJEWVlvVmMta3JaZVI4bnpELXlUeS05NWpHZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "sourceInitial": "파",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-11T09:33:20.000Z",
           "tags": [
             "규제"
           ],
