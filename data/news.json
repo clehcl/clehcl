@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:48:32.045Z",
+  "generatedAt": "2026-11-12T02:42:22.966Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,16 +16,16 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 23,
+      "total": 19,
       "items": [
         {
-          "title": "\"본사 메뉴에 내 아이디어 더했죠\"…프랜차이즈 판 흔드는 2030 '청년 사장님들'",
+          "title": "[프랜차이즈 Pick] 청소년 지원·신메뉴로 사업 영역 넓혀",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmRmMEJubWY3clRuN1lrU3c1dVdtUWgwSEYtR0dxUEVXUnJUWWxQczhJRDRqTjRpY0pRWDRmMzRaQlhsN3Ewa2p2U180SXNOYV9tMjlYMWpJVXFSdTRzYzctSjBiOTNYYUlfMjlxbjhucHowQXNydXdUWnRteWhLTA?oc=5",
-          "source": "이데일리",
-          "sourceInitial": "이",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-11T20:50:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRjlCZWZPb0p1WThDQXpURHFxcHZTQWIxMmtuMzd0amNKcmNtbERqWjRYbjNPWDYzMGs5TWFHY0tIRDl4T19iUDZ2MnlVNnBIWWM0QnBwZWJlRkNPOGI3SEpZUm84bUVmYXZZ?oc=5",
+          "source": "라이센스뉴스",
+          "sourceInitial": "라이",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-11T01:01:30.000Z",
           "tags": [
             "프랜차이즈",
             "메뉴"
@@ -34,16 +34,43 @@
           "feat": true
         },
         {
-          "title": "CJ프레시웨이, '왓더버거'와 연 500억원 식자재 공급 계약…외식 프랜차이즈 공략 확대",
+          "title": "\"CJ 치킨, 대기업 무임승차\"…프랜차이즈협회 \"법 보완하라\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41UEFITTV1aHAtb2Y0ckhybk9uQkJpR201OWtXdXhMOGV3bExsN3p4ODQ1Qmt2Nzc4RlMtRlFIYVJSSHFtMkxwVHBSQllxMDhCQk5LNUNIMzM?oc=5",
-          "source": "더트래커",
-          "sourceInitial": "더트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Q0k2R3FJajBnRlBhQmtYeDNGajl4QlFtTkFTS3A3SC1PbWlhNzE5M3IyNXN4eDB2SWk0TDJCbmhjU01tZ3dIeXhKWnRZRGZ1dzhmUi1VeE1BSUNuYnk0MVFCdDlSX0xX?oc=5",
+          "source": "동행일보",
+          "sourceInitial": "동행",
           "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-10T00:40:00.000Z",
+          "publishedAt": "2026-11-12T01:10:00.000Z",
           "tags": [
-            "프랜차이즈",
-            "외식"
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "“인스타 보고 왔어요”…프랜차이즈 판 흔드는 2030 사장님들",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15eWlvc3hfQnAwTEs2N1ZuV21nekkwaWRRMXRuRkFpbWMtcGs3WmZyTjNHYmZ2N0JYOVlFZ3dTSFp4M1gwc1RNak1QWnBtd3J6eVhram56UEdOYThfT2hvVF9FS1lxRTNEVGVHOGcxb3pXVUU0eG9DNGdfdw?oc=5",
+          "source": "이데일리TV",
+          "sourceInitial": "이데",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-11T23:40:00.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "줄 서서 먹는 ‘C–프랜차이즈’의 매력",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBa1BoTlFscFpkc3NhQWhQWl9UXzlWVlN6emRsbC0wODJuX0pfcERHR04zaE9EVW0wSS1PNExOaExRcXJ4ZXFFNXBCZ2FSRU1VV29jVURnR3g4UUlaSUhobmY5UVJYTHAwQ0HSAW5BVV95cUxNY3NvVzAzc05yS2lxUWZxQTdaaUh4MWU3ZzNOS0JWZV9acXRMdkZXczhvZzZleFItdFZBN1Jncjh6bGxaUHdHOHlLd1JfRzhoRHcxNjE5WDZCN1lXWGIzU1ZLTG1BN0xadDZFa3ZTQQ?oc=5",
+          "source": "여성조선",
+          "sourceInitial": "여성",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-11T23:00:00.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -77,6 +104,20 @@
           "feat": false
         },
         {
+          "title": "PC방프랜차이즈 선택 기준 변화…아이센스블랙라벨PC존, 개점 이후 관리 경쟁력 강조",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14OE04ZWFnMDExcExDaFI5a3pNeXRZUVBiWVR1TVBvUEtiU1B4ZjVBWWkxZG1sc3c0emlYU3l1RHhzemZPNm1XVHJicmZqUUhuV0UwYlpiUV83czNPbzdiXzBUNHRGOF9IRW92aGNBTnZnUdIBckFVX3lxTE14OE04ZWFnMDExcExDaFI5a3pNeXRZUVBiWVR1TVBvUEtiU1B4ZjVBWWkxZG1sc3c0emlYU3l1RHhzemZPNm1XVHJicmZqUUhuV0UwYlpiUV83czNPbzdiXzBUNHRGOF9IRW92aGNBTnZnUQ?oc=5",
+          "source": "메가경제",
+          "sourceInitial": "메가",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-11T10:33:08.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "제86회 프랜차이즈창업박람회, 내년 2027년 1월 14~16일 코엑스 개최 : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHl2ZDB1MUVCckVLYWhISnY1YWhZRko3MGZZVHA3bE1DcVcyMjFMb2tJOFlmalJNM2NrZm94VnVJUm1xRzJ0VHZTc0VjZ19xbTRLbi1SUjMxZ1A1dGRaZWdMSElTOHNUZVJvR2xSNjhYYy1kRkVxMTlHS3NnbHpQYzdsc0xtWXJ1VnBVTzN3?oc=5",
@@ -86,48 +127,6 @@
           "publishedAt": "2026-11-11T06:15:18.000Z",
           "tags": [
             "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[사토 코조의 '신 외식 트렌드론' #13] 하이 컨셉 주점 그 너머의 '논장르 주점' 제2장──업태를 버린 끝에, 브랜드의 미래가 보이기 시작했다｜佐藤こうぞう",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xT1I4aExndFNYRU43cHdtSXNUV2hFV0xzekR1MTBTU0FfYVZkY0V1dDhWVi10eWNuQ3pRT3FaYmhsTm5MS0RyT010aU9ub3RHNWtuYjQyZ1I?oc=5",
-          "source": "note",
-          "sourceInitial": "no",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-11T01:30:36.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[심층분석] 피자헛, 요기요 포장 주문 1만5000원 할인…외식비 부담 속 배달앱 할인 경쟁의 전략적 변화",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fek1SZTRmX0hndWxqY0NMTTJNS19EMWN5d2R6cERydmtHbmdHcVg0d1M1Wld0MnpkNXNlbk9NZ1lVTlhxdWdjNmlZSjdmbnpqRjk3ODBjdzF5V1JJb1pfUGZBclgtUDRQYmc?oc=5",
-          "source": "뉴스밸류",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-10T23:30:00.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "2035년 플레이트 시장 전망: 외식 확장과 지속가능 소재가 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWpzRko5QlFUMV9rcEFGVG9ZTkFnbmJwTkEwRkJFd0plS0ZRYnlfUXo3OVBLc2cyVl83aUYtNUJCSmVUaHNUbUptYkJOT1UyVlZFUkgyLXFKS2xWUjl6U3dwWWwyaUpZWHF5OTZhNXFJNVltSkhMM0JYUmJnUHNYU0w2M3dGYUlHeEJEVS1RaTlXRDluam5xVnZNOEswZXI0alM3WDd6QW9KaFNKX0FldmtHUXlPT0hoMmQ0ZUxZejM?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-10T14:36:04.000Z",
-          "tags": [
-            "외식"
           ],
           "price": null,
           "feat": false
@@ -143,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 22,
+      "total": 21,
       "items": [
         {
           "title": "[식자재유통업계 10월 동향] CJ프레시웨이 ‘식봄’ 통해 공영도매시장 농산물 판매...농협경제지주 축산경제와 축산물 공급 업무협약 체결",
@@ -270,19 +269,18 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 11,
+      "total": 9,
       "items": [
         {
-          "title": "알토란ERP, ‘2026 한국고객만족도 1위’ 식자재물류유통ERP 부문 수상",
+          "title": "[인사이드] CJ프레시웨이, 식봄·PB 상품 쌍끌이…식자재 유통 혁신 속도",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tUW1wRGdvaldaRzdJN2N6aUhaanZISTBybU1NVEhPRzZHZF9wWUZ4ZzZPM0xDYkxUVFRNdllwTGJzWnFfVDdSYTZZWnA2UGMyOXFIZm5GRVVLVHY4?oc=5",
-          "source": "livesnews.com",
-          "sourceInitial": "li",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-10T01:57:17.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhRXhmb1FWWDBNVHBkbmRDekdSdUtrVlFORUViWnd0R3ZRV2hvYXYtSGlrWmx0N0hlWnlRMjdHN0l3M19OZWEybGRPbVdwM0F1dC13d3JpNkwwM01KUXYw?oc=5",
+          "source": "kjtimes",
+          "sourceInitial": "kj",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-12T01:04:57.000Z",
           "tags": [
-            "유통",
-            "물류"
+            "유통"
           ],
           "price": null,
           "feat": true
@@ -295,20 +293,6 @@
           "sourceInitial": "비즈",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-11-10T09:22:10.000Z",
-          "tags": [
-            "물류"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동원그룹, 식자재·포장재·물류 호조에 3분기 누적 영업이익 4473억원…전년비 10% ↑",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YUZjWDk0OEdHSGpkT25zY2xhZzlmVGV0LXJiYS02bVZaRXBfLWVPNlVnWENNRHJYczk0bVdTNERaVDBHMUFHMjRlaE1SYmdURGVhc1RZTWpzdVRyaUJ4LWZ4dVhyMHlxZzZqdklKVdIBb0FVX3lxTE92YUZjWDk0OEdHSGpkT25zY2xhZzlmVGV0LXJiYS02bVZaRXBfLWVPNlVnWENNRHJYczk0bVdTNERaVDBHMUFHMjRlaE1SYmdURGVhc1RZTWpzdVRyaUJ4LWZ4dVhyMHlxZzZqdklKVQ?oc=5",
-          "source": "토요경제",
-          "sourceInitial": "토요",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-10T09:05:40.000Z",
           "tags": [
             "물류"
           ],
@@ -366,13 +350,25 @@
           "feat": false
         },
         {
-          "title": "동원산업, 3분기 영업익 1497억원···식품 부진에도 B2B 사업 성장",
+          "title": "동원그룹 “B2C 식품 부담, B2B가 덜어냈다”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYk9DdGdLS3RaMWNSODctSENqbldHcU5FVlIyWFpZOHhWeXFyb3VlNG1KMERQMFhwQktNTHNjUkhoSmlfalVjRjAtQlF2a0R0TG9rNzJEaHFkcEpJbVotckFIY254NnpCRGNoRA?oc=5",
-          "source": "스마트비즈",
-          "sourceInitial": "스마",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-10T08:22:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9raVl4eHZ5ZDZ6cVd3emIwekt2aWZZOEozQ05rLUFHYklfMEw5azBhRGpuSk04YTZFNTktbzd1UXpRRXNRelQ0VTNHZFhhdFJBaHB2b3hmYXpDT1UyUXZjMDZQcU9veFVPYkFlM0h2WdIBb0FVX3lxTE9raVl4eHZ5ZDZ6cVd3emIwekt2aWZZOEozQ05rLUFHYklfMEw5azBhRGpuSk04YTZFNTktbzd1UXpRRXNRelQ0VTNHZFhhdFJBaHB2b3hmYXpDT1UyUXZjMDZQcU9veFVPYkFlM0h2WQ?oc=5",
+          "source": "한스경제",
+          "sourceInitial": "한스",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-10T10:58:39.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "식품 원가 부담에도 B2B 선방…동원그룹, 누적 영업익 10% 증가",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VNFNIS0k4Slp2QWNNYjd3OUZEUmJDNkRwMGotam5DMVB3M2xyazh6ZzBKUHVMYmtzQkNNXzA5aVdFbVl5TUY0S0dXakhtbkI2cUlWYWFCNVVDd0E1cm4zSlBFNA?oc=5",
+          "source": "프라임경제",
+          "sourceInitial": "프라",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-10T08:25:17.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -388,7 +384,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "aT, 정부 비축기지 첫 첨단 CA 저장고 도입…농산물 수급 안정 강화",
@@ -419,20 +415,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "위생 기준 높이고 포장재까지 규제… 중소 식품사 부담 커져 ['K푸드의 그늘' 비관세 장벽 넘어라 (中)]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMHJ1YmZnS3RnOWwyaWRGQVlkbGRwQWo0TUJSdDFibGFBNjNNdjZ2UVViYVVobFgtMlFsMTk0ZDJEWVlvVmMta3JaZVI4bnpELXlUeS05NWpHZw?oc=5",
-          "source": "파이낸셜뉴스",
-          "sourceInitial": "파",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-11T09:33:20.000Z",
-          "tags": [
-            "규제"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -445,7 +427,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 6,
+      "total": 4,
       "items": [
         {
           "title": "식품업계, 초코 디저트 30여종 선보여·겨울 신제품 7종 출시",
@@ -463,15 +445,29 @@
           "feat": true
         },
         {
-          "title": "[오늘의 먹거리] 캐릭터 IP와 젊은 MZ 트렌드 겨냥한 크라운제과·롯데웰푸드",
+          "title": "우양, 3Q 영업익 19.4% 증가…\"HMR 제품 해외 수출 확대\"",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WN1dueTgtekNfUUxuVFJpQm40Vzh1dmRpMjlmSTN0bVNoSHJab0NYTU9nb01oNU44VThmUFdDWDdWZXliZmtjaE42NkJXek5FcFE?oc=5",
-          "source": "한국정경신문",
-          "sourceInitial": "한국",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uRTBfUXNjSl95MnljdE9RVzlXMUJTcVJaaUFyWUczTjZ2bng3TW9zbkQ3aTViOXdOWUVNenBLb3hHQXZGcHFFMnFGUTRiSGZ4U1l5M0dKaS1TbnI3VEljbjM5dlo?oc=5",
+          "source": "서울경제TV",
+          "sourceInitial": "서울",
           "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-10T01:54:59.000Z",
+          "publishedAt": "2026-11-12T00:31:11.000Z",
           "tags": [
-            "트렌드"
+            "HMR"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원식품, 해조류 브랜드 '우리바다' 선봬…김·미역 4종 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0eTVZZkRYaU8td0N4RUFBazhqcU9BalE4R0FpM2JWRnlHQVJ2OFZfWFZNMXhMeHVDdW1kNHdnS3VzVklGUVQ4VzJGSkoxUWRER1NxU2VmZ1JEdEg3Q3NQclEzR3JpQ0lxTlHSAW5BVV95cUxOdEFDN2xxcmtFd09SY1Q3bjhpVUNGdUFiNzVEcUllNW1KbHRqQ0VhNmMzNUc4Q2ZfWGtxV2p0N3l0c0w2OXkxXzV6UE13SkYzangwRlVhYV9kNjBaZFNIRWZxVkRBbTRJeUhsM2tKQQ?oc=5",
+          "source": "뉴스드림",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-11T23:33:48.000Z",
+          "tags": [
+            "출시"
           ],
           "price": null,
           "feat": false
@@ -484,42 +480,6 @@
           "sourceInitial": "센트",
           "sourceColor": "#1a7a5a",
           "publishedAt": "2026-11-11T01:12:22.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 10일 식품업계 소식] 롯데칠성·롯데웰푸드·농심·풀무원·크라운제과·빙그레·hy",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oRHJxMkszcGlvX2J3T0tKa0hfSG1zNUtJc1ZpTUhSVzZ2UUVBSzFNclR4cG1oQktXQnQxTXNxdElZTklmd0lTVFZvWUNmTDlvVUM5YjVGR3dKYjFXTHNOdG5iWjU3Q04xdTItVg?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-10T01:46:49.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[Weekly 식품·식음료] 교촌·CJ푸드빌·롯데웰푸드·이디야·롯데칠성 등",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pdmJjRUloeFk0WW44dDJ3VFVCUXpsYlU4b01CVURQVWozRlpqbmhTY1FmVTdKM01rR0xneXM4V0pzQ1ZFR2lnX1RGaUZDRnhkTHVwX05UNENUdkRPT3VHWm5zOWlXR1NrM3Vzc3RzclF0SW8?oc=5",
-          "source": "오늘경제",
-          "sourceInitial": "오늘",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-10T01:29:20.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "김밥축제에서 찾은 맛…김천 우승작, CU서도 통했다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yZm11Rkh4ekN2NjBqTVJQODUxTDk1NHJlNnduVEYxczRaNi1oaFZLckxTNW44eVl6LWxZUnFKSTBvV2l0OHFmN3NGeHFPMm11bFpzeDM1bmhpSHN5cElEUHA1cUlmVmE2ZVctX21iR09tQjlraV9wONIBeEFVX3lxTE5yZm11Rkh4ekN2NjBqTVJQODUxTDk1NHJlNnduVEYxczRaNi1oaFZLckxTNW44eVl6LWxZUnFKSTBvV2l0OHFmN3NGeHFPMm11bFpzeDM1bmhpSHN5cElEUHA1cUlmVmE2ZVctX21iR09tQjlraV9wOA?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-09T23:37:23.000Z",
           "tags": [],
           "price": null,
           "feat": false
