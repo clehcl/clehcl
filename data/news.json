@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T10:41:17.231Z",
+  "generatedAt": "2026-11-12T18:42:08.776Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 22,
+      "total": 19,
       "items": [
         {
           "title": "CJ제일제당 '치킨 메뉴 베끼기' 논란…프랜차이즈협회 강력 반발",
@@ -145,7 +145,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 21,
+      "total": 26,
       "items": [
         {
           "title": "배추 도매가격 포기당 1,900원…전년 대비 42% 하락",
@@ -272,7 +272,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 3,
       "items": [
         {
           "title": "[인사이드] CJ프레시웨이, 식봄·PB 상품 쌍끌이…식자재 유통 혁신 속도",
@@ -311,18 +311,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "CJ프레시웨이, '왓더버거' 운영사 라이징스타와 연 500억 식자재 공급 계약 체결",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVaFpGbC1vb1pJZWdSa1RCR1VBMmhxejdiTTl1akV6LTA3WHR5TmtDRXU4Vi1URnJWdkJMcFRxdV9CbVozelhuLVFVUmJpRXh1Ykg3SWoyclJfS05zWm0yMS0tSjE0b3pDSjB5aGFFWnDSAXRBVV95cUxOdDJmcDZRSGE2YmxJQWRtRmxVR3NwR2h0djhHNG5QeDJaS19MWnhhR3MzVjlQSVhCcHhKM2F4ZHg0dzRydDhISnRQREUwLWRaVkV3UmtqNWZWYTJRdFVVLVZOdTBna2xEejVYejhCTnJXZ05uMA?oc=5",
-          "source": "포인트데일리",
-          "sourceInitial": "포인",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-10T14:42:18.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -335,7 +323,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "aT, 정부 비축기지 첫 첨단 CA 저장고 도입…농산물 수급 안정 강화",
@@ -355,11 +343,11 @@
         {
           "title": "서희재 선문대 교수, 식약처 ‘규제과학 R&D 우수성과’ 식품 분야 최우수상",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vS2hMb2dzd2lXUTZNdFRzTFRWUk1lNFFNLXdTdk00Z1pCZ0xEUUczTG51c0hjVkNaTmprTjVnZE8tUlJzUWlNZzh6UHdaem80UWh0ZmJEU2JKeDNBd0NDaktmRjBTVU1BZGRobjhn0gFuQVVfeXFMT29LaExvZ3N3aVdRNk10VHNMVFZSTWU0UU0td1N2TTRnWkJnTERRRzNMbnVzSGNWQ1pOamtONWdkTy1SUnNRaU1nOHpQd1p6bzRRaHRmYkRTYkp4M0F3Q0NqS2ZGMFNVTUFkZGhuOGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmZUdESGdBcXBYMjlhQ2ZmVU9PbGhtVVhwb05fYy15MElubDVLNUFwNGU2RENyb0wtZzZkdWQ0SmFTcDEyaTRIVERCNXFMZE5vQlY3b1E5MW1seEE0NVNzNTdST0FKbEQtcnfSAW5BVV95cUxPb0toTG9nc3dpV1E2TXRUc0xUVlJNZTRRTS13U3ZNNGdaQmdMRFFHM0xudXNIY1ZDWk5qa041Z2RPLVJSc1FpTWc4elB3WnpvNFFodGZiRFNiSngzQXdDQ2pLZkYwU1VNQWRkaG44Zw?oc=5",
           "source": "중부매일",
           "sourceInitial": "중부",
           "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-12T05:42:29.000Z",
+          "publishedAt": "2026-11-12T05:30:06.000Z",
           "tags": [
             "규제",
             "식약처"
@@ -368,9 +356,23 @@
           "feat": false
         },
         {
+          "title": "식약처, 유럽 4개국과 식품안전 협력 강화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43MF9hRDRUb1Q3N3ZqeF81dF90ZEtFN3dteVN3UHhHUDdpMkRaY2tZQWxEUHJtY2xXMTJaZVNsbkwwemdtWnUxMUxQR3NCdmNwVGp6V1lfeVRYUEZEQ2VxUXdJOA?oc=5",
+          "source": "보건신문",
+          "sourceInitial": "보건",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-12T08:40:35.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "한국 유럽 3개국과 식품 위해평가 공조…K-푸드 규제 대응 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5uR1hrOE4zR0psc01ibS0wMnNNeGQyaEo2UEdVNFJPMW9pR3BjVmVKWjVJRW82VmlEcXRv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RcjlLU1VXTnRGd2QyWGF1SHE1ZkdBa0Z1Z3BlNDB6a290b0N2Y19uMWNGb2lodDJuNWw3dmRqU2JGVjNOZjNHeUxjT01rdw?oc=5",
           "source": "식약일보",
           "sourceInitial": "식약",
           "sourceColor": "#2f7d4f",
@@ -404,7 +406,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 10,
+      "total": 9,
       "items": [
         {
           "title": "[식품업계 10월 동향] 삼립 ‘프로틴 샐러드’ 2종 출시...프리미엄 햄버거 4종 선보여...‘타코 호빵’ 등 신제품 20종 출시",
@@ -479,13 +481,13 @@
           "feat": false
         },
         {
-          "title": "우양, 3Q 영업익 19.4% 증가…\"HMR 제품 해외 수출 확대\"",
+          "title": "우양, 3Q 영업익 19.4% 증가…“HMR 제품 해외 수출 확대”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uRTBfUXNjSl95MnljdE9RVzlXMUJTcVJaaUFyWUczTjZ2bng3TW9zbkQ3aTViOXdOWUVNenBLb3hHQXZGcHFFMnFGUTRiSGZ4U1l5M0dKaS1TbnI3VEljbjM5dlo?oc=5",
-          "source": "서울경제TV",
-          "sourceInitial": "서울",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-12T00:31:11.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51enZ5UUxMaXBfTjJzWU9sYmVaZ3lic2I4N0ZiR1Fia2FKSWNlVDVLSEhDS09xZGg0OFdZRDJabG52aGZ2SkxNcUdnRUNnenE4alHSAVNBVV95cUxNaWxjYVdiTHlqU0xUWEhkRVB5dHBSZ1hhY055N28xUTNTdl91ZnF4dTVXOGc2WlI1TzRxSmZHd09jd2F5b2tINkJCX2xSWllyVlVaWQ?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-12T00:31:27.000Z",
           "tags": [
             "HMR"
           ],
@@ -505,13 +507,13 @@
           "feat": false
         },
         {
-          "title": "“AI가 공정 보고 설비까지 제어”…CJ제일제당, F&B 피지컬 AI 개발",
+          "title": "농식품부·코엑스 '2026 푸드위크 코리아', 수출상담 1억6600만달러 성과... 35.7%↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sUHp4SDJJbV93T0d4aTMxZjBwVGRDcVUyTkwzVnpPcmpidExUZ1oxcEM2VGJITmJZN041SnZKLU5vMWtGVmJCaDFIbDlWdw?oc=5",
-          "source": "전자신문",
-          "sourceInitial": "전자",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-11T03:17:52.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fYnZScTBJNS1nRTMwaWxNckNJd3hTb0hiajhRc0hRZjd4eTN5MWV3VG1YRGwtckZzNVpobmRmSGFEMjUtQnkxREpQQkRnSjFERk9ybmVjWDJWNm9mZktvZGdKUmo1M3dHNHfSAWpBVV95cUxPX2J2UnEwSTUtZ0UzMGlsTXJDSXd4U29IYmo4UXNIUWY3eHkzeTFld1RtWERsLXJGczVaaG5kZkhhRDI1LUJ5MURKUEJEZ0oxREZPcm5lY1gyVjZvZmZLb2RnSlJqNTN3RzR3?oc=5",
+          "source": "센트럴경제",
+          "sourceInitial": "센트",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-11T01:12:22.000Z",
           "tags": [],
           "price": null,
           "feat": false
