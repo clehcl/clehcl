@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T14:48:25.462Z",
+  "generatedAt": "2026-11-13T21:12:10.053Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -19,21 +19,6 @@
       "total": 17,
       "items": [
         {
-          "title": "CJ제일제당 '치킨 메뉴 베끼기' 논란…프랜차이즈협회 강력 반발",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfVVY3ZHFGTTFPRDJZOUpLbnhMME1RLWx5aVhxaF9nRGFnN3RlMTVQZjROOXpqUmI1VnhzMkt0NkNXbUpPOWVVX3d4TnpUb2MzcHVpMFVZdlZ3TU5kZ0RGWVFpXzZXQQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-12T08:08:18.000Z",
-          "tags": [
-            "프랜차이즈",
-            "메뉴"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
           "title": "[프랜차이즈 Pick] 해외 체험 행사·가맹점 상생·지역 출점 이어가",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CMGZWOU5ZSi02dTBuQUdoYVJJV3EyNldicWZpZndMbnhaWGdzdkNMT0lfbnBLbHpnd1d5enZyWnU3cW5NRE1XOWJZdGdBY0xaSlRrTGF6bGJvdHdfS3Jla1FacjNEWXBMNXlB?oc=5",
@@ -46,7 +31,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "조은음식드림 '오복 오봉집', 6년 만에 첫 창업설명회…본사 투어부터 신메뉴 시식까지 체험형 진행",
@@ -55,9 +40,23 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T14:05:51.000Z",
+          "publishedAt": "2026-11-13T20:05:51.000Z",
           "tags": [
             "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[ 2026년 11월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE1UOW5fRDZCUWZWVGExMUtQS0llQlUxVnhpek0yUk4tUmxCRTZRWXFKd0RqRkZHRmVQeUkzRWVuUjZ2dlozVGJxazV6WHAyYTRyVUF4X2h5V2hPei15dEhKQlN6X0RqZ0M0WWpaLUZjbzlzZUxnN1Y4MDJOaVRtbTVjcnJERGpFTUxnZzdR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-13T15:36:55.000Z",
+          "tags": [
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -119,15 +118,15 @@
           "feat": false
         },
         {
-          "title": "BBQ, 전국 43개 시군구에 치킨 2만 마리 기부…가맹점도 동참 : 네이버 블로그",
+          "title": "“창업의 꿈, 부산서 활짝”…2026 프랜차이즈 창업박람회 성대한 개막",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFhTd2gtT2hEVzdBNTlreUZremJmbEVubUdyYUFwV0xueENkbFJTZGZNWktuUjE3Z1pZV2xDMHRJMm5kLTJIMTlmcXBaU2lmMUhlQmdtSEZEbVJ6S2RwMmgxYjNGSENpSk9nNElvWU5QMmJ6NXR5cndyNktYcVZhcVhwVElHUDJkU0hOOVlB?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-12T13:02:50.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KeG9YaVMwR3NDU25pOTkxbm5makotaVo3LUxPRnlkb090OEw0OU0yUks3QVEtTXpZQjI0RUFlQmlvempNdklLRUt0Z0V6RmtxWUtEQ3Btd1B1Yzg1bGZOSVNLeXJkZzh6TXVyQmJiVdIBb0FVX3lxTE9KeG9YaVMwR3NDU25pOTkxbm5makotaVo3LUxPRnlkb090OEw0OU0yUks3QVEtTXpZQjI0RUFlQmlvempNdklLRUt0Z0V6RmtxWUtEQ3Btd1B1Yzg1bGZOSVNLeXJkZzh6TXVyQmJiVQ?oc=5",
+          "source": "펜앤마이크",
+          "sourceInitial": "펜앤",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-12T09:37:36.000Z",
           "tags": [
-            "가맹"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -143,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 25,
+      "total": 27,
       "items": [
         {
           "title": "배추 도매가격 포기당 1,900원…전년 대비 42% 하락",
@@ -159,6 +158,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "美 10월 도매물가 전년 대비 6.5%↑…약 4년만에 최고(종합)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94ZGRaM3pONWFBNEFzY09xdFdlc0x2U21fU25vaHgzckc3cFlUamF3T3RTN3ZsRFVxRFFPd3BLRk43dl9YQTVQUU5JU3RESkFHcVE?oc=5",
+          "source": "매일경제 마켓",
+          "sourceInitial": "매일",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-13T15:36:37.000Z",
+          "tags": [
+            "도매"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "美 10월 생산자물가 전월비 0.3%↑…에너지 가격 하락 전환",
@@ -243,20 +256,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "동원산업, 3분기 영업익 1.1% 증가…고환율·참치 원어 가격 부담 속 B2B·수출이 견인 : 기업·산업",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPNnNlTmd0bXFIRktuRTZUN0NKeEF5WEc2YXREYzBacVpXa3g3WmZaX00xSUEzZzA1V0RNckpsbWV6bGQxZzFEV0VOYw?oc=5",
-          "source": "재경일보",
-          "sourceInitial": "재경",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-12T08:00:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -269,7 +268,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "[인사이드] CJ프레시웨이, 식봄·PB 상품 쌍끌이…식자재 유통 혁신 속도",
@@ -293,6 +292,18 @@
           "sourceInitial": "부산",
           "sourceColor": "#333333",
           "publishedAt": "2026-11-13T08:12:02.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "배민, 음식값 할인·고객 배달팁 할인에 플랫폼 ‘수수료 미부과’… 연 1100억원 부담 완화 효과",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HN0FxMXMxQ1BzR0NhdlNmNncxSHJydHZDZlNEdTdHYV9UVk1aQTRUYlVxQy1nWlVYdmpBQTJabFpuUEdHUUJ2cUVNNTZWUWlxaHZXYUxDWkFVOEZpLUZ4VkZSc3d4YTdXM1hlMQ?oc=5",
+          "source": "식품외식경제",
+          "sourceInitial": "식품",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-12T09:21:29.000Z",
           "tags": [],
           "price": null,
           "feat": false
