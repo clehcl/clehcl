@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:35:18.313Z",
+  "generatedAt": "2026-11-14T20:26:50.376Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 11,
+      "total": 10,
       "items": [
         {
           "title": "진마케팅 \"신메뉴·매장 오픈 소식, 건당 1만원 기사로 남기세요\"…소상공인·프랜차이즈 기사배포권 신청 접수",
@@ -34,13 +34,13 @@
           "feat": true
         },
         {
-          "title": "진교동찜닭, 서울시의 ‘2026 서울형 상생프랜차이즈’ 선정",
+          "title": "[ 2026년 11월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMVh4THgxbXMtdlFwSllJUU8wYWktdm9hazBXWWNVbW5hNVRBRDZyWVhyRzNpanBvdXZDUU00cnR4OFlmNHlQUE5zQXZzRE5keTl3Zm01bVlIWlgzNl9TSmJQYXQxbG8?oc=5",
-          "source": "파이낸스투데이",
-          "sourceInitial": "파이",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-13T23:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE1UOW5fRDZCUWZWVGExMUtQS0llQlUxVnhpek0yUk4tUmxCRTZRWXFKd0RqRkZHRmVQeUkzRWVuUjZ2dlozVGJxazV6WHAyYTRyVUF4X2h5V2hPei15dEhKQlN6X0RqZ0M0WWpaLUZjbzlzZUxnN1Y4MDJOaVRtbTVjcnJERGpFTUxnZzdR?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-14T03:36:55.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -48,13 +48,13 @@
           "feat": false
         },
         {
-          "title": "[ 2026년 11월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "title": "진교동찜닭, 서울시의 ‘2026 서울형 상생프랜차이즈’ 선정",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE1UOW5fRDZCUWZWVGExMUtQS0llQlUxVnhpek0yUk4tUmxCRTZRWXFKd0RqRkZHRmVQeUkzRWVuUjZ2dlozVGJxazV6WHAyYTRyVUF4X2h5V2hPei15dEhKQlN6X0RqZ0M0WWpaLUZjbzlzZUxnN1Y4MDJOaVRtbTVjcnJERGpFTUxnZzdR?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T15:39:55.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMVh4THgxbXMtdlFwSllJUU8wYWktdm9hazBXWWNVbW5hNVRBRDZyWVhyRzNpanBvdXZDUU00cnR4OFlmNHlQUE5zQXZzRE5keTl3Zm01bVlIWlgzNl9TSmJQYXQxbG8?oc=5",
+          "source": "파이낸스투데이",
+          "sourceInitial": "파이",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-13T23:00:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -78,7 +78,7 @@
         {
           "title": "BBQ가 아프리카까지?...‘마스터 프랜차이즈’ 뭐길래 [노승욱의 리테일 인사이트]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3aFY4M1l3S3p5d0xIN1FXQ3UwRG16WU41azVQeGo3VTUxTGpZWENRUlNzTVVGYjZSRkJreUVFUlQ3MlQ4endGOU5HcWl2MjhIUzR2ZlZB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QNkwtOUVHMnlXYUc1UDlDeWlwaEd6d3F3d3o1TFhTRkhDRUVnN3k0eWhYQUNOWEtTMGVZQ0tMSlNMeUQ0enc?oc=5",
           "source": "매일경제",
           "sourceInitial": "매",
           "sourceColor": "#c0392b",
@@ -142,7 +142,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 14,
+      "total": 13,
       "items": [
         {
           "title": "크라운·해태제과, 3분기 영업익 나란히 30%대 감소…원가 부담 지속",
@@ -215,6 +215,18 @@
           "feat": false
         },
         {
+          "title": "2035년 식품용 캔 시장 전망: 간편성과 회복탄력성이 이끄는 성장 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2FDS3o5bFFhTG0xYzNFQS1tTU9VMlo0X1NQVnhucmw1aGpZMU54VmtvQTVCM29UZ2RadVo0R2gtMjdmRTktUGpDSWs0b2pIdENVa1pOZHVBbmFkWm9xSjBmdU43TkV0WjduVGR1SkhzQXE0UUdjLWU0eWR0TU1abFNrOWNfMVFITmZROW9MTFI5bFJwY0dyNkNNZHVxRnlFeTE0cGZxUXRJSTVRaDNMckN6aXE2ZTdBVXNfdnJsT2c1WTAtZDkxSGc0amE?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-14T16:21:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "美 상춧값 한 달 새 7.9% 뛰었는데…식품 물가 ‘다음 파도’ 닥친다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZTlp4T3BXTm9vMDZ4bGZ0ZElSTmJldnlDdzZxZ0tuX09YYlBfdzMzNExKcjZ5b241YWI4bllxcmNzWHNsTmVHa05BY0tLXy02dzJHVlNUdGdHQmU4dTBFMVhzYU50a0xrZ19QelhycEItWVJqNEZMStIBeEFVX3lxTFBZTlp4T3BXTm9vMDZ4bGZ0ZElSTmJldnlDdzZxZ0tuX09YYlBfdzMzNExKcjZ5b241YWI4bllxcmNzWHNsTmVHa05BY0tLXy02dzJHVlNUdGdHQmU4dTBFMVhzYU50a0xrZ19QelhycEItWVJqNEZMSg?oc=5",
@@ -229,23 +241,11 @@
         {
           "title": "삼양식품 하락했는데 중소형 식품株는 웃었다…엇갈린 K푸드",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TbFczMXlwdVBKSkRiS0tSd283MmJJRjVVemswNEdrcmNndmZKekprNU95SjN5bGE1YXp6TFlBWVN5U3pwbHY2UWlVLWFrWm0wUHFvSGdMcU4wU3JHU2VsZnRCUzI3cEI0by1NQkE0N1dlU3g5X1JJ0gF3QVVfeXFMTVNsVzMxeXB1UEpKRGJLS1J3bzcyYklGNVV6azA0R2tyY2d2Zkp6Sms1T3lKM3lsYTVhenpMWUFZU3lTenBsdjZRaVUtYWtabTBQcW9IZ0xxTjBTckdTZWxmdEJTMjdwQjRvLU1CQTQ3V2VTeDlfUkk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTnY4ekxsZjhGQ0lDVGItY2RGOGlMVGhBNnB3UlNVT0hycmU0WHFvalZjS21qMEI0TTR3TEk1Sm4yVmpDdHdBOUFoR3EtczE5RjJLSWdVYXV6MEVYM2MzemJMTzBrT0tkZUZVOTVSMHpkTlXSAXdBVV95cUxNU2xXMzF5cHVQSkpEYktLUndvNzJiSUY1VXprMDRHa3JjZ3ZmSnpKazVPeUozeWxhNWF6ekxZQVlTeVN6cGx2NlFpVS1ha1ptMFBxb0hnTHFOMFNyR1NlbGZ0QlMyN3BCNG8tTUJBNDdXZVN4OV9SSQ?oc=5",
           "source": "핀포인트뉴스",
           "sourceInitial": "핀포",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T23:03:32.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "4년 만에 가장 뜨거운 미국 물가…한국 증시 외국인 수급 흔드나",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02OTFXWUNWcmxoX3ZIVEl0bi16dTV5Zm1JR2lJWWR2RUFUamF4Z0JEVjFmcVNWeC0tUTNEd3U4blR5TnBkRV92aXRvQm1NTnRuUkxuei1JbGNyYk9SbFJrcFRha3pNYWVqUTZEOGlhcGd1SFFQM0tV0gF3QVVfeXFMTTY5MVdZQ1ZybGhfdkhUSXRuLXp1NXlmbUlHaUlZZHZFQVRqYXhnQkRWMWZxU1Z4LS1RM0R3dThuVHlOcGRFX3ZpdG9CbU1OdG5STG56LUlsY3JiT1JsUmtwVGFrek1hZWpRNkQ4aWFwZ3VIUVAzS1U?oc=5",
-          "source": "핀포인트뉴스",
-          "sourceInitial": "핀포",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T22:39:30.000Z",
+          "publishedAt": "2026-11-13T22:39:54.000Z",
           "tags": [],
           "price": null,
           "feat": false
