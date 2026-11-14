@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:12:10.053Z",
+  "generatedAt": "2026-11-14T01:35:18.615Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,38 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 17,
+      "total": 18,
       "items": [
+        {
+          "title": "진마케팅 \"신메뉴·매장 오픈 소식, 건당 1만원 기사로 남기세요\"…소상공인·프랜차이즈 기사배포권 신청 접수",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51eTVOeUdNOVk5V3BrbnU0WndHeUl0WWxsQnhnRzlTeWx6QTVYVW1vR1d3clNNdkRBREpBUXlRb05ZUGZ3SWlHc0xpYVZtYldWVjFn?oc=5",
+          "source": "유스연합",
+          "sourceInitial": "유스",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-13T08:58:32.000Z",
+          "tags": [
+            "프랜차이즈",
+            "매장"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "CJ제일제당 '치킨 메뉴 베끼기' 논란…프랜차이즈협회 강력 반발",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfVVY3ZHFGTTFPRDJZOUpLbnhMME1RLWx5aVhxaF9nRGFnN3RlMTVQZjROOXpqUmI1VnhzMkt0NkNXbUpPOWVVX3d4TnpUb2MzcHVpMFVZdlZ3TU5kZ0RGWVFpXzZXQQ?oc=5",
+          "source": "푸드투데이",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-12T08:08:18.000Z",
+          "tags": [
+            "프랜차이즈",
+            "메뉴"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "[프랜차이즈 Pick] 해외 체험 행사·가맹점 상생·지역 출점 이어가",
           "summary": "",
@@ -31,7 +61,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "조은음식드림 '오복 오봉집', 6년 만에 첫 창업설명회…본사 투어부터 신메뉴 시식까지 체험형 진행",
@@ -54,7 +84,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T15:36:55.000Z",
+          "publishedAt": "2026-11-13T15:39:55.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -76,20 +106,6 @@
           "feat": false
         },
         {
-          "title": "[차액가맹금소송] 이디야커피 가맹점주 108명, 부당이득 반환소송의 쟁점은?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNVFMeV9yWGpaTzhnRC1jaHZnNTgwazlPNTd1QUhTMGdkcVlvaWg4Wk9LaW9VdFFxaUlJUVp4TGpTcXRNNGhqLUlFR1J4Wk5OQ3RUWDlQTXpRSnF0YkpZU3ZVVkJycnNhNFZJN1AyVdIBb0FVX3lxTE5ZNVFMeV9yWGpaTzhnRC1jaHZnNTgwazlPNTd1QUhTMGdkcVlvaWg4Wk9LaW9VdFFxaUlJUVp4TGpTcXRNNGhqLUlFR1J4Wk5OQ3RUWDlQTXpRSnF0YkpZU3ZVVkJycnNhNFZJN1AyVQ?oc=5",
-          "source": "한국아이닷컴",
-          "sourceInitial": "한국",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T02:39:07.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "세종사이버대, AI 활용 외식 창업 아이템 공모전 개최…김병국 학생 최우수상",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIOEg4bm9HZjU4RnNGdmMxcGppdjdEWVJhSTdFc1hUdUstUVFvU0FSTi1ZMW9IQWRGR2F1aGpIVjU0di1nUllhbkowNThWWHN5OGwyTEluTFA5Vm8?oc=5",
@@ -104,29 +120,15 @@
           "feat": false
         },
         {
-          "title": "[ 2026년 11월 13일(금) 프랜차이즈 뉴스 ] : 네이버 블로그",
+          "title": "[차액가맹금소송] 이디야커피 가맹점주 108명, 부당이득 반환소송의 쟁점은?",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3lZNDdLSnphc0tTYmhTZXJhYWJ1YVl2VHcyclV1ZjViOWNoT2tLc3QwZFVtVDlXQkh0VF92NTVnZlVKNTYzWjB5T2F6ODlEM19xUFhIVXJsRWwzdzVWVkNRYXowRzFYNVdCT0pTbmZmblY5ZjVIWi01UjR3engtXzAxZGxpajZ1YjQtaXd3?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-12T15:42:51.000Z",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JX2V4MlRSOFdyVXNyM3lGVTBvY1lRdEhjbGc3WC1xbC14ZUlxR3AyZ1Eya05jcEltQi1vVjAtZnBYb2xSdVpiaTJ6cGFWU0ZxUXFfUWV6NUE2bVRxYXFRZjBXM2tzSFBadlRNM3NHXzExakJG0gF0QVVfeXFMTUlfZXgyVFI4V3JVc3IzeUZVMG9jWVF0SGNsZzdYLXFsLXhlSXFHcDJnUTJrTmNwSW1CLW9WMC1mcFhvbFJ1WmJpMnpwYVZTRnFRcV9RZXo1QTZtVHFhcVFmMFcza3NIUFp2VE0zc0dfMTFqQkY?oc=5",
+          "source": "주간한국",
+          "sourceInitial": "주간",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-12T22:49:00.000Z",
           "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“창업의 꿈, 부산서 활짝”…2026 프랜차이즈 창업박람회 성대한 개막",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KeG9YaVMwR3NDU25pOTkxbm5makotaVo3LUxPRnlkb090OEw0OU0yUks3QVEtTXpZQjI0RUFlQmlvempNdklLRUt0Z0V6RmtxWUtEQ3Btd1B1Yzg1bGZOSVNLeXJkZzh6TXVyQmJiVdIBb0FVX3lxTE9KeG9YaVMwR3NDU25pOTkxbm5makotaVo3LUxPRnlkb090OEw0OU0yUks3QVEtTXpZQjI0RUFlQmlvempNdklLRUt0Z0V6RmtxWUtEQ3Btd1B1Yzg1bGZOSVNLeXJkZzh6TXVyQmJiVQ?oc=5",
-          "source": "펜앤마이크",
-          "sourceInitial": "펜앤",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-12T09:37:36.000Z",
-          "tags": [
-            "프랜차이즈"
+            "가맹"
           ],
           "price": null,
           "feat": false
@@ -142,7 +144,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 27,
+      "total": 23,
       "items": [
         {
           "title": "배추 도매가격 포기당 1,900원…전년 대비 42% 하락",
@@ -158,6 +160,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "크라운·해태제과, 3분기 영업익 나란히 30%대 감소…원가 부담 지속",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2STJMaTJjYnhjazFTOHkwNTZqN0EzMEZfaWZGYWk3aWlDRVNLMzFTbnExOF9FRTlkemNwM2lJd0g2YW1SVEtySE11TWIyS0xTaWhwYkUxZlZVNHZPN2lmY3dFSGg?oc=5",
+          "source": "디지털데일리",
+          "sourceInitial": "디지",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-13T23:23:59.000Z",
+          "tags": [
+            "원가"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "美 10월 도매물가 전년 대비 6.5%↑…약 4년만에 최고(종합)",
@@ -183,20 +199,6 @@
           "publishedAt": "2026-11-13T13:45:29.000Z",
           "tags": [
             "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "크라운·해태제과, 3분기 영업익 각각 30%대 감소…\"원가 부담\"",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZlVMcGJ4Z3d2V1dTa0FVT2M1SnhKNFFPODI5eWFSZHE0TUEyVWlSQXYzcEQ5X2ZSX1ZsWHF3N2RHcXZYck1uYnlYTlJQZ0dza1E?oc=5",
-          "source": "매일경제 마켓",
-          "sourceInitial": "매일",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-13T09:06:46.000Z",
-          "tags": [
-            "원가"
           ],
           "price": null,
           "feat": false
@@ -230,20 +232,6 @@
           "feat": false
         },
         {
-          "title": "식료품 소비세 1%로 인하 앞둔 日...외식업계 선제 가격 인하 나서",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PREtOZkF5QzNLY0dCbGIxd0hPRVlUcy1HaWttZUpOT055dHF1czI4TXJON3ZRRzdLYno5UkxGRG5XZGpoT1hWVThac3R3eDhic2fSAVNBVV95cUxNQTJmcjdBa0RGM2o0VWs4QnE2VUE0YzZYU1hhSUMwclJIamQ1eGJCeFgzT0RUclhOcnFRdENJNmxKdDdGWGc0Nm9QSFkzUEJaQjlaYw?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-12T20:30:00.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "박옥분 의원 (수원2) 학교급식 구매 논란…식재료 가격 공개 주문",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EUUJWMmE4eHNGT05ZTlcwU3dqM2NlSXdIRFowa2VQVXA1MEpvM2lNcUx0RzBaUjZhNEpHMWZkbWh1VGpnM1A4YmhrekxHSnVwXzFxWEE5UUJQRzVJVmFwTlRCdWVHSmFBVVI0MEVR?oc=5",
@@ -251,6 +239,20 @@
           "sourceInitial": "현대",
           "sourceColor": "#2f7d4f",
           "publishedAt": "2026-11-12T08:08:57.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "동원산업, 3분기 영업익 1.1% 증가…고환율·참치 원어 가격 부담 속 B2B·수출이 견인 : 기업·산업",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPNnNlTmd0bXFIRktuRTZUN0NKeEF5WEc2YXREYzBacVpXa3g3WmZaX00xSUEzZzA1V0RNckpsbWV6bGQxZzFEV0VOYw?oc=5",
+          "source": "재경일보",
+          "sourceInitial": "재경",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-12T08:00:00.000Z",
           "tags": [
             "가격"
           ],
@@ -268,34 +270,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 2,
       "items": [
-        {
-          "title": "[인사이드] CJ프레시웨이, 식봄·PB 상품 쌍끌이…식자재 유통 혁신 속도",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhRXhmb1FWWDBNVHBkbmRDekdSdUtrVlFORUViWnd0R3ZRV2hvYXYtSGlrWmx0N0hlWnlRMjdHN0l3M19OZWEybGRPbVdwM0F1dC13d3JpNkwwM01KUXYw?oc=5",
-          "source": "kjtimes",
-          "sourceInitial": "kj",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-12T01:04:57.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "대구시교육청, 학교급식종사자 대체인력구인·구직 매칭 플랫폼 `학교급식119` 개통",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUEJkUFRkRFNNMlBHdmxkVUtPNnFRZ3ZlRnlTdFhraV9NZkxXdjVVWHowU2hYOFZLcWpSUzhhYnFNam5manhfYlk3MnFCM0o4eW41azlLT2pCZ0Fa?oc=5",
-          "source": "부산경제",
-          "sourceInitial": "부산",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-13T08:12:02.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
         {
           "title": "배민, 음식값 할인·고객 배달팁 할인에 플랫폼 ‘수수료 미부과’… 연 1100억원 부담 완화 효과",
           "summary": "",
@@ -306,7 +282,7 @@
           "publishedAt": "2026-11-12T09:21:29.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "식품진흥원, 전북중기청과 함께 美 휴스턴서 전북 K-Food 수출 판로 개척 나선다",
@@ -439,23 +415,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 5,
       "items": [
-        {
-          "title": "[식품업계 10월 동향] 삼립 ‘프로틴 샐러드’ 2종 출시...프리미엄 햄버거 4종 선보여...‘타코 호빵’ 등 신제품 20종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iQ0djb2dqaGlidmRXUG1BY1BlUEtCbi1LeFZRYmlJOElKRTdvYmkteF9uVGVKbFhxS1RUdk9FVWI5dFJCQWNlN2tUOHVSR3NKVF9OZjdGRlEzaVdNUjJfWUFYR1pxUQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-12T00:18:28.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "식품업계 ‘누들핏W’ 2종 출시·‘잠실 더 라스트 이닝 by 르노’ 공식 파트너 참여",
           "summary": "",
@@ -468,7 +429,7 @@
             "출시"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "대원헬스, 기능성표시식품 ‘라임꿀샷’ GS25 출시…수면 케어 라인업 확대",
@@ -494,34 +455,6 @@
           "publishedAt": "2026-11-12T06:40:05.000Z",
           "tags": [
             "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계 ‘1분 순살 삼겹 보쌈’ 출시·외국인 대상 ‘K-Food 쿠킹클래스’ 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wSkl3UnFlaWNTUF84NTBQSklhdEVVSFRoYWRtQnhaV3ZVRFJjNzcxS1pOZUdua0tPOEZvb010d0NhNm54ZzFCZUVhOUFtVFlRRWNQNVpiV25JeVRnR1RNZFlVN2dFdw?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-12T01:34:04.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "우양, 3Q 영업익 19.4% 증가…“HMR 제품 해외 수출 확대”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51enZ5UUxMaXBfTjJzWU9sYmVaZ3lic2I4N0ZiR1Fia2FKSWNlVDVLSEhDS09xZGg0OFdZRDJabG52aGZ2SkxNcUdnRUNnenE4alHSAVNBVV95cUxNaWxjYVdiTHlqU0xUWEhkRVB5dHBSZ1hhY055N28xUTNTdl91ZnF4dTVXOGc2WlI1TzRxSmZHd09jd2F5b2tINkJCX2xSWllyVlVaWQ?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-12T00:31:27.000Z",
-          "tags": [
-            "HMR"
           ],
           "price": null,
           "feat": false
