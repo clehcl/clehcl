@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:37:35.808Z",
+  "generatedAt": "2026-11-15T20:09:55.470Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,22 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
+        {
+          "title": "나명석 한국프랜차이즈산업협회장 겸 자담치킨 대표 (사진학과 83학번)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTG1vTEJDWWtWdFQwWmlCaHZac19MbElzbDNVYXRGM0lHUndrZUl5eGRUU2RyYWFhZTFjM1M4eGdSUUxUUk5hdEVPVVo3aWtXR3d3eDA5N1pLOXVVZVlTYmRaV2I3MGxrZmVJ0gFrQVVfeXFMUFFMbW9MQkNZa1Z0VDBaaUJodlpzX0xsSXNsM1VhdEYzSUdSd2tlSXl4ZFRTZHJhYWFlMWMzUzh4Z1JRTFRSTmF0RU9VWjdpa1dHd3d4MDk3Wks5dVVlWVNiZFpXYjcwbGtmZUk?oc=5",
+          "source": "중대신문",
+          "sourceInitial": "중대",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-15T15:34:43.000Z",
+          "tags": [
+            "프랜차이즈"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "[ 2026년 11월 16일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -25,12 +39,12 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-15T09:24:35.000Z",
+          "publishedAt": "2026-11-15T15:24:35.000Z",
           "tags": [
             "프랜차이즈"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "생마차, 5만원 메뉴 500원에 이용하는 SNS 이벤트 진행 : 네이버 블로그",
@@ -85,7 +99,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 12,
       "items": [
         {
           "title": "[지금 노려볼 외교시장은?] 불가리아 소비시장 커진다…K-뷰티·식품·생활용품, 가격보다 품질·차별화 경쟁 본격화",
@@ -116,13 +130,13 @@
           "feat": false
         },
         {
-          "title": "美 10월 도매물가 전년 대비 6.5%↑…약 4년만에 최고(종합)",
+          "title": "美 10월 도매물가 전년 대비 6.5%↑…4년만에 최고",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTUhUUzlBQmptY0VpZzZ1amNCc0NFZGJIMTRWTTlyQ2N6NjNTY1Z0MTZRTVhiOHFVMUNKRU9ScGFsYWVTY0dBdmdUSktqbmFFVDNhTi1JODFtWXdibHR2dtIBYEFVX3lxTE5zTUhUUzlBQmptY0VpZzZ1amNCc0NFZGJIMTRWTTlyQ2N6NjNTY1Z0MTZRTVhiOHFVMUNKRU9ScGFsYWVTY0dBdmdUSktqbmFFVDNhTi1JODFtWXdibHR2dg?oc=5",
-          "source": "연합뉴스",
-          "sourceInitial": "연",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-13T15:36:37.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BdE00R1cwYzltUHVaaDFUa01xV3cxczEweTJVNlVnNEt1aHRCWjdGYjliX1RhU1h4WXRCSlJHZ1hjLWpObF9kNi03TTNGOVJTTkRLSW43Q2VyTVRjbU1OTTgwMnpCajNuaXM2MtIBcEFVX3lxTE5Vbi1VQ2xfQ1pnMllJLWg3bV9YTXpuZy01WnU5Nk5VR1VjQ3ZvdnRVelJOUjR5Y3F3V01CU0dYUmdlT0NuTjRXZzJWSG43LThobzV3NFY4NFdzSDlqaVNLVE5XR2pUNFM2QU1QM0VobFo?oc=5",
+          "source": "글로벌경제신문",
+          "sourceInitial": "글로",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-13T22:57:45.000Z",
           "tags": [
             "도매"
           ],
@@ -154,6 +168,18 @@
           "feat": false
         },
         {
+          "title": "2035년 식품용 캔 시장 전망: 간편성과 회복탄력성이 이끄는 성장 - 뉴스 및 통계",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2FDS3o5bFFhTG0xYzNFQS1tTU9VMlo0X1NQVnhucmw1aGpZMU54VmtvQTVCM29UZ2RadVo0R2gtMjdmRTktUGpDSWs0b2pIdENVa1pOZHVBbmFkWm9xSjBmdU43TkV0WjduVGR1SkhzQXE0UUdjLWU0eWR0TU1abFNrOWNfMVFITmZROW9MTFI5bFJwY0dyNkNNZHVxRnlFeTE0cGZxUXRJSTVRaDNMckN6aXE2ZTdBVXNfdnJsT2c1WTAtZDkxSGc0amE?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-14T16:21:04.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "美 상춧값 한 달 새 7.9% 뛰었는데…식품 물가 ‘다음 파도’ 닥친다",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZTlp4T3BXTm9vMDZ4bGZ0ZElSTmJldnlDdzZxZ0tuX09YYlBfdzMzNExKcjZ5b241YWI4bllxcmNzWHNsTmVHa05BY0tLXy02dzJHVlNUdGdHQmU4dTBFMVhzYU50a0xrZ19QelhycEItWVJqNEZMStIBeEFVX3lxTFBZTlp4T3BXTm9vMDZ4bGZ0ZElSTmJldnlDdzZxZ0tuX09YYlBfdzMzNExKcjZ5b241YWI4bllxcmNzWHNsTmVHa05BY0tLXy02dzJHVlNUdGdHQmU4dTBFMVhzYU50a0xrZ19QelhycEItWVJqNEZMSg?oc=5",
@@ -176,18 +202,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "적층형 식품 보관 용기 시장 2035년 전망: 도시 공간 최적화와 프리미엄화가 성장 견인 - 뉴스 및 통계",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOelloT3VCa3Q2N0pwbUpCWmZWOEJ6b3c1VHNENnZpM3FzWHgtNG9wbV9YemVLb0dwRXpsYTFFX2VUYWw0OGdFSUl5WUlmMTRBVF96bWNGZWw3Nm5NeVo3VE9qek5VR294N0RlcE5hbkttRzl2S3dTOEpLQlBHSWJlbnpUS2ltZVNCWXhRQ2ZCNzlrRmxoNW9HcXVtVHdweDNHODFKQTJmclVLN0lXTjEtNTdvZlVEdzRhSmFBVUdfaF9WRmRRRVJKaVNuVnZMQnBPdUd5Vw?oc=5",
-          "source": "IndexBox",
-          "sourceInitial": "In",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-14T00:26:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -200,23 +214,8 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 1,
-      "items": [
-        {
-          "title": "4평 채소가게서 '122억 온누리 상품권깡' 의혹…부정 유통 확인 안돼",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kcnNDT1dNTm1DSnVQeEJOMXhvN0tDR1JSY0FHOV9oenNTV0tHa3VHLXpBTTJ5UkVVc3BfWWxxMUNFZ0xrY2NsUHphZ2tjVTdqTFNocGM3SC15X0ZPT2tmWnJQQzd0RVhUcGNj?oc=5",
-          "source": "프레시안",
-          "sourceInitial": "프레",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-13T23:05:00.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": true
-        }
-      ]
+      "total": 0,
+      "items": []
     },
     {
       "id": "price-policy",
@@ -227,7 +226,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "프랑스 5주째 주말시위에 11만명 참여…포르투갈선 주거난 시위...정부 대책에 성난 시민들...물가· 교육 ·경찰법에 11만명",
@@ -243,21 +242,6 @@
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "337호 정책뉴스) 민생이 답이다…부동산·물가·일자리 정책의 현주소",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83OUFkY3h1VFl5bFlJRkQzZUQ3S1ZDQ3N6NHB2Q1FqVm0yYk1CWFRpWlh4UjlnLWtkRTNsUXZ5UXdYSnJZdUZmUE0yNkZaLUhPMFA3VHhuZGZhcGxnanNJaEtR?oc=5",
-          "source": "시사매거진",
-          "sourceInitial": "시사",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-14T07:38:28.000Z",
-          "tags": [
-            "물가",
-            "정책"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "식품 안전 문화 교육 및 규정 준수 LMS 시장, 2035년까지 규제 압력이 성장 견인 - 뉴스 및 통계",
@@ -284,7 +268,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "크라운제과, 죠리퐁 10년 만에 신제품…흑당밀크 맛 선보여",
@@ -311,18 +295,6 @@
           "tags": [
             "출시"
           ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[오늘의 유통가] BBQ, 남아공에 1호점 오픈…아프리카 공략 본격화 外 : 네이버 블로그",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNV9RVUJtMkZ1VDBCS2JxWWNsQkd6cVBxbnoyODlDZzE0NnJHZEtadmxRc19hejJqRUhNZ0otMmZVNHZKbG9SSmtmaUVJODBpcVR0bVdFYm9hUEhIaVdTTEJpN1kxOXZOSGd2bk1meTJvYjNrNnZPQzZLbGMzemVjR0NMTkJVV1ZIeTh0czk3UQ?oc=5",
-          "source": "Naver Blog",
-          "sourceInitial": "Na",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-15T14:05:56.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
