@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:26:50.376Z",
+  "generatedAt": "2026-11-15T00:06:16.218Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 10,
+      "total": 8,
       "items": [
         {
           "title": "진마케팅 \"신메뉴·매장 오픈 소식, 건당 1만원 기사로 남기세요\"…소상공인·프랜차이즈 기사배포권 신청 접수",
@@ -104,30 +104,28 @@
           "feat": false
         },
         {
-          "title": "세종사이버대, AI 활용 외식 창업 아이템 공모전 개최…김병국 학생 최우수상",
+          "title": "[차액가맹금소송] 이디야커피 가맹점주 108명, 부당이득 반환소송의 쟁점은?",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIOEg4bm9HZjU4RnNGdmMxcGppdjdEWVJhSTdFc1hUdUstUVFvU0FSTi1ZMW9IQWRGR2F1aGpIVjU0di1nUllhbkowNThWWHN5OGwyTEluTFA5Vm8?oc=5",
-          "source": "에너지경제신문",
-          "sourceInitial": "에너",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-13T00:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNVFMeV9yWGpaTzhnRC1jaHZnNTgwazlPNTd1QUhTMGdkcVlvaWg4Wk9LaW9VdFFxaUlJUVp4TGpTcXRNNGhqLUlFR1J4Wk5OQ3RUWDlQTXpRSnF0YkpZU3ZVVkJycnNhNFZJN1AyVdIBb0FVX3lxTE5ZNVFMeV9yWGpaTzhnRC1jaHZnNTgwazlPNTd1QUhTMGdkcVlvaWg4Wk9LaW9VdFFxaUlJUVp4TGpTcXRNNGhqLUlFR1J4Wk5OQ3RUWDlQTXpRSnF0YkpZU3ZVVkJycnNhNFZJN1AyVQ?oc=5",
+          "source": "한국아이닷컴",
+          "sourceInitial": "한국",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-13T02:39:07.000Z",
           "tags": [
-            "외식"
+            "가맹"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "[차액가맹금소송] 이디야커피 가맹점주 108명, 부당이득 반환소송의 쟁점은?",
+          "title": "4900원 라떼가 2450원…백억커피, 선착순 2000명 할인 : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JX2V4MlRSOFdyVXNyM3lGVTBvY1lRdEhjbGc3WC1xbC14ZUlxR3AyZ1Eya05jcEltQi1vVjAtZnBYb2xSdVpiaTJ6cGFWU0ZxUXFfUWV6NUE2bVRxYXFRZjBXM2tzSFBadlRNM3NHXzExakJG0gF0QVVfeXFMTUlfZXgyVFI4V3JVc3IzeUZVMG9jWVF0SGNsZzdYLXFsLXhlSXFHcDJnUTJrTmNwSW1CLW9WMC1mcFhvbFJ1WmJpMnpwYVZTRnFRcV9RZXo1QTZtVHFhcVFmMFcza3NIUFp2VE0zc0dfMTFqQkY?oc=5",
-          "source": "주간한국",
-          "sourceInitial": "주간",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-12T22:49:00.000Z",
-          "tags": [
-            "가맹"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSV92dmt2N2pSNHJRaFF4aGo4SjByUXFfSUF4UUNnMFEybXVKdGNPajlRNlRvV2Q4SEpyRUtuSUNMTzA0S0tCb3FVRE1hSFI4cl9XU25lMXl4UDBERmpIbHR3WF9OOWpLV1NiVmx3Wl9JZ1B3dUFHTlhRVkZ6ZDJWUDcxU0w3VDJWc3IzckRB?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-13T08:28:40.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -142,7 +140,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 14,
       "items": [
         {
           "title": "크라운·해태제과, 3분기 영업익 나란히 30%대 감소…원가 부담 지속",
@@ -157,6 +155,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "중국 10월 공장 출하가격 5.7% 상승…기업 구매가격은 7.9% 올라",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1QRGd6SlM2YnM3TW52TThEWk52VXVzczZaaW9XM1c0YURqRFNyYS15M3lDczU3aC1GR01RbXA2OC1ON1U?oc=5",
+          "source": "한국공공정책신문",
+          "sourceInitial": "한국",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-13T19:59:15.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "美 10월 도매물가 전년 대비 6.5%↑…약 4년만에 최고(종합)",
@@ -201,20 +213,6 @@
           "feat": false
         },
         {
-          "title": "'공염불' 된 가격인상…CJ제일제당, 영업익 '제자리' 속 순이익은 '뒷걸음질'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JM1FZSmhIY3M1N3JveGw2a3g5UnFIUzRCTmhFQ3FTSkRmb05FZFhVNm9fV1M0d2VUQVZ2T3ltc2dZLWl6aDRpVzhpNXZvWGx6Sm1IZ2UzWFoyY3cxTkVid1J2eUhOMVU?oc=5",
-          "source": "청년일보",
-          "sourceInitial": "청년",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-12T23:00:06.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "2035년 식품용 캔 시장 전망: 간편성과 회복탄력성이 이끄는 성장 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2FDS3o5bFFhTG0xYzNFQS1tTU9VMlo0X1NQVnhucmw1aGpZMU54VmtvQTVCM29UZ2RadVo0R2gtMjdmRTktUGpDSWs0b2pIdENVa1pOZHVBbmFkWm9xSjBmdU43TkV0WjduVGR1SkhzQXE0UUdjLWU0eWR0TU1abFNrOWNfMVFITmZROW9MTFI5bFJwY0dyNkNNZHVxRnlFeTE0cGZxUXRJSTVRaDNMckN6aXE2ZTdBVXNfdnJsT2c1WTAtZDkxSGc0amE?oc=5",
@@ -239,13 +237,13 @@
           "feat": false
         },
         {
-          "title": "삼양식품 하락했는데 중소형 식품株는 웃었다…엇갈린 K푸드",
+          "title": "식품 폐기물 파트너십, 로블로(TSX:L)에 판도를 바꿀 계기가 될 수 있다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTnY4ekxsZjhGQ0lDVGItY2RGOGlMVGhBNnB3UlNVT0hycmU0WHFvalZjS21qMEI0TTR3TEk1Sm4yVmpDdHdBOUFoR3EtczE5RjJLSWdVYXV6MEVYM2MzemJMTzBrT0tkZUZVOTVSMHpkTlXSAXdBVV95cUxNU2xXMzF5cHVQSkpEYktLUndvNzJiSUY1VXprMDRHa3JjZ3ZmSnpKazVPeUozeWxhNWF6ekxZQVlTeVN6cGx2NlFpVS1ha1ptMFBxb0hnTHFOMFNyR1NlbGZ0QlMyN3BCNG8tTUJBNDdXZVN4OV9SSQ?oc=5",
-          "source": "핀포인트뉴스",
-          "sourceInitial": "핀포",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T22:39:54.000Z",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnVhelJnQ1J1U3lBMWlFZTNfZzM1SDA0Q205NlRpUlFqeXUydGhuaWJubDZpcjQ3TWFtanZhOENQYkpLbmtVVnZmc0V0V25hZ2F5c2wyenQ1Rk5UMFFWTGtSd1FNdTdqRlppRHZRQl9tYV81d2U2dmI4eC1xM1FzRFpETlp0MHdZbEh1Ty04M0c0VGIxdzU0bkQzXzBtQXhBT05XWU9vX0psMmN5LXfSAa4BQVVfeXFMTmJ1YXpSZ0NSdVN5QTFpRWUzX2czNUgwNENtOTZUaVJRanl1MnRobmlibmw2aXI0N01hbWp2YThDUGJKS25rVVZ2ZnNFdFduYWdheXNsMnp0NUZOVDBRVkxrUndRTXU3akZaaUR2UUJfbWFfNXdlNnZiOHgtcTNRc0RaRE5adDB3WWxIdU8tODNHNFRiMXc1NG5EM18wbUF4QU9OV1lPb19KbDJjeS13?oc=5",
+          "source": "Simply Wall St",
+          "sourceInitial": "Si",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-13T23:33:50.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -261,8 +259,33 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 0,
-      "items": []
+      "total": 2,
+      "items": [
+        {
+          "title": "농협경기본부, 경기 농산물 특판전…성남·수원서 18일까지",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrV0U1TUYtTHFNTHBleUlpSGNMR0Y3NlAxaGFhLUJHR01ZN2c5WjBIMm92Wm5VeWMxM2ItRTFSdnJKU3RIaVlWTHZMbDRfMlJYTFJtZjdWUl9KYmxLUTVBSHo2Sm1GeEZHVGlET08zMlhLOWFi0gF0QVVfeXFMUGtXRTVNRi1McU1McGV5SWlIY0xHRjc2UDFoYWEtQkdHTVk3ZzlaMEgyb3ZablV5YzEzYi1FMVJ2ckpTdEhpWVZMdkxsNF8yUlhMUm1mN1ZSX0pibEtRNUFIejZKbUZ4RkdUaURPTzMyWEs5YWI?oc=5",
+          "source": "이뉴스투데이",
+          "sourceInitial": "이뉴",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-13T11:04:16.000Z",
+          "tags": [],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "대구시교육청. ‘학교급식119’ 개통",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cU8zNUozZjJGUG5abVJDQnBGWTdFc1ROMUFPYXZZcHZwVEY1Qkx6emhYb2s3ck9ETEhVbjFjbGFqS3NSY2s2WVBDQl9GejRHWVI4OWhQTGFsTXFoUnFaeGd0Mi1qdw?oc=5",
+          "source": "데일리대구경북뉴스",
+          "sourceInitial": "데일",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-13T08:22:46.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        }
+      ]
     },
     {
       "id": "price-policy",
@@ -329,7 +352,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 5,
+      "total": 4,
       "items": [
         {
           "title": "식품업계 ‘누들핏W’ 2종 출시·‘잠실 더 라스트 이닝 by 르노’ 공식 파트너 참여",
@@ -370,25 +393,13 @@
           "feat": false
         },
         {
-          "title": "[SV CEO] 신유열 롯데지주 미래성장실장, 식품·바이오 확대…′원롯데′로 성장동력 강화",
+          "title": "[굿모닝! 13일 식품업계 소식] 롯데웰푸드·오뚜기·농심·삼립·하이트진로",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ORTRjcVZtak4xd01RcW5pTFdNcUl5RHpkYUVaelJCdURYNW9HVXdTcTVVZmRNRmdJbE43OFlyZVRGTjJBel9na2tDMnBnNWJUMXBYbnhfTVd0NmVxN045S0pFY9IBbEFVX3lxTE53V1Rfd3dWTFV5LXlpQnJSMmVUR2ZHeEktNUczVXllME1NQ3VFRjN5XzFPamszV1h2b3BOQjVoQU1wVWYzWEwxSHRWcFVNZEtJeF9pbHZiN0xrZUk5MXRGVEktbGw4amlrQXF4MA?oc=5",
-          "source": "소셜밸류",
-          "sourceInitial": "소셜",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-12T22:00:48.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "\"단맛은 빼고 식이섬유는 더하고\"… 식품업계 '저당 2라운드'",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GMGlhdU1mN0poVU1QckZWVGJlRHJqZ040TGRtTk4wa0lmbG1CaUJaaDdEUkVCSHAyTFhBVEVNQi1zNW9ObGo5eW9mbTd2M3owU1E?oc=5",
-          "source": "노컷뉴스",
-          "sourceInitial": "노컷",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-12T21:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVklNci13Z21GcUt5SFpUVEJrcWM3WEZvNlVFUGZUbzVsXzZmdTc3YXFZbDhPZVRkWXpDQi1iM1Q0dkU0aWRNZkhWaUI3dXJHY2NPcGNkdEh4VVBRU1pKOWV4SDZReGJ5R0RBUQ?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-13T05:49:18.000Z",
           "tags": [],
           "price": null,
           "feat": false
