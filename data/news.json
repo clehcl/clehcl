@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:06:16.218Z",
+  "generatedAt": "2026-11-15T06:57:35.921Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,23 +16,8 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 8,
+      "total": 5,
       "items": [
-        {
-          "title": "진마케팅 \"신메뉴·매장 오픈 소식, 건당 1만원 기사로 남기세요\"…소상공인·프랜차이즈 기사배포권 신청 접수",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51eTVOeUdNOVk5V3BrbnU0WndHeUl0WWxsQnhnRzlTeWx6QTVYVW1vR1d3clNNdkRBREpBUXlRb05ZUGZ3SWlHc0xpYVZtYldWVjFn?oc=5",
-          "source": "유스연합",
-          "sourceInitial": "유스",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-13T08:58:32.000Z",
-          "tags": [
-            "프랜차이즈",
-            "매장"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "[ 2026년 11월 15일(토) 프랜차이즈 뉴스 ] : 네이버 블로그",
           "summary": "",
@@ -45,7 +30,7 @@
             "프랜차이즈"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "진교동찜닭, 서울시의 ‘2026 서울형 상생프랜차이즈’ 선정",
@@ -90,34 +75,6 @@
           "feat": false
         },
         {
-          "title": "진교동찜닭, ‘서울형 상생프랜차이즈’ 선정 이어 부산 KFA 창업박람회 참가",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aajA1VWNwLTBuNWQ0VEtJWFRnT0k3QW9jbDFVVzViTUF6dXpTQmRwZkxtYkdmMXQ2SVFIOEhMbTAyQm1fVlBNRm9wSW9ibnNEX1pSNzhqUldieDBETUZqZFE1Z0w1Vjdaek9RRzUzTTZnd9IBckFVX3lxTE1aajA1VWNwLTBuNWQ0VEtJWFRnT0k3QW9jbDFVVzViTUF6dXpTQmRwZkxtYkdmMXQ2SVFIOEhMbTAyQm1fVlBNRm9wSW9ibnNEX1pSNzhqUldieDBETUZqZFE1Z0w1Vjdaek9RRzUzTTZndw?oc=5",
-          "source": "잡포스트",
-          "sourceInitial": "잡포",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-13T03:01:16.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[차액가맹금소송] 이디야커피 가맹점주 108명, 부당이득 반환소송의 쟁점은?",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNVFMeV9yWGpaTzhnRC1jaHZnNTgwazlPNTd1QUhTMGdkcVlvaWg4Wk9LaW9VdFFxaUlJUVp4TGpTcXRNNGhqLUlFR1J4Wk5OQ3RUWDlQTXpRSnF0YkpZU3ZVVkJycnNhNFZJN1AyVdIBb0FVX3lxTE5ZNVFMeV9yWGpaTzhnRC1jaHZnNTgwazlPNTd1QUhTMGdkcVlvaWg4Wk9LaW9VdFFxaUlJUVp4TGpTcXRNNGhqLUlFR1J4Wk5OQ3RUWDlQTXpRSnF0YkpZU3ZVVkJycnNhNFZJN1AyVQ?oc=5",
-          "source": "한국아이닷컴",
-          "sourceInitial": "한국",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-13T02:39:07.000Z",
-          "tags": [
-            "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
           "title": "4900원 라떼가 2450원…백억커피, 선착순 2000명 할인 : 네이버 블로그",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSV92dmt2N2pSNHJRaFF4aGo4SjByUXFfSUF4UUNnMFEybXVKdGNPajlRNlRvV2Q4SEpyRUtuSUNMTzA0S0tCb3FVRE1hSFI4cl9XU25lMXl4UDBERmpIbHR3WF9OOWpLV1NiVmx3Wl9JZ1B3dUFHTlhRVkZ6ZDJWUDcxU0w3VDJWc3IzckRB?oc=5",
@@ -143,6 +100,20 @@
       "total": 14,
       "items": [
         {
+          "title": "[지금 노려볼 외교시장은?] 불가리아 소비시장 커진다…K-뷰티·식품·생활용품, 가격보다 품질·차별화 경쟁 본격화",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ELWNaTHlQcVFtMV8wN2RqcUtGemZrSDNMWVppWFJHNUl6am95YXR4MU5sWUpDOS1WR05hNEw4WEpLQlJFbnZMYmtxY2ljTW1PaHVIRERTTE5ORF9EM0lKV0M1VVRWVk5EdTJLdjVR?oc=5",
+          "source": "코리아포스트 한글판",
+          "sourceInitial": "코리",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-15T03:00:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "크라운·해태제과, 3분기 영업익 나란히 30%대 감소…원가 부담 지속",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2STJMaTJjYnhjazFTOHkwNTZqN0EzMEZfaWZGYWk3aWlDRVNLMzFTbnExOF9FRTlkemNwM2lJd0g2YW1SVEtySE11TWIyS0xTaWhwYkUxZlZVNHZPN2lmY3dFSGg?oc=5",
@@ -152,20 +123,6 @@
           "publishedAt": "2026-11-13T23:23:59.000Z",
           "tags": [
             "원가"
-          ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "중국 10월 공장 출하가격 5.7% 상승…기업 구매가격은 7.9% 올라",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1QRGd6SlM2YnM3TW52TThEWk52VXVzczZaaW9XM1c0YURqRFNyYS15M3lDczU3aC1GR01RbXA2OC1ON1U?oc=5",
-          "source": "한국공공정책신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-13T19:59:15.000Z",
-          "tags": [
-            "가격"
           ],
           "price": null,
           "feat": false
@@ -213,6 +170,30 @@
           "feat": false
         },
         {
+          "title": "김장철 배춧값 26% 내렸는데 포장김치는 5만~6만원대…직접 담그는 게 쌀까",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ySGtpQkRQcmJaWklaRk5nY2VSNnc2SXNUdTRud0o2Y3BzREV2d2lKc3doRU9DMDhkM2d2aklsWUhhZlRUUUVPbjFUU1daU2l3M2lBdE1SYnJBQ0hGZlVueVc4RXc?oc=5",
+          "source": "매일일보",
+          "sourceInitial": "매일",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-15T03:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터치 본입찰 연기",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLSVdTal9SQlNYaUgtelN4Z0UzWk5aMHJFRlJIR3FkeThiam9oeGdKV2V3RDZIVklJZFpFRVBYN0cwOGhhenhmbGlwQ25sdS1OS0JtdEc1Z0x1X01xUU9naWNCTjhtTUw1VjhpRDBSSHJ1Zw?oc=5",
+          "source": "중앙이코노미뉴스",
+          "sourceInitial": "중앙",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-15T03:00:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "2035년 식품용 캔 시장 전망: 간편성과 회복탄력성이 이끄는 성장 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2FDS3o5bFFhTG0xYzNFQS1tTU9VMlo0X1NQVnhucmw1aGpZMU54VmtvQTVCM29UZ2RadVo0R2gtMjdmRTktUGpDSWs0b2pIdENVa1pOZHVBbmFkWm9xSjBmdU43TkV0WjduVGR1SkhzQXE0UUdjLWU0eWR0TU1abFNrOWNfMVFITmZROW9MTFI5bFJwY0dyNkNNZHVxRnlFeTE0cGZxUXRJSTVRaDNMckN6aXE2ZTdBVXNfdnJsT2c1WTAtZDkxSGc0amE?oc=5",
@@ -220,30 +201,6 @@
           "sourceInitial": "In",
           "sourceColor": "#3a6ea5",
           "publishedAt": "2026-11-14T16:21:04.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "美 상춧값 한 달 새 7.9% 뛰었는데…식품 물가 ‘다음 파도’ 닥친다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZTlp4T3BXTm9vMDZ4bGZ0ZElSTmJldnlDdzZxZ0tuX09YYlBfdzMzNExKcjZ5b241YWI4bllxcmNzWHNsTmVHa05BY0tLXy02dzJHVlNUdGdHQmU4dTBFMVhzYU50a0xrZ19QelhycEItWVJqNEZMStIBeEFVX3lxTFBZTlp4T3BXTm9vMDZ4bGZ0ZElSTmJldnlDdzZxZ0tuX09YYlBfdzMzNExKcjZ5b241YWI4bllxcmNzWHNsTmVHa05BY0tLXy02dzJHVlNUdGdHQmU4dTBFMVhzYU50a0xrZ19QelhycEItWVJqNEZMSg?oc=5",
-          "source": "뉴시스",
-          "sourceInitial": "뉴",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-14T06:46:56.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품 폐기물 파트너십, 로블로(TSX:L)에 판도를 바꿀 계기가 될 수 있다",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnVhelJnQ1J1U3lBMWlFZTNfZzM1SDA0Q205NlRpUlFqeXUydGhuaWJubDZpcjQ3TWFtanZhOENQYkpLbmtVVnZmc0V0V25hZ2F5c2wyenQ1Rk5UMFFWTGtSd1FNdTdqRlppRHZRQl9tYV81d2U2dmI4eC1xM1FzRFpETlp0MHdZbEh1Ty04M0c0VGIxdzU0bkQzXzBtQXhBT05XWU9vX0psMmN5LXfSAa4BQVVfeXFMTmJ1YXpSZ0NSdVN5QTFpRWUzX2czNUgwNENtOTZUaVJRanl1MnRobmlibmw2aXI0N01hbWp2YThDUGJKS25rVVZ2ZnNFdFduYWdheXNsMnp0NUZOVDBRVkxrUndRTXU3akZaaUR2UUJfbWFfNXdlNnZiOHgtcTNRc0RaRE5adDB3WWxIdU8tODNHNFRiMXc1NG5EM18wbUF4QU9OV1lPb19KbDJjeS13?oc=5",
-          "source": "Simply Wall St",
-          "sourceInitial": "Si",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-13T23:33:50.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -296,7 +253,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "337호 정책뉴스) 민생이 답이다…부동산·물가·일자리 정책의 현주소",
@@ -314,29 +271,15 @@
           "feat": true
         },
         {
-          "title": "농식품부, 국민 체감 성과에 파격 보상…42명에 1.5억원 포상",
+          "title": "식품 안전 문화 교육 및 규정 준수 LMS 시장, 2035년까지 규제 압력이 성장 견인 - 뉴스 및 통계",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVHB5bkcyRGJBMWc4UEtJektQdDVFbGo4eXZIQWNsWUoyWjRoSm9IdFdRUXc4WVBFSl9aazBFblVwRXROSmxYZzIzYVRTcjE1UlkweDJ4a1M0X0h6ZFNDSnlYNzR5bmxucnhj?oc=5",
-          "source": "BBS불교방송",
-          "sourceInitial": "BB",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaU96YThQRFIzU01ZdlBUd09EcHZpWHRvZFhXVFY5YXN6VFFzaXFBekV1bDV1cmlPWGVGTGtNQlQtSXh4SEx4dkh6dkV4bzBoVG85dnE3bGlYV3hkVlZ5TllTQk12RjVGeWpsY0RLUDJ0eTFkUkYxRS05VnpndWZSWlE3Xzd6M3ZGY1BfNmVQWVoydHEyOFM1V3JyUGh6WXBPSVZXV2dFUGg1RFRfNXVaMVBJSHRNbGNWNlpIMGNXTFBaRzZRaS1fSHo1NWpTM0lJN3FLU3ZaSnhvRE4wMV9TNldxV2NPU3h4WEZYNl9WTQ?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-15T05:06:08.000Z",
           "tags": [
-            "농식품부"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "경남도, 겨울철 민생물가 안정 총력…농축수산물 최대 40% 할인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LamotWW45VlR2a3NWN2xNUHRnMzFRc3p5V1VUUENJLXdWWVlkb1VRMndhdWx2UTBKaVRwN3MtUjRBVEx3a3NKZmZZem5aaWV3Z242UkgyUEJsVmN0WnFZMzlQNElYdzAyUkZ1UWpGSTYxVXfSAXdBVV95cUxOUExOVHZKRjZqOF9uSkZDRTBkYmNsS200TEdkRmY0Z2ttUzc1QXNoX2twUGd4Tnlfa3JINUVYbmhEZi0xZmVHb0lNaUZaVzRJd0pJQlUwWWdEOHkxbDVVV05yNm1OdjkyeXhfZllwSThkeWhEejBSUQ?oc=5",
-          "source": "뉴스프리존",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-13T02:45:40.000Z",
-          "tags": [
-            "물가"
+            "규제"
           ],
           "price": null,
           "feat": false
@@ -352,22 +295,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 2,
       "items": [
-        {
-          "title": "식품업계 ‘누들핏W’ 2종 출시·‘잠실 더 라스트 이닝 by 르노’ 공식 파트너 참여",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SDhmLVMwQW82NUxTZzF0XzZ2S0JqajdnelN6TnNINVlCSEltTkZ6TEluVkZYd0t2TUdUckNTVDVXaHpHSm9qSGx1UUlqWFhNT3hGblV1eWFQQUVHaGxTSmtzTEhJQQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-13T00:37:04.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "aT·농식품부, 18일까지 신청... K-푸드 컨퍼런스 참가기업 모집",
           "summary": "",
@@ -378,28 +307,16 @@
           "publishedAt": "2026-11-14T00:58:47.000Z",
           "tags": [],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
-          "title": "거제농수산식품, 상하이서 10억 원 규모 수출협약",
+          "title": "바리스타 손맛 대신 '푸드테크'…진화하는 커피 산업 '제25회 서울카페쇼'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05djRoc2hRcGMwc2dKdG5uNzZEbjI1RTFKeUVUbDVodE5pRXJBX1JELWdzOENMMWxpU191d1RQT3dMTExFWl9kQWRtWmhGR1dnR0xaelFCdFdhaHFfd21GMkdwR2Y4enk2Qmo0?oc=5",
-          "source": "거제통영오늘신문",
-          "sourceInitial": "거제",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-13T09:30:47.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 13일 식품업계 소식] 롯데웰푸드·오뚜기·농심·삼립·하이트진로",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mVklNci13Z21GcUt5SFpUVEJrcWM3WEZvNlVFUGZUbzVsXzZmdTc3YXFZbDhPZVRkWXpDQi1iM1Q0dkU0aWRNZkhWaUI3dXJHY2NPcGNkdEh4VVBRU1pKOWV4SDZReGJ5R0RBUQ?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-13T05:49:18.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qa2U3RlVMYkhPREcxSDNYeFZ4dFpNU0U3RVV1amtyRTZmRXhKV25OaE0xNElIRTNzREo5Q3FqdUVMcEItYmVIZXNUdTVvR1RDd20zNWxMQjEyQUZSMEhN?oc=5",
+          "source": "MTN 머니투데이방송",
+          "sourceInitial": "MT",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-13T08:36:23.000Z",
           "tags": [],
           "price": null,
           "feat": false
