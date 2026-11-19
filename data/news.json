@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:57:55.716Z",
+  "generatedAt": "2026-11-19T22:58:47.891Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 13,
+      "total": 15,
       "items": [
         {
           "title": "제7회 ‘가맹하고 싶은 프랜차이즈 육성’을 위한 추계 컨퍼런스, 11월 26일 개최",
@@ -63,6 +63,34 @@
           "feat": false
         },
         {
+          "title": "K-푸드 영토 확장 본격화…한인마트 넘어 美 주류 유통·외식·급식시장 뚫는다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvc2dlSXdIMklfWkVWaXd3UjVDdklzWmhKbEZtbmpDYm4wTUhUbGRCRzZXYkJaMFI1TmRBM0VBN1o3cXFHUFZQU1ZoVWV6T2ZZZzF0ajZlV1FnTmpGczdhMExBWlUtS0ZNNnY4Yw?oc=5",
+          "source": "와이드경제",
+          "sourceInitial": "와이",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-19T05:34:13.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "서울 김밥 한 줄 3923원…외식·유통업계 ‘가성비 한 끼’ 경쟁",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeFZtb0pSeWpHamFFcVl0ZEcycnVvSmhDYkt4aDJXMTJKTEJBTG0wY0FVLXFPWGpJdDFLRUp3YWFOdGFSZ2U2NlNkVzhJd2pWeTZkTXRjTUpMYXphU3V5SmplM1dQZHh6TFpoNA?oc=5",
+          "source": "뉴시안",
+          "sourceInitial": "뉴시",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-19T05:09:14.000Z",
+          "tags": [
+            "외식"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품용 기름 흡수 시트 시장 2035년 전망: 외식 효율화와 건강 트렌드가 성장 뒷받침 - 뉴스 및 통계",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDBIekN3eUFDZXR4RXRLTTUtaktGQWxXeGpIU3BjYkZOdGN5U1pzbUhXdFA5ZUNua1hNdlgyaWFRYUxEWnNDblBTd0VMelVSaGIxeGN6aXE2Um1JbUNpV1VrTjI1VUNvOGZnTVZkaGVLMXR0cE1XUVh1UTg0eVNWYmN5V25rVksySTgwaDZQNUpnM2ZzYkQtWDRxTU5MNXJ4RWQxdUxUaVRKS0F2Zy1qY3hDei1OZmdLWk5JTm94OWlxc2lEZ3IwS0hiN0h3YWF2cXE1bzV1aEJvUQ?oc=5",
@@ -103,34 +131,6 @@
           ],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "[가치소비] \"내 입맛대로 조립한다\"… BBQ, 올떡·화덕피자로 초개인화 외식 생태계 구축",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xZEJWNDRCcXFOVUpWZW9CVjY3QmNMUTkwcXE0YnVnbDAwUElKTFdra1o1RDRFT3U5clQyY3Bud3Zwc25pZ2dHUEYtVWNPT2tWUkk3NjdtVTlaX3dyODFMbGpOU1kzTkpGV0ZLVTdjby1NNkHSAXNBVV95cUxPcWRCVjQ0QnFxTlVKVmVvQlY2N0JjTFE5MHFxNGJ1Z2wwMFBJSkxXa2taNUQ0RU91OXJUMmNwbnd2cHNuaWdnR1BGLVVjT09rVlJJNzY3bVU5Wl93cjgxTGxqTlNZM05KRldGS1U3Y28tTTZB?oc=5",
-          "source": "가치소비뉴스 컨슈머와이드",
-          "sourceInitial": "가치",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-18T16:57:17.000Z",
-          "tags": [
-            "외식"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "K-프랜차이즈 창업설명회 열려",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YM3ozQkVSSExGMHpyMENoRlZXbmpwSW9DSFd0aWRlYXJoUlAzSXRwWjVrZm1HeWFRcGg5QXdPUmVBdk1lVkNCcHhOV0UzUVRuNjRqbGhB?oc=5",
-          "source": "미주한국일보",
-          "sourceInitial": "미주",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-18T12:42:03.000Z",
-          "tags": [
-            "프랜차이즈"
-          ],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -143,7 +143,7 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 13,
+      "total": 15,
       "items": [
         {
           "title": "‘주머니는 가볍게, 인심은 넉넉하게’ 태안군, 신규 착한가격업소 16개소 지정증 전수",
@@ -240,11 +240,11 @@
         {
           "title": "동원F&B·이랜드·하림 등 유통·식품업계, '계열사 합병' 이유는",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SanZmY2g3cnpUdndESjVhcmZMWWxmTk1wTERaYzRnRUNGaHl1UkQ4eGhqZTlHcGNkRE1yOC00Zk1RVlBVN0llRjFuREp0RjZiaExoVkZ3V25Ec2hvYlJ6SnZPQzQ3RlnSAWtBVV95cUxNdFhfMDQ2QW1PRFpzWG8zQ0h3SkxCaVJ5cGFZX0FlY0xOV2Q3WUQ3OG1XcEpQZzBpVS1hVWNYV3puNkJjTXF4TldWMlYtQTJELTZWOWZoQXdUekt3aUVPd2I2OTNfVm8ySnJ4dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10WF8wNDZBbU9EWnNYbzNDSHdKTEJpUnlwYVlfQWVjTE5XZDdZRDc4bVdwSlBnMGlVLWFVY1hXem42QmNNcXhOV1YyVi1BMkQtNlY5ZmhBd1R6S3dpRU93YjY5M19WbzJKcnh30gFrQVVfeXFMTXRYXzA0NkFtT0Rac1hvM0NId0pMQmlSeXBhWV9BZWNMTldkN1lENzhtV3BKUGcwaVUtYVVjWFd6bjZCY01xeE5XVjJWLUEyRC02VjlmaEF3VHpLd2lFT3diNjkzX1ZvMkpyeHc?oc=5",
           "source": "SR타임스",
           "sourceInitial": "SR",
           "sourceColor": "#333333",
-          "publishedAt": "2026-11-19T06:44:31.000Z",
+          "publishedAt": "2026-11-19T06:50:07.000Z",
           "tags": [],
           "price": null,
           "feat": false
