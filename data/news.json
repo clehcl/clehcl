@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:58:47.891Z",
+  "generatedAt": "2026-11-20T03:55:59.721Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 15,
+      "total": 12,
       "items": [
         {
           "title": "제7회 ‘가맹하고 싶은 프랜차이즈 육성’을 위한 추계 컨퍼런스, 11월 26일 개최",
@@ -36,7 +36,7 @@
         {
           "title": "웬디스·아웃백 이어 KFC까지…외식 가맹점 줄줄이 법원으로[박시진의 글로벌 픽]",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WbnYzNGl3YmZIc1kzeXdaUFZRN2pmQkNsUk9FM0VvZmFrQTQ1aEk5UTZyUlRXRXMxMXBCVkFlZTY3d2tLVjZMbUlMTWRVT0wwdm9F0gFTQVVfeXFMT1ZudjM0aXdiZkhzWTN5d1pQVlE3amZCQ2xST0UzRW9mYWtBNDVoSTlRNnJSVFdFczExcEJWQWVlNjd3a0tWNkxtSUxNZFVPTDB2b0U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIREFTeHNfVXhKSDg0dFZMdy0yRUR6UXYzc1RSQ28yRVk0RVBCVzN2WUpWRlhwVXo0Q2pTS3poejFENUlmc25sSUxVZXFRYTFMamfSAVNBVV95cUxPVm52MzRpd2JmSHNZM3l3WlBWUTdqZkJDbFJPRTNFb2Zha0E0NWhJOVE2clJUV0VzMTFwQlZBZWU2N3drS1Y2TG1JTE1kVU9MMHZvRQ?oc=5",
           "source": "서울경제",
           "sourceInitial": "서",
           "sourceColor": "#c0392b",
@@ -146,6 +146,20 @@
       "total": 15,
       "items": [
         {
+          "title": "日 10월 소비자물가 2개월 연속 2.2%↑⋯에너지 가격 상승 탓",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzN29kQ3IteGFwV0NydmpQZFY1Xy1RVDhPOWo4UnEteVdPLWx0M3ZBbC1WbktGV1VUZGVXbzFPdHJpa0RvTjBoUWVoWllKQTlYUmN1bg?oc=5",
+          "source": "이투데이",
+          "sourceInitial": "이투",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-20T02:18:00.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
           "title": "‘주머니는 가볍게, 인심은 넉넉하게’ 태안군, 신규 착한가격업소 16개소 지정증 전수",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySUhFRlFfdWlqdDZZdWFQWU1JajV5LXp0ek15eDE0QklBQWhUZnR5S3VlTE4zSnZ0NzZsOWJtM2RCV2Z0MVdKNGd1STJkUGFLaXlqV29YM3FrNkxZRmNIZUhjeFdlQ3pVcnc?oc=5",
@@ -157,7 +171,7 @@
             "가격"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "4인 가족 김장비용 19만3,800원…가락몰서 재료별 가격 비교 가능",
@@ -202,6 +216,30 @@
           "feat": false
         },
         {
+          "title": "81조 B2B 식재료 유통업, 법적 사각지대 해소해 외식·식품 산업 경쟁력 높여야",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTHJqZk9FM2tCekNWNDcxc09jZExRWExGd0lQWVBPY1A1VWkwUmNfWE5DbkRCWGdxRURZZHBhZHRaTG1IenNCOHMtMnFKaEtEbXhZUFJ0Y09GR1k3cHZGckd2ZTFteDBsXzk0YzdOOA?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-20T03:00:19.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "이마트, 참다랑어회 5톤 확보…신선식품·겨울용품 할인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaGpSNVd3WGc0T0xHa3d4UUtMRUN0NUVNM1BocnBfR2xiVnhYQ04wVFRXM2FjbEtsaGpfbVplbDNHXzhVUzE1UjlTUmlrNjcyYlZwYjAxSmNrZVUyd29WUnJ3YjdIWjZlWDdJSjBzUdIBb0FVX3lxTE9DaGpSNVd3WGc0T0xHa3d4UUtMRUN0NUVNM1BocnBfR2xiVnhYQ04wVFRXM2FjbEtsaGpfbVplbDNHXzhVUzE1UjlTUmlrNjcyYlZwYjAxSmNrZVUyd29WUnJ3YjdIWjZlWDdJSjBzUQ?oc=5",
+          "source": "더퍼블릭",
+          "sourceInitial": "더퍼",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-20T00:00:34.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "풀무원식품, 美법인 풀무원USA에 532억원 출자…나소야 운영자금 지원",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PNWdITXo2WFRWTzV4UW5BdE1hMUdDejNkdzRCLTB2R0p0eDhVMEpLLUFoT2lNNy00c1RtTFdwcUhSRHFpZDVNSlZPRVpzbHVtaU5odDlyZllKS3FhU1hOeXlqclRyaW9Db1ViZg?oc=5",
@@ -209,42 +247,6 @@
           "sourceInitial": "생생",
           "sourceColor": "#b03a6a",
           "publishedAt": "2026-11-19T12:05:02.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[위클리오늘] 대구시 외식업 공동구매 지원 확대…내년 예산 1억7600만원",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGdzhtdWlWLUNWY2k3WnhEaGpIdmZ5VHlHdXNGYTU5aFBnWWQyRWRHbGxEN0ZRR2tzVmtmb2JEcTRyN0NWWFRXMVFRNjIxWTZFVW5zWGN3NXdmWWJ2VEZ2RE5Xb202TDRQR2t5SlZ3?oc=5",
-          "source": "위클리오늘",
-          "sourceInitial": "위클",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-19T11:19:09.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "고물가 신음하는 외식업계 숨통 틔운다…대구시, 식재료 공동구매 지원 10개 단체로 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMHR1c0VoTlg2QkdBaHpEUkVWNWdTTDFLdTE3eGRTdUVuRUZLX1N5c0o5cXJ4ek94VWhEbVAtMUNrVUR6dmJ0V2tRS3MyRnV5NTRQb0dOOGFzd9IBWEFVX3lxTE41c1lqc0NhbmgzTmZmMDNpX1hsa1VYSFJXby1hejdmV1JuX0xMaDVEWlZETVhfcW1CTFVVZi05UW9mRUxHMTRDaktXQWFrUTdib3R2Z3MwOVg?oc=5",
-          "source": "아주경제",
-          "sourceInitial": "아주",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-19T09:27:56.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "동원F&B·이랜드·하림 등 유통·식품업계, '계열사 합병' 이유는",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10WF8wNDZBbU9EWnNYbzNDSHdKTEJpUnlwYVlfQWVjTE5XZDdZRDc4bVdwSlBnMGlVLWFVY1hXem42QmNNcXhOV1YyVi1BMkQtNlY5ZmhBd1R6S3dpRU93YjY5M19WbzJKcnh30gFrQVVfeXFMTXRYXzA0NkFtT0Rac1hvM0NId0pMQmlSeXBhWV9BZWNMTldkN1lENzhtV3BKUGcwaVUtYVVjWFd6bjZCY01xeE5XVjJWLUEyRC02VjlmaEF3VHpLd2lFT3diNjkzX1ZvMkpyeHc?oc=5",
-          "source": "SR타임스",
-          "sourceInitial": "SR",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-19T06:50:07.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -260,19 +262,18 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 9,
+      "total": 8,
       "items": [
         {
-          "title": "알토란ERP 식자재물류유통프로그램 ‘K발주ERP’, 한국고객만족도 1위 수상",
+          "title": "KFDA, ‘농업과 식재료 유통산업 상생토론회’ 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zLXRrNlN4alYza3dvd0ZVcl8yTVBlLXU2dm5JYkNlLW55X29kMDZJaFEzMUttOGZXX05aM0lJS2FDYmlMeTJsZHY1aWY5Sm93bVpXaHhjRXpkSWxrWkRqQkxtbjlVbkRwZmhFRdIBb0FVX3lxTE5xNTgzWE1ibnUwLXhxRWh2VXpKWnJLSE8wWjF3Vlo3ZFZpXzljUzFxb3lLalloT3QwN3NlWTFhUWlWZXlDQ3pvelRnZEFPNUQ1cUh5WmZYY1kzUndnQ3RLYmxzUlEzVktmYmlXZ1lDWQ?oc=5",
-          "source": "뉴스로드",
-          "sourceInitial": "뉴스",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-18T00:22:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kaUdxdTBEeU9sbnF1SGY4U1h4cGNjeUxXOVRCQ1RIX1FuQ3hHVlNSLTc5ZGdhUGFTSmRSZXJVVXo4c25XcGtoVThyejE3dFdtQ3U0VkxmS1Zoc0h4c2VSZ1VqQlRib0Z3eWVZ?oc=5",
+          "source": "물류신문",
+          "sourceInitial": "물류",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-20T01:42:07.000Z",
           "tags": [
-            "유통",
-            "물류"
+            "유통"
           ],
           "price": null,
           "feat": true
@@ -306,30 +307,14 @@
           "feat": false
         },
         {
-          "title": "[유통갤러리] 풀무원, 16회 식품품질안전 컨퍼런스 개최…AI 활용 식품안전 체계 강화 방안 모색 外",
+          "title": "식자재 거래 플랫폼 키우는 CJ프레시웨이, 최저가 전쟁 승자될까",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lYy14aHhJa0dmanZaMDZBMmhVMVYwN1dVcmVoMUdpTFo0d1pnRlc5ZHNkU05mVElWc01lN004Mm1EdGkxWFFDMi01ZlE1ellOWWhFYjYzRkE?oc=5",
-          "source": "뷰어스",
-          "sourceInitial": "뷰어",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-18T01:43:58.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "본푸드서비스, 논산 식자재 유통센터 고도화⋯ 냉동 보관 능력 2.7배 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vSHF6Ty00Y01zS2x4clVieDQ5MU1WQnVXYUZlVWdjQnZobFJyYkk2ZDk0VUlQTDBPaXE3Yk9ncHpJNzBEU3g4cjhrSkpWSFc1OXpuaDhwTjFZZw?oc=5",
-          "source": "브릿지경제",
-          "sourceInitial": "브릿",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YekQ2cjNCVFFkRTRrNFNvRUFoaGs1UGFuUG54Sl9KbGVZR0NnUkV3YzJTN2xBWHJzeW1yaGdlSkN3bThBdHc?oc=5",
+          "source": "매일경제",
+          "sourceInitial": "매",
           "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-18T00:23:00.000Z",
-          "tags": [
-            "유통"
-          ],
+          "publishedAt": "2026-11-20T02:09:39.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -346,25 +331,37 @@
           "feat": false
         },
         {
-          "title": "CJ프레시웨이, 식품 분석 역량 글로벌 수준 입증…z-score 0.0 기록",
+          "title": "장서우 리엔에이치(RE&H) 대표 “병원 급식, 화려한 메뉴보다 ‘현장 운영체계’가 핵심”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdGo1SjgwMEh6UURHckFIOVJsTXU4Nms5RElqVzZoa0ZDUGJVTTN4RE82bmFaMjd5dkp2TkhHTi1KOGNsNF9wREo3bjNqWEZ5Zm95Q0M3cXhTZHU4a1EwUTI2aHZ0WU56S3dj?oc=5",
-          "source": "백세시대",
-          "sourceInitial": "백세",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-18T02:16:12.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wWjNxc2pLRDAtWEdyc25hdkpiUjhkYUVqc3RmcXMtVzlLQjZpMXVUZDZIc0dlTGpZWUQ3emxSeDdZZk5wakMyLUctNk42NWZaRHNtR2hHUzF2aDdsS2E3bERtd2xrcjA30gFsQVVfeXFMT1F6eEtRRFd2UGtjMkI1b2VnMnBTVmZ3SnA5Ul9hYXBwM1ZHVHNxXzVjSVJuSXlqWkUyN1pCNnVhM2ZGbUZRMVo3ZXlkRERDek54aG1CVG5sRHl1VlZIaGlXSW9WZkpWTEp4M3Bk?oc=5",
+          "source": "리얼캐스트",
+          "sourceInitial": "리얼",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-19T07:59:44.000Z",
           "tags": [],
           "price": null,
           "feat": false
         },
         {
-          "title": "CJ프레시웨이, 국제 식품분석 정확도 입증…급식 PB 경쟁력 강화",
+          "title": "CJ프레시웨이, 국제 식품분석 평가 8개 항목 ‘양호’…급식 PB 안전관리 강화",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd1dxSmtKZU1IMk41MFVmTjI2V2RTcFFtU25keHdxUVNVcjJkZkVVQUZXb1phM1ZRdWRneFpLM3pyUVo0Szd6cW42ZGc0dzhDVEpRU2VrLU5nYVVzcjJYaGNfTWFra2s4bzdfODVHTERjSkNh0gF0QVVfeXFMTWp3V3FKa0plTUgyTjUwVWZOMjZXZFNwUW1TbmR4d3FRU1VyMmRmRVVBRldvWmEzVlF1ZGd4WkszenJRWjRLN3pxbjZkZzR3OENUSlFTZWstTmdhVXNyMlhoY19NYWtrazhvN184NUdMRGNKQ2E?oc=5",
-          "source": "산경투데이",
-          "sourceInitial": "산경",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-18T01:44:58.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12N0RvdHNkN1lnYTNYV1FUc1hhaHZtTDhRenI3MTFlMW5EdGg1SzFybnoyai1sWFF5ZXRNaGlRbmZTM0JaT0JrR3ZnVHRCQjNQTEM1dW1GVnk?oc=5",
+          "source": "안티에이징뉴스",
+          "sourceInitial": "안티",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-18T12:00:05.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "CJ프레시웨이, 국제비교숙련도 평가서 최고 수준 정확도 입증…“급식 PB 상품 경쟁력 높일 것”",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Z1VsZnM0c1VONVNrOWlkRHpnVHNHY3VGMVowNWRZUW45UWJOeEZLN05vTDRXV3g3MG4xWHJtSUNVOEhGdXBuM2ZxT3Y3WnJlYS14LUpOX2dDMU0xRkxuYXFBekZaVTjSAWdBVV95cUxOdmdVbGZzNHNVTjVTazlpZER6Z1RzR2N1RjFaMDVkWVFuOVFiTnhGSzdOb0w0V1d4NzBuMVhybUlDVThIRnVwbjNmcU92N1pyZWEteC1KTl9nQzFNMUZMbmFxQXpGWlU4?oc=5",
+          "source": "리버티코리아포스트",
+          "sourceInitial": "리버",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-18T07:47:28.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -380,8 +377,36 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 6,
+      "total": 7,
       "items": [
+        {
+          "title": "정부 김장대책 발맞춰 국민 참여 SNS 이벤트와 이웃 나눔 행사",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtdkpEb191Z0Rpa1NvVC1EbFRpTWt1ajBHcDZVYnZKcWdkUjhUVF8yT3c5NEN3czRGSDVrRmlJdDlTUDVNYnh5a1FzS1dvSmRYQkRnXzNzeFl3ZzUyOHB6ZjB1RDE?oc=5",
+          "source": "일반경제신문",
+          "sourceInitial": "일반",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-20T02:03:00.000Z",
+          "tags": [
+            "정부"
+          ],
+          "price": null,
+          "feat": true
+        },
+        {
+          "title": "브로콜리 가격 급락...제주, 수급안정 지원 600톤으로 확대",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZDktMkhXX3piSnJiNHMwMFBjVVdlMEpyMy00aF9tc29zSThDLU5aWm83TlVFMVgtTkYxVzFHSGhPajY4NGFWS2lqUFpSUzdObEpsOU84V0VCYXdhZ2VyZm4zNk9BVzBwVllQRlhZdHJoUGc?oc=5",
+          "source": "헤드라인제주",
+          "sourceInitial": "헤드",
+          "sourceColor": "#2f7d4f",
+          "publishedAt": "2026-11-19T05:52:49.000Z",
+          "tags": [
+            "수급"
+          ],
+          "price": null,
+          "feat": false
+        },
         {
           "title": "수원시 팔달구, 2026년 물가 모니터 요원 간담회 개최",
           "summary": "",
@@ -394,7 +419,7 @@
             "물가"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "풀무원, 협력사와 AI 식품안전 구축…글로벌 규제 선제대응",
@@ -411,16 +436,26 @@
           "feat": false
         },
         {
-          "title": "aT 김장비용 18만7613원, 생활물가 올라도 김장비용은 ↓... 이유는",
+          "title": "aT, ‘김장 한 포기 더하기’ 동참…국산 농산물 소비 확대",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZldBRWdaT2FBRmkxOWFJZF9Xdzl2UmJnTlY5VnY4dXpYRlhEWmlBSVFDS3dDNFo5UjZzN1piZ19HbDJ1b3RsN1M0RWVqME94TTdfZjVrUGRRMnBVaGpBV0JINFA2UFZEbXfSAWpBVV95cUxOaGZXQUVnWk9hQUZpMTlhSWRfV3c5dlJiZ05WOVZ2OHV6WEZYRFppQUlRQ0t3QzRaOVI2czdaYmdfR2wydW90bDdTNEVlajBPeE03X2Y1a1BkUTJwVWhqQVdCSDRQNlBWRG13?oc=5",
-          "source": "센트럴경제",
-          "sourceInitial": "센트",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-18T01:15:45.000Z",
-          "tags": [
-            "물가"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5SGNtdm1WMnpNTWEwaHdla3FvOE53ejRXT2wxM2VBR1dqQThQZUxwa00xdlVvYldKNGxYME5zYllpS3lqS2UyNW10UEtnMFIxdDIyeHYzZEJlNDZ3Z2FpNU9B?oc=5",
+          "source": "livesnews.com",
+          "sourceInitial": "li",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-20T02:13:47.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "박닌성: 301개 업소에 대한 식품 안전 평가 및 인증서 발급.",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXdsOGlrTGVUeTY1YWNDM3M4cXVCVERRd1NYTncxVUFjMUQycDFDUnNzVWsybXJvZy1FWjJfRmdGVjdUTVFJZEppVFRPUEhMcWV5M2dWdWlyMldqUWVmVUN4d29aSWtZQ1JreWdZRGVTa0NvY3UyeTBLV2hFZnNSX1lJVGZFVGR5U3ZtR0tWMnBDeEQwY3BVWjZnLWl6ckFSZmxaS1pfbTU5NzQxb2c?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-19T04:00:21.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -432,30 +467,6 @@
           "sourceInitial": "국제",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-11-18T08:24:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "풀무원, AI로 식품안전 관리 고도화…협력사 250명 한자리",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UdmlfUGlMT3BWZ01nck1ROWxYTGF0T25IS2hQbjdIUnN0cHR0Uld1U2RCZUk4S0FfNzVSSjdMckQyQXJRZWcybGNTYlJUQUhJSXA5UHRGZ1pDeDJrcnRFZ1pvVE5hUQ?oc=5",
-          "source": "푸드투데이",
-          "sourceInitial": "푸드",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-18T00:08:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "풀무원, 협력사 250여 명과 식품품질안전 컨퍼런스 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvcTkyOU9jaS12MEZuc2ZjV0RfZXhLb0xoRjJ0WlMwNHQ5QjNYNEw0b3FEMjZaVDZpQjVFeHA5RTRfV3gxSzlJYzlxeExjTDVIdW9UYkl3enNGNmVTN3JxVERHZjhzazU4dkE0?oc=5",
-          "source": "라이센스뉴스",
-          "sourceInitial": "라이",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-17T23:47:43.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -471,52 +482,21 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 8,
+      "total": 10,
       "items": [
         {
-          "title": "[신제품] 풀무원헬스케어, 당뇨환자용 ‘디자인밀 211 당케어식단’ 출시… “영양·맛·편의성 다 잡았다”",
+          "title": "[식음료] 빙그레 첨가물 줄인 아이스크림 출시…대상, 유럽 박람회 참가·김장 할인 7천만원 지원 / 삼양식품·롯데웰푸드 광고 캠페인, 교촌 포인트 할인…풀무원 쇼트트랙 선수단 후원",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95SVVLX2w1ZnlObE5scVYxUkFGZ21ySi1wTUFMMGdmQjhneXVWSDRjckFOeUIyazZraGtCVnBlSENTNzIwSWlNV0V1aWpYVDhwOFNWRkVDckg4QWYza3QyZGpGN2Z4MWtrTVpV?oc=5",
-          "source": "맥스무비",
-          "sourceInitial": "맥스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yTjVhRTF2Z2d2UGlFZDZDaHNhSXVmU0ZETmVSNW5Ua3l3Q2JOZUk4WDdoMF9SOU1xYnMzSlJUQTVxZEl0ek1Kd0pMcExmLVdaWmxPSDRVellsRElXMGE0QWUtUDdaRDRnNXhDTG1lczRSUQ?oc=5",
+          "source": "웹이코노미",
+          "sourceInitial": "웹이",
           "sourceColor": "#333333",
-          "publishedAt": "2026-11-18T23:48:20.000Z",
+          "publishedAt": "2026-11-20T02:37:34.000Z",
           "tags": [
-            "신제품",
             "출시"
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "CJ제일제당·CJ프레시웨이, 천연 조미소재 ‘테이스트엔리치’ 신제품 출시·국제비교숙련도 평가서 식품분석 정확도 보여",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UaGZrSEpnMi1YcHhZVUJHY0lzRElrNEw4R0tpR091Rk9qMjVSaV9SV256czVyNmMtY3hRS0R0c3RTSWx0UTRyU1FrcFVGTWhxN0VfQ2daU0dla3N2OUlRR3NfMFhFUQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-18T00:38:42.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "식품업계, 저당 소갈비·소불고기 양념 신제품 출시...ESG 평가서 3년 연속 통합 ‘A’등급 획득",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wWVF2OGliMDB0S0doVklXTzJSSXJKQmhDdTFka0hYSkQ4ZkI5cjgxdG8zQTJ2OFNwWllCbUxxVG5qOUxUZzBJVWo1dndUWjdLU1RYQnhYekRoRFZJSnI5aWtrNE16UQ?oc=5",
-          "source": "여성소비자신문",
-          "sourceInitial": "여성",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-18T00:23:38.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "[오늘의 신상품]풀무원헬스케어, 당뇨환자용 식단형 식품 출시 外 CU·GS25·투썸플레이스·폴 바셋",
@@ -526,6 +506,20 @@
           "sourceInitial": "글로",
           "sourceColor": "#333333",
           "publishedAt": "2026-11-19T09:56:54.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원헬스케어, 지속가능한 식생활 위한 당뇨환자용 식단형 식품 ‘디자인밀 211 당케어식단’ 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUDk4MEZSZzZ3WFlIQjExUXRrQzdBal85UjRpVk95VmJNVUl6YzRRb2NVOTF5eXNYbDcwQm1jUi1iRTFmSjdNTlFOeG5qRndGQ0NxUjlIOTBsWTlIVXM5dHZkYk9yd2ZSN3pNNA?oc=5",
+          "source": "푸드아이콘",
+          "sourceInitial": "푸드",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-18T23:54:39.000Z",
           "tags": [
             "출시"
           ],
@@ -547,6 +541,42 @@
           "feat": false
         },
         {
+          "title": "대상, 유럽 식품 소재 박람회 ‘FiE 2026’ 참가 성료…글로벌 스페셜티 소재 경쟁력 입증",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95d3ZWTjNVa3U2WWI4M3Y4LThlbGt4NnhMUjRBWlBib1V3S00xNi1oNkRadzdzenBqTlE1UmVlbmxncTdSSTNzanBhbHBwRWh5RjBiY0hyNnEtUURqd1J5dFdCQTd0Z0FZdW4teFJoWQ?oc=5",
+          "source": "데일리e뉴스",
+          "sourceInitial": "데일",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-20T02:14:30.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[굿모닝! 20일 식품업계 소식] CJ제일제당·대상·롯데웰푸드·풀무원·삼양식품·빙그레",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSU9PUkNxUE55Zy1kT3ZxZ05sX1dHT3RqMjFuaGdnaDZ1X0QteG9SZzRYVEdhRmRIMjdDTTFweWZJelMzM3Z6QXNoT3FZOFljREdSVjBwTFRRbXJULTc4ajM0NWFkWDgzUmE4cg?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-20T02:08:51.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "[굿모닝! 19일 식품업계 소식] CJ제일제당·오뚜기·팔도·풀무원·KGC",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLTBTU011UVFZRnJRa19QWUZIRTJ6eVE0c2x5aXd2MU9qd29YRmQ3WEluY1p5aDJLbk5TckRIYnJOVU9aSEk1Y19oMGVMUkM1LUpDVW9PUFZQQTdoMExDMFBxdU05dzNWdGFsZA?oc=5",
+          "source": "굿모닝경제",
+          "sourceInitial": "굿모",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-19T05:00:31.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "브라우니 패티 넣은 초콜릿 햄버거에 24일간 즐기는 초콜릿까지 [쿠킹]",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wTTVfZHRDTEZiTmNwWGtYMDZBaEJUTkk2andLREhmc3V5N3JEWWE4R3Fmc1hWUzlZcC1jWksxNmtGV1BtTzktT25yTU5DYUtKRmNDODZn?oc=5",
@@ -554,30 +584,6 @@
           "sourceInitial": "중앙",
           "sourceColor": "#c98a2b",
           "publishedAt": "2026-11-19T00:00:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "[굿모닝! 18일 식품업계 소식] CJ제일제당·대상·농심·풀무원·빙그레",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43VFBSSXBiU2RnVWZPNThxdDRNSmFYWV9aaWJsSnJGSG9EbzJZUUUxcFBQSWkwR2NRS200TV9fNEtRY0ZJUUV3T1VIbE9JQ3ZRSmlRVTVmR09ZaVVrU01KRTZzQ2ROV3BjdDVuTw?oc=5",
-          "source": "굿모닝경제",
-          "sourceInitial": "굿모",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-18T04:57:23.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "“AI로 현장 식품안전 혁신” 풀무원, 제16회 식품품질안전 컨퍼런스 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xLVFITnJCS0s5Zm1zZW5qYkU4cG5pb0pQRHJpZkNMcUpyc3JOWmY0SHFYYnEzZlhtQnZOYU1JZlNxY280bEJ2SDhxZUx1a0w0c290TGN1VHJfQVhjYkVfVHRmbkhtci1oZ2lFYnNVSQ?oc=5",
-          "source": "식품음료신문",
-          "sourceInitial": "식품",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-18T00:35:44.000Z",
           "tags": [],
           "price": null,
           "feat": false
