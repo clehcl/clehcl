@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:56:02.795Z",
+  "generatedAt": "2026-11-21T01:59:38.978Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 14,
+      "total": 11,
       "items": [
         {
           "title": "한국프랜차이즈協, 제3차 상생·윤리 공개교육… “가맹본부 자체 준법·상생 역량 강화”",
@@ -44,21 +44,6 @@
           "tags": [
             "프랜차이즈",
             "가맹"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "웬디스·아웃백 이어 KFC까지…외식 가맹점 줄줄이 법원으로[박시진의 글로벌 픽]",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIREFTeHNfVXhKSDg0dFZMdy0yRUR6UXYzc1RSQ28yRVk0RVBCVzN2WUpWRlhwVXo0Q2pTS3poejFENUlmc25sSUxVZXFRYTFMamfSAVNBVV95cUxPVm52MzRpd2JmSHNZM3l3WlBWUTdqZkJDbFJPRTNFb2Zha0E0NWhJOVE2clJUV0VzMTFwQlZBZWU2N3drS1Y2TG1JTE1kVU9MMHZvRQ?oc=5",
-          "source": "서울경제",
-          "sourceInitial": "서",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-18T23:18:10.000Z",
-          "tags": [
-            "가맹",
-            "외식"
           ],
           "price": null,
           "feat": false
@@ -129,6 +114,20 @@
           "publishedAt": "2026-11-19T15:45:06.000Z",
           "tags": [
             "프랜차이즈"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "K-푸드 영토 확장 본격화…한인마트 넘어 美 주류 유통·외식·급식시장 뚫는다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvc2dlSXdIMklfWkVWaXd3UjVDdklzWmhKbEZtbmpDYm4wTUhUbGRCRzZXYkJaMFI1TmRBM0VBN1o3cXFHUFZQU1ZoVWV6T2ZZZzF0ajZlV1FnTmpGczdhMExBWlUtS0ZNNnY4Yw?oc=5",
+          "source": "와이드경제",
+          "sourceInitial": "와이",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-19T05:34:13.000Z",
+          "tags": [
+            "외식"
           ],
           "price": null,
           "feat": false
@@ -205,7 +204,7 @@
         {
           "title": "식품사 원가 부담 5년 새 가중…10곳 중 8곳 원가율↑",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYkl2RTFXZ3QtRDVpaGhhRUVOU0treWpPZEV4NFh6RHRpX0lYTnBoRE5Xamd3eDV3QmF6c2UwRmlvRHRCOEFEQThONUllTHBxY1lOLWRwV0NCbTgzRzVUd3lHZ0NzWHhFSGNfUNIBb0FVX3lxTFBSVWVpMk9nY2oxRmJXRTdkeW0wbFZkVEEwMG80ZGRYYzJDaUw0NTFEMldFcXIxT3ZXb3NhcmRPTVlIWTZCYlN4LTZKZlc3N0JkMm44N0VxT0dmSFl2bVN6UFpjaW4tT1d6Skx6TEJRQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jSWI5R1p2cU5LeVpDVUlPZlEyN2Y0eEtYSnBWT3ZQc2lTMEFPZnpfaFJlQm5VUjE1cDFudWthcWU2bUJMbWZ0NEFRTzlYSFZlbzJ3MHNROS1ubUs2ZEYxMFFWNjJpNUxWSThZ0gFvQVVfeXFMUFJVZWkyT2djajFGYldFN2R5bTBsVmRUQTAwbzRkZFhjMkNpTDQ1MUQyV0VxcjFPdldvc2FyZE9NWUhZNkJiU3gtNkpmVzc3QmQybjg3RXFPR2ZIWXZtU3pQWmNpbi1PV3pKTHpMQlFB?oc=5",
           "source": "한스경제",
           "sourceInitial": "한스",
           "sourceColor": "#1a7a5a",
@@ -300,13 +299,13 @@
           "feat": false
         },
         {
-          "title": "식자재 거래 플랫폼 키우는 CJ프레시웨이, 최저가 전쟁 승자될까",
+          "title": "장서우 리엔에이치(RE&H) 대표 “병원 급식, 화려한 메뉴보다 ‘현장 운영체계’가 핵심”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YekQ2cjNCVFFkRTRrNFNvRUFoaGs1UGFuUG54Sl9KbGVZR0NnUkV3YzJTN2xBWHJzeW1yaGdlSkN3bThBdHc?oc=5",
-          "source": "매일경제",
-          "sourceInitial": "매",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-20T19:02:45.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wWjNxc2pLRDAtWEdyc25hdkpiUjhkYUVqc3RmcXMtVzlLQjZpMXVUZDZIc0dlTGpZWUQ3emxSeDdZZk5wakMyLUctNk42NWZaRHNtR2hHUzF2aDdsS2E3bERtd2xrcjA30gFsQVVfeXFMT1F6eEtRRFd2UGtjMkI1b2VnMnBTVmZ3SnA5Ul9hYXBwM1ZHVHNxXzVjSVJuSXlqWkUyN1pCNnVhM2ZGbUZRMVo3ZXlkRERDek54aG1CVG5sRHl1VlZIaGlXSW9WZkpWTEp4M3Bk?oc=5",
+          "source": "리얼캐스트",
+          "sourceInitial": "리얼",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-19T07:59:44.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -322,7 +321,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 13,
+      "total": 16,
       "items": [
         {
           "title": "대상, 김장 물가 잡는다···농협에 7000만원 지원",
@@ -339,15 +338,15 @@
           "feat": true
         },
         {
-          "title": "정부 김장대책 발맞춰 국민 참여 SNS 이벤트와 이웃 나눔 행사",
+          "title": "식품진흥원, '2026 정책EXPO 공공정책 우수경영 대상'",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtdkpEb191Z0Rpa1NvVC1EbFRpTWt1ajBHcDZVYnZKcWdkUjhUVF8yT3c5NEN3czRGSDVrRmlJdDlTUDVNYnh5a1FzS1dvSmRYQkRnXzNzeFl3ZzUyOHB6ZjB1RDE?oc=5",
-          "source": "일반경제신문",
-          "sourceInitial": "일반",
-          "sourceColor": "#333333",
-          "publishedAt": "2026-11-20T02:03:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mbU8zMGFMMC00cVpjTmYtWVJoUktfZzJIYkZCelhfT3ZZMzloUW40TWJkbGRlU1cxd2VvUDRSZi1XZkZhWUI2aFNMSTdHYjFLYmMwdW41RGIwV1FhSm4xNFl3?oc=5",
+          "source": "보건신문",
+          "sourceInitial": "보건",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-20T04:40:22.000Z",
           "tags": [
-            "정부"
+            "정책"
           ],
           "price": null,
           "feat": false
@@ -381,6 +380,20 @@
           "feat": false
         },
         {
+          "title": "식약처, 아태 21개국과 식품안전 위기대응 협력 논의",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wd2Q2TkxDY2Q3TlpLbVJJSVVyOC1uOFFscjhhaEhfckRpWF9mbFNxS1p4OGVJSTY5alg3bGJUVTU2TlhxOFNhZnA2UUxjbEwyVkwyNERpN19qUG1hVUsteWw2RGM?oc=5",
+          "source": "메디포뉴스",
+          "sourceInitial": "메디",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-19T08:55:09.000Z",
+          "tags": [
+            "식약처"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "브로콜리 가격 급락...제주, 수급안정 지원 600톤으로 확대",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZDktMkhXX3piSnJiNHMwMFBjVVdlMEpyMy00aF9tc29zSThDLU5aWm83TlVFMVgtTkYxVzFHSGhPajY4NGFWS2lqUFpSUzdObEpsOU84V0VCYXdhZ2VyZm4zNk9BVzBwVllQRlhZdHJoUGc?oc=5",
@@ -390,20 +403,6 @@
           "publishedAt": "2026-11-19T05:52:49.000Z",
           "tags": [
             "수급"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "수원시 팔달구, 2026년 물가 모니터 요원 간담회 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OX043R3lvczVSSGxGT0ZlaHZGZUtMTndXd3IzZXcza2xnVzVrWlFCMTNLOWwtbVZvQXFBbkR3Qjg2bTlfbjktN3g5dGVGZ9IBakFVX3lxTFBHU3BwSWg4S01RRGpPOGxzQmpEaGp4akJHY1Yza21JZmw5cDR0dmprcFNKdDd3VUg3MDVqcExFdlNRemk5TTZFbGZGaDhNaDBSb3pLRjhFdXp1MFpTME81U05ZaVRNSVhKUUE?oc=5",
-          "source": "시사일보",
-          "sourceInitial": "시사",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-19T00:59:00.000Z",
-          "tags": [
-            "물가"
           ],
           "price": null,
           "feat": false
@@ -443,23 +442,8 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 12,
+      "total": 11,
       "items": [
-        {
-          "title": "[신제품]일양약품-다이클로, 프리미엄 건강기능식품 9종 출시",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1aWxTWWY3X1dKNE1qTzNWdjhUWkdZYVg3NlFraUM4cllOd1ZheWJxUXYxQ1l4N0lNXzNVOWhJbFV3bEU1NnlTcTZPS256MmNDVC1leGVpZHpBX25LTlVXT19kTG4tc25STDgtd2lLMnY?oc=5",
-          "source": "데일리메디팜",
-          "sourceInitial": "데일",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-19T00:31:49.000Z",
-          "tags": [
-            "신제품",
-            "출시"
-          ],
-          "price": null,
-          "feat": true
-        },
         {
           "title": "칠갑농산, 겨울철 겨냥 '사누끼 우동·연근뿌리 칼국수' 2종 출시 · 주요 내용은?",
           "summary": "",
@@ -472,7 +456,7 @@
             "출시"
           ],
           "price": null,
-          "feat": false
+          "feat": true
         },
         {
           "title": "[리테일 위클리] 신라면 40년·햇반 30년…유통가, 한정판부터 건강식품까지 신제품 봇물",
@@ -517,6 +501,20 @@
           "feat": false
         },
         {
+          "title": "풀무원헬스케어, 당뇨환자용 식단 '디자인밀 211 당케어식단' 출시",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CQWsyeGVjY2RuSGFxdmhJaFI1RC1LMWF4U1JYTDR5NWQ5cjY3T0FGWjh3UFdmeFEwZVM1Ull1ZWVCXzY3Y3QxVU54Sm02c3NxZkdneDd2RlRkci1ZVGJIaXNB?oc=5",
+          "source": "livesnews.com",
+          "sourceInitial": "li",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-19T15:59:00.000Z",
+          "tags": [
+            "출시"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "[오늘의 신상품]풀무원헬스케어, 당뇨환자용 식단형 식품 출시 外 CU·GS25·투썸플레이스·폴 바셋",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HdkJPTWFGSzkwQmt1eDNQWlJJY0FDdWxiazlYSk45MzB6VllIX0ZGXzJ1YTZlSTBEMzNRSTNvWU93UGk5U1VoVFUxaDE5MUt3OFZSMUNyN3A1TFpJMmVldC1CZFl5WkIxSEdFStIBcEFVX3lxTFBxU1hadmZ0cnlXblMtOTdnWXRub2t3dG1rNVRZWF95Qk9tanB3LU9rM2lyeDV6b2p6VG8zVkZhUHNmV1k1SVVuNXU1b056QjFxUlRwMGFwblV2Y1hrbWpXTnBwSnYwNmpIZFFtc3IwQmw?oc=5",
@@ -531,30 +529,28 @@
           "feat": false
         },
         {
-          "title": "[식품·유통업계 동향] 식품업계, 신제품 흥행부터 브랜드 협업·ESG까지…경쟁력 강화 속도",
+          "title": "일양약품, 다이클로와 건강기능식품 9종 출시",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lOGNKd3ZhNmlkYVdGX1BzT1VlckJ5cDBwWjUyeU9nQThJWWJCS2ZRYUFTaWFER2VzZGhGWDBpekYtR2Z5a3pTYk5ZelZhTVlOLVhNMExTb1AwVS1NeXA1VTNaN1BXTVJQRnRUemd3?oc=5",
-          "source": "코리아포스트 한글판",
-          "sourceInitial": "코리",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-18T23:45:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMkQ3d2lJNVJxYjJOLUd5bkZoWHBfZWRzZVFyT3BWajVzd1BHWkh2S3gtQmdacjk1czYtZzYzb3pnR0gtUG5SdHRpbWJwQ1VqQXFoVFhTZWF1Qkk0NWlpbEExQ1MyWFJ0akNR0gFvQVVfeXFMTWhnVDFpbGxOWGR5eHlOcDFUQnpUNC1mUkhIcll1bTRZMnREUVJSTE54NllhS0dGeUlUSHd6eWJFNHhqX3dxTS1Nb2kxNE5FMG1vX1FiX3lyVkF5dEJFVk5QeHN4MExqX1F2N3duMGNn?oc=5",
+          "source": "e-의료정보",
+          "sourceInitial": "e-",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-19T05:30:36.000Z",
           "tags": [
-            "신제품"
+            "출시"
           ],
           "price": null,
           "feat": false
         },
         {
-          "title": "풀무원 디자인밀, 당뇨환자용 ‘211 당케어식단’ 출시",
+          "title": "대상, 유럽 식품 소재 박람회 ‘FiE 2026’ 참가 성료…글로벌 스페셜티 소재 경쟁력 입증",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xc3Q4NUFCQ1VURm5kcGNZZWJGaXBPendHbi1XdmUtT0VSY1hjYkxQellhaThSSnJVRmRsa2p4aXBESDhucGZ6ckpydnVpOGhvdTJ5SFlPTWhQYlNjQTBjNDk4OEo1ZWZGNFU3SnJGY2hfVDJjbnFrdGc3WlY?oc=5",
-          "source": "비욘드포스트",
-          "sourceInitial": "비욘",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-18T23:06:05.000Z",
-          "tags": [
-            "출시"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95d3ZWTjNVa3U2WWI4M3Y4LThlbGt4NnhMUjRBWlBib1V3S00xNi1oNkRadzdzenBqTlE1UmVlbmxncTdSSTNzanBhbHBwRWh5RjBiY0hyNnEtUURqd1J5dFdCQTd0Z0FZdW4teFJoWQ?oc=5",
+          "source": "데일리e뉴스",
+          "sourceInitial": "데일",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-20T02:14:30.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
