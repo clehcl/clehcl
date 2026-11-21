@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:59:38.978Z",
+  "generatedAt": "2026-11-21T09:35:46.914Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,7 +16,7 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 11,
+      "total": 8,
       "items": [
         {
           "title": "한국프랜차이즈協, 제3차 상생·윤리 공개교육… “가맹본부 자체 준법·상생 역량 강화”",
@@ -34,16 +34,15 @@
           "feat": true
         },
         {
-          "title": "제7회 ‘가맹하고 싶은 프랜차이즈 육성’을 위한 추계 컨퍼런스, 11월 26일 개최",
+          "title": "부산시, ‘2026 KFA 프랜차이즈 창업박람회’ 12일 개막…100여 개 브랜드 참여",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95QVU5VUIxSldYdDhRajhVNWlkSV9jSnlBUS15d1dzckR0WnFpcWx4ZlZOb0tlZlFHVmg5THppRWZ1a29IWVpYOTJLclFGVG9UcGFMalJJRW5RZHVTUXQ3RFF5N1JlaWc?oc=5",
-          "source": "더쎈뉴스",
-          "sourceInitial": "더쎈",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-19T04:50:20.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BYkJvN2NsVFpQOFJFTHJlVkRvUHBRV29pZXRhUGxzTVhtckl0SExKUnZ6eG1CN3FGdkFUWno2dGdjMVZTVERLYlVjNWtYeE0?oc=5",
+          "source": "뉴스N연합",
+          "sourceInitial": "뉴스",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-21T04:03:08.000Z",
           "tags": [
-            "프랜차이즈",
-            "가맹"
+            "프랜차이즈"
           ],
           "price": null,
           "feat": false
@@ -55,7 +54,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-20T15:23:14.000Z",
+          "publishedAt": "2026-11-20T15:26:14.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -69,7 +68,7 @@
           "source": "미주중앙일보",
           "sourceInitial": "미주",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-20T06:01:00.000Z",
+          "publishedAt": "2026-11-20T07:01:00.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -119,16 +118,14 @@
           "feat": false
         },
         {
-          "title": "K-푸드 영토 확장 본격화…한인마트 넘어 美 주류 유통·외식·급식시장 뚫는다",
+          "title": "‘명상’서 ‘비즈니스’로… ‘K-사찰음식’, 수행식 넘어 글로벌 푸드 도약",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvc2dlSXdIMklfWkVWaXd3UjVDdklzWmhKbEZtbmpDYm4wTUhUbGRCRzZXYkJaMFI1TmRBM0VBN1o3cXFHUFZQU1ZoVWV6T2ZZZzF0ajZlV1FnTmpGczdhMExBWlUtS0ZNNnY4Yw?oc=5",
-          "source": "와이드경제",
-          "sourceInitial": "와이",
-          "sourceColor": "#3a6ea5",
-          "publishedAt": "2026-11-19T05:34:13.000Z",
-          "tags": [
-            "외식"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81d2ZIZ1RBX1l4bU9pb2dPN2Jwc1hPWUlhOHVmSV9rNV8xWE5xZzV6Q0twcmNpSGdoR2hMLWpiX2x3XzZMZFR4MnF4NkhPSnF1TzJtMTg1bHhOM3Uwbld5Ul9GdGRMVHNsazQw?oc=5",
+          "source": "더바이어",
+          "sourceInitial": "더바",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-19T20:00:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -202,6 +199,20 @@
           "feat": false
         },
         {
+          "title": "10월 생산자물가 0.1% 하락…사과·돼지고기 가격 내린 영향",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbzQtd2NlNnlpVEJFdkZfVkt1WWNTeGNrdnhRNG9mSlYtbEswZGNuM3ZzOHlHTFNxaWpJS0lTQkdxdHZ1eU9VMk1iSFM2T3lvZzRsWUhFYVpMM3puWmNtOUJGa1dqLVotOERB0gFvQVVfeXFMTVl5LVItSjQwVE5sUUJxd2RPZ3lUcnA2bnNiOVd6MWZxS0YzRHpWZVYzSER3bGhnZkpQbWZzMTdwVENOUEk5ZU4wYmotcl9lVjdVaGpMaUxlb215ZkhNVm95RHZFcmc3dEJqaEdnR1gw?oc=5",
+          "source": "한국아이닷컴",
+          "sourceInitial": "한국",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-20T06:25:05.000Z",
+          "tags": [
+            "가격"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
           "title": "식품사 원가 부담 5년 새 가중…10곳 중 8곳 원가율↑",
           "summary": "",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jSWI5R1p2cU5LeVpDVUlPZlEyN2Y0eEtYSnBWT3ZQc2lTMEFPZnpfaFJlQm5VUjE1cDFudWthcWU2bUJMbWZ0NEFRTzlYSFZlbzJ3MHNROS1ubUs2ZEYxMFFWNjJpNUxWSThZ0gFvQVVfeXFMUFJVZWkyT2djajFGYldFN2R5bTBsVmRUQTAwbzRkZFhjMkNpTDQ1MUQyV0VxcjFPdldvc2FyZE9NWUhZNkJiU3gtNkpmVzc3QmQybjg3RXFPR2ZIWXZtU3pQWmNpbi1PV3pKTHpMQlFB?oc=5",
@@ -230,30 +241,14 @@
           "feat": false
         },
         {
-          "title": "‘주머니는 가볍게, 인심은 넉넉하게’ 태안군, 신규 착한가격업소 16개소 지정증 전수",
+          "title": "식품 업체들이 2027년 설날을 대비해 시장 안정화를 위해 선제적으로 공급망을 확보하고 있다.",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySUhFRlFfdWlqdDZZdWFQWU1JajV5LXp0ek15eDE0QklBQWhUZnR5S3VlTE4zSnZ0NzZsOWJtM2RCV2Z0MVdKNGd1STJkUGFLaXlqV29YM3FrNkxZRmNIZUhjeFdlQ3pVcnc?oc=5",
-          "source": "태안미래",
-          "sourceInitial": "태안",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-19T02:40:10.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "4인 가족 김장비용 19만3,800원…가락몰서 재료별 가격 비교 가능",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16WDhvdjV6WTRLU3NYNVJUcXNZeTlSdVJDYXRPWlR3cTJLTGJxRGhobnFMM2k3cGFBRjJpaTdhZVBOT0ZILVk4cm51MFdnUEFIdG1oQ2lOS0RUb3ZPRDkyQ3VmWGp1Z2t5R2RYQkFB?oc=5",
-          "source": "한국영농신문",
-          "sourceInitial": "한국",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-19T02:26:55.000Z",
-          "tags": [
-            "가격"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDVLak5nWEJnY29lNHBpVXUyRHdNRzlHNzJxNHljYS1XUG45WkRXMS0zcDhtaUFzaDVaM3pVZlFsQk5tclF5d0pOTWtOcGNnOEctUnN4bmhJZWVwZ2RYM29SOUludUZnYm0zUXdMOTJOUFBpa0V3eW5CZnBrYU9VcTdKQzRJQlFkSlN0ZGt0UGJrTGs5eFpTbTQ3dGg?oc=5",
+          "source": "Vietnam.vn",
+          "sourceInitial": "Vi",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-21T08:23:43.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         }
@@ -268,7 +263,7 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 3,
+      "total": 2,
       "items": [
         {
           "title": "KFDA, ‘농업과 식재료 유통산업 상생토론회’ 개최",
@@ -285,27 +280,13 @@
           "feat": true
         },
         {
-          "title": "식자재 유통서 제조까지...태건푸드시스템, 2027년 두부 사업 진출 추진",
+          "title": "한국급식학회, 급식소 인력난 AI·로봇으로 풀까…12월 급식테크 컨퍼런스 개최",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yaUE2ODk4SmgybUk0eGpQNGlTcEkxeXdON1NJVW8yMWpUWXpIdHd1dW1CeUpKWndxWjQ0N2dHcG1LZkwtd2Y5S2IxS1JBM0RJRVpmemJkd2lGbDliNjV6VkwtV1djbnhxRHZCNXRMbi05R1JndjliZEd3OS0?oc=5",
-          "source": "m.thepowernews.co.kr",
-          "sourceInitial": "m.",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-20T01:00:20.000Z",
-          "tags": [
-            "유통"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "장서우 리엔에이치(RE&H) 대표 “병원 급식, 화려한 메뉴보다 ‘현장 운영체계’가 핵심”",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wWjNxc2pLRDAtWEdyc25hdkpiUjhkYUVqc3RmcXMtVzlLQjZpMXVUZDZIc0dlTGpZWUQ3emxSeDdZZk5wakMyLUctNk42NWZaRHNtR2hHUzF2aDdsS2E3bERtd2xrcjA30gFsQVVfeXFMT1F6eEtRRFd2UGtjMkI1b2VnMnBTVmZ3SnA5Ul9hYXBwM1ZHVHNxXzVjSVJuSXlqWkUyN1pCNnVhM2ZGbUZRMVo3ZXlkRERDek54aG1CVG5sRHl1VlZIaGlXSW9WZkpWTEp4M3Bk?oc=5",
-          "source": "리얼캐스트",
-          "sourceInitial": "리얼",
-          "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-19T07:59:44.000Z",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wTWphWHFhYmY5c3BCNUZoQjRuOG03WTkzSmxjc1FVR3lhVWxTTlJHRTlCNXlPR3h3dll2WE5DZVhqalIyeFlKM1JTcERNbk1oLVZJT1pCeHJmMkd5eFpRS0JhMnFjbTNwQkYxbU95Uy0?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-20T23:10:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -321,7 +302,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 16,
+      "total": 10,
       "items": [
         {
           "title": "대상, 김장 물가 잡는다···농협에 7000만원 지원",
@@ -338,15 +319,15 @@
           "feat": true
         },
         {
-          "title": "식품진흥원, '2026 정책EXPO 공공정책 우수경영 대상'",
+          "title": "정부 김장대책 발맞춰 국민 참여 SNS 이벤트와 이웃 나눔 행사",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mbU8zMGFMMC00cVpjTmYtWVJoUktfZzJIYkZCelhfT3ZZMzloUW40TWJkbGRlU1cxd2VvUDRSZi1XZkZhWUI2aFNMSTdHYjFLYmMwdW41RGIwV1FhSm4xNFl3?oc=5",
-          "source": "보건신문",
-          "sourceInitial": "보건",
-          "sourceColor": "#b03a6a",
-          "publishedAt": "2026-11-20T04:40:22.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtdkpEb191Z0Rpa1NvVC1EbFRpTWt1ajBHcDZVYnZKcWdkUjhUVF8yT3c5NEN3czRGSDVrRmlJdDlTUDVNYnh5a1FzS1dvSmRYQkRnXzNzeFl3ZzUyOHB6ZjB1RDE?oc=5",
+          "source": "일반경제신문",
+          "sourceInitial": "일반",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-20T02:03:00.000Z",
           "tags": [
-            "정책"
+            "정부"
           ],
           "price": null,
           "feat": false
@@ -380,30 +361,14 @@
           "feat": false
         },
         {
-          "title": "식약처, 아태 21개국과 식품안전 위기대응 협력 논의",
+          "title": "2035년 식품용 이형제 시장 전망: 베이커리 자동화와 클린라벨 수요가 성장 견인",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wd2Q2TkxDY2Q3TlpLbVJJSVVyOC1uOFFscjhhaEhfckRpWF9mbFNxS1p4OGVJSTY5alg3bGJUVTU2TlhxOFNhZnA2UUxjbEwyVkwyNERpN19qUG1hVUsteWw2RGM?oc=5",
-          "source": "메디포뉴스",
-          "sourceInitial": "메디",
-          "sourceColor": "#c0392b",
-          "publishedAt": "2026-11-19T08:55:09.000Z",
-          "tags": [
-            "식약처"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "브로콜리 가격 급락...제주, 수급안정 지원 600톤으로 확대",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZDktMkhXX3piSnJiNHMwMFBjVVdlMEpyMy00aF9tc29zSThDLU5aWm83TlVFMVgtTkYxVzFHSGhPajY4NGFWS2lqUFpSUzdObEpsOU84V0VCYXdhZ2VyZm4zNk9BVzBwVllQRlhZdHJoUGc?oc=5",
-          "source": "헤드라인제주",
-          "sourceInitial": "헤드",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-19T05:52:49.000Z",
-          "tags": [
-            "수급"
-          ],
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOTYxSkdOaFdEOXBuQ0pEaG5QeXlHVkwtSGppdk1IWG4tTnZtZnFDa1cxTXVNaU9CNUV4QmVCa1pKRW9QWHZkcVJhSUhGa280NGhuQlcyNkRVYnFVb1RESXI4YmNnYTZXb3QzekIwRGNveHUzSWNRV09fcURhWHpQM2pSWUhlMmUzN1BHQndMV3Zuc2NUVHk5VkpiaW56Tmo5ZEp5cTBOOTZndGJJbVZ2YTdkOHhhM1gxWUNBdDJ2b0ljUUYzaG5QRzVST2FmWG9I?oc=5",
+          "source": "IndexBox",
+          "sourceInitial": "In",
+          "sourceColor": "#3a6ea5",
+          "publishedAt": "2026-11-20T14:21:03.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
@@ -430,6 +395,18 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "배추·무 생산 늘자 소비 확대 나선 aT... 김장 참여 독려",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xZzBENFlKS25ET1VnUkhJbTc2Yi1XN3I1NXlKSFNZMm9yS0RLaXRBcjYtU1JmM1VRVUVZY2dUYmdWZ2NiMktORnZiWldXYk5GWjk1UWZJd09vYmtnS29xa3pYekxnX0RyN3A1T2YyYmFkWGM?oc=5",
+          "source": "충남일보",
+          "sourceInitial": "충남",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-20T08:23:53.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -442,7 +419,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 11,
+      "total": 12,
       "items": [
         {
           "title": "칠갑농산, 겨울철 겨냥 '사누끼 우동·연근뿌리 칼국수' 2종 출시 · 주요 내용은?",
@@ -468,6 +445,20 @@
           "publishedAt": "2026-11-20T04:58:10.000Z",
           "tags": [
             "신제품"
+          ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "카누 캡슐 커피 4종 출시…겨울 한정 제품부터 바닐라·카라멜향까지",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kY25TU2JfRmtvWVFmVWJwLW5oeVczZUVqaDJwSWlmVngzRjBfYWN2eDIweWxNLWlVM1VQdmdoVXlLSGJjYjRDaXY1TzdhR1BlUEhKTnB6ckJRQndta2M5TEgwMVVTVDE0OFVqT2lDNE4?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-20T04:10:00.000Z",
+          "tags": [
+            "출시"
           ],
           "price": null,
           "feat": false
@@ -529,27 +520,13 @@
           "feat": false
         },
         {
-          "title": "일양약품, 다이클로와 건강기능식품 9종 출시",
+          "title": "대상, 유럽 식품 소재 박람회 ‘FiE 2026’ 성료…“글로벌 스페셜티 소재 경쟁력 입증”",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMkQ3d2lJNVJxYjJOLUd5bkZoWHBfZWRzZVFyT3BWajVzd1BHWkh2S3gtQmdacjk1czYtZzYzb3pnR0gtUG5SdHRpbWJwQ1VqQXFoVFhTZWF1Qkk0NWlpbEExQ1MyWFJ0akNR0gFvQVVfeXFMTWhnVDFpbGxOWGR5eHlOcDFUQnpUNC1mUkhIcll1bTRZMnREUVJSTE54NllhS0dGeUlUSHd6eWJFNHhqX3dxTS1Nb2kxNE5FMG1vX1FiX3lyVkF5dEJFVk5QeHN4MExqX1F2N3duMGNn?oc=5",
-          "source": "e-의료정보",
-          "sourceInitial": "e-",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-19T05:30:36.000Z",
-          "tags": [
-            "출시"
-          ],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "대상, 유럽 식품 소재 박람회 ‘FiE 2026’ 참가 성료…글로벌 스페셜티 소재 경쟁력 입증",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95d3ZWTjNVa3U2WWI4M3Y4LThlbGt4NnhMUjRBWlBib1V3S00xNi1oNkRadzdzenBqTlE1UmVlbmxncTdSSTNzanBhbHBwRWh5RjBiY0hyNnEtUURqd1J5dFdCQTd0Z0FZdW4teFJoWQ?oc=5",
-          "source": "데일리e뉴스",
-          "sourceInitial": "데일",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-20T02:14:30.000Z",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5YjN0SGIxYklPUkJULXdKNm5IdkI4Q1BpZGtXek9GV3ZWWHhJWVZPTk9HczhtVzc5bGx4aVBTY2YyMVpaZlBnb1MtckZ1LVd0azcycThuTmVHMHlEaWdkdjVYS2d0bjhmVEdZ0gFvQVVfeXFMUGRKWHpwZVh5U3ZTSDRwVUxfQU00aFMxSjNibE0zNUdvekNhRlVtMVdkenNaVUpKb2NfeGEzaEJia3NXcEFkLU1SYXhvbzN1VGd1OG1OZnhHaWIzRWtQWTM4aDR5eTFtcWZhc0RCeFVN?oc=5",
+          "source": "더퍼블릭",
+          "sourceInitial": "더퍼",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-21T00:08:21.000Z",
           "tags": [],
           "price": null,
           "feat": false
