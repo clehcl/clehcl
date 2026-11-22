@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:58:32.900Z",
+  "generatedAt": "2026-11-22T23:30:51.582Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -91,13 +91,13 @@
           "feat": false
         },
         {
-          "title": "조각 치킨 대신 통닭다리…푸라닭치킨 ‘쿼터레그’ 3종 추가",
+          "title": "조각 치킨 대신 통닭다리…푸라닭치킨 ‘쿼터레그’ 3종 추가 : 네이버 블로그",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1feUhIc0xqejdLUTZUazdYU2pYU2I2Um9xYmJuWXhYaW9SOFpldk8xQk55UzdzYWNBNXB4TnZIRjlES2w2Rm1QSmU4U0dsZHB1dXl4Q0xKMUM0UElxQmxHOFhOYnZBSUZQUktVUXo4OVBYdUhZR09uaUw2UG9PQQ?oc=5",
-          "source": "블로그",
-          "sourceInitial": "블로",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-21T09:31:14.000Z",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcjN6M2txYXl0bTFRdlhVTjcyV0l6QUJya2Nuc01VMko0YmR5VjAxUUFySWFTRFlqUVpIM0RGQnpHR2ZEdDZFVGVOYnZMYnU4Ni1qdTZKOTlxT1V0Sm9fREVEM3BWbVFuam1YTnV3eE1MV1VCdElNN0tfMWZJTDZGem9mZnE3ZHpMYUFqMWRkUzR0VGdmVnN1YkdRSE4tTjRwTzgwZXlOYU9zOThMVFA1TWZnYnpYZTl4cGd3RGtNNTlmOWxIbXZrZFNpTG50SWRYRDZfa2JXRzhKTDJGSVNJQVJSN0ZjVGJ4MzN2XzMzNXhtRkl5QUp6WA?oc=5",
+          "source": "Naver Blog",
+          "sourceInitial": "Na",
+          "sourceColor": "#c98a2b",
+          "publishedAt": "2026-11-21T09:08:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -137,6 +137,18 @@
           "sourceInitial": "한",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-11-22T02:00:03.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "명식품 파래김, 100매, 1개",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KVE9fSkEwZ0NTME9JczhRczVkTEtGdS1mcVhXaWNidVBxbDlVQU56Nm92TnNfRlBKS2dSVzJuZmk?oc=5",
+          "source": "toss.im",
+          "sourceInitial": "to",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-22T00:31:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -200,18 +212,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "순수식품 비타민C 3000MG, 3g, 100포, 3박스",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fbXdjWlNpUEIwemVUcG9aMXBydWg0Ymd2NzRlbTFtTk9OYk1MQjEyM2FhTUZaMzMzbzVXYW5mTQ?oc=5",
-          "source": "toss.im",
-          "sourceInitial": "to",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-21T16:37:52.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -224,8 +224,22 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 6,
+      "total": 5,
       "items": [
+        {
+          "title": "[aT 더 넓게①] 유통 혁신·소비 촉진…국내 농식품 산업 성장 견인",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xS2Q4SURKOUxLU0h5S0ZlUDI2QjJPeVlMNWxMOHN0eEFJclk3TUhybEdIdmxjaWpDYXBvOFNfMDZMd3FtM2hzMTZrd3JOUW1PWkRtQXZyU1JReGlVOGtfR2V4TVZzOU5PdTF1RVRhRC0?oc=5",
+          "source": "신아일보",
+          "sourceInitial": "신아",
+          "sourceColor": "#c15a37",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "tags": [
+            "유통"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "경기도 기후스마트농정 예산 81% 감액… 접경지 군급식 유통비도 미편성",
           "summary": "",
@@ -237,18 +251,6 @@
           "tags": [
             "유통"
           ],
-          "price": null,
-          "feat": true
-        },
-        {
-          "title": "풀무원푸드머스, '지속가능수산물 교육' 유아로 확대…1500명 참여",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSnhIWkpxLXlwMk1ZVE1aQU9FeUZ2eGMwc3JDcl83c3oxT2h5WlB0Q1RFd0NMTUdsZWFxT0EzUW5HZ0dNRzhvRFIxcWtET1FoLVVFNmZ0T0Z5eW1mUHZQeDBJRURqMFVZYWRSVdIBbEFVX3lxTE5BSnhIWkpxLXlwMk1ZVE1aQU9FeUZ2eGMwc3JDcl83c3oxT2h5WlB0Q1RFd0NMTUdsZWFxT0EzUW5HZ0dNRzhvRFIxcWtET1FoLVVFNmZ0T0Z5eW1mUHZQeDBJRURqMFVZYWRSVQ?oc=5",
-          "source": "AP신문",
-          "sourceInitial": "AP",
-          "sourceColor": "#1a4d8f",
-          "publishedAt": "2026-11-22T16:36:56.000Z",
-          "tags": [],
           "price": null,
           "feat": false
         },
@@ -287,18 +289,6 @@
           "tags": [],
           "price": null,
           "feat": false
-        },
-        {
-          "title": "한국급식학회, 급식소 인력난 AI·로봇으로 풀까…12월 급식테크 컨퍼런스 개최",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wTWphWHFhYmY5c3BCNUZoQjRuOG03WTkzSmxjc1FVR3lhVWxTTlJHRTlCNXlPR3h3dll2WE5DZVhqalIyeFlKM1JTcERNbk1oLVZJT1pCeHJmMkd5eFpRS0JhMnFjbTNwQkYxbU95Uy0?oc=5",
-          "source": "신아일보",
-          "sourceInitial": "신아",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-20T23:10:00.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
         }
       ]
     },
@@ -311,7 +301,7 @@
         "식품 물가 정부 대책",
         "식품 안전 규제"
       ],
-      "total": 2,
+      "total": 3,
       "items": [
         {
           "title": "10월 생산자물가 석 달 만에 하락...농축산물값 크게 내려",
@@ -328,13 +318,25 @@
           "feat": true
         },
         {
-          "title": "배추·무 공급과잉 우려…aT, ‘김장 한 포기 더하기’ 소비 확대 나선다",
+          "title": "[식품위생안전성학회 정기학술대회] AI 시대를 위한 식품안전 시스템 준비",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VNWcyR3BEbmw0UUU2VDRmLVkzTllPc3liNDVSNmhob3VCWUJ5Mkd1QzJMaGk3MTN5WEhLYVFLemw?oc=5",
-          "source": "식약일보",
-          "sourceInitial": "식약",
-          "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-22T08:56:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YR0hGQkJnTjJXcDI0dzZKdk5TRWJqdjdKTkZRRGNPcGNRMTdEQXg3NXdwVmFTcFRZVGhhYkpVc1BMOXBqLVkwN0t2bFRBWnB6WGlGekw1aHdVY05oM3dYdXJ6Tl93aHdYV0lLZ3Jtbw?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-22T22:51:00.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "늘어나는 가을 식중독, 여름 한철 대책으론 한계-하상도의 식품 바로보기(455)",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LRGJLZUx1MkJPaUk0QVZCTTJhT3EzZDdiNGJIekRsZUpSbDJkdl91bURyYmVkenRmTzF3bzFicXRMMTlDdHZVeHFPN1R5QUxEQ0tmYklycHl4TTF5a19zVWZHTEtGZmI0d2pKS3JkSQ?oc=5",
+          "source": "식품음료신문",
+          "sourceInitial": "식품",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-22T22:46:00.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -350,7 +352,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 4,
+      "total": 5,
       "items": [
         {
           "title": "[MZ트렌드] 한정판 재고 찾아 '삼만리'…2030 사로잡은 추억의 먹거리",
@@ -391,6 +393,18 @@
           "tags": [
             "출시"
           ],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "맥도날드·KFC 메뉴판에 ‘고추장’…패스트푸드도 K양념 바른다 [똑똑! 스마슈머]",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OQWplalMzQVBrOGgybGtIcWlLNWFnZk1weWFOdzl6ZGFYZVlSQU1SbnRrWVRCSFNubGp3X05kTFRSd1RQeURFZ1hua0x4UHFKMHfSAVNBVV95cUxNaEZ5M0plNzg3QXZyX1hpZTc1R1JOWF85NDlVTFRiblNEWk9xOEZxODJHZWF4ZDdWc21tX21IUmJUR1c3T0ljS24xSUpnd3FhNlA3TQ?oc=5",
+          "source": "서울경제",
+          "sourceInitial": "서",
+          "sourceColor": "#c0392b",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
+          "tags": [],
           "price": null,
           "feat": false
         },
