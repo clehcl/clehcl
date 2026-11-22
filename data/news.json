@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:10:51.809Z",
+  "generatedAt": "2026-11-22T17:58:32.900Z",
   "site": {
     "title": "식자재 클리핑",
     "subtitle": "F&B · 식자재 시장 뉴스",
@@ -16,8 +16,23 @@
         "외식업 트렌드",
         "프랜차이즈 가맹"
       ],
-      "total": 5,
+      "total": 6,
       "items": [
+        {
+          "title": "[김해원 식도락법(41)] 미 외식업계 줄파산 속 프랜차이즈 열풍",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Pb09QSWgxNVExTjRkelVmNTJqOGkyTWVqR2ZCdXg1eHFtTEZsUnJYY0xqeHhka2tTbmxQWXdmZ0pWOUtyYlVtVnFkd3R4dlQwYzdCYTdIaE5JcHpfYmZmV3ZnVTlqSEhObnFTREFGSDJoVG51d0JPdjQyN2RQdw?oc=5",
+          "source": "KNEWSLA",
+          "sourceInitial": "KN",
+          "sourceColor": "#1a7a5a",
+          "publishedAt": "2026-11-22T10:37:38.000Z",
+          "tags": [
+            "프랜차이즈",
+            "외식"
+          ],
+          "price": null,
+          "feat": true
+        },
         {
           "title": "가맹점주단체 등록제 연내 시행… 프랜차이즈 PC방 협상 테이블 열린다",
           "summary": "",
@@ -31,7 +46,7 @@
             "가맹"
           ],
           "price": null,
-          "feat": true
+          "feat": false
         },
         {
           "title": "[ 2026년 11월 23일(월) 프랜차이즈 뉴스 ] : 네이버 블로그",
@@ -40,7 +55,7 @@
           "source": "Naver Blog",
           "sourceInitial": "Na",
           "sourceColor": "#c98a2b",
-          "publishedAt": "2026-11-22T09:38:25.000Z",
+          "publishedAt": "2026-11-22T15:38:25.000Z",
           "tags": [
             "프랜차이즈"
           ],
@@ -98,35 +113,21 @@
         "식자재 원가",
         "식자재 도매가"
       ],
-      "total": 19,
+      "total": 17,
       "items": [
         {
-          "title": "일본 근원물가 62개월 연속 상승…에너지·식품 가격 압박",
+          "title": "무 가격 한 개 1,843원…김장용 무 10kg·20kg 얼마인지 확인하세요 > 뉴스",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nZ1hHTE5iVmY4a1FBc21Edk9uLUxwRW1vX1ozVGI2bXV0UThybFEzSDZSU0lzSXk0OFh5djJhSXJFbWFzN2JUaVNsSDd2djg3aFdSbnFsQ0JxV2l4RUFyWE5tbUlJQlF1bG9yS2xHdDlEUdIBckFVX3lxTE9nZ1hHTE5iVmY4a1FBc21Edk9uLUxwRW1vX1ozVGI2bXV0UThybFEzSDZSU0lzSXk0OFh5djJhSXJFbWFzN2JUaVNsSDd2djg3aFdSbnFsQ0JxV2l4RUFyWE5tbUlJQlF1bG9yS2xHdDlEUQ?oc=5",
-          "source": "뉴스아이이에스",
-          "sourceInitial": "뉴스",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfSzZaa21OSm1IVXlUa1laZEVYaEc1SEkydzF6WGZHTDRkZlNmeWZaVkhiTXFnOTFIUDloTFBkYjAyZUNOZzA2TVpLNG16UTJlcmNiYTNiRVdNclNPSlFPMEs2WmliM0JOYkRMdUs4VnM4d3dJTGQxc2VUSmI?oc=5",
+          "source": "진해신문",
+          "sourceInitial": "진해",
           "sourceColor": "#2f7d4f",
-          "publishedAt": "2026-11-20T17:11:13.000Z",
+          "publishedAt": "2026-11-22T06:57:00.000Z",
           "tags": [
             "가격"
           ],
           "price": null,
           "feat": true
-        },
-        {
-          "title": "[국제] 日 근원 CPI, 62개월 연속 상승...에너지 가격 상승이 주요 요인",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZjVaeG5kM1NZVk4tTFg1NTlOY2FsZi0zYVQ3a01jalVQdzZnX2xtU1N5VWxEa3ItMkMzeEluU1hvakVRWERreGEyYk5mTlVfZ2lWdnQzaEhrY2FzQ2Q2M0Y1WWtCandmVEtsb9IBcEFVX3lxTFBVcmExbmpBZE5tRlk4NVh0OFk2Z3VmYU1oeDhEZ2dGRGs2X2xtX05zRFNCMElsN0tOLXpDSkhHZnZGb3o0cHRTdVlDcUNoNzAwOEwwbnNSZWtSMWdKbERZT3NRODlSbGZEbldBSnRYSmY?oc=5",
-          "source": "내외뉴스통신",
-          "sourceInitial": "내외",
-          "sourceColor": "#1a7a5a",
-          "publishedAt": "2026-11-20T10:46:37.000Z",
-          "tags": [
-            "가격"
-          ],
-          "price": null,
-          "feat": false
         },
         {
           "title": "'김밥 한 줄에 2000원꼴'…고물가에 장사 대박 난 곳 [박상경의 영수증 리뷰]",
@@ -136,18 +137,6 @@
           "sourceInitial": "한",
           "sourceColor": "#1a4d8f",
           "publishedAt": "2026-11-22T02:00:03.000Z",
-          "tags": [],
-          "price": null,
-          "feat": false
-        },
-        {
-          "title": "명식품 파래김, 100매, 1개",
-          "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KVE9fSkEwZ0NTME9JczhRczVkTEtGdS1mcVhXaWNidVBxbDlVQU56Nm92TnNfRlBKS2dSVzJuZmk?oc=5",
-          "source": "toss.im",
-          "sourceInitial": "to",
-          "sourceColor": "#8a5cc4",
-          "publishedAt": "2026-11-22T00:31:10.000Z",
           "tags": [],
           "price": null,
           "feat": false
@@ -199,6 +188,30 @@
           "tags": [],
           "price": null,
           "feat": false
+        },
+        {
+          "title": "천일식품 볶음밥, 야채 200g 5개 + 갈릭라이스 200g 5개, 10개",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1yWDB5R3hMMkNxb1ZYdmxUTWNyR3dOeXltXzBHTHlOS2pJYWw0M1hGd1JNYTYzMllpZHNwVXFBX1Y?oc=5",
+          "source": "toss.im",
+          "sourceInitial": "to",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-21T17:26:40.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "순수식품 비타민C 3000MG, 3g, 100포, 3박스",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fbXdjWlNpUEIwemVUcG9aMXBydWg0Ymd2NzRlbTFtTk9OYk1MQjEyM2FhTUZaMzMzbzVXYW5mTQ?oc=5",
+          "source": "toss.im",
+          "sourceInitial": "to",
+          "sourceColor": "#8a5cc4",
+          "publishedAt": "2026-11-21T16:37:52.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         }
       ]
     },
@@ -211,21 +224,45 @@
         "식자재 물류 콜드체인",
         "급식 유통"
       ],
-      "total": 4,
+      "total": 6,
       "items": [
         {
-          "title": "[주간 유통 나침반] 롯데 경영체제 손질…해태htb 매각·샘표 합병·투썸 조사",
+          "title": "경기도 기후스마트농정 예산 81% 감액… 접경지 군급식 유통비도 미편성",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YTEVBaWhGQUlZZUNOWm9mZ1BhTEFnOXJQM3BwNzFmdmdSVTRycGlRUk94WTUzZFREYk5BUlZwQWVBQ2hqVjdIdWc2ZDMxbG1ndjh1RHBJNnJfdE1WaXZQTHQxSmZvNkVWa19vbDkza3VFZw?oc=5",
-          "source": "중앙이코노미뉴스",
-          "sourceInitial": "중앙",
-          "sourceColor": "#c15a37",
-          "publishedAt": "2026-11-22T03:00:00.000Z",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uR2RXcmVPRUlDUzRnVlRaTnlnSk9QUzZGQU9IemRPTFJmSVYxcUhGM0tnaFUwMUpjeEdPankxSDFrc0FOM3ptWmhTeklWcVVkVnl2SXdicUpWbzhUa3JmQnlXMGc4bXZYdUR1R1F3?oc=5",
+          "source": "더리포트",
+          "sourceInitial": "더리",
+          "sourceColor": "#b03a6a",
+          "publishedAt": "2026-11-22T13:56:21.000Z",
           "tags": [
             "유통"
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "풀무원푸드머스, '지속가능수산물 교육' 유아로 확대…1500명 참여",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSnhIWkpxLXlwMk1ZVE1aQU9FeUZ2eGMwc3JDcl83c3oxT2h5WlB0Q1RFd0NMTUdsZWFxT0EzUW5HZ0dNRzhvRFIxcWtET1FoLVVFNmZ0T0Z5eW1mUHZQeDBJRURqMFVZYWRSVdIBbEFVX3lxTE5BSnhIWkpxLXlwMk1ZVE1aQU9FeUZ2eGMwc3JDcl83c3oxT2h5WlB0Q1RFd0NMTUdsZWFxT0EzUW5HZ0dNRzhvRFIxcWtET1FoLVVFNmZ0T0Z5eW1mUHZQeDBJRURqMFVZYWRSVQ?oc=5",
+          "source": "AP신문",
+          "sourceInitial": "AP",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-22T16:36:56.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
+        },
+        {
+          "title": "풀무원푸드머스, 유아 1500명에 MSC 인증 수산물 교육…지속가능한 바다 알린다",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4OExqYWowWnFFSVRrSTlNYzQ4ZkZzckJMbzNCVG0tUEY5dDVjRmE4X0JkbUpNbE1wQjVmakdrdFNkS2taY1NzMGc3S0FPNlFKeU9Bc3NFSTI2dy1KSjVpN2pianhRMTQ3X1RTWg?oc=5",
+          "source": "나눔경제뉴스",
+          "sourceInitial": "나눔",
+          "sourceColor": "#1a4d8f",
+          "publishedAt": "2026-11-22T11:10:12.000Z",
+          "tags": [],
+          "price": null,
+          "feat": false
         },
         {
           "title": "풀무원푸드머스, 유치원·어린이집에서 MSC 인증 수산물 교육·급식 캠페인 진행",
@@ -293,7 +330,7 @@
         {
           "title": "배추·무 공급과잉 우려…aT, ‘김장 한 포기 더하기’ 소비 확대 나선다",
           "summary": "",
-          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB6NUJaMXVFVVFJNnhpd2FXWEJNZnpQR2NfUmRfeE9iZWg2VHMyZDlQT1pfaUJyLU83SFh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VNWcyR3BEbmw0UUU2VDRmLVkzTllPc3liNDVSNmhob3VCWUJ5Mkd1QzJMaGk3MTN5WEhLYVFLemw?oc=5",
           "source": "식약일보",
           "sourceInitial": "식약",
           "sourceColor": "#2f7d4f",
@@ -313,7 +350,7 @@
         "식품 신제품 출시",
         "푸드 트렌드"
       ],
-      "total": 3,
+      "total": 4,
       "items": [
         {
           "title": "[MZ트렌드] 한정판 재고 찾아 '삼만리'…2030 사로잡은 추억의 먹거리",
@@ -328,6 +365,20 @@
           ],
           "price": null,
           "feat": true
+        },
+        {
+          "title": "트렌드 조사를 위한 먹부림!😋 박명수 분노 게이지 MAX 채우는 김용빈🤣 | KBS 261122 방송",
+          "summary": "",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPc2p5Nk96dFI4azNmSWhqU3NkY0ZqNFdjZ2l3TmYtcUFLWHo4WjgyRko4T0YyS2VaWmdwcFYyaU4yVUxDM05wQU9RQnVicWVTUE11bk1QZE5ZMmVmOWlYMWZVcjc5N2psdzVUaDF3WWtxSlAtUnZvcTBEMU9fV3BSMmpyTEZkT0ZKX09CTHBoMmV0a2ZLTk04d0NuSWk1RUFHSlU4Y0lyRFZvTXpSSVZUUG5qVHFzY2N2OTJKT05ndnhRREhIUXhTR3hMbVJnUGRfbmFEb3E0aFFOb1o4cmEzYWVreFAtVzh0NkFoUDhJWkhCZTNDS2ZHSmpFb2pHRERzTjJwZDlVWmtSdEpOdWkwcnB5NTBPMnJjSVNyalRPZjMzTXV6OHJheWZNT1I2cnZEQzhhQWZoaGdOY2hGc19TWQ?oc=5",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "sourceInitial": "대한",
+          "sourceColor": "#333333",
+          "publishedAt": "2026-11-21T15:00:00.000Z",
+          "tags": [
+            "트렌드"
+          ],
+          "price": null,
+          "feat": false
         },
         {
           "title": "풀무원헬스케어, 당뇨환자용 식단형 식품 '211 당케어식단' 출시",
